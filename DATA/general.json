@@ -6,5 +6,13 @@
     "dificultad": "dificil.webp",
     "estilo": "COMBO.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
+  },
+  {
+    "id": "AKSHAN",
+    "nombre": "AKSHAN",
+    "titulo": "",
+    "dificultad": "",
+    "estilo": "",
+    "consejos": ""
   }
 ]
