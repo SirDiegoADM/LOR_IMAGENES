@@ -3,32 +3,32 @@
     "id": "ORNN",
     "nombre": "ORNN",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
-    "dificultad": "AGRESIVO.webp",
-    "estilo": "FACIL.webp",
+    "estilo": "AGRESIVO.webp",
+    "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
     "id": "AKSHAN",
     "nombre": "AKSHAN",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
-    "dificultad": "COMBO.webp",
-    "estilo": "FACIL.webp",
+    "estilo": "COMBO.webp",
+    "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
     "id": "NAUTILUS",
     "nombre": "NAUTILUS",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
-    "dificultad": "COMBO.webp",
-    "estilo": "FACIL.webp",
+    "estilo": "COMBO.webp",
+    "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
     "id": "AHRI_FLOR_ESPIRITUAL",
     "nombre": "AHRI_FLOR_ESPIRITUAL",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
-    "dificultad": "AGRESIVO.webp",
-    "estilo": "MEDIO.webp",
+    "estilo": "AGRESIVO.webp",
+    "dificultad": "MEDIO.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   }
 ]
