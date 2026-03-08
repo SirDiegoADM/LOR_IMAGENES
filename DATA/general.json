@@ -22,5 +22,13 @@
     "dificultad": "dificil.webp",
     "estilo": "COMBO.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
+  },
+  {
+    "id": "AHRI_FLOR_ESPIRITUAL",
+    "nombre": "AHRI_FLOR_ESPIRITUAL",
+    "titulo": "",
+    "dificultad": "",
+    "estilo": "",
+    "consejos": ""
   }
 ]
