@@ -1,0 +1,524 @@
+[
+  {
+    "id": "FUERA-DE-MI-CAMINO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡fuera_de_mi_camino!.webp",
+    "rareza": "legendaria",
+    "recomendados": "SORAKA, AHRI, AHRI_FLOR_ESPIRITUAL"
+  },
+  {
+    "id": "NO-TE-MUEVAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡no_te_muevas!.webp",
+    "rareza": "rara",
+    "recomendados": "AKSHAN"
+  },
+  {
+    "id": "AMANTE-DEL-CASTIGO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/amante_del_castigo.webp",
+    "rareza": "rara",
+    "recomendados": "AKSHAN"
+  },
+  {
+    "id": "AMIGUITOS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/amiguitos.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "APILADAS-EN-SU-CONTRA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/apiladas_en_su_contra.webp",
+    "rareza": "epica",
+    "recomendados": "AKSHAN"
+  },
+  {
+    "id": "APLASTAR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/aplastar.webp",
+    "rareza": "comun",
+    "recomendados": "AKSHAN"
+  },
+  {
+    "id": "ARMAS-HASTA-LOS-DIENTES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/armas_hasta_los_dientes.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "ATACALOS-CON-RAPIDEZ",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/atácalos_con_rapidez.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "BROMAS-ESPECTRALES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/bromas_espectrales.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "BRUJERIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/brujería.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "CARGAMENTO-DE-POLVO-ESTORNUDOSO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cargamento_de_polvo_estornudoso.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "COMPARTE-EL-BOTIN",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/comparte_el_botin.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "COMPARTIR-ES-QUERER",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/compartir_es_querer.webp",
+    "rareza": "epica",
+    "recomendados": "AKSHAN"
+  },
+  {
+    "id": "CORTES-PROFUNDOS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cortes_profundos.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "COSECHA-DE-ESENCIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cosecha_de_esencia.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "CUADRILLA-DEL-PILLAJE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cuadrilla_del_pillaje.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "CUCHILLAS-REBOTANTES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cuchillas_rebotantes.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "DESARMADO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/desarmado.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "DESCUENTO-DEL-MERCADO-NEGRO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/descuento_del_mercado_negro.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "DESPERTAR-TITANICO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/despertar_titánico.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "DOMINACION",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/dominación.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "DULCE-SOLEDAD",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/dulce_soledad.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "EDUCACION-SUPERIOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/educación_superior.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "EL-FAVOR-DEL-ARTESANO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_favor_del_artesano.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "EL-GENIO-DE-YIPP",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_genio_de_yipp.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "EN-LA-MIRA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/en_la_mira.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "EN-NECESIDAD-DE-REPARACION",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/en_necesidad_de_reparacion.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "ENTRADA-EXPLOSIVA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/entrada_explosiva.webp",
+    "rareza": "epica",
+    "recomendados": "AKSHAN"
+  },
+  {
+    "id": "EQUIPAR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/equipar.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "ESCUDO-URUMI",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/escudo_urumi.webp",
+    "rareza": "comun",
+    "recomendados": "AKSHAN"
+  },
+  {
+    "id": "ESPERA-CON-PACIENCIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/espera_con_paciencia.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "ESTABILIZAR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/estabilizar.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "ESTUDIANTE-NUEVO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/estudiante_nuevo.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "EVOLUCION",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/evolución.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "FALANGE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/falange.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "FINAL-EXPLOSIVO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/final_explosivo.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "FLUJO-DE-MANA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/flujo_de_maná.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "FRENALOS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/frénalos.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "FUENTE-DE-ENERGIA-ALTERNATIVA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/fuente_de_energía_alternativa.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "FUERA-DE-LAS-PUERTAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/fuera_de_las_puertas.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "FURIA-DEL-DRAGON",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/furia_del_dragón.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "GOLPE-DEBILITANTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/golpe_debilitante.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "HECHICERIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/hechiceria.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "HERENCIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/herencia.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "INSPIRACION-ALOCADA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/inspiracion_alocada.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "JUEGO-DE-MEMORIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/juego_de_memoria.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "LA-GRAN-GRAN-PLAZA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/la_gran_gran_plaza.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "LA-MEJOR-DEFENSA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/la_mejor_defensa....webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "LANZADOR-DE-HECHIZOS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/lanzador_de_hechizos.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "LENTO-PERO-SEGURO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/lento_pero_seguro.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "MADRUGADOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/madrugador.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "MECHAS-ENCENDIDAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/mechas_encendidas.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "MEDITACION-MISTICA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/meditación_mística.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "MUSCULOSO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/musculoso.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "NO-PUEDO-NI-QUIERO-DETENERME",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/no_puedo_ni_quiero_detenerme.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "OFICIALES-DE-REFUERZO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/oficiales_de_refuerzo.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "OFRENDAS-ADECUADAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/ofrendas_adecuadas.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "PERFECCION",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/perfección.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "PODEMOS-LOGRARLO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/podemos_lograrlo.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "PODER-ILIMITADO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/poder_ilimitado.webp",
+    "rareza": "legendaria",
+    "recomendados": "AKSHAN"
+  },
+  {
+    "id": "PODER-TRIFARIANO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/poder_trifariano.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "PRESA-FACIL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/presa_fácil.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "PRESA-HERIDA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/presa_herida.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "PRODUCCION-DE-FALSIFICACIONES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/producción_de_falsificaciones.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "PROFECIA-ESCALOFRIANTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/profecía_escalofriante.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "PROFETA-DE-UN-DIOS-ANTIGUO-II",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/profeta_de_un_dios_antiguo_ii.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "PROHIBICION-DEL-MAS-ALLA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/prohibición_del_más_allá.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "PURA-HABILIDAD",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/pura_habilidad.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "QUEMADURA-DE-HECHIZO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/quemadura_de_hechizo.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "REGALOS-DE-BIENVENIDA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/regalos_de_bienvenida.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "RESISTENCIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/resistencia.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "RESTABLECER",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/restablecer.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "REUNIDO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/reunido.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "ROBO-RAPIDO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/robo_rápido.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "ROCIO-DE-POLVO-ESTORNUDOSO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/rocío_de_polvo_estornudoso.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "SALON-INQUIETANTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/salón_inquietante.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "SE-ILUMINA-EL-CAMINO-II",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/se_ilumina_el_camino_ii.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "SEDE-DEL-PODER",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/sede_del_poder.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "SELECCION-ANTINATURAL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/seleccion_antinatural.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "SENTIDOS-FERALES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/sentidos_ferales.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "SOBREPREPARACION",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/sobrepreparación.webp",
+    "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "TERRENO-TRAICIONERO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/terreno_traicionero.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "TRATO-RAPIDO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/trato_rápido.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "TROPA-EXPEDICIONARIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/tropa_expedicionaria.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
+    "id": "VENGANZA-DE-LA-NATURALEZA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/venganza_de_la_naturaleza.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "VIENTOS-ELEMENTALES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/vientos_elementales.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "VIGILANTE-DE-LA-VANGUARDIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/vigilante_de_la_vanguardia.webp",
+    "rareza": "rara",
+    "recomendados": "AKSHAN"
+  }
+]
