@@ -8,6 +8,13 @@
   },
   {
     "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "ABRAZO-DE-LA-REINA",
+    "r3": "ABRAZO-DE-LA-REINA",
+    "r4": "LADRONES-EN-LA-NOCHE-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
     "r1": "BATERIA-HEXTECH-DE-JAYCE",
     "r2": "CESE-Y-DESISTA",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
