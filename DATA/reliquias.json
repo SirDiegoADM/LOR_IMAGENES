@@ -1,764 +1,764 @@
 [
   {
-    "Columna A (Nombre ID)": "ABRAZO-DE-LA-REINA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Abrazo_de_la_Reina.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "AKSHAN, SORAKA"
+    "id": "ABRAZO-DE-LA-REINA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Abrazo_de_la_Reina.webp",
+    "rareza": "epica",
+    "recomendados": "AKSHAN, SORAKA"
   },
   {
-    "Columna A (Nombre ID)": "ACELERADOR-DE-PORTALES-DE-NORRA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Acelerador_de_Portales_de_Norra.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ACELERADOR-DE-PORTALES-DE-NORRA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Acelerador_de_Portales_de_Norra.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ALIENTO-HELADO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Aliento_Helado.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ALIENTO-HELADO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Aliento_Helado.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "AMIGUIS-DEL-PORTAL",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Amiguis_del_Portal.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "SORAKA"
+    "id": "AMIGUIS-DEL-PORTAL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Amiguis_del_Portal.webp",
+    "rareza": "epica",
+    "recomendados": "SORAKA"
   },
   {
-    "Columna A (Nombre ID)": "ANGEL-GUARDIAN",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ángel_Guardián.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "ANGEL-GUARDIAN",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ángel_Guardián.webp",
+    "rareza": "rara",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "APRENDIZ-DE-LAS-SOMBRAS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Aprendiz_de_las_Sombras.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "APRENDIZ-DE-LAS-SOMBRAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Aprendiz_de_las_Sombras.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ARMA-VIVIENTE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Arma_Viviente.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "ARMA-VIVIENTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Arma_Viviente.webp",
+    "rareza": "epica",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "ARMADURA-DE-WARMOG",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Armadura_de_Warmog.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "ARMADURA-DE-WARMOG",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Armadura_de_Warmog.webp",
+    "rareza": "comun",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "ARMOTAS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Armotas.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "SORAKA"
+    "id": "ARMOTAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Armotas.webp",
+    "rareza": "epica",
+    "recomendados": "SORAKA"
   },
   {
-    "Columna A (Nombre ID)": "ARPON-MORTIFERO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Arpón_Mortífero.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "SORAKA"
+    "id": "ARPON-MORTIFERO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Arpón_Mortífero.webp",
+    "rareza": "epica",
+    "recomendados": "SORAKA"
   },
   {
-    "Columna A (Nombre ID)": "BACULO-CELESTIAL",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Báculo_Celestial.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "BACULO-CELESTIAL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Báculo_Celestial.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "BACULO-DEL-ARCANGEL",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Báculo_del_Arcángel.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "BACULO-DEL-ARCANGEL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Báculo_del_Arcángel.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "BARATIJA-DEL-GUARDIAN",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Baratija_del_Guardián.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "BARATIJA-DEL-GUARDIAN",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Baratija_del_Guardián.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "BASTON-DE-LA-HIJA-DE-LAS-ESTRELLAS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Bastón_de_la_Hija_de_las_Estrellas.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "BASTON-DE-LA-HIJA-DE-LAS-ESTRELLAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Bastón_de_la_Hija_de_las_Estrellas.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "BASTON-INCANDESCENTE-DE-LUX",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Bastón_Incandescente_de_Lux.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "BASTON-INCANDESCENTE-DE-LUX",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Bastón_Incandescente_de_Lux.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "BATERIA-HEXTECH-DE-JAYCE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Batería_Hextech_de_Jayce.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "AHRI_FLOR_ESPIRITUAL, SORAKA"
+    "id": "BATERIA-HEXTECH-DE-JAYCE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Batería_Hextech_de_Jayce.webp",
+    "rareza": "epica",
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, SORAKA"
   },
   {
-    "Columna A (Nombre ID)": "BATERIA-REVOLTOSA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Batería_Revoltosa.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "AATROX"
+    "id": "BATERIA-REVOLTOSA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Batería_Revoltosa.webp",
+    "rareza": "rara",
+    "recomendados": "AATROX"
   },
   {
-    "Columna A (Nombre ID)": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cañón_de_Proa_del_Heraldo_de_la_Muerte.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cañón_de_Proa_del_Heraldo_de_la_Muerte.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "CAPARAZON-DEL-VACIO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Caparazón_del_Vacío.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "CAPARAZON-DEL-VACIO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Caparazón_del_Vacío.webp",
+    "rareza": "rara",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "CAPITULO-PERDIDO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Capítulo_Perdido.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "CAPITULO-PERDIDO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Capítulo_Perdido.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "CASCO-DEL-SENOR-DE-LA-GUERRA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/casco_del_señor_de_la_guerra.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "CASCO-DEL-SENOR-DE-LA-GUERRA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/casco_del_señor_de_la_guerra.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "CAZADOR-DE-RUFIANES",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cazador_de_Rufianes.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "CAZADOR-DE-RUFIANES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cazador_de_Rufianes.webp",
+    "rareza": "epica",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "CESE-Y-DESISTA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cese_y_Desista.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "AHRI_FLOR_ESPIRITUAL"
+    "id": "CESE-Y-DESISTA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cese_y_Desista.webp",
+    "rareza": "epica",
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
-    "Columna A (Nombre ID)": "COMETA-ARCANO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cometa_Arcano.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "SORAKA"
+    "id": "COMETA-ARCANO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cometa_Arcano.webp",
+    "rareza": "rara",
+    "recomendados": "SORAKA"
   },
   {
-    "Columna A (Nombre ID)": "CONDENSADOR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Condensador.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "CONDENSADOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Condensador.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "CONMOCION-Y-PAVOR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Conmoción_y_Pavor.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "CONMOCION-Y-PAVOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Conmoción_y_Pavor.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "CORAZA-DE-ARMADURILLO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Coraza_de_Armadurillo.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "CORAZA-DE-ARMADURILLO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Coraza_de_Armadurillo.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "CORAZON-DE-ORO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Corazón_de_Oro.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "CORAZON-DE-ORO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Corazón_de_Oro.webp",
+    "rareza": "rara",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "COSECHA-MALVADA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cosecha_Malvada.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "COSECHA-MALVADA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cosecha_Malvada.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "DADOS-TRUCADOS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Dados_Trucados.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "DADOS-TRUCADOS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Dados_Trucados.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "DERROTA-DE-LA-MUERTE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Derrota_de_la_Muerte.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "DERROTA-DE-LA-MUERTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Derrota_de_la_Muerte.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "DESESPERACION-ABSOLUTA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Desesperación_Absoluta.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "AATROX"
+    "id": "DESESPERACION-ABSOLUTA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Desesperación_Absoluta.webp",
+    "rareza": "rara",
+    "recomendados": "AATROX"
   },
   {
-    "Columna A (Nombre ID)": "DRAGARTOS-GEMELOS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Dragartos_Gemelos.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "DRAGARTOS-GEMELOS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Dragartos_Gemelos.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "DUPLICADOR-QUIMTECH",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Duplicador_Quimtech.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "DUPLICADOR-QUIMTECH",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Duplicador_Quimtech.webp",
+    "rareza": "rara",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "EJERCITO-DE-CUERVOS-DE-SWAIN",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ejército_de_Cuervos_de_Swain.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ejército_de_Cuervos_de_Swain.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "EL-APLASTADOR-DEL-REY-TROL",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Aplastador_del_Rey_Trol.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": "AHRI_FLOR_ESPIRITUAL, AKSHAN, SORAKA"
+    "id": "EL-APLASTADOR-DEL-REY-TROL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Aplastador_del_Rey_Trol.webp",
+    "rareza": "comun",
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AKSHAN, SORAKA"
   },
   {
-    "Columna A (Nombre ID)": "EL-ARCO-DE-LA-ARREBATADORA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Arco_de_la_Arrebatadora.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "EL-ARCO-DE-LA-ARREBATADORA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Arco_de_la_Arrebatadora.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "EL-COLECCIONISTA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Coleccionista.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "EL-COLECCIONISTA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Coleccionista.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "EL-COLLAR-DEL-CAMALEON",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Collar_del_Camaleón.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "EL-COLLAR-DEL-CAMALEON",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Collar_del_Camaleón.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "EL-ESCONDITE-DEL-AZOTE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Escondite_del_Azote.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "EL-ESCONDITE-DEL-AZOTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Escondite_del_Azote.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "EL-GAMBITO-DEL-AMO-DE-LAS-CARTAS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Gambito_del_Amo_de_las_Cartas.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "EL-GAMBITO-DEL-AMO-DE-LAS-CARTAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Gambito_del_Amo_de_las_Cartas.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Plan_de_Contingencia_del_Gran_General.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Plan_de_Contingencia_del_Gran_General.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Renombre_de_la_Cazarrecompensas.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Renombre_de_la_Cazarrecompensas.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "EL-ROMPEPUERTAS-DEL-CURADOR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Rompepuertas_del_Curador.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Rompepuertas_del_Curador.webp",
+    "rareza": "rara",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "ELEGIDO-POR-LAS-ESTRELLAS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Elegido_por_las_Estrellas.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Elegido_por_las_Estrellas.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "EMBLEMA-DE-LA-MAQUIAVELICA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Emblema_de_la_Maquiavélica.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "EMBLEMA-DE-LA-MAQUIAVELICA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Emblema_de_la_Maquiavélica.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESCUDO-DEL-AMANECER",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Escudo_del_amanecer.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ESCUDO-DEL-AMANECER",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Escudo_del_amanecer.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESCUDO-NEGRO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Escudo_negro.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ESCUDO-NEGRO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Escudo_negro.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESPADA-DE-LA-TEMPESTAD",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_de_la_Tempestad.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "ESPADA-DE-LA-TEMPESTAD",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_de_la_Tempestad.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESPADA-DE-VIENTO-DE-YASUO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_de_viento_de_Yasuo.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ESPADA-DE-VIENTO-DE-YASUO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_de_viento_de_Yasuo.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESPADA-DEL-ACECHADOR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_del_Acechador.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "ESPADA-DEL-ACECHADOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_del_Acechador.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESPADA-VENERABLE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_Venerable.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ESPADA-VENERABLE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_Venerable.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESPADAFUEGO-CELESTE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espadafuego_celeste.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "ESPADAFUEGO-CELESTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espadafuego_celeste.webp",
+    "rareza": "epica",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "ESPADAFURIA-DE-GUINSOO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espadafuria_de_Guinsoo.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "ESPADAFURIA-DE-GUINSOO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espadafuria_de_Guinsoo.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESPANTAPAJAROS-INOFENSIVO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espantapájaros_Inofensivo.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ESPANTAPAJAROS-INOFENSIVO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espantapájaros_Inofensivo.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESPATULA-DORADA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espátula_Dorada.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "AATROX"
+    "id": "ESPATULA-DORADA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espátula_Dorada.webp",
+    "rareza": "rara",
+    "recomendados": "AATROX"
   },
   {
-    "Columna A (Nombre ID)": "ESPIRITU-DE-LOS-BUHRU",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritu_de_los_Buhru.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ESPIRITU-DE-LOS-BUHRU",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritu_de_los_Buhru.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESPIRITU-RESONANTE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritu_Resonante.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ESPIRITU-RESONANTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritu_Resonante.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ESPIRITUS-ASISTENTES",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritus_Asistentes.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ESPIRITUS-ASISTENTES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritus_Asistentes.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "EXPERIMENTOS-CRUELES",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Experimentos_Crueles.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "EXPERIMENTOS-CRUELES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Experimentos_Crueles.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "FILO-DE-LA-TORMENTA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Filo_de_la_Tormenta.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "FILO-DE-LA-TORMENTA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Filo_de_la_Tormenta.webp",
+    "rareza": "comun",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "FLAUTA-DE-ALBOROTADOR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Flauta_de_Alborotador.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "FLAUTA-DE-ALBOROTADOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Flauta_de_Alborotador.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "FORTUNA-ENCONTRADA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fortuna_Encontrada.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "FORTUNA-ENCONTRADA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fortuna_Encontrada.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fragmento_de_Estrella_Corrompido.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fragmento_de_Estrella_Corrompido.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "FUERZA-DEL-VIENTO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fuerza_del_Viento.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "FUERZA-DEL-VIENTO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fuerza_del_Viento.webp",
+    "rareza": "rara",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "FUERZA-PETREA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fuerza_Pétrea.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "FUERZA-PETREA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fuerza_Pétrea.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "FULGOR-ARDIENTE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fulgor_Ardiente.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "FULGOR-ARDIENTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fulgor_Ardiente.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "GARRAS-GRANDES",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/garras_grandes.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "GARRAS-GRANDES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/garras_grandes.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "GASTO-DE-DEFENSA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Gasto_de_Defensa.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "GASTO-DE-DEFENSA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Gasto_de_Defensa.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "GEMA-ESTELAR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Gema_Estelar.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "GEMA-ESTELAR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Gema_Estelar.webp",
+    "rareza": "rara",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "GUANTE-ESPIRITUAL",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Guante_Espiritual.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "GUANTE-ESPIRITUAL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Guante_Espiritual.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "GUANTELETES-ESTELARES",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Guanteletes_Estelares.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "GUANTELETES-ESTELARES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Guanteletes_Estelares.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "HACHA-CORTAMIEDOS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Hacha_Cortamiedos.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "HACHA-CORTAMIEDOS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Hacha_Cortamiedos.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "HERENCIA-GUARDIA-DE-LA-CORONA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Herencia_Guardia_de_la_Corona.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Herencia_Guardia_de_la_Corona.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "HIDRA-VORAZ",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Hidra_Voraz.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "HIDRA-VORAZ",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Hidra_Voraz.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "HIMNO-DEL-VALOR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Himno_del_Valor.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "HIMNO-DEL-VALOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Himno_del_Valor.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "HOJASOMBRA-DE-VALLECLARO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Hojasombra_de_Valleclaro.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "HOJASOMBRA-DE-VALLECLARO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Hojasombra_de_Valleclaro.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ICONO-DE-VALHIR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ícono_de_Valhir.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "ICONO-DE-VALHIR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ícono_de_Valhir.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "JURAMENTO-DE-LOS-GUARDIANES",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Juramento_de_los_Guardianes.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "JURAMENTO-DE-LOS-GUARDIANES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Juramento_de_los_Guardianes.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LA-BALANZA-DE-LA-JUSTICIA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/la_balanza_de_la_justicia.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "LA-BALANZA-DE-LA-JUSTICIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/la_balanza_de_la_justicia.webp",
+    "rareza": "epica",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "LA-BESTIA-INTERIOR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Bestia_Interior.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": "AKSHAN"
+    "id": "LA-BESTIA-INTERIOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Bestia_Interior.webp",
+    "rareza": "epica",
+    "recomendados": "AKSHAN"
   },
   {
-    "Columna A (Nombre ID)": "LA-CARGA-DE-LA-BALA-PERDIDA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Carga_de_la_Bala_Perdida.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "LA-CARGA-DE-LA-BALA-PERDIDA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Carga_de_la_Bala_Perdida.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LA-CORONA-DEL-REY-TROL",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Corona_del_Rey_Trol.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "LA-CORONA-DEL-REY-TROL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Corona_del_Rey_Trol.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LA-ESPADA-DARKIN",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Espada_Darkin.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "LA-ESPADA-DARKIN",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Espada_Darkin.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LA-HEBILLA-DEL-BERSERKER",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Hebilla_del_Berserker.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "LA-HEBILLA-DEL-BERSERKER",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Hebilla_del_Berserker.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LA-HOJA-DE-LA-GRAN-DUELISTA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Hoja_de_la_Gran_Duelista.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Hoja_de_la_Gran_Duelista.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LA-PALA-DEL-ENTERRADOR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Pala_del_Enterrador.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "LA-PALA-DEL-ENTERRADOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Pala_del_Enterrador.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LADRONA-DE-ESENCIAS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ladrona_de_Esencias.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "LADRONA-DE-ESENCIAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ladrona_de_Esencias.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LAMENTO-DRENADO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Lamento_Drenado.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "LAMENTO-DRENADO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Lamento_Drenado.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LANZA-ALMICA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Lanza_Álmica.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "LANZA-ALMICA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Lanza_Álmica.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LINTERNA-DE-ALMAS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Linterna_de_Almas.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "LINTERNA-DE-ALMAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Linterna_de_Almas.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LINTERNA-DE-WRIGGLE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Linterna_de_Wriggle.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "LINTERNA-DE-WRIGGLE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Linterna_de_Wriggle.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "LLAMADO-DE-SIRENA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Llamado_de_Sirena.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "LLAMADO-DE-SIRENA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Llamado_de_Sirena.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "MANGUAL-DE-HIELO-PURO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mangual_de_Hielo_Puro.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "MANGUAL-DE-HIELO-PURO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mangual_de_Hielo_Puro.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "MARCA-DEL-SUCUBO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Marca_del_Súcubo.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "MARCA-DEL-SUCUBO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Marca_del_Súcubo.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "MARTILLO-DE-GUERRA-DE-CAULFIELD",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Martillo_de_Guerra_de_Caulfield.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "MARTILLO-DE-GUERRA-DE-CAULFIELD",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Martillo_de_Guerra_de_Caulfield.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "MAZO-ACUMULADO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mazo_Acumulado.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "MAZO-ACUMULADO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mazo_Acumulado.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "MAZO-DEL-DESTINO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mazo_del_Destino.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "MAZO-DEL-DESTINO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mazo_del_Destino.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "MISION-DE-SABIDURIA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Misión_de_sabiduría.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "MISION-DE-SABIDURIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Misión_de_sabiduría.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "MONEDERO-DE-CAMPEON",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Monedero_de_Campeón.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "MONEDERO-DE-CAMPEON",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Monedero_de_Campeón.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "MORDISCOS-REALES",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mordiscos_Reales.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "MORDISCOS-REALES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mordiscos_Reales.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "MURMULLO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Murmullo.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "MURMULLO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Murmullo.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "NUCLEO-HEX-PERFECTO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Núcleo_hex_perfecto.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "NUCLEO-HEX-PERFECTO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Núcleo_hex_perfecto.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ORBE-DEL-GUARDIAN",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Orbe_del_Guardián.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "ORBE-DEL-GUARDIAN",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Orbe_del_Guardián.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "ORBE-LUMINOSO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Orbe_Luminoso.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "ORBE-LUMINOSO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Orbe_Luminoso.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "OSITO-DE-APOYO-EMOCIONAL",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Osito_de_Apoyo_Emocional.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "OSITO-DE-APOYO-EMOCIONAL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Osito_de_Apoyo_Emocional.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "PAQUETE-COMPLETO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Paquete_completo.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "PAQUETE-COMPLETO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Paquete_completo.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "PERMAHIELO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Permahielo.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "PERMAHIELO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Permahielo.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "POLVORA-CARGADA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Pólvora_Cargada.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "POLVORA-CARGADA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Pólvora_Cargada.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "PROTECTORES-DE-DEMACIA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Protectores_de_demacia.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "PROTECTORES-DE-DEMACIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Protectores_de_demacia.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "PROTOTIPO-DE-PULSAR-Z",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Prototipo_de_Pulsar-Z.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "PROTOTIPO-DE-PULSAR-Z",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Prototipo_de_Pulsar-Z.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "PUNO-DE-JAURIM",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Puño_de_Jaurim.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "PUNO-DE-JAURIM",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Puño_de_Jaurim.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "REVESTIMIENTO-DE-TORRETA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Revestimiento_de_Torreta.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "REVESTIMIENTO-DE-TORRETA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Revestimiento_de_Torreta.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "RIFLE-HEXTECH",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Rifle_Hextech.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "RIFLE-HEXTECH",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Rifle_Hextech.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "RUNAS-DRACONICAS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Runas_Dracónicas.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "RUNAS-DRACONICAS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Runas_Dracónicas.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "SINFONIA-DE-LA-TEJEHECHIZOS",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Sinfonía_de_la_Tejehechizos.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Sinfonía_de_la_Tejehechizos.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "SUENOS-DE-YORDLES",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Sueños_de_Yordles.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "SUENOS-DE-YORDLES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Sueños_de_Yordles.webp",
+    "rareza": "comun",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "SUJETAESPADAS-LAURENT",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Sujetaespadas_Laurent.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "SUJETAESPADAS-LAURENT",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Sujetaespadas_Laurent.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "TECNICA-SECRETA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Técnica_Secreta.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "TECNICA-SECRETA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Técnica_Secreta.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "TEMPESTAD-DE-LUDEN",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tempestad_de_Luden.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "TEMPESTAD-DE-LUDEN",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tempestad_de_Luden.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "TESORO-DE-LAS-PROFUNDIDADES",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/tesoro_de_las_profundidades.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "TESORO-DE-LAS-PROFUNDIDADES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/tesoro_de_las_profundidades.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "TIJERAS-ESPECTRALES",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tijeras_Espectrales.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "TIJERAS-ESPECTRALES",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tijeras_Espectrales.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "TOMO-OCULTO",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tomo_Oculto.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "TOMO-OCULTO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tomo_Oculto.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "TRANSMODULADOR",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Transmodulador.webp",
-    "Columna C (Rareza)": "rara",
-    "Columna D (Recomendados)": ""
+    "id": "TRANSMODULADOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Transmodulador.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "TUMBA-CONGELADA",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tumba_Congelada.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "TUMBA-CONGELADA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tumba_Congelada.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "VARA-IMPERIAL",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Vara_Imperial.webp",
-    "Columna C (Rareza)": "epica",
-    "Columna D (Recomendados)": ""
+    "id": "VARA-IMPERIAL",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Vara_Imperial.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
-    "Columna A (Nombre ID)": "VELO-DE-LA-BANSHEE",
-    "Columna B (URL Imagen)": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Velo_de_la_Banshee.webp",
-    "Columna C (Rareza)": "comun",
-    "Columna D (Recomendados)": ""
+    "id": "VELO-DE-LA-BANSHEE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Velo_de_la_Banshee.webp",
+    "rareza": "comun",
+    "recomendados": ""
   }
 ]
