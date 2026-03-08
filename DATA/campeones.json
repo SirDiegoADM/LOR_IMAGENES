@@ -1,0 +1,330 @@
+[
+  {
+    "id": "AATROX",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "AHRI",
+    "clases": "Ionia"
+  },
+  {
+    "id": "AHRI_FLOR_ESPIRITUAL",
+    "clases": "Flor-espiritual Ionia"
+  },
+  {
+    "id": "AKSHAN",
+    "clases": "Shurima"
+  },
+  {
+    "id": "AMBESSA",
+    "clases": "Noxus"
+  },
+  {
+    "id": "ANIVIA",
+    "clases": "Freljord"
+  },
+  {
+    "id": "ANNIE",
+    "clases": "Noxus"
+  },
+  {
+    "id": "ASHE",
+    "clases": "Freljord"
+  },
+  {
+    "id": "AURELION_SOL",
+    "clases": "Targon"
+  },
+  {
+    "id": "AZIR",
+    "clases": "Shurima"
+  },
+  {
+    "id": "BARDO",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "CAITLYN",
+    "clases": "Piltover-Zaun"
+  },
+  {
+    "id": "DARIUS",
+    "clases": "Noxus"
+  },
+  {
+    "id": "DIANA",
+    "clases": "Targon"
+  },
+  {
+    "id": "DRAGON_ANCESTRAL",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "EKKO",
+    "clases": "Piltover-Zaun"
+  },
+  {
+    "id": "EL_REY_PORO",
+    "clases": "Islas-de-las-sombras"
+  },
+  {
+    "id": "ELISE",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "EVELYNN",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "EVELYNN_FLOR_ESPIRITUAL",
+    "clases": "Flor-espiritual Runeterra"
+  },
+  {
+    "id": "FIDDLESTICKS",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "GAREN",
+    "clases": "Demacia"
+  },
+  {
+    "id": "GNAR",
+    "clases": "Bandle-City Freljord"
+  },
+  {
+    "id": "GWEN",
+    "clases": "Islas-de-las-sombras"
+  },
+  {
+    "id": "HEIMERDINGER",
+    "clases": "Bandle-City Piltover-Zaun"
+  },
+  {
+    "id": "ILLAOI",
+    "clases": "aguas-turbias"
+  },
+  {
+    "id": "JACK",
+    "clases": "aguas-turbias"
+  },
+  {
+    "id": "JANNA",
+    "clases": "Piltover-Zaun"
+  },
+  {
+    "id": "JAX",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "JAYCE",
+    "clases": "Piltover-Zaun"
+  },
+  {
+    "id": "JHIN",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "JINX",
+    "clases": "Piltover-Zaun"
+  },
+  {
+    "id": "KAISA",
+    "clases": "Shurima"
+  },
+  {
+    "id": "KAYLE",
+    "clases": "Targon"
+  },
+  {
+    "id": "KAYN",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "KINDRED",
+    "clases": "Islas-de-las-sombras"
+  },
+  {
+    "id": "LA_ARREBATADORA",
+    "clases": "Flor-espiritual Islas-de-las-sombras"
+  },
+  {
+    "id": "LEBLANC",
+    "clases": "Noxus"
+  },
+  {
+    "id": "LEE_SIN",
+    "clases": "Ionia"
+  },
+  {
+    "id": "LEONA",
+    "clases": "Targon"
+  },
+  {
+    "id": "LILLIA",
+    "clases": "Ionia"
+  },
+  {
+    "id": "LUX",
+    "clases": "Demacia"
+  },
+  {
+    "id": "LUX_ILUNINADA",
+    "clases": "Demacia"
+  },
+  {
+    "id": "MAESTRO_YI",
+    "clases": "Ionia"
+  },
+  {
+    "id": "MAESTRO_YI_FLOR_ESPIRITUAL",
+    "clases": "Flor-espiritual Ionia"
+  },
+  {
+    "id": "MEL",
+    "clases": "Piltover-Zaun Noxus"
+  },
+  {
+    "id": "MISS_FORTUNE",
+    "clases": "aguas-turbias"
+  },
+  {
+    "id": "MORDEKAISER",
+    "clases": "Noxus Islas-de-las-sombras"
+  },
+  {
+    "id": "MORGANA",
+    "clases": "Targon Demacia"
+  },
+  {
+    "id": "NAMI",
+    "clases": "aguas-turbias"
+  },
+  {
+    "id": "NASUS",
+    "clases": "Shurima"
+  },
+  {
+    "id": "NAUTILUS",
+    "clases": "aguas-turbias"
+  },
+  {
+    "id": "NEEKO",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "NIDALEE",
+    "clases": "Shurima"
+  },
+  {
+    "id": "NILAH",
+    "clases": "aguas-turbias"
+  },
+  {
+    "id": "NORRA",
+    "clases": "Bandle-City"
+  },
+  {
+    "id": "ORNN",
+    "clases": "Freljord"
+  },
+  {
+    "id": "PYKE",
+    "clases": "aguas-turbias"
+  },
+  {
+    "id": "SAMIRA",
+    "clases": "Noxus"
+  },
+  {
+    "id": "SETT",
+    "clases": "Ionia"
+  },
+  {
+    "id": "SHYVANA",
+    "clases": "Demacia"
+  },
+  {
+    "id": "SORAKA",
+    "clases": "Targon"
+  },
+  {
+    "id": "SWAIN",
+    "clases": "Noxus"
+  },
+  {
+    "id": "TALIYAH",
+    "clases": "aguas-turbias"
+  },
+  {
+    "id": "TEEMO",
+    "clases": "Shurima"
+  },
+  {
+    "id": "TEEMO_FLOR_ESPIRITUAL",
+    "clases": "Bandle-City Piltover-Zaun"
+  },
+  {
+    "id": "THAM_KECH",
+    "clases": "Flor-espiritual Bandle-City"
+  },
+  {
+    "id": "THRESH",
+    "clases": "Islas-de-las-sombras"
+  },
+  {
+    "id": "TRYNDAMERE",
+    "clases": "Freljord"
+  },
+  {
+    "id": "TWISTED_FATE",
+    "clases": "aguas-turbias"
+  },
+  {
+    "id": "VARUS",
+    "clases": "Runeterra"
+  },
+  {
+    "id": "VAYNE",
+    "clases": "Demacia"
+  },
+  {
+    "id": "VEIGAR",
+    "clases": "Bandle-City Islas-de-las-sombras"
+  },
+  {
+    "id": "VEX",
+    "clases": "Bandle-City Islas-de-las-sombras"
+  },
+  {
+    "id": "VI",
+    "clases": "Piltover-Zaun"
+  },
+  {
+    "id": "VIEGO",
+    "clases": "Islas-de-las-sombras"
+  },
+  {
+    "id": "VIKTOR",
+    "clases": "Piltover-Zaun"
+  },
+  {
+    "id": "VOLIBEAR",
+    "clases": "Freljord"
+  },
+  {
+    "id": "WARWICK",
+    "clases": "Piltover-Zaun"
+  },
+  {
+    "id": "YASUO",
+    "clases": "Ionia"
+  },
+  {
+    "id": "YASUO_FLOR_ESPIRITUAL",
+    "clases": "Flor-espiritual Ionia"
+  },
+  {
+    "id": "YUUMI",
+    "clases": "Bandle-City Targon"
+  }
+]
