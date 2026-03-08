@@ -11,7 +11,7 @@
     "id": "AKSHAN",
     "nombre": "AKSHAN",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
-    "dificultad": "dificil.webp",
+    "dificultad": "FACIL.webp",
     "estilo": "COMBO.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
@@ -19,7 +19,7 @@
     "id": "NAUTILUS",
     "nombre": "NAUTILUS",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
-    "dificultad": "dificil.webp",
+    "dificultad": "FACIL.webp",
     "estilo": "COMBO.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
@@ -27,7 +27,7 @@
     "id": "AHRI_FLOR_ESPIRITUAL",
     "nombre": "AHRI_FLOR_ESPIRITUAL",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
-    "dificultad": "dificil.webp",
+    "dificultad": "FACIL.webp",
     "estilo": "COMBO.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   }
