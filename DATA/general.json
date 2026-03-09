@@ -21,7 +21,7 @@
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "COMBO.webp",
     "dificultad": "FACIL.webp",
-    "consejos": "<h3 style='color:#cca44a; margin-bottom:5px;'>✦ Potencial de Invocación</h3>\n<p>Ahri Flor Espiritual ofrece un estilo de 'invocadora' único. Sin embargo, su camino de constelaciones es <b>exigente y costoso</b>, con picos de poder bloqueados tras nodos de alto valor.</p>\n\n<h3 style='color:#3498db; margin-top:15px; margin-bottom:5px;'>💧 Gestión de Maná</h3>\n<p>Consume muchísimos recursos. Prioriza:</p>\n<ul style='margin-top:5px;'>\n  <li><b>Reliquias:</b> Tomo Oculto o Báculo del Arcángel.</li>\n  <li><b>Poderes:</b> Hechicería o Inspiración Salvaje.</li>\n</ul>\n\n<h3 style='color:#e74c3c; margin-top:15px; margin-bottom:5px;'>⚠️ La Trampa del Coste 0</h3>\n<p>¡Cuidado! Si tus hechizos de coste 1 bajan a <b>0 de maná</b>, <u>no invocarán</u> Fuegos Fatuos, rompiendo tu motor de generación.</p>\n\n<h3 style='color:#2ecc71; margin-top:15px; margin-bottom:5px;'>🛡️ Combo: Fuerza Pétrea</h3>\n<p>La runa <i>Armadura Espiritual</i> (+0|+3) junto a la reliquia <b>Fuerza Pétrea</b> convierte a tus Fuegos Zorruno en tanques masivos con <b>Formidable</b>.</p>"
+    "consejos": ""
   },
   {
     "id": "AKSHAN",
