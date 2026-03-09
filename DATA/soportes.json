@@ -1,6 +1,6 @@
 [
   {
-    "principal": "AATROX",
+    "principal": "AAA",
     "S": [
       "KAYN",
       "VLADIMIR",
@@ -22,14 +22,14 @@
     ]
   },
   {
-    "principal": "AHRI",
+    "principal": "AATROX",
     "S": [],
     "A": [],
     "B": [],
     "C": []
   },
   {
-    "principal": "AHRI_FLOR_ESPIRITUAL",
+    "principal": "AHRI",
     "S": [
       "KAYN",
       "VLADIMIR",
@@ -49,6 +49,13 @@
       "Galio",
       "Warwick"
     ]
+  },
+  {
+    "principal": "AHRI_FLOR_ESPIRITUAL",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
   },
   {
     "principal": "AKSHAN",
