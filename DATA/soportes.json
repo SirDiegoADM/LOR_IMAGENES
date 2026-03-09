@@ -30,10 +30,25 @@
   },
   {
     "principal": "AHRI_FLOR_ESPIRITUAL",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "KAYN",
+      "VLADIMIR",
+      "BRAUM"
+    ],
+    "A": [
+      "YUUMI",
+      "Fiora"
+    ],
+    "B": [
+      "Renekton",
+      "Shyvana"
+    ],
+    "C": [
+      "Jarvan IV",
+      "Pantheon",
+      "Galio",
+      "Warwick"
+    ]
   },
   {
     "principal": "AKSHAN",
