@@ -504,6 +504,14 @@
     "consejos": ""
   },
   {
+    "id": "TAHM_KENCH",
+    "nombre": "TAHM_KENCH",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
     "id": "TALIYAH",
     "nombre": "TALIYAH",
     "titulo": "",
@@ -522,14 +530,6 @@
   {
     "id": "TEEMO_FLOR_ESPIRITUAL",
     "nombre": "TEEMO_FLOR_ESPIRITUAL",
-    "titulo": "",
-    "estilo": "",
-    "dificultad": "",
-    "consejos": ""
-  },
-  {
-    "id": "TAHM_KENCH",
-    "nombre": "TAHM_KENCH",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
