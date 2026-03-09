@@ -8,27 +8,707 @@
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
-    "id": "AKSHAN",
-    "nombre": "AKSHAN",
+    "id": "ORNN",
+    "nombre": "ORNN",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "COMBO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
-    "id": "NAUTILUS",
-    "nombre": "NAUTILUS",
+    "id": "ORNN",
+    "nombre": "ORNN",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "COMBO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
-    "id": "AHRI_FLOR_ESPIRITUAL",
-    "nombre": "AHRI_FLOR_ESPIRITUAL",
+    "id": "ORNN",
+    "nombre": "ORNN",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "AGRESIVO.webp",
     "dificultad": "MEDIO.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ORNN",
+    "nombre": "ORNN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
   }
 ]
