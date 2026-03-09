@@ -1,695 +1,655 @@
 [
   {
-    "id": "FUERA-DE-MI-CAMINO",
-    "nombre": "FUERA-DE-MI-CAMINO",
+    "id": "AATROX",
+    "nombre": "AATROX",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "AGRESIVO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
-    "id": "NO-TE-MUEVAS",
-    "nombre": "NO-TE-MUEVAS",
+    "id": "AHRI",
+    "nombre": "AHRI",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "COMBO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
-    "id": "AMANTE-DEL-CASTIGO",
-    "nombre": "AMANTE-DEL-CASTIGO",
+    "id": "AHRI_FLOR_ESPIRITUAL",
+    "nombre": "AHRI_FLOR_ESPIRITUAL",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "COMBO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<h3>Potencial de Invocación</h3>\n<p>Ahri Flor Espiritual ofrece un estilo de 'invocadora' único. Sin embargo, su camino de constelaciones es <b>exigente y costoso</b>, con picos de poder bloqueados tras nodos de alto valor.</p>\n\n<h3>Gestión de Maná</h3>\n<p>Esta versión consume muchísimos recursos. Prioriza reliquias como <b>Tomo oculto</b> o <b>Báculo del Arcángel</b>, y poderes como <b>Hechicería</b> o <b>Inspiración salvaje</b>.</p>\n\n<h3>La Trampa del Coste 0</h3>\n<p>¡Cuidado! Si tus hechizos de coste 1 bajan a <b>0 de maná</b>, <u>no invocarán</u> Fuegos Fatuos, rompiendo tu motor de generación.</p>\n\n<h3>Lógica de Unidades Endebles</h3>\n<p>La IA a menudo no bloquea unidades endebles si el intercambio es malo. Úsalas para colar daño o para <b>bloqueos sacrificables</b>.</p>\n\n<h3>Sinergia: Fuerza Pétrea</h3>\n<p>La runa <b>Armadura espiritual (+0|+3)</b> junto a la reliquia <b>Fuerza pétrea</b> convierte a tus Fuegos zorruno en tanques masivos con <b>Formidable</b>.</p>"
   },
   {
-    "id": "AMIGUITOS",
-    "nombre": "AMIGUITOS",
+    "id": "AKSHAN",
+    "nombre": "AKSHAN",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "AGRESIVO.webp",
     "dificultad": "MEDIO.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
-    "id": "APILADAS-EN-SU-CONTRA",
-    "nombre": "APILADAS-EN-SU-CONTRA",
+    "id": "AMBESSA",
+    "nombre": "AMBESSA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "APLASTAR",
-    "nombre": "APLASTAR",
+    "id": "ANIVIA",
+    "nombre": "ANIVIA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "ARMAS-HASTA-LOS-DIENTES",
-    "nombre": "ARMAS-HASTA-LOS-DIENTES",
+    "id": "ANNIE",
+    "nombre": "ANNIE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "ATACALOS-CON-RAPIDEZ",
-    "nombre": "ATACALOS-CON-RAPIDEZ",
+    "id": "ASHE",
+    "nombre": "ASHE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "BROMAS-ESPECTRALES",
-    "nombre": "BROMAS-ESPECTRALES",
+    "id": "AURELION_SOL",
+    "nombre": "AURELION_SOL",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "BRUJERIA",
-    "nombre": "BRUJERIA",
+    "id": "AZIR",
+    "nombre": "AZIR",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "CARGAMENTO-DE-POLVO-ESTORNUDOSO",
-    "nombre": "CARGAMENTO-DE-POLVO-ESTORNUDOSO",
+    "id": "BARDO",
+    "nombre": "BARDO",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "COMPARTE-EL-BOTIN",
-    "nombre": "COMPARTE-EL-BOTIN",
+    "id": "CAITLYN",
+    "nombre": "CAITLYN",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "COMPARTIR-ES-QUERER",
-    "nombre": "COMPARTIR-ES-QUERER",
+    "id": "DARIUS",
+    "nombre": "DARIUS",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "CORTES-PROFUNDOS",
-    "nombre": "CORTES-PROFUNDOS",
+    "id": "DIANA",
+    "nombre": "DIANA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "COSECHA-DE-ESENCIA",
-    "nombre": "COSECHA-DE-ESENCIA",
+    "id": "DRAGON_ANCESTRAL",
+    "nombre": "DRAGON_ANCESTRAL",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "CUADRILLA-DEL-PILLAJE",
-    "nombre": "CUADRILLA-DEL-PILLAJE",
+    "id": "EKKO",
+    "nombre": "EKKO",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "CUCHILLAS-REBOTANTES",
-    "nombre": "CUCHILLAS-REBOTANTES",
+    "id": "EL_REY_PORO",
+    "nombre": "EL_REY_PORO",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "DESARMADO",
-    "nombre": "DESARMADO",
+    "id": "ELISE",
+    "nombre": "ELISE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "DESCUENTO-DEL-MERCADO-NEGRO",
-    "nombre": "DESCUENTO-DEL-MERCADO-NEGRO",
+    "id": "EVELYNN",
+    "nombre": "EVELYNN",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "DESPERTAR-TITANICO",
-    "nombre": "DESPERTAR-TITANICO",
+    "id": "EVELYNN_FLOR_ESPIRITUAL",
+    "nombre": "EVELYNN_FLOR_ESPIRITUAL",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "DOMINACION",
-    "nombre": "DOMINACION",
+    "id": "FIDDLESTICKS",
+    "nombre": "FIDDLESTICKS",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "DULCE-SOLEDAD",
-    "nombre": "DULCE-SOLEDAD",
+    "id": "GAREN",
+    "nombre": "GAREN",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "EDUCACION-SUPERIOR",
-    "nombre": "EDUCACION-SUPERIOR",
+    "id": "GNAR",
+    "nombre": "GNAR",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "EL-FAVOR-DEL-ARTESANO",
-    "nombre": "EL-FAVOR-DEL-ARTESANO",
+    "id": "GWEN",
+    "nombre": "GWEN",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "EL-GENIO-DE-YIPP",
-    "nombre": "EL-GENIO-DE-YIPP",
+    "id": "HEIMERDINGER",
+    "nombre": "HEIMERDINGER",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "EN-LA-MIRA",
-    "nombre": "EN-LA-MIRA",
+    "id": "ILLAOI",
+    "nombre": "ILLAOI",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "EN-NECESIDAD-DE-REPARACION",
-    "nombre": "EN-NECESIDAD-DE-REPARACION",
+    "id": "JACK",
+    "nombre": "JACK",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "ENTRADA-EXPLOSIVA",
-    "nombre": "ENTRADA-EXPLOSIVA",
+    "id": "JANNA",
+    "nombre": "JANNA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "EQUIPAR",
-    "nombre": "EQUIPAR",
+    "id": "JAX",
+    "nombre": "JAX",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "ESCUDO-URUMI",
-    "nombre": "ESCUDO-URUMI",
+    "id": "JAYCE",
+    "nombre": "JAYCE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "ESPERA-CON-PACIENCIA",
-    "nombre": "ESPERA-CON-PACIENCIA",
+    "id": "JHIN",
+    "nombre": "JHIN",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "ESTABILIZAR",
-    "nombre": "ESTABILIZAR",
+    "id": "JINX",
+    "nombre": "JINX",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "ESTUDIANTE-NUEVO",
-    "nombre": "ESTUDIANTE-NUEVO",
+    "id": "KAISA",
+    "nombre": "KAISA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "EVOLUCION",
-    "nombre": "EVOLUCION",
+    "id": "KAYLE",
+    "nombre": "KAYLE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "FALANGE",
-    "nombre": "FALANGE",
+    "id": "KAYN",
+    "nombre": "KAYN",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "FINAL-EXPLOSIVO",
-    "nombre": "FINAL-EXPLOSIVO",
+    "id": "KINDRED",
+    "nombre": "KINDRED",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "FLUJO-DE-MANA",
-    "nombre": "FLUJO-DE-MANA",
+    "id": "LA_ARREBATADORA",
+    "nombre": "LA_ARREBATADORA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "FRENALOS",
-    "nombre": "FRENALOS",
+    "id": "LEBLANC",
+    "nombre": "LEBLANC",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "FUENTE-DE-ENERGIA-ALTERNATIVA",
-    "nombre": "FUENTE-DE-ENERGIA-ALTERNATIVA",
+    "id": "LEE_SIN",
+    "nombre": "LEE_SIN",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "FUERA-DE-LAS-PUERTAS",
-    "nombre": "FUERA-DE-LAS-PUERTAS",
+    "id": "LEONA",
+    "nombre": "LEONA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "FURIA-DEL-DRAGON",
-    "nombre": "FURIA-DEL-DRAGON",
+    "id": "LILLIA",
+    "nombre": "LILLIA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "GOLPE-DEBILITANTE",
-    "nombre": "GOLPE-DEBILITANTE",
+    "id": "LUX",
+    "nombre": "LUX",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "HECHICERIA",
-    "nombre": "HECHICERIA",
+    "id": "LUX_ILUMINADA",
+    "nombre": "LUX_ILUMINADA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "HERENCIA",
-    "nombre": "HERENCIA",
+    "id": "MAESTRO_YI",
+    "nombre": "MAESTRO_YI",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "INSPIRACION-ALOCADA",
-    "nombre": "INSPIRACION-ALOCADA",
+    "id": "MAESTRO_YI_FLOR_ESPIRITUAL",
+    "nombre": "MAESTRO_YI_FLOR_ESPIRITUAL",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "JUEGO-DE-MEMORIA",
-    "nombre": "JUEGO-DE-MEMORIA",
+    "id": "MEL",
+    "nombre": "MEL",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "LA-GRAN-GRAN-PLAZA",
-    "nombre": "LA-GRAN-GRAN-PLAZA",
+    "id": "MISS_FORTUNE",
+    "nombre": "MISS_FORTUNE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "LA-MEJOR-DEFENSA",
-    "nombre": "LA-MEJOR-DEFENSA",
+    "id": "MORDEKAISER",
+    "nombre": "MORDEKAISER",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "LANZADOR-DE-HECHIZOS",
-    "nombre": "LANZADOR-DE-HECHIZOS",
+    "id": "MORGANA",
+    "nombre": "MORGANA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "LENTO-PERO-SEGURO",
-    "nombre": "LENTO-PERO-SEGURO",
+    "id": "NAMI",
+    "nombre": "NAMI",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "MADRUGADOR",
-    "nombre": "MADRUGADOR",
+    "id": "NASUS",
+    "nombre": "NASUS",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "MECHAS-ENCENDIDAS",
-    "nombre": "MECHAS-ENCENDIDAS",
+    "id": "NAUTILUS",
+    "nombre": "NAUTILUS",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "MEDITACION-MISTICA",
-    "nombre": "MEDITACION-MISTICA",
+    "id": "NEEKO",
+    "nombre": "NEEKO",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "MUSCULOSO",
-    "nombre": "MUSCULOSO",
+    "id": "NIDALEE",
+    "nombre": "NIDALEE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "NO-PUEDO-NI-QUIERO-DETENERME",
-    "nombre": "NO-PUEDO-NI-QUIERO-DETENERME",
+    "id": "NILAH",
+    "nombre": "NILAH",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "OFICIALES-DE-REFUERZO",
-    "nombre": "OFICIALES-DE-REFUERZO",
+    "id": "NORRA",
+    "nombre": "NORRA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "OFRENDAS-ADECUADAS",
-    "nombre": "OFRENDAS-ADECUADAS",
+    "id": "ORNN",
+    "nombre": "ORNN",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PERFECCION",
-    "nombre": "PERFECCION",
+    "id": "PYKE",
+    "nombre": "PYKE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PODEMOS-LOGRARLO",
-    "nombre": "PODEMOS-LOGRARLO",
+    "id": "SAMIRA",
+    "nombre": "SAMIRA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PODER-ILIMITADO",
-    "nombre": "PODER-ILIMITADO",
+    "id": "SETT",
+    "nombre": "SETT",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PODER-TRIFARIANO",
-    "nombre": "PODER-TRIFARIANO",
+    "id": "SHYVANA",
+    "nombre": "SHYVANA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PRESA-FACIL",
-    "nombre": "PRESA-FACIL",
+    "id": "SORAKA",
+    "nombre": "SORAKA",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PRESA-HERIDA",
-    "nombre": "PRESA-HERIDA",
+    "id": "SWAIN",
+    "nombre": "SWAIN",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PRODUCCION-DE-FALSIFICACIONES",
-    "nombre": "PRODUCCION-DE-FALSIFICACIONES",
+    "id": "TALIYAH",
+    "nombre": "TALIYAH",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PROFECIA-ESCALOFRIANTE",
-    "nombre": "PROFECIA-ESCALOFRIANTE",
+    "id": "TEEMO",
+    "nombre": "TEEMO",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PROFETA-DE-UN-DIOS-ANTIGUO-II",
-    "nombre": "PROFETA-DE-UN-DIOS-ANTIGUO-II",
+    "id": "TEEMO_FLOR_ESPIRITUAL",
+    "nombre": "TEEMO_FLOR_ESPIRITUAL",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PROHIBICION-DEL-MAS-ALLA",
-    "nombre": "PROHIBICION-DEL-MAS-ALLA",
+    "id": "TAHM_KENCH",
+    "nombre": "TAHM_KENCH",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "PURA-HABILIDAD",
-    "nombre": "PURA-HABILIDAD",
+    "id": "THRESH",
+    "nombre": "THRESH",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "QUEMADURA-DE-HECHIZO",
-    "nombre": "QUEMADURA-DE-HECHIZO",
+    "id": "TRYNDAMERE",
+    "nombre": "TRYNDAMERE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "REGALOS-DE-BIENVENIDA",
-    "nombre": "REGALOS-DE-BIENVENIDA",
+    "id": "TWISTED_FATE",
+    "nombre": "TWISTED_FATE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "RESISTENCIA",
-    "nombre": "RESISTENCIA",
+    "id": "VARUS",
+    "nombre": "VARUS",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "RESTABLECER",
-    "nombre": "RESTABLECER",
+    "id": "VAYNE",
+    "nombre": "VAYNE",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "REUNIDO",
-    "nombre": "REUNIDO",
+    "id": "VEIGAR",
+    "nombre": "VEIGAR",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "ROBO-RAPIDO",
-    "nombre": "ROBO-RAPIDO",
+    "id": "VEX",
+    "nombre": "VEX",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "ROCIO-DE-POLVO-ESTORNUDOSO",
-    "nombre": "ROCIO-DE-POLVO-ESTORNUDOSO",
+    "id": "VI",
+    "nombre": "VI",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "SALON-INQUIETANTE",
-    "nombre": "SALON-INQUIETANTE",
+    "id": "VIEGO",
+    "nombre": "VIEGO",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "SE-ILUMINA-EL-CAMINO-II",
-    "nombre": "SE-ILUMINA-EL-CAMINO-II",
+    "id": "VIKTOR",
+    "nombre": "VIKTOR",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "SEDE-DEL-PODER",
-    "nombre": "SEDE-DEL-PODER",
+    "id": "VOLIBEAR",
+    "nombre": "VOLIBEAR",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "SELECCION-ANTINATURAL",
-    "nombre": "SELECCION-ANTINATURAL",
+    "id": "WARWICK",
+    "nombre": "WARWICK",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "SENTIDOS-FERALES",
-    "nombre": "SENTIDOS-FERALES",
+    "id": "YASUO",
+    "nombre": "YASUO",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "SOBREPREPARACION",
-    "nombre": "SOBREPREPARACION",
+    "id": "YASUO_FLOR_ESPIRITUAL",
+    "nombre": "YASUO_FLOR_ESPIRITUAL",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
   },
   {
-    "id": "TERRENO-TRAICIONERO",
-    "nombre": "TERRENO-TRAICIONERO",
-    "titulo": "",
-    "estilo": "",
-    "dificultad": "",
-    "consejos": ""
-  },
-  {
-    "id": "TRATO-RAPIDO",
-    "nombre": "TRATO-RAPIDO",
-    "titulo": "",
-    "estilo": "",
-    "dificultad": "",
-    "consejos": ""
-  },
-  {
-    "id": "TROPA-EXPEDICIONARIA",
-    "nombre": "TROPA-EXPEDICIONARIA",
-    "titulo": "",
-    "estilo": "",
-    "dificultad": "",
-    "consejos": ""
-  },
-  {
-    "id": "VENGANZA-DE-LA-NATURALEZA",
-    "nombre": "VENGANZA-DE-LA-NATURALEZA",
-    "titulo": "",
-    "estilo": "",
-    "dificultad": "",
-    "consejos": ""
-  },
-  {
-    "id": "VIENTOS-ELEMENTALES",
-    "nombre": "VIENTOS-ELEMENTALES",
-    "titulo": "",
-    "estilo": "",
-    "dificultad": "",
-    "consejos": ""
-  },
-  {
-    "id": "VIGILANTE-DE-LA-VANGUARDIA",
-    "nombre": "VIGILANTE-DE-LA-VANGUARDIA",
+    "id": "YUUMI",
+    "nombre": "YUUMI",
     "titulo": "",
     "estilo": "",
     "dificultad": "",
