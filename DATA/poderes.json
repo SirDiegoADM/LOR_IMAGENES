@@ -3,37 +3,37 @@
     "id": "FUERA-DE-MI-CAMINO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡fuera_de_mi_camino!.webp",
     "rareza": "legendaria",
-    "recomendados": "SORAKA, AHRI, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "#ERROR!"
   },
   {
     "id": "NO-TE-MUEVAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡no_te_muevas!.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN"
+    "recomendados": "IF(poder=\"\"; \"\";"
   },
   {
     "id": "AMANTE-DEL-CASTIGO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/amante_del_castigo.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN"
+    "recomendados": "TEXTJOIN(\", \"; VERDADERO;"
   },
   {
     "id": "AMIGUITOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/amiguitos.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "BYCOL(DATA_BASE!B1:1; LAMBDA(campeon;"
   },
   {
     "id": "APILADAS-EN-SU-CONTRA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/apiladas_en_su_contra.webp",
     "rareza": "epica",
-    "recomendados": "AKSHAN"
+    "recomendados": "IF(INDEX(DATA_BASE!B:ZZ; MATCH(poder; DATA_BASE!A:A; 0); COLUMN(campeon)-1)=\"X\";"
   },
   {
     "id": "APLASTAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/aplastar.webp",
     "rareza": "comun",
-    "recomendados": "AKSHAN"
+    "recomendados": "campeon;"
   },
   {
     "id": "ARMAS-HASTA-LOS-DIENTES",
@@ -45,31 +45,31 @@
     "id": "ATACALOS-CON-RAPIDEZ",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/atácalos_con_rapidez.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": ")"
   },
   {
     "id": "BROMAS-ESPECTRALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/bromas_espectrales.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "))"
   },
   {
     "id": "BRUJERIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/brujería.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": ")"
   },
   {
     "id": "CARGAMENTO-DE-POLVO-ESTORNUDOSO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cargamento_de_polvo_estornudoso.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": ")"
   },
   {
     "id": "COMPARTE-EL-BOTIN",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/comparte_el_botin.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "))"
   },
   {
     "id": "COMPARTIR-ES-QUERER",
