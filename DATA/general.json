@@ -1,34 +1,698 @@
 [
   {
-    "id": "",
-    "nombre": "",
+    "id": "FUERA-DE-MI-CAMINO",
+    "nombre": "FUERA-DE-MI-CAMINO",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "AGRESIVO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
-    "id": "",
-    "nombre": "",
+    "id": "NO-TE-MUEVAS",
+    "nombre": "NO-TE-MUEVAS",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "COMBO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
   },
   {
-    "id": "",
-    "nombre": "",
+    "id": "AMANTE-DEL-CASTIGO",
+    "nombre": "AMANTE-DEL-CASTIGO",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "COMBO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<h3>Potencial de Invocación</h3>\n<p>Ahri Flor Espiritual ofrece un estilo de 'invocadora' único. Sin embargo, su camino de constelaciones es <b>exigente y costoso</b>, con picos de poder bloqueados tras nodos de alto valor.</p>\n\n<h3>Gestión de Maná</h3>\n<p>Esta versión consume muchísimos recursos. Prioriza reliquias como <b>Tomo oculto</b> o <b>Báculo del Arcángel</b>, y poderes como <b>Hechicería</b> o <b>Inspiración salvaje</b>.</p>\n\n<h3>La Trampa del Coste 0</h3>\n<p>¡Cuidado! Si tus hechizos de coste 1 bajan a <b>0 de maná</b>, <u>no invocarán</u> Fuegos Fatuos, rompiendo tu motor de generación.</p>\n\n<h3>Lógica de Unidades Endebles</h3>\n<p>La IA a menudo no bloquea unidades endebles si el intercambio es malo. Úsalas para colar daño o para <b>bloqueos sacrificables</b>.</p>\n\n<h3>Sinergia: Fuerza Pétrea</h3>\n<p>La runa <b>Armadura espiritual (+0|+3)</b> junto a la reliquia <b>Fuerza pétrea</b> convierte a tus Fuegos zorruno en tanques masivos con <b>Formidable</b>.</p>"
   },
   {
-    "id": "",
-    "nombre": "",
+    "id": "AMIGUITOS",
+    "nombre": "AMIGUITOS",
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "AGRESIVO.webp",
     "dificultad": "MEDIO.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
+  },
+  {
+    "id": "APILADAS-EN-SU-CONTRA",
+    "nombre": "APILADAS-EN-SU-CONTRA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "APLASTAR",
+    "nombre": "APLASTAR",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ARMAS-HASTA-LOS-DIENTES",
+    "nombre": "ARMAS-HASTA-LOS-DIENTES",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ATACALOS-CON-RAPIDEZ",
+    "nombre": "ATACALOS-CON-RAPIDEZ",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "BROMAS-ESPECTRALES",
+    "nombre": "BROMAS-ESPECTRALES",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "BRUJERIA",
+    "nombre": "BRUJERIA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "CARGAMENTO-DE-POLVO-ESTORNUDOSO",
+    "nombre": "CARGAMENTO-DE-POLVO-ESTORNUDOSO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "COMPARTE-EL-BOTIN",
+    "nombre": "COMPARTE-EL-BOTIN",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "COMPARTIR-ES-QUERER",
+    "nombre": "COMPARTIR-ES-QUERER",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "CORTES-PROFUNDOS",
+    "nombre": "CORTES-PROFUNDOS",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "COSECHA-DE-ESENCIA",
+    "nombre": "COSECHA-DE-ESENCIA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "CUADRILLA-DEL-PILLAJE",
+    "nombre": "CUADRILLA-DEL-PILLAJE",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "CUCHILLAS-REBOTANTES",
+    "nombre": "CUCHILLAS-REBOTANTES",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "DESARMADO",
+    "nombre": "DESARMADO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "DESCUENTO-DEL-MERCADO-NEGRO",
+    "nombre": "DESCUENTO-DEL-MERCADO-NEGRO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "DESPERTAR-TITANICO",
+    "nombre": "DESPERTAR-TITANICO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "DOMINACION",
+    "nombre": "DOMINACION",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "DULCE-SOLEDAD",
+    "nombre": "DULCE-SOLEDAD",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "EDUCACION-SUPERIOR",
+    "nombre": "EDUCACION-SUPERIOR",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "EL-FAVOR-DEL-ARTESANO",
+    "nombre": "EL-FAVOR-DEL-ARTESANO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "EL-GENIO-DE-YIPP",
+    "nombre": "EL-GENIO-DE-YIPP",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "EN-LA-MIRA",
+    "nombre": "EN-LA-MIRA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "EN-NECESIDAD-DE-REPARACION",
+    "nombre": "EN-NECESIDAD-DE-REPARACION",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ENTRADA-EXPLOSIVA",
+    "nombre": "ENTRADA-EXPLOSIVA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "EQUIPAR",
+    "nombre": "EQUIPAR",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ESCUDO-URUMI",
+    "nombre": "ESCUDO-URUMI",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ESPERA-CON-PACIENCIA",
+    "nombre": "ESPERA-CON-PACIENCIA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ESTABILIZAR",
+    "nombre": "ESTABILIZAR",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ESTUDIANTE-NUEVO",
+    "nombre": "ESTUDIANTE-NUEVO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "EVOLUCION",
+    "nombre": "EVOLUCION",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "FALANGE",
+    "nombre": "FALANGE",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "FINAL-EXPLOSIVO",
+    "nombre": "FINAL-EXPLOSIVO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "FLUJO-DE-MANA",
+    "nombre": "FLUJO-DE-MANA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "FRENALOS",
+    "nombre": "FRENALOS",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "FUENTE-DE-ENERGIA-ALTERNATIVA",
+    "nombre": "FUENTE-DE-ENERGIA-ALTERNATIVA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "FUERA-DE-LAS-PUERTAS",
+    "nombre": "FUERA-DE-LAS-PUERTAS",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "FURIA-DEL-DRAGON",
+    "nombre": "FURIA-DEL-DRAGON",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "GOLPE-DEBILITANTE",
+    "nombre": "GOLPE-DEBILITANTE",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "HECHICERIA",
+    "nombre": "HECHICERIA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "HERENCIA",
+    "nombre": "HERENCIA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "INSPIRACION-ALOCADA",
+    "nombre": "INSPIRACION-ALOCADA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "JUEGO-DE-MEMORIA",
+    "nombre": "JUEGO-DE-MEMORIA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "LA-GRAN-GRAN-PLAZA",
+    "nombre": "LA-GRAN-GRAN-PLAZA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "LA-MEJOR-DEFENSA",
+    "nombre": "LA-MEJOR-DEFENSA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "LANZADOR-DE-HECHIZOS",
+    "nombre": "LANZADOR-DE-HECHIZOS",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "LENTO-PERO-SEGURO",
+    "nombre": "LENTO-PERO-SEGURO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "MADRUGADOR",
+    "nombre": "MADRUGADOR",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "MECHAS-ENCENDIDAS",
+    "nombre": "MECHAS-ENCENDIDAS",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "MEDITACION-MISTICA",
+    "nombre": "MEDITACION-MISTICA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "MUSCULOSO",
+    "nombre": "MUSCULOSO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "NO-PUEDO-NI-QUIERO-DETENERME",
+    "nombre": "NO-PUEDO-NI-QUIERO-DETENERME",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "OFICIALES-DE-REFUERZO",
+    "nombre": "OFICIALES-DE-REFUERZO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "OFRENDAS-ADECUADAS",
+    "nombre": "OFRENDAS-ADECUADAS",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PERFECCION",
+    "nombre": "PERFECCION",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PODEMOS-LOGRARLO",
+    "nombre": "PODEMOS-LOGRARLO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PODER-ILIMITADO",
+    "nombre": "PODER-ILIMITADO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PODER-TRIFARIANO",
+    "nombre": "PODER-TRIFARIANO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PRESA-FACIL",
+    "nombre": "PRESA-FACIL",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PRESA-HERIDA",
+    "nombre": "PRESA-HERIDA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PRODUCCION-DE-FALSIFICACIONES",
+    "nombre": "PRODUCCION-DE-FALSIFICACIONES",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PROFECIA-ESCALOFRIANTE",
+    "nombre": "PROFECIA-ESCALOFRIANTE",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PROFETA-DE-UN-DIOS-ANTIGUO-II",
+    "nombre": "PROFETA-DE-UN-DIOS-ANTIGUO-II",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PROHIBICION-DEL-MAS-ALLA",
+    "nombre": "PROHIBICION-DEL-MAS-ALLA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "PURA-HABILIDAD",
+    "nombre": "PURA-HABILIDAD",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "QUEMADURA-DE-HECHIZO",
+    "nombre": "QUEMADURA-DE-HECHIZO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "REGALOS-DE-BIENVENIDA",
+    "nombre": "REGALOS-DE-BIENVENIDA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "RESISTENCIA",
+    "nombre": "RESISTENCIA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "RESTABLECER",
+    "nombre": "RESTABLECER",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "REUNIDO",
+    "nombre": "REUNIDO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ROBO-RAPIDO",
+    "nombre": "ROBO-RAPIDO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "ROCIO-DE-POLVO-ESTORNUDOSO",
+    "nombre": "ROCIO-DE-POLVO-ESTORNUDOSO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "SALON-INQUIETANTE",
+    "nombre": "SALON-INQUIETANTE",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "SE-ILUMINA-EL-CAMINO-II",
+    "nombre": "SE-ILUMINA-EL-CAMINO-II",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "SEDE-DEL-PODER",
+    "nombre": "SEDE-DEL-PODER",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "SELECCION-ANTINATURAL",
+    "nombre": "SELECCION-ANTINATURAL",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "SENTIDOS-FERALES",
+    "nombre": "SENTIDOS-FERALES",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "SOBREPREPARACION",
+    "nombre": "SOBREPREPARACION",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "TERRENO-TRAICIONERO",
+    "nombre": "TERRENO-TRAICIONERO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "TRATO-RAPIDO",
+    "nombre": "TRATO-RAPIDO",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "TROPA-EXPEDICIONARIA",
+    "nombre": "TROPA-EXPEDICIONARIA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "VENGANZA-DE-LA-NATURALEZA",
+    "nombre": "VENGANZA-DE-LA-NATURALEZA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "VIENTOS-ELEMENTALES",
+    "nombre": "VIENTOS-ELEMENTALES",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "VIGILANTE-DE-LA-VANGUARDIA",
+    "nombre": "VIGILANTE-DE-LA-VANGUARDIA",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
   }
 ]
