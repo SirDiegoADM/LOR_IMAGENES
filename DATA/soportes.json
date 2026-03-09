@@ -1,6 +1,6 @@
 [
   {
-    "principal": "AAA",
+    "principal": "AATROX",
     "S": [
       "KAYN",
       "VLADIMIR",
@@ -20,16 +20,16 @@
       "Galio",
       "Warwick"
     ]
-  },
-  {
-    "principal": "AATROX",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
   },
   {
     "principal": "AHRI",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "AHRI_FLOR_ESPIRITUAL",
     "S": [
       "KAYN",
       "VLADIMIR",
@@ -49,13 +49,6 @@
       "Galio",
       "Warwick"
     ]
-  },
-  {
-    "principal": "AHRI_FLOR_ESPIRITUAL",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
   },
   {
     "principal": "AKSHAN",
