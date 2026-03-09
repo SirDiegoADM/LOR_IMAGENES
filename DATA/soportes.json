@@ -1,6 +1,6 @@
 [
   {
-    "principal": "AHRI_FLOR_ESPIRITUAL",
+    "principal": "AATROX",
     "S": [
       "KAYN",
       "VLADIMIR",
@@ -20,5 +20,572 @@
       "Galio",
       "Warwick"
     ]
+  },
+  {
+    "principal": "AHRI",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "AHRI_FLOR_ESPIRITUAL",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "AKSHAN",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "AMBESSA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "ANIVIA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "ANNIE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "ASHE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "AURELION_SOL",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "AZIR",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "BARDO",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "CAITLYN",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "DARIUS",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "DIANA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "DRAGON_ANCESTRAL",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "EKKO",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "EL_REY_PORO",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "ELISE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "EVELYNN",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "EVELYNN_FLOR_ESPIRITUAL",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "FIDDLESTICKS",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "GAREN",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "GNAR",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "GWEN",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "HEIMERDINGER",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "ILLAOI",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "JACK",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "JANNA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "JAX",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "JAYCE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "JHIN",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "JINX",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "KAISA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "KAYLE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "KAYN",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "KINDRED",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "LA_ARREBATADORA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "LEBLANC",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "LEE_SIN",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "LEONA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "LILLIA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "LUX",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "LUX_ILUMINADA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "MAESTRO_YI",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "MAESTRO_YI_FLOR_ESPIRITUAL",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "MEL",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "MISS_FORTUNE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "MORDEKAISER",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "MORGANA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "NAMI",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "NASUS",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "NAUTILUS",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "NEEKO",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "NIDALEE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "NILAH",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "NORRA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "ORNN",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "PYKE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "SAMIRA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "SETT",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "SHYVANA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "SORAKA",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "SWAIN",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "TALIYAH",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "TEEMO",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "TEEMO_FLOR_ESPIRITUAL",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "TAHM_KENCH",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "THRESH",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "TRYNDAMERE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "TWISTED_FATE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "VARUS",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "VAYNE",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "VEIGAR",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "VEX",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "VI",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "VIEGO",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "VIKTOR",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "VOLIBEAR",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "WARWICK",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "YASUO",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "YASUO_FLOR_ESPIRITUAL",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
+  },
+  {
+    "principal": "YUUMI",
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
   }
 ]
