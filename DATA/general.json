@@ -21,7 +21,7 @@
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "COMBO.webp",
     "dificultad": "FACIL.webp",
-    "consejos": "<div style='border-left: 4px solid #cca44a; padding-left: 10px; margin-bottom: 15px;'>\r\n  <span style='color: #cca44a; font-weight: bold;'>📈 POTENCIAL E INVOCACIÓN</span>\r\n</div>\r\n<p style='margin-bottom: 15px;'>Ahri Flor Espiritual ofrece un estilo de 'invocadora' único. Sin embargo, su camino de constelaciones es <span style='color: #cca44a;'><b>exigente y costoso</b></span>, con picos de poder bloqueados tras nodos de alto valor.</p>\r\n\r\n<p><span style='color: #cca44a;'>✦</span> <b>Gestión de Maná:</b> Consume muchos recursos. Prioriza reliquias como <i>Tomo Oculto</i> o <i>Báculo del Arcángel</i>, y poderes como <i>Hechicería</i> o <i>Inspiración Salvaje</i> para mantener su motor activo.</p>\r\n\r\n<div style='border-left: 4px solid #cca44a; padding-left: 10px; margin-top: 20px; margin-bottom: 15px;'>\r\n  <span style='color: #cca44a; font-weight: bold;'>⚔️ ESTRATEGIA Y COMBOS</span>\r\n</div>\r\n\r\n<p style='margin-bottom: 10px;'><span style='color: #cca44a;'>✦</span> <b>La Trampa del Coste 0:</b> ¡Cuidado! Si tus hechizos de coste 1 bajan a 0 de maná, <u>no invocarán</u> Fuegos Fatuos, rompiendo tu motor de generación.</p>\r\n\r\n<p style='margin-bottom: 10px;'><span style='color: #cca44a;'>✦</span> <b>Lógica de Unidades Endebles:</b> La IA a menudo no bloquea unidades endebles si el intercambio es malo para ella. Úsalas para colar daño o para bloqueos sacrificables.</p>\r\n\r\n<p><span style='color: #cca44a;'>✦</span> <b>Fuerza Pétrea:</b> La runa <span style='color: #cca44a;'>Armadura Espiritual (+0|+3)</span> junto a la reliquia <b>Fuerza Pétrea</b> convierte a tus Fuegos Zorruno en tanques masivos con <b>Formidable</b>.</p>"
+    "consejos": "<h3>Potencial de Invocación</h3>"
   },
   {
     "id": "AKSHAN",
@@ -29,6 +29,102 @@
     "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
     "estilo": "AGRESIVO.webp",
     "dificultad": "MEDIO.webp",
-    "consejos": "<p>Aquí van tus consejos...</p>"
+    "consejos": "<p>Ahri Flor Espiritual ofrece un estilo de 'invocadora' único. Sin embargo, su camino de constelaciones es <b>exigente y costoso</b>, con picos de poder bloqueados tras nodos de alto valor.</p>"
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": "<h3>Gestión de Maná</h3>"
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": "<p>Esta versión consume muchísimos recursos. Prioriza reliquias como <b>Tomo oculto</b> o <b>Báculo del Arcángel</b>, y poderes como <b>Hechicería</b> o <b>Inspiración salvaje</b>.</p>"
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": "<h3>La Trampa del Coste 0</h3>"
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": "<p>¡Cuidado! Si tus hechizos de coste 1 bajan a <b>0 de maná</b>, <u>no invocarán</u> Fuegos Fatuos, rompiendo tu motor de generación.</p>"
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": "<h3>Lógica de Unidades Endebles</h3>"
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": "<p>La IA a menudo no bloquea unidades endebles si el intercambio es malo. Úsalas para colar daño o para <b>bloqueos sacrificables</b>.</p>"
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": ""
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": "<h3>Sinergia: Fuerza Pétrea</h3>"
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "titulo": "",
+    "estilo": "",
+    "dificultad": "",
+    "consejos": "<p>La runa <b>Armadura espiritual (+0|+3)</b> junto a la reliquia <b>Fuerza pétrea</b> convierte a tus Fuegos zorruno en tanques masivos con <b>Formidable</b>.</p>"
   }
 ]
