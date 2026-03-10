@@ -388,14 +388,14 @@
     "nombre": "MORGANA",
     "titulo": "La Desolada",
     "estilo": "DEFENSIVO.webp",
-    "dificultad": "",
+    "dificultad": "DIFICIL.webp",
     "consejos": ""
   },
   {
     "id": "NAMI",
     "nombre": "NAMI",
     "titulo": "La Invocadora de Mareas",
-    "estilo": "",
+    "estilo": "COMBO.webp",
     "dificultad": "",
     "consejos": ""
   },
