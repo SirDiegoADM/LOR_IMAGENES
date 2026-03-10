@@ -508,14 +508,14 @@
     "nombre": "TALIYAH",
     "titulo": "La Tejedora de Piedra",
     "estilo": "BALANCEADO.webp",
-    "dificultad": "",
+    "dificultad": "DIFICIL.webp",
     "consejos": ""
   },
   {
     "id": "TEEMO",
     "nombre": "TEEMO",
     "titulo": "El Explorador Veloz",
-    "estilo": "",
+    "estilo": "COMBO.webp",
     "dificultad": "",
     "consejos": ""
   },
