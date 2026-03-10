@@ -211,8 +211,8 @@
     "id": "JACK",
     "nombre": "JACK",
     "titulo": "El Ganador",
-    "estilo": "",
-    "dificultad": "",
+    "estilo": "COMBO.webp",
+    "dificultad": "MEDIO.webp",
     "consejos": ""
   },
   {
