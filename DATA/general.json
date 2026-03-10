@@ -635,14 +635,14 @@
     "id": "YASUO",
     "nombre": "YASUO",
     "titulo": "El Imperdonable",
-    "estilo": "",
-    "dificultad": "",
+    "estilo": "DEFENSIVO.webp",
+    "dificultad": "MEDIO.webp",
     "consejos": ""
   },
   {
     "id": "YASUO_FLOR_ESPIRITUAL",
     "nombre": "YASUO_FLOR_ESPIRITUAL",
-    "titulo": "El Espíritu del Destino",
+    "titulo": "El Hermano Menor",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
