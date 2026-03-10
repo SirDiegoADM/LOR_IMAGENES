@@ -548,14 +548,14 @@
     "nombre": "TRYNDAMERE",
     "titulo": "El Rey Bárbaro",
     "estilo": "AGRESIVO.webp",
-    "dificultad": "",
+    "dificultad": "MEDIO.webp",
     "consejos": ""
   },
   {
     "id": "TWISTED_FATE",
     "nombre": "TWISTED_FATE",
     "titulo": "El Maestro de las Cartas",
-    "estilo": "",
+    "estilo": "COMBO.webp",
     "dificultad": "",
     "consejos": ""
   },
