@@ -428,14 +428,14 @@
     "nombre": "NIDALEE",
     "titulo": "La Cazadora Salvaje",
     "estilo": "BALANCEADO.webp",
-    "dificultad": "",
+    "dificultad": "DIFICIL.webp",
     "consejos": ""
   },
   {
     "id": "NILAH",
     "nombre": "NILAH",
     "titulo": "La Alegría Desatada",
-    "estilo": "",
+    "estilo": "AGRESIVO.webp",
     "dificultad": "",
     "consejos": ""
   },
