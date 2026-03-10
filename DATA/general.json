@@ -411,8 +411,8 @@
     "id": "NAUTILUS",
     "nombre": "NAUTILUS",
     "titulo": "El Titán de las Profundidades",
-    "estilo": "",
-    "dificultad": "",
+    "estilo": "DEFENSIVO.webp",
+    "dificultad": "FACIL.webp",
     "consejos": ""
   },
   {
