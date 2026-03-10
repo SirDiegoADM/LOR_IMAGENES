@@ -2,7 +2,7 @@
   {
     "id": "AATROX",
     "nombre": "AATROX",
-    "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
+    "titulo": "La Espada Darkin",
     "estilo": "AGRESIVO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
@@ -10,7 +10,7 @@
   {
     "id": "AHRI",
     "nombre": "AHRI",
-    "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
+    "titulo": "La Vastaya de Nueve Colas",
     "estilo": "COMBO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
@@ -18,7 +18,7 @@
   {
     "id": "AHRI_FLOR_ESPIRITUAL",
     "nombre": "AHRI_FLOR_ESPIRITUAL",
-    "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
+    "titulo": "El Espíritu del Zorro",
     "estilo": "COMBO.webp",
     "dificultad": "FACIL.webp",
     "consejos": "<h3>Potencial de Invocación</h3>\n<p>Ahri Flor Espiritual ofrece un estilo de 'invocadora' único. Sin embargo, su camino de constelaciones es <b>exigente y costoso</b>, con picos de poder bloqueados tras nodos de alto valor.</p>\n\n<h3>Gestión de Maná</h3>\n<p>Esta versión consume muchísimos recursos. Prioriza reliquias como <b>Tomo oculto</b> o <b>Báculo del Arcángel</b>, y poderes como <b>Hechicería</b> o <b>Inspiración salvaje</b>.</p>\n\n<h3>La Trampa del Coste 0</h3>\n<p>¡Cuidado! Si tus hechizos de coste 1 bajan a <b>0 de maná</b>, <u>no invocarán</u> Fuegos Fatuos, rompiendo tu motor de generación.</p>\n\n<h3>Lógica de Unidades Endebles</h3>\n<p>La IA a menudo no bloquea unidades endebles si el intercambio es malo. Úsalas para colar daño o para <b>bloqueos sacrificables</b>.</p>\n\n<h3>Sinergia: Fuerza Pétrea</h3>\n<p>La runa <b>Armadura espiritual (+0|+3)</b> junto a la reliquia <b>Fuerza pétrea</b> convierte a tus Fuegos zorruno en tanques masivos con <b>Formidable</b>.</p>"
@@ -26,7 +26,7 @@
   {
     "id": "AKSHAN",
     "nombre": "AKSHAN",
-    "titulo": "DOMINIO DE MESA Y SUPERVIVENCIA",
+    "titulo": "El Centinela Rebelde",
     "estilo": "AGRESIVO.webp",
     "dificultad": "MEDIO.webp",
     "consejos": "<p>Aquí van tus consejos...</p>"
@@ -34,7 +34,7 @@
   {
     "id": "AMBESSA",
     "nombre": "AMBESSA",
-    "titulo": "",
+    "titulo": "Matriarca de la Guerra",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -42,7 +42,7 @@
   {
     "id": "ANIVIA",
     "nombre": "ANIVIA",
-    "titulo": "",
+    "titulo": "La Criofénix",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -50,7 +50,7 @@
   {
     "id": "ANNIE",
     "nombre": "ANNIE",
-    "titulo": "",
+    "titulo": "La Hija de la Oscuridad",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -58,7 +58,7 @@
   {
     "id": "ASHE",
     "nombre": "ASHE",
-    "titulo": "",
+    "titulo": "La Arquera de Hielo",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -66,7 +66,7 @@
   {
     "id": "AURELION_SOL",
     "nombre": "AURELION_SOL",
-    "titulo": "",
+    "titulo": "El Forjador de Estrellas",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -74,7 +74,7 @@
   {
     "id": "AZIR",
     "nombre": "AZIR",
-    "titulo": "",
+    "titulo": "El Emperador de las Arenas",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -82,7 +82,7 @@
   {
     "id": "BARDO",
     "nombre": "BARDO",
-    "titulo": "",
+    "titulo": "El Guardián Trotamundos",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -90,7 +90,7 @@
   {
     "id": "CAITLYN",
     "nombre": "CAITLYN",
-    "titulo": "",
+    "titulo": "La Sheriff de Piltóver",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -98,7 +98,7 @@
   {
     "id": "DARIUS",
     "nombre": "DARIUS",
-    "titulo": "",
+    "titulo": "La Mano de Noxus",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -106,7 +106,7 @@
   {
     "id": "DIANA",
     "nombre": "DIANA",
-    "titulo": "",
+    "titulo": "El Desdén de la Luna",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -114,7 +114,7 @@
   {
     "id": "DRAGON_ANCESTRAL",
     "nombre": "DRAGON_ANCESTRAL",
-    "titulo": "",
+    "titulo": "El Dragón Ancestral",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -122,7 +122,7 @@
   {
     "id": "EKKO",
     "nombre": "EKKO",
-    "titulo": "",
+    "titulo": "El Joven que Fragmentó el Tiempo",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -130,7 +130,7 @@
   {
     "id": "EL_REY_PORO",
     "nombre": "EL_REY_PORO",
-    "titulo": "",
+    "titulo": "Su Majestad Real",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -138,7 +138,7 @@
   {
     "id": "ELISE",
     "nombre": "ELISE",
-    "titulo": "",
+    "titulo": "La Reina de las Arañas",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -146,7 +146,7 @@
   {
     "id": "EVELYNN",
     "nombre": "EVELYNN",
-    "titulo": "",
+    "titulo": "El Abrazo de la Agonía",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -154,7 +154,7 @@
   {
     "id": "EVELYNN_FLOR_ESPIRITUAL",
     "nombre": "EVELYNN_FLOR_ESPIRITUAL",
-    "titulo": "",
+    "titulo": "El Espíritu del Amor",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -162,7 +162,7 @@
   {
     "id": "FIDDLESTICKS",
     "nombre": "FIDDLESTICKS",
-    "titulo": "",
+    "titulo": "El Terror Ancestral",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -170,7 +170,7 @@
   {
     "id": "GAREN",
     "nombre": "GAREN",
-    "titulo": "",
+    "titulo": "El Poder de Demacia",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -178,7 +178,7 @@
   {
     "id": "GNAR",
     "nombre": "GNAR",
-    "titulo": "",
+    "titulo": "El Eslabón Perdido",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -186,7 +186,7 @@
   {
     "id": "GWEN",
     "nombre": "GWEN",
-    "titulo": "",
+    "titulo": "La Costurera Consagrada",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -194,7 +194,7 @@
   {
     "id": "HEIMERDINGER",
     "nombre": "HEIMERDINGER",
-    "titulo": "",
+    "titulo": "El Inventor Venerado",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -202,7 +202,7 @@
   {
     "id": "ILLAOI",
     "nombre": "ILLAOI",
-    "titulo": "",
+    "titulo": "La Sacerdotisa del Kraken",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -210,7 +210,7 @@
   {
     "id": "JACK",
     "nombre": "JACK",
-    "titulo": "",
+    "titulo": "El Ganador",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -218,7 +218,7 @@
   {
     "id": "JANNA",
     "nombre": "JANNA",
-    "titulo": "",
+    "titulo": "La Furia de la Tormenta",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -226,7 +226,7 @@
   {
     "id": "JAX",
     "nombre": "JAX",
-    "titulo": "",
+    "titulo": "El Maestro de las Armas",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -234,7 +234,7 @@
   {
     "id": "JAYCE",
     "nombre": "JAYCE",
-    "titulo": "",
+    "titulo": "El Defensor del Mañana",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -242,7 +242,7 @@
   {
     "id": "JHIN",
     "nombre": "JHIN",
-    "titulo": "",
+    "titulo": "El Virtuoso",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -250,7 +250,7 @@
   {
     "id": "JINX",
     "nombre": "JINX",
-    "titulo": "",
+    "titulo": "La Bala Perdida",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -258,7 +258,7 @@
   {
     "id": "KAISA",
     "nombre": "KAISA",
-    "titulo": "",
+    "titulo": "La Hija del Vacío",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -266,7 +266,7 @@
   {
     "id": "KAYLE",
     "nombre": "KAYLE",
-    "titulo": "",
+    "titulo": "La Justiciera",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -274,7 +274,7 @@
   {
     "id": "KAYN",
     "nombre": "KAYN",
-    "titulo": "",
+    "titulo": "El Segador Sombrío",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -282,7 +282,7 @@
   {
     "id": "KINDRED",
     "nombre": "KINDRED",
-    "titulo": "",
+    "titulo": "Los Cazadores Eternos",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -290,7 +290,7 @@
   {
     "id": "LA_ARREBATADORA",
     "nombre": "LA_ARREBATADORA",
-    "titulo": "",
+    "titulo": "La Arrebatadora",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -298,7 +298,7 @@
   {
     "id": "LEBLANC",
     "nombre": "LEBLANC",
-    "titulo": "",
+    "titulo": "La Maquiavélica",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -306,7 +306,7 @@
   {
     "id": "LEE_SIN",
     "nombre": "LEE_SIN",
-    "titulo": "",
+    "titulo": "El Monje Ciego",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -314,7 +314,7 @@
   {
     "id": "LEONA",
     "nombre": "LEONA",
-    "titulo": "",
+    "titulo": "El Amanecer Radiante",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -322,7 +322,7 @@
   {
     "id": "LILLIA",
     "nombre": "LILLIA",
-    "titulo": "",
+    "titulo": "La Flor Tímida",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
