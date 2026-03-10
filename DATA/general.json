@@ -468,21 +468,21 @@
     "nombre": "SAMIRA",
     "titulo": "La Rosa del Desierto",
     "estilo": "AGRESIVO.webp",
-    "dificultad": "",
+    "dificultad": "MEDIO.webp",
     "consejos": ""
   },
   {
     "id": "SETT",
     "nombre": "SETT",
     "titulo": "El Jefe",
-    "estilo": "",
-    "dificultad": "",
+    "estilo": "COMBO.webp",
+    "dificultad": "DIFICIL.webp",
     "consejos": ""
   },
   {
     "id": "SHYVANA",
     "nombre": "SHYVANA",
-    "titulo": "La Hija del Dragón",
+    "titulo": "La Mitad Dragón",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
