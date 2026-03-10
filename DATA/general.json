@@ -330,7 +330,7 @@
   {
     "id": "LUX",
     "nombre": "LUX",
-    "titulo": "",
+    "titulo": "La Dama Luminosa",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -338,7 +338,7 @@
   {
     "id": "LUX_ILUMINADA",
     "nombre": "LUX_ILUMINADA",
-    "titulo": "",
+    "titulo": "La Dama Iluminada",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -346,7 +346,7 @@
   {
     "id": "MAESTRO_YI",
     "nombre": "MAESTRO_YI",
-    "titulo": "",
+    "titulo": "El Espadachín Wuju",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -354,7 +354,7 @@
   {
     "id": "MAESTRO_YI_FLOR_ESPIRITUAL",
     "nombre": "MAESTRO_YI_FLOR_ESPIRITUAL",
-    "titulo": "",
+    "titulo": "El Espíritu del Legado",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -362,7 +362,7 @@
   {
     "id": "MEL",
     "nombre": "MEL",
-    "titulo": "",
+    "titulo": "La Consejera Medarda",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -370,7 +370,7 @@
   {
     "id": "MISS_FORTUNE",
     "nombre": "MISS_FORTUNE",
-    "titulo": "",
+    "titulo": "La Cazarrecompensas",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -378,7 +378,7 @@
   {
     "id": "MORDEKAISER",
     "nombre": "MORDEKAISER",
-    "titulo": "",
+    "titulo": "El Renacido de Hierro",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -386,7 +386,7 @@
   {
     "id": "MORGANA",
     "nombre": "MORGANA",
-    "titulo": "",
+    "titulo": "La Desolada",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -394,7 +394,7 @@
   {
     "id": "NAMI",
     "nombre": "NAMI",
-    "titulo": "",
+    "titulo": "La Invocadora de Mareas",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -402,7 +402,7 @@
   {
     "id": "NASUS",
     "nombre": "NASUS",
-    "titulo": "",
+    "titulo": "El Curador de las Arenas",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -410,7 +410,7 @@
   {
     "id": "NAUTILUS",
     "nombre": "NAUTILUS",
-    "titulo": "",
+    "titulo": "El Titán de las Profundidades",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -418,7 +418,7 @@
   {
     "id": "NEEKO",
     "nombre": "NEEKO",
-    "titulo": "",
+    "titulo": "La Camaleona Curiosa",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -426,7 +426,7 @@
   {
     "id": "NIDALEE",
     "nombre": "NIDALEE",
-    "titulo": "",
+    "titulo": "La Cazadora Bestial",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -434,7 +434,7 @@
   {
     "id": "NILAH",
     "nombre": "NILAH",
-    "titulo": "",
+    "titulo": "La Alegría Desatada",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -442,7 +442,7 @@
   {
     "id": "NORRA",
     "nombre": "NORRA",
-    "titulo": "",
+    "titulo": "La Bibliotecaria Perdida",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -450,7 +450,7 @@
   {
     "id": "ORNN",
     "nombre": "ORNN",
-    "titulo": "",
+    "titulo": "El Fuego debajo de la Montaña",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -458,7 +458,7 @@
   {
     "id": "PYKE",
     "nombre": "PYKE",
-    "titulo": "",
+    "titulo": "El Destripador del Puerto Sangriento",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -466,7 +466,7 @@
   {
     "id": "SAMIRA",
     "nombre": "SAMIRA",
-    "titulo": "",
+    "titulo": "La Rosa del Desierto",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -474,7 +474,7 @@
   {
     "id": "SETT",
     "nombre": "SETT",
-    "titulo": "",
+    "titulo": "El Jefe",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -482,7 +482,7 @@
   {
     "id": "SHYVANA",
     "nombre": "SHYVANA",
-    "titulo": "",
+    "titulo": "La Hija del Dragón",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -490,7 +490,7 @@
   {
     "id": "SORAKA",
     "nombre": "SORAKA",
-    "titulo": "",
+    "titulo": "La Hija de las Estrellas",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -498,7 +498,7 @@
   {
     "id": "SWAIN",
     "nombre": "SWAIN",
-    "titulo": "",
+    "titulo": "El Gran General Noxiano",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -506,7 +506,7 @@
   {
     "id": "TALIYAH",
     "nombre": "TALIYAH",
-    "titulo": "",
+    "titulo": "La Tejedora de Piedra",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -514,7 +514,7 @@
   {
     "id": "TEEMO",
     "nombre": "TEEMO",
-    "titulo": "",
+    "titulo": "El Explorador Veloz",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -522,7 +522,7 @@
   {
     "id": "TEEMO_FLOR_ESPIRITUAL",
     "nombre": "TEEMO_FLOR_ESPIRITUAL",
-    "titulo": "",
+    "titulo": "El Espíritu de la Naturaleza",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -530,7 +530,7 @@
   {
     "id": "TAHM_KENCH",
     "nombre": "TAHM_KENCH",
-    "titulo": "",
+    "titulo": "El Rey del Río",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -538,7 +538,7 @@
   {
     "id": "THRESH",
     "nombre": "THRESH",
-    "titulo": "",
+    "titulo": "El Carcelero Implacable",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -546,7 +546,7 @@
   {
     "id": "TRYNDAMERE",
     "nombre": "TRYNDAMERE",
-    "titulo": "",
+    "titulo": "El Rey Bárbaro",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -554,7 +554,7 @@
   {
     "id": "TWISTED_FATE",
     "nombre": "TWISTED_FATE",
-    "titulo": "",
+    "titulo": "El Maestro de las Cartas",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -562,7 +562,7 @@
   {
     "id": "VARUS",
     "nombre": "VARUS",
-    "titulo": "",
+    "titulo": "La Flecha del Castigo",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -570,7 +570,7 @@
   {
     "id": "VAYNE",
     "nombre": "VAYNE",
-    "titulo": "",
+    "titulo": "La Cazadora Nocturna",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -578,7 +578,7 @@
   {
     "id": "VEIGAR",
     "nombre": "VEIGAR",
-    "titulo": "",
+    "titulo": "El Pequeño Maestro del Mal",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -586,7 +586,7 @@
   {
     "id": "VEX",
     "nombre": "VEX",
-    "titulo": "",
+    "titulo": "La Tristóloga",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -594,7 +594,7 @@
   {
     "id": "VI",
     "nombre": "VI",
-    "titulo": "",
+    "titulo": "La Vigilante de Piltóver",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -602,7 +602,7 @@
   {
     "id": "VIEGO",
     "nombre": "VIEGO",
-    "titulo": "",
+    "titulo": "El Rey Arruinado",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -610,7 +610,7 @@
   {
     "id": "VIKTOR",
     "nombre": "VIKTOR",
-    "titulo": "",
+    "titulo": "El Heraldo de la Evolución",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -618,7 +618,7 @@
   {
     "id": "VOLIBEAR",
     "nombre": "VOLIBEAR",
-    "titulo": "",
+    "titulo": "La Tormenta Inexorable",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -626,7 +626,7 @@
   {
     "id": "WARWICK",
     "nombre": "WARWICK",
-    "titulo": "",
+    "titulo": "La Furia Desatada de Zaun",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -634,7 +634,7 @@
   {
     "id": "YASUO",
     "nombre": "YASUO",
-    "titulo": "",
+    "titulo": "El Imperdonable",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -642,7 +642,7 @@
   {
     "id": "YASUO_FLOR_ESPIRITUAL",
     "nombre": "YASUO_FLOR_ESPIRITUAL",
-    "titulo": "",
+    "titulo": "El Espíritu del Destino",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
@@ -650,7 +650,7 @@
   {
     "id": "YUUMI",
     "nombre": "YUUMI",
-    "titulo": "",
+    "titulo": "La Gata Mágica",
     "estilo": "",
     "dificultad": "",
     "consejos": ""
