@@ -516,14 +516,14 @@
     "nombre": "TEEMO",
     "titulo": "El Explorador Veloz",
     "estilo": "COMBO.webp",
-    "dificultad": "",
+    "dificultad": "MEDIO.webp",
     "consejos": ""
   },
   {
     "id": "TEEMO_FLOR_ESPIRITUAL",
     "nombre": "TEEMO_FLOR_ESPIRITUAL",
-    "titulo": "El Espíritu de la Naturaleza",
-    "estilo": "",
+    "titulo": "El Rey Bromista",
+    "estilo": "UNICO.webp",
     "dificultad": "",
     "consejos": ""
   },
