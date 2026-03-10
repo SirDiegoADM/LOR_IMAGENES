@@ -643,15 +643,15 @@
     "id": "YASUO_FLOR_ESPIRITUAL",
     "nombre": "YASUO_FLOR_ESPIRITUAL",
     "titulo": "El Hermano Menor",
-    "estilo": "",
-    "dificultad": "",
+    "estilo": "COMBO.webp",
+    "dificultad": "DIFICIL.webp",
     "consejos": ""
   },
   {
     "id": "YUUMI",
     "nombre": "YUUMI",
     "titulo": "La Gata Mágica",
-    "estilo": "",
+    "estilo": "BALANCEADO.webp",
     "dificultad": "",
     "consejos": ""
   }
