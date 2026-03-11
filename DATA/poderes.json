@@ -9,7 +9,7 @@
     "id": "NO-TE-MUEVAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡no_te_muevas!.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "ANIVIA"
   },
   {
     "id": "AMANTE-DEL-CASTIGO",
@@ -33,7 +33,7 @@
     "id": "APLASTAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/aplastar.webp",
     "rareza": "comun",
-    "recomendados": "AKSHAN, AMBESSA"
+    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE"
   },
   {
     "id": "ARMAS-HASTA-LOS-DIENTES",
@@ -57,13 +57,13 @@
     "id": "BRUJERIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/brujería.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN, ANNIE, ASHE"
   },
   {
     "id": "CARGAMENTO-DE-POLVO-ESTORNUDOSO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cargamento_de_polvo_estornudoso.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, AZIR"
   },
   {
     "id": "COMPARTE-EL-BOTIN",
@@ -93,13 +93,13 @@
     "id": "CUADRILLA-DEL-PILLAJE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cuadrilla_del_pillaje.webp",
     "rareza": "comun",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, ANIVIA, ANNIE"
   },
   {
     "id": "CUCHILLAS-REBOTANTES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cuchillas_rebotantes.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "ANNIE, AURELION_SOL"
   },
   {
     "id": "DESARMADO",
@@ -111,19 +111,19 @@
     "id": "DESCUENTO-DEL-MERCADO-NEGRO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/descuento_del_mercado_negro.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "ANIVIA, AZIR"
   },
   {
     "id": "DESPERTAR-TITANICO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/despertar_titánico.webp",
     "rareza": "rara",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AURELION_SOL"
   },
   {
     "id": "DOMINACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/dominación.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AMBESSA"
+    "recomendados": "AHRI, AMBESSA, ANIVIA, ANNIE, ASHE"
   },
   {
     "id": "DULCE-SOLEDAD",
@@ -141,19 +141,19 @@
     "id": "EL-FAVOR-DEL-ARTESANO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_favor_del_artesano.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN"
+    "recomendados": "AKSHAN, AURELION_SOL"
   },
   {
     "id": "EL-GENIO-DE-YIPP",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_genio_de_yipp.webp",
     "rareza": "epica",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AZIR"
   },
   {
     "id": "EN-LA-MIRA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/en_la_mira.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "ANIVIA"
   },
   {
     "id": "EN-NECESIDAD-DE-REPARACION",
@@ -165,7 +165,7 @@
     "id": "ENTRADA-EXPLOSIVA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/entrada_explosiva.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, ANNIE"
   },
   {
     "id": "EQUIPAR",
@@ -183,13 +183,13 @@
     "id": "ESPERA-CON-PACIENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/espera_con_paciencia.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "ANNIE"
   },
   {
     "id": "ESTABILIZAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/estabilizar.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, ANIVIA, ASHE"
   },
   {
     "id": "ESTUDIANTE-NUEVO",
@@ -213,19 +213,19 @@
     "id": "FINAL-EXPLOSIVO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/final_explosivo.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "ANNIE"
   },
   {
     "id": "FLUJO-DE-MANA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/flujo_de_maná.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "ANIVIA, AZIR"
   },
   {
     "id": "FRENALOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/frénalos.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "ANIVIA, ASHE"
   },
   {
     "id": "FUENTE-DE-ENERGIA-ALTERNATIVA",
@@ -249,7 +249,7 @@
     "id": "GOLPE-DEBILITANTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/golpe_debilitante.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "ANIVIA"
   },
   {
     "id": "HECHICERIA",
@@ -267,13 +267,13 @@
     "id": "INSPIRACION-ALOCADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/inspiracion_alocada.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AKSHAN"
+    "recomendados": "AATROX, AKSHAN, ANNIE, AURELION_SOL"
   },
   {
     "id": "JUEGO-DE-MEMORIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/juego_de_memoria.webp",
     "rareza": "rara",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AURELION_SOL"
   },
   {
     "id": "LA-GRAN-GRAN-PLAZA",
@@ -291,13 +291,13 @@
     "id": "LANZADOR-DE-HECHIZOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/lanzador_de_hechizos.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN"
+    "recomendados": "AKSHAN, ANIVIA, ANNIE"
   },
   {
     "id": "LENTO-PERO-SEGURO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/lento_pero_seguro.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, ANIVIA"
   },
   {
     "id": "MADRUGADOR",
@@ -315,7 +315,7 @@
     "id": "MEDITACION-MISTICA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/meditación_mística.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AURELION_SOL, AZIR"
   },
   {
     "id": "MUSCULOSO",
@@ -381,7 +381,7 @@
     "id": "PRODUCCION-DE-FALSIFICACIONES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/producción_de_falsificaciones.webp",
     "rareza": "comun",
-    "recomendados": "AMBESSA"
+    "recomendados": "AMBESSA, AURELION_SOL"
   },
   {
     "id": "PROFECIA-ESCALOFRIANTE",
@@ -405,25 +405,25 @@
     "id": "PURA-HABILIDAD",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/pura_habilidad.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "ANNIE"
   },
   {
     "id": "QUEMADURA-DE-HECHIZO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/quemadura_de_hechizo.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "ANNIE"
   },
   {
     "id": "REGALOS-DE-BIENVENIDA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/regalos_de_bienvenida.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, ANIVIA, AZIR"
   },
   {
     "id": "RESISTENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/resistencia.webp",
     "rareza": "comun",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, ANIVIA"
   },
   {
     "id": "RESTABLECER",
@@ -441,7 +441,7 @@
     "id": "ROBO-RAPIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/robo_rápido.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "ANIVIA, AZIR"
   },
   {
     "id": "ROCIO-DE-POLVO-ESTORNUDOSO",
@@ -477,7 +477,7 @@
     "id": "SENTIDOS-FERALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/sentidos_ferales.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AURELION_SOL"
   },
   {
     "id": "SOBREPREPARACION",
@@ -513,7 +513,7 @@
     "id": "VIENTOS-ELEMENTALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/vientos_elementales.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "ANIVIA, ANNIE"
   },
   {
     "id": "VIGILANTE-DE-LA-VANGUARDIA",
