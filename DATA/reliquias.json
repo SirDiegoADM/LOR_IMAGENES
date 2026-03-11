@@ -3,7 +3,7 @@
     "id": "ABRAZO-DE-LA-REINA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Abrazo_de_la_Reina.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "ELISE"
   },
   {
     "id": "ACELERADOR-DE-PORTALES-DE-NORRA",
@@ -27,13 +27,13 @@
     "id": "ANGEL-GUARDIAN",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ángel_Guardián.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA, ANNIE, CAITLYN"
+    "recomendados": "ANIVIA, ANNIE, CAITLYN, EKKO"
   },
   {
     "id": "APRENDIZ-DE-LAS-SOMBRAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Aprendiz_de_las_Sombras.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AMBESSA, AURELION_SOL, AZIR, DARIUS, DRAGON_ANCESTRAL"
+    "recomendados": "AATROX, AMBESSA, AURELION_SOL, AZIR, DARIUS, DRAGON_ANCESTRAL, EL_REY_PORO"
   },
   {
     "id": "ARMA-VIVIENTE",
@@ -69,7 +69,7 @@
     "id": "BACULO-DEL-ARCANGEL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Báculo_del_Arcángel.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, ANNIE, ASHE, BARDO, CAITLYN, DIANA"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, ANNIE, ASHE, BARDO, CAITLYN, DIANA, EL_REY_PORO"
   },
   {
     "id": "BARATIJA-DEL-GUARDIAN",
@@ -111,13 +111,13 @@
     "id": "CAPARAZON-DEL-VACIO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Caparazón_del_Vacío.webp",
     "rareza": "rara",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, ELISE"
   },
   {
     "id": "CAPITULO-PERDIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Capítulo_Perdido.webp",
     "rareza": "comun",
-    "recomendados": "AHRI, ANNIE, DRAGON_ANCESTRAL"
+    "recomendados": "AHRI, ANNIE, DRAGON_ANCESTRAL, EL_REY_PORO"
   },
   {
     "id": "CASCO-DEL-SENOR-DE-LA-GUERRA",
@@ -183,7 +183,7 @@
     "id": "DERROTA-DE-LA-MUERTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Derrota_de_la_Muerte.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AMBESSA, AZIR"
+    "recomendados": "AHRI, AMBESSA, AZIR, EKKO"
   },
   {
     "id": "DESESPERACION-ABSOLUTA",
@@ -201,7 +201,7 @@
     "id": "DUPLICADOR-QUIMTECH",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Duplicador_Quimtech.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN, ANIVIA, CAITLYN, DARIUS, DRAGON_ANCESTRAL"
+    "recomendados": "AKSHAN, ANIVIA, CAITLYN, DARIUS, DRAGON_ANCESTRAL, EKKO, EL_REY_PORO"
   },
   {
     "id": "EJERCITO-DE-CUERVOS-DE-SWAIN",
@@ -237,7 +237,7 @@
     "id": "EL-ESCONDITE-DEL-AZOTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Escondite_del_Azote.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, DARIUS, DRAGON_ANCESTRAL"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, DARIUS, DRAGON_ANCESTRAL, EL_REY_PORO"
   },
   {
     "id": "EL-GAMBITO-DEL-AMO-DE-LAS-CARTAS",
@@ -249,7 +249,7 @@
     "id": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Plan_de_Contingencia_del_Gran_General.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, ANNIE, ASHE, AZIR, BARDO, CAITLYN, DIANA"
+    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, ANNIE, ASHE, AZIR, BARDO, CAITLYN, DIANA, EKKO"
   },
   {
     "id": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
@@ -267,7 +267,7 @@
     "id": "ELEGIDO-POR-LAS-ESTRELLAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Elegido_por_las_Estrellas.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, AKSHAN, ASHE, AZIR, DIANA"
+    "recomendados": "AATROX, AHRI, AKSHAN, ASHE, AZIR, DIANA, ELISE"
   },
   {
     "id": "EMBLEMA-DE-LA-MAQUIAVELICA",
@@ -285,7 +285,7 @@
     "id": "ESCUDO-NEGRO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Escudo_negro.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN, AMBESSA, ANIVIA, ANNIE, AZIR"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN, AMBESSA, ANIVIA, ANNIE, AZIR, EL_REY_PORO"
   },
   {
     "id": "ESPADA-DE-LA-TEMPESTAD",
@@ -303,7 +303,7 @@
     "id": "ESPADA-DEL-ACECHADOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_del_Acechador.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AHRI, CAITLYN"
+    "recomendados": "AATROX, AHRI, CAITLYN, EKKO"
   },
   {
     "id": "ESPADA-VENERABLE",
@@ -327,7 +327,7 @@
     "id": "ESPANTAPAJAROS-INOFENSIVO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espantapájaros_Inofensivo.webp",
     "rareza": "epica",
-    "recomendados": "CAITLYN"
+    "recomendados": "CAITLYN, ELISE"
   },
   {
     "id": "ESPATULA-DORADA",
@@ -339,13 +339,13 @@
     "id": "ESPIRITU-DE-LOS-BUHRU",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritu_de_los_Buhru.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AZIR"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AZIR, EL_REY_PORO, ELISE"
   },
   {
     "id": "ESPIRITU-RESONANTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritu_Resonante.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE, AZIR, BARDO, CAITLYN, DIANA"
+    "recomendados": "AATROX, AHRI, AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE, AZIR, BARDO, CAITLYN, DIANA, EKKO, ELISE"
   },
   {
     "id": "ESPIRITUS-ASISTENTES",
@@ -363,7 +363,7 @@
     "id": "FILO-DE-LA-TORMENTA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Filo_de_la_Tormenta.webp",
     "rareza": "comun",
-    "recomendados": "DARIUS"
+    "recomendados": "DARIUS, ELISE"
   },
   {
     "id": "FLAUTA-DE-ALBOROTADOR",
@@ -375,19 +375,19 @@
     "id": "FORTUNA-ENCONTRADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fortuna_Encontrada.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AMBESSA, ANIVIA, AURELION_SOL, AZIR, CAITLYN, DARIUS, DRAGON_ANCESTRAL"
+    "recomendados": "AHRI, AMBESSA, ANIVIA, AURELION_SOL, AZIR, CAITLYN, DARIUS, DRAGON_ANCESTRAL, EKKO, ELISE"
   },
   {
     "id": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fragmento_de_Estrella_Corrompido.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AMBESSA, AZIR, BARDO, CAITLYN, DIANA"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AMBESSA, AZIR, BARDO, CAITLYN, DIANA, EL_REY_PORO, ELISE"
   },
   {
     "id": "FUERZA-DEL-VIENTO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fuerza_del_Viento.webp",
     "rareza": "rara",
-    "recomendados": "AURELION_SOL, CAITLYN, DARIUS, DIANA, DRAGON_ANCESTRAL"
+    "recomendados": "AURELION_SOL, CAITLYN, DARIUS, DIANA, DRAGON_ANCESTRAL, ELISE"
   },
   {
     "id": "FUERZA-PETREA",
@@ -417,7 +417,7 @@
     "id": "GEMA-ESTELAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Gema_Estelar.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AZIR, BARDO, DIANA"
+    "recomendados": "AHRI, AZIR, BARDO, DIANA, EKKO"
   },
   {
     "id": "GUANTE-ESPIRITUAL",
@@ -441,7 +441,7 @@
     "id": "HACHA-CORTAMIEDOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Hacha_Cortamiedos.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AMBESSA, AZIR"
+    "recomendados": "AHRI, AMBESSA, AZIR, ELISE"
   },
   {
     "id": "HERENCIA-GUARDIA-DE-LA-CORONA",
@@ -465,7 +465,7 @@
     "id": "HOJASOMBRA-DE-VALLECLARO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Hojasombra_de_Valleclaro.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "ELISE"
   },
   {
     "id": "ICONO-DE-VALHIR",
@@ -477,7 +477,7 @@
     "id": "JURAMENTO-DE-LOS-GUARDIANES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Juramento_de_los_Guardianes.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AURELION_SOL, AZIR, DIANA"
+    "recomendados": "AHRI, AURELION_SOL, AZIR, DIANA, EKKO"
   },
   {
     "id": "LA-BALANZA-DE-LA-JUSTICIA",
@@ -489,7 +489,7 @@
     "id": "LA-BESTIA-INTERIOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Bestia_Interior.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN, AMBESSA, ANIVIA, ASHE, AURELION_SOL, AZIR, DIANA, DRAGON_ANCESTRAL"
+    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN, AMBESSA, ANIVIA, ASHE, AURELION_SOL, AZIR, DIANA, DRAGON_ANCESTRAL, EL_REY_PORO, ELISE"
   },
   {
     "id": "LA-CARGA-DE-LA-BALA-PERDIDA",
@@ -501,7 +501,7 @@
     "id": "LA-CORONA-DEL-REY-TROL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Corona_del_Rey_Trol.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN, ASHE, AURELION_SOL"
+    "recomendados": "AKSHAN, ASHE, AURELION_SOL, EL_REY_PORO, ELISE"
   },
   {
     "id": "LA-ESPADA-DARKIN",
@@ -585,7 +585,7 @@
     "id": "MAZO-ACUMULADO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mazo_Acumulado.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AZIR, BARDO, DARIUS"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AZIR, BARDO, DARIUS, EL_REY_PORO"
   },
   {
     "id": "MAZO-DEL-DESTINO",
@@ -609,7 +609,7 @@
     "id": "MORDISCOS-REALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mordiscos_Reales.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "EL_REY_PORO"
   },
   {
     "id": "MURMULLO",
@@ -621,13 +621,13 @@
     "id": "NUCLEO-HEX-PERFECTO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Núcleo_hex_perfecto.webp",
     "rareza": "epica",
-    "recomendados": "AKSHAN"
+    "recomendados": "AKSHAN, ELISE"
   },
   {
     "id": "ORBE-DEL-GUARDIAN",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Orbe_del_Guardián.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, ANIVIA"
+    "recomendados": "AHRI, ANIVIA, EKKO"
   },
   {
     "id": "ORBE-LUMINOSO",
@@ -645,7 +645,7 @@
     "id": "PAQUETE-COMPLETO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Paquete_completo.webp",
     "rareza": "epica",
-    "recomendados": "ANIVIA, ASHE, AZIR"
+    "recomendados": "ANIVIA, ASHE, AZIR, ELISE"
   },
   {
     "id": "PERMAHIELO",
@@ -705,19 +705,19 @@
     "id": "SUENOS-DE-YORDLES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Sueños_de_Yordles.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "ELISE"
   },
   {
     "id": "SUJETAESPADAS-LAURENT",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Sujetaespadas_Laurent.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, ANNIE, ASHE, CAITLYN"
+    "recomendados": "AATROX, ANNIE, ASHE, CAITLYN, EKKO, EL_REY_PORO"
   },
   {
     "id": "TECNICA-SECRETA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Técnica_Secreta.webp",
     "rareza": "epica",
-    "recomendados": "AKSHAN, DIANA, DRAGON_ANCESTRAL"
+    "recomendados": "AKSHAN, DIANA, DRAGON_ANCESTRAL, EL_REY_PORO"
   },
   {
     "id": "TEMPESTAD-DE-LUDEN",
@@ -735,13 +735,13 @@
     "id": "TIJERAS-ESPECTRALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tijeras_Espectrales.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AMBESSA, ANNIE, AZIR, BARDO, DARIUS"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AMBESSA, ANNIE, AZIR, BARDO, DARIUS, ELISE"
   },
   {
     "id": "TOMO-OCULTO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tomo_Oculto.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AKSHAN, AMBESSA, DIANA"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AKSHAN, AMBESSA, DIANA, EL_REY_PORO"
   },
   {
     "id": "TRANSMODULADOR",
@@ -765,6 +765,6 @@
     "id": "VELO-DE-LA-BANSHEE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Velo_de_la_Banshee.webp",
     "rareza": "comun",
-    "recomendados": "AATROX, AKSHAN, DIANA"
+    "recomendados": "AATROX, AKSHAN, DIANA, EKKO, EL_REY_PORO, ELISE"
   }
 ]
