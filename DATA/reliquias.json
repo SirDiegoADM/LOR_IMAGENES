@@ -69,7 +69,7 @@
     "id": "BACULO-DEL-ARCANGEL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Báculo_del_Arcángel.webp",
     "rareza": "rara",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "BARATIJA-DEL-GUARDIAN",
@@ -207,7 +207,7 @@
     "id": "EJERCITO-DE-CUERVOS-DE-SWAIN",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ejército_de_Cuervos_de_Swain.webp",
     "rareza": "epica",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "EL-APLASTADOR-DEL-REY-TROL",
@@ -237,7 +237,7 @@
     "id": "EL-ESCONDITE-DEL-AZOTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Escondite_del_Azote.webp",
     "rareza": "rara",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "EL-GAMBITO-DEL-AMO-DE-LAS-CARTAS",
@@ -249,7 +249,7 @@
     "id": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Plan_de_Contingencia_del_Gran_General.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AHRI"
+    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
@@ -285,7 +285,7 @@
     "id": "ESCUDO-NEGRO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Escudo_negro.webp",
     "rareza": "epica",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "ESPADA-DE-LA-TEMPESTAD",
@@ -339,7 +339,7 @@
     "id": "ESPIRITU-DE-LOS-BUHRU",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritu_de_los_Buhru.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "ESPIRITU-RESONANTE",
@@ -351,7 +351,7 @@
     "id": "ESPIRITUS-ASISTENTES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritus_Asistentes.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "EXPERIMENTOS-CRUELES",
@@ -381,7 +381,7 @@
     "id": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fragmento_de_Estrella_Corrompido.webp",
     "rareza": "rara",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "FUERZA-DEL-VIENTO",
@@ -393,7 +393,7 @@
     "id": "FUERZA-PETREA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fuerza_Pétrea.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "FULGOR-ARDIENTE",
@@ -489,7 +489,7 @@
     "id": "LA-BESTIA-INTERIOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Bestia_Interior.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI"
+    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "LA-CARGA-DE-LA-BALA-PERDIDA",
@@ -585,7 +585,7 @@
     "id": "MAZO-ACUMULADO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mazo_Acumulado.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "MAZO-DEL-DESTINO",
@@ -657,7 +657,7 @@
     "id": "POLVORA-CARGADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Pólvora_Cargada.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI"
+    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "PROTECTORES-DE-DEMACIA",
@@ -735,19 +735,19 @@
     "id": "TIJERAS-ESPECTRALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tijeras_Espectrales.webp",
     "rareza": "epica",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "TOMO-OCULTO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tomo_Oculto.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "TRANSMODULADOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Transmodulador.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "TUMBA-CONGELADA",
