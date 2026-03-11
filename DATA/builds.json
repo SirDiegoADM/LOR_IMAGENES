@@ -369,5 +369,82 @@
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "LA-BESTIA-INTERIOR",
     "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "TIJERAS-ESPECTRALES",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DRAGARTOS-GEMELOS",
+    "r2": "EMBLEMA-DE-LA-MAQUIAVELICA",
+    "r3": "DADOS-TRUCADOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "EXPERIMENTOS-CRUELES",
+    "r3": "MARCA-DEL-SUCUBO",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "TIJERAS-ESPECTRALES",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "TOMO-OCULTO",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DRAGARTOS-GEMELOS",
+    "r2": "EXPERIMENTOS-CRUELES",
+    "r3": "HACHA-CORTAMIEDOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "TOMO-OCULTO",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "TOMO-OCULTO",
+    "r3": "CONDENSADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "CONDENSADOR",
+    "r4": ""
   }
 ]
