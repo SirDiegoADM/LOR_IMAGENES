@@ -96,8 +96,21 @@
   },
   {
     "principal": "AMBESSA",
-    "S": [],
-    "A": [],
+    "S": [
+      "Azir",
+      "Zed",
+      "Katarina"
+    ],
+    "A": [
+      "Irelia",
+      "Ahri",
+      "Miss Fortune",
+      "Vayne",
+      "Pantheon",
+      "Yasuo",
+      "Varus",
+      "Shen"
+    ],
     "B": [],
     "C": []
   },
