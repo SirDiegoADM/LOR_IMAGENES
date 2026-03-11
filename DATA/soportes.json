@@ -68,7 +68,10 @@
   },
   {
     "principal": "AKSHAN",
-    "S": [],
+    "S": [
+      "Riven",
+      "Samira"
+    ],
     "A": [],
     "B": [],
     "C": []
