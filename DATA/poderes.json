@@ -81,7 +81,7 @@
     "id": "CORTES-PROFUNDOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cortes_profundos.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "COSECHA-DE-ESENCIA",
@@ -369,7 +369,7 @@
     "id": "PRESA-FACIL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/presa_fácil.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "PRESA-HERIDA",
@@ -417,7 +417,7 @@
     "id": "REGALOS-DE-BIENVENIDA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/regalos_de_bienvenida.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "RESISTENCIA",
