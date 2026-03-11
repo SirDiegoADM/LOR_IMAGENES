@@ -9,7 +9,7 @@
     "id": "NO-TE-MUEVAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡no_te_muevas!.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA"
+    "recomendados": "ANIVIA, CAITLYN, DRAGON_ANCESTRAL"
   },
   {
     "id": "AMANTE-DEL-CASTIGO",
@@ -21,7 +21,7 @@
     "id": "AMIGUITOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/amiguitos.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "CAITLYN"
   },
   {
     "id": "APILADAS-EN-SU-CONTRA",
@@ -33,7 +33,7 @@
     "id": "APLASTAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/aplastar.webp",
     "rareza": "comun",
-    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE"
+    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE, DIANA, DRAGON_ANCESTRAL"
   },
   {
     "id": "ARMAS-HASTA-LOS-DIENTES",
@@ -75,7 +75,7 @@
     "id": "COMPARTIR-ES-QUERER",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/compartir_es_querer.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI"
+    "recomendados": "AATROX, AHRI, BARDO"
   },
   {
     "id": "CORTES-PROFUNDOS",
@@ -117,13 +117,13 @@
     "id": "DESPERTAR-TITANICO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/despertar_titánico.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AURELION_SOL"
+    "recomendados": "AHRI, AURELION_SOL, DARIUS"
   },
   {
     "id": "DOMINACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/dominación.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AMBESSA, ANIVIA, ANNIE, ASHE"
+    "recomendados": "AHRI, AMBESSA, ANIVIA, ANNIE, ASHE, DARIUS, DIANA"
   },
   {
     "id": "DULCE-SOLEDAD",
@@ -141,7 +141,7 @@
     "id": "EL-FAVOR-DEL-ARTESANO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_favor_del_artesano.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN, AURELION_SOL"
+    "recomendados": "AKSHAN, AURELION_SOL, DIANA"
   },
   {
     "id": "EL-GENIO-DE-YIPP",
@@ -183,7 +183,7 @@
     "id": "ESPERA-CON-PACIENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/espera_con_paciencia.webp",
     "rareza": "rara",
-    "recomendados": "ANNIE"
+    "recomendados": "ANNIE, DIANA"
   },
   {
     "id": "ESTABILIZAR",
@@ -201,19 +201,19 @@
     "id": "EVOLUCION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/evolución.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "BARDO, DRAGON_ANCESTRAL"
   },
   {
     "id": "FALANGE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/falange.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AKSHAN, AMBESSA"
+    "recomendados": "AATROX, AKSHAN, AMBESSA, DRAGON_ANCESTRAL"
   },
   {
     "id": "FINAL-EXPLOSIVO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/final_explosivo.webp",
     "rareza": "rara",
-    "recomendados": "ANNIE"
+    "recomendados": "ANNIE, CAITLYN"
   },
   {
     "id": "FLUJO-DE-MANA",
@@ -225,7 +225,7 @@
     "id": "FRENALOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/frénalos.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA, ASHE"
+    "recomendados": "ANIVIA, ASHE, DRAGON_ANCESTRAL"
   },
   {
     "id": "FUENTE-DE-ENERGIA-ALTERNATIVA",
@@ -249,7 +249,7 @@
     "id": "GOLPE-DEBILITANTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/golpe_debilitante.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA"
+    "recomendados": "ANIVIA, CAITLYN"
   },
   {
     "id": "HECHICERIA",
@@ -261,7 +261,7 @@
     "id": "HERENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/herencia.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN, BARDO"
   },
   {
     "id": "INSPIRACION-ALOCADA",
@@ -285,7 +285,7 @@
     "id": "LA-MEJOR-DEFENSA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/la_mejor_defensa....webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AMBESSA"
+    "recomendados": "AATROX, AMBESSA, DARIUS, DIANA, DRAGON_ANCESTRAL"
   },
   {
     "id": "LANZADOR-DE-HECHIZOS",
@@ -333,7 +333,7 @@
     "id": "OFICIALES-DE-REFUERZO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/oficiales_de_refuerzo.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "CAITLYN"
   },
   {
     "id": "OFRENDAS-ADECUADAS",
@@ -363,7 +363,7 @@
     "id": "PODER-TRIFARIANO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/poder_trifariano.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AMBESSA"
+    "recomendados": "AHRI, AMBESSA, BARDO, DARIUS, DIANA, DRAGON_ANCESTRAL"
   },
   {
     "id": "PRESA-FACIL",
@@ -381,7 +381,7 @@
     "id": "PRODUCCION-DE-FALSIFICACIONES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/producción_de_falsificaciones.webp",
     "rareza": "comun",
-    "recomendados": "AMBESSA, AURELION_SOL"
+    "recomendados": "AMBESSA, AURELION_SOL, DIANA"
   },
   {
     "id": "PROFECIA-ESCALOFRIANTE",
@@ -477,7 +477,7 @@
     "id": "SENTIDOS-FERALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/sentidos_ferales.webp",
     "rareza": "rara",
-    "recomendados": "AURELION_SOL"
+    "recomendados": "AURELION_SOL, DIANA"
   },
   {
     "id": "SOBREPREPARACION",
@@ -489,13 +489,13 @@
     "id": "TERRENO-TRAICIONERO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/terreno_traicionero.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "CAITLYN"
   },
   {
     "id": "TRATO-RAPIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/trato_rápido.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "BARDO, CAITLYN"
   },
   {
     "id": "TROPA-EXPEDICIONARIA",
