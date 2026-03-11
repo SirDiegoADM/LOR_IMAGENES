@@ -25,86 +25,116 @@
   },
   {
     "principal": "AHRI",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Yasuo"
+    ],
+    "A": [
+      "Katarina",
+      "Kennen",
+      "Fiddlesticks"
+    ],
+    "B": [
+      "Caitlyn"
+    ],
     "C": []
   },
   {
     "principal": "AHRI_FLOR_ESPIRITUAL",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "LeBlanc"
+    ],
     "C": []
   },
   {
     "principal": "AKSHAN",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "Irelia"
+    ],
     "C": []
   },
   {
     "principal": "AMBESSA",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "Evelynn"
+    ],
     "C": []
   },
   {
     "principal": "ANIVIA",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "Lux: Iluminada"
+    ],
     "C": []
   },
   {
     "principal": "ANNIE",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "Samira"
+    ],
     "C": []
   },
   {
     "principal": "ASHE",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "Darius"
+    ],
     "C": []
   },
   {
     "principal": "AURELION_SOL",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "Janna"
+    ],
     "C": []
   },
   {
     "principal": "AZIR",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "Norra"
+    ],
     "C": []
   },
   {
     "principal": "BARDO",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "Lillia"
+    ],
     "C": []
   },
   {
     "principal": "CAITLYN",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "Nami"
+    ],
     "C": []
   },
   {
     "principal": "DARIUS",
     "S": [],
     "A": [],
-    "B": [],
+    "B": [
+      "Jack"
+    ],
     "C": []
   },
   {
