@@ -306,5 +306,75 @@
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "BACULO-DEL-ARCANGEL",
     "r4": "DESPERTAR-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "TECNICA-SECRETA",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "CAZADOR-DE-RUFIANES",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "TOMO-OCULTO",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "LA-CORONA-DEL-REY-TROL",
+    "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "TUMBA-CONGELADA",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "TOMO-OCULTO",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "CAZADOR-DE-RUFIANES",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
   }
 ]
