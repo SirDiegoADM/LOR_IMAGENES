@@ -343,23 +343,68 @@
   },
   {
     "principal": "EKKO",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Twisted Fate"
+    ],
+    "A": [
+      "Lee Sin"
+    ],
+    "B": [
+      "Zilean",
+      "Nami",
+      "Bardo"
+    ],
+    "C": [
+      "Seraphine",
+      "Zoe",
+      "Viktor",
+      "Karma",
+      "Janna",
+      "Riven"
+    ]
   },
   {
     "principal": "EL_REY_PORO",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Irelia",
+      "Viktor",
+      "Bardo"
+    ],
+    "A": [
+      "Braum",
+      "Elise",
+      "Evelynn",
+      "Gwen",
+      "Kai'sa",
+      "Kayle",
+      "Zed"
+    ],
+    "B": [
+      "Katarina",
+      "Azir",
+      "Poppy"
+    ],
     "C": []
   },
   {
     "principal": "ELISE",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Irelia"
+    ],
+    "A": [
+      "Aphelios",
+      "Fiddlesticks",
+      "Kai'sa",
+      "Katarina",
+      "Kindred",
+      "Lucian",
+      "Lux: Illuminada",
+      "Shen"
+    ],
+    "B": [
+      "Ambessa",
+      "Quinn"
+    ],
     "C": []
   },
   {
