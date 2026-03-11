@@ -3,7 +3,7 @@
     "id": "ABRAZO-DE-LA-REINA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Abrazo_de_la_Reina.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AKSHAN, SORAKA"
+    "recomendados": "AKSHAN, SORAKA"
   },
   {
     "id": "ACELERADOR-DE-PORTALES-DE-NORRA",
@@ -21,13 +21,13 @@
     "id": "AMIGUIS-DEL-PORTAL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Amiguis_del_Portal.webp",
     "rareza": "epica",
-    "recomendados": "SORAKA"
+    "recomendados": ""
   },
   {
     "id": "ANGEL-GUARDIAN",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ángel_Guardián.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN"
+    "recomendados": ""
   },
   {
     "id": "APRENDIZ-DE-LAS-SOMBRAS",
@@ -45,7 +45,7 @@
     "id": "ARMADURA-DE-WARMOG",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Armadura_de_Warmog.webp",
     "rareza": "comun",
-    "recomendados": "AKSHAN"
+    "recomendados": ""
   },
   {
     "id": "ARMOTAS",
@@ -63,7 +63,7 @@
     "id": "BACULO-CELESTIAL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Báculo_Celestial.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "BACULO-DEL-ARCANGEL",
@@ -93,7 +93,7 @@
     "id": "BATERIA-HEXTECH-DE-JAYCE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Batería_Hextech_de_Jayce.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, SORAKA"
+    "recomendados": ""
   },
   {
     "id": "BATERIA-REVOLTOSA",
@@ -111,7 +111,7 @@
     "id": "CAPARAZON-DEL-VACIO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Caparazón_del_Vacío.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN"
+    "recomendados": ""
   },
   {
     "id": "CAPITULO-PERDIDO",
@@ -129,13 +129,13 @@
     "id": "CAZADOR-DE-RUFIANES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cazador_de_Rufianes.webp",
     "rareza": "epica",
-    "recomendados": "AKSHAN"
+    "recomendados": ""
   },
   {
     "id": "CESE-Y-DESISTA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cese_y_Desista.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "COMETA-ARCANO",
@@ -207,13 +207,13 @@
     "id": "EJERCITO-DE-CUERVOS-DE-SWAIN",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ejército_de_Cuervos_de_Swain.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "EL-APLASTADOR-DEL-REY-TROL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Aplastador_del_Rey_Trol.webp",
     "rareza": "comun",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AKSHAN, SORAKA"
+    "recomendados": "SORAKA"
   },
   {
     "id": "EL-ARCO-DE-LA-ARREBATADORA",
@@ -315,7 +315,7 @@
     "id": "ESPADAFUEGO-CELESTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espadafuego_celeste.webp",
     "rareza": "epica",
-    "recomendados": "AKSHAN"
+    "recomendados": ""
   },
   {
     "id": "ESPADAFURIA-DE-GUINSOO",
