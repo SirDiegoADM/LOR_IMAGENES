@@ -51,7 +51,7 @@
     "id": "BROMAS-ESPECTRALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/bromas_espectrales.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "BRUJERIA",
@@ -237,7 +237,7 @@
     "id": "FUERA-DE-LAS-PUERTAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/fuera_de_las_puertas.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "FURIA-DEL-DRAGON",
@@ -297,7 +297,7 @@
     "id": "LENTO-PERO-SEGURO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/lento_pero_seguro.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "MADRUGADOR",
@@ -345,7 +345,7 @@
     "id": "PERFECCION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/perfección.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "PODEMOS-LOGRARLO",
