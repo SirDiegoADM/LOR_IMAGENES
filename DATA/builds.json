@@ -103,5 +103,117 @@
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "VELO-DE-LA-BANSHEE",
     "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "HIMNO-DEL-VALOR",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "POLVORA-CARGADA",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "EXPERIMENTOS-CRUELES",
+    "r3": "CESE-Y-DESISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "EXPERIMENTOS-CRUELES",
+    "r3": "CESE-Y-DESISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "LADRONA-DE-ESENCIAS",
+    "r2": "CESE-Y-DESISTA",
+    "r3": "HACHA-CORTAMIEDOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "ARMA-VIVIENTE",
+    "r2": "MARCA-DEL-SUCUBO",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "TIJERAS-ESPECTRALES",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "LADRONA-DE-ESENCIAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "TIJERAS-ESPECTRALES",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "LADRONA-DE-ESENCIAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "LADRONA-DE-ESENCIAS",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "HACHA-CORTAMIEDOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "LADRONA-DE-ESENCIAS",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "ORBE-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "GEMA-ESTELAR",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "LADRONA-DE-ESENCIAS",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r2": "HIMNO-DEL-VALOR",
+    "r3": "CAPITULO-PERDIDO",
+    "r4": ""
   }
 ]
