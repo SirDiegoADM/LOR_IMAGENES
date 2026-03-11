@@ -207,7 +207,7 @@
     "id": "FALANGE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/falange.webp",
     "rareza": "rara",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AKSHAN"
   },
   {
     "id": "FINAL-EXPLOSIVO",
@@ -351,7 +351,7 @@
     "id": "PODEMOS-LOGRARLO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/podemos_lograrlo.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "PODER-ILIMITADO",
