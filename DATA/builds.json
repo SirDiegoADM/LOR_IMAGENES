@@ -929,5 +929,306 @@
     "r2": "DERROTA-DE-LA-MUERTE",
     "r3": "ESCUDO-NEGRO",
     "r4": ""
+  },
+  {
+    "campeon": "BARDO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "BARDO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "MAZO-ACUMULADO",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "BARDO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "TIJERAS-ESPECTRALES",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "BARDO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "ORBE-LUMINOSO",
+    "r4": ""
+  },
+  {
+    "campeon": "BARDO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "BARDO",
+    "r1": "GEMA-ESTELAR",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "BARDO",
+    "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "RIFLE-HEXTECH",
+    "r2": "ESPANTAPAJAROS-INOFENSIVO",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "RIFLE-HEXTECH",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "RIFLE-HEXTECH",
+    "r2": "SUJETAESPADAS-LAURENT",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "AMIGUIS-DEL-PORTAL",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r2": "POLVORA-CARGADA",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "CESE-Y-DESISTA",
+    "r2": "MAZO-ACUMULADO",
+    "r3": "DADOS-TRUCADOS",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "TIJERAS-ESPECTRALES",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "CESE-Y-DESISTA",
+    "r2": "POLVORA-CARGADA",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "AMIGUIS-DEL-PORTAL",
+    "r2": "POLVORA-CARGADA",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "POLVORA-CARGADA",
+    "r2": "EL-ESCONDITE-DEL-AZOTE",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "FUERZA-DEL-VIENTO",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "HIMNO-DEL-VALOR",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "TIJERAS-ESPECTRALES",
+    "r3": "PROTOTIPO-DE-PULSAR-Z",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "FUERZA-DEL-VIENTO",
+    "r2": "ESPADA-DE-LA-TEMPESTAD",
+    "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "GEMA-ESTELAR",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "TOMO-OCULTO",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "TECNICA-SECRETA",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "FUERZA-DEL-VIENTO",
+    "r3": "MARTILLO-DE-GUERRA-DE-CAULFIELD",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
+    "r1": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
+    "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
+    "r1": "AMIGUIS-DEL-PORTAL",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "GARRAS-GRANDES",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "CESE-Y-DESISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "AMIGUIS-DEL-PORTAL",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "CESE-Y-DESISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "TECNICA-SECRETA",
+    "r3": "HIMNO-DEL-VALOR",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "PROTOTIPO-DE-PULSAR-Z",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
+    "r1": "EL-ESCONDITE-DEL-AZOTE",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
+    "r1": "DUPLICADOR-QUIMTECH",
+    "r2": "HIMNO-DEL-VALOR",
+    "r3": "CAPITULO-PERDIDO",
+    "r4": ""
   }
 ]
