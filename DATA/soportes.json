@@ -18,10 +18,9 @@
       "Kai'sa"
     ],
     "C": [
-      "Jarvan IV",
+      "Soraka",
       "Pantheon",
-      "Galio",
-      "Warwick"
+      "Zoe"
     ]
   },
   {
@@ -33,26 +32,10 @@
   },
   {
     "principal": "AHRI_FLOR_ESPIRITUAL",
-    "S": [
-      "KAYN",
-      "VLADIMIR",
-      "BRAUM"
-    ],
-    "A": [
-      "YUUMI",
-      "Fiora"
-    ],
-    "B": [
-      "Renekton",
-      "Shyvana"
-    ],
-    "C": [
-      "Jarvan IV",
-      "Pantheon",
-      "Galio",
-      "Warwick",
-      "Nunu y willump"
-    ]
+    "S": [],
+    "A": [],
+    "B": [],
+    "C": []
   },
   {
     "principal": "AKSHAN",
