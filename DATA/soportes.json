@@ -116,37 +116,116 @@
   },
   {
     "principal": "ANIVIA",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Volibear",
+      "Dragón Ancestral"
+    ],
+    "A": [
+      "Lissandra",
+      "Ashe",
+      "Jayce",
+      "Udyr",
+      "Nami",
+      "Tahm Kench"
+    ],
+    "B": [
+      "Viktor",
+      "Mordekaiser"
+    ],
     "C": []
   },
   {
     "principal": "ANNIE",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Jhin",
+      "Kai'sa",
+      "Miss Fortune",
+      "Twisted Fate",
+      "Yasuo",
+      "Swain"
+    ],
+    "A": [
+      "Dragon Ancestral",
+      "Katarina",
+      "Ezreal",
+      "Morgana",
+      "Udyr"
+    ],
+    "B": [
+      "Nami",
+      "Lux",
+      "Senna",
+      "Mel"
+    ],
+    "C": [
+      "Kennen",
+      "Fizz",
+      "Viktor"
+    ]
   },
   {
     "principal": "ASHE",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Tahm Kench"
+    ],
+    "A": [
+      "Fiora",
+      "Kindred",
+      "Jarvan IV",
+      "Kayn",
+      "Renekton"
+    ],
+    "B": [
+      "Bardo",
+      "Leblanc"
+    ],
+    "C": [
+      "Aatrox",
+      "Sejuani"
+    ]
   },
   {
     "principal": "AURELION_SOL",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Katarina"
+    ],
+    "A": [
+      "Thresh",
+      "Veigar",
+      "Heimerdinger",
+      "Zoe",
+      "Braum",
+      "Kennen",
+      "Aphelios",
+      "Riven",
+      "Samira"
+    ],
+    "B": [
+      "Viktor",
+      "Karma",
+      "Poro King",
+      "Maokai",
+      "Viego"
+    ],
+    "C": [
+      "Zilean",
+      "Garen",
+      "Ekko"
+    ]
   },
   {
     "principal": "AZIR",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Katarina"
+    ],
+    "A": [
+      "Lucian"
+    ],
+    "B": [
+      "Ambessa",
+      "Irelia",
+      "Kayle"
+    ],
     "C": []
   },
   {
