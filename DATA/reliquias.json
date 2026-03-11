@@ -513,7 +513,7 @@
     "id": "LA-HEBILLA-DEL-BERSERKER",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Hebilla_del_Berserker.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AATROX"
   },
   {
     "id": "LA-HOJA-DE-LA-GRAN-DUELISTA",
@@ -711,7 +711,7 @@
     "id": "SUJETAESPADAS-LAURENT",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Sujetaespadas_Laurent.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AATROX"
   },
   {
     "id": "TECNICA-SECRETA",
@@ -765,6 +765,6 @@
     "id": "VELO-DE-LA-BANSHEE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Velo_de_la_Banshee.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "AATROX"
   }
 ]
