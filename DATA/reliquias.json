@@ -129,7 +129,7 @@
     "id": "CAZADOR-DE-RUFIANES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cazador_de_Rufianes.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "CESE-Y-DESISTA",
@@ -201,7 +201,7 @@
     "id": "DUPLICADOR-QUIMTECH",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Duplicador_Quimtech.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "EJERCITO-DE-CUERVOS-DE-SWAIN",
@@ -267,7 +267,7 @@
     "id": "ELEGIDO-POR-LAS-ESTRELLAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Elegido_por_las_Estrellas.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI"
+    "recomendados": "AATROX, AHRI, AKSHAN"
   },
   {
     "id": "EMBLEMA-DE-LA-MAQUIAVELICA",
@@ -285,7 +285,7 @@
     "id": "ESCUDO-NEGRO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Escudo_negro.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN"
   },
   {
     "id": "ESPADA-DE-LA-TEMPESTAD",
@@ -345,7 +345,7 @@
     "id": "ESPIRITU-RESONANTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritu_Resonante.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI"
+    "recomendados": "AATROX, AHRI, AKSHAN"
   },
   {
     "id": "ESPIRITUS-ASISTENTES",
@@ -483,13 +483,13 @@
     "id": "LA-BALANZA-DE-LA-JUSTICIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/la_balanza_de_la_justicia.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "LA-BESTIA-INTERIOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Bestia_Interior.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN"
   },
   {
     "id": "LA-CARGA-DE-LA-BALA-PERDIDA",
@@ -501,7 +501,7 @@
     "id": "LA-CORONA-DEL-REY-TROL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Corona_del_Rey_Trol.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "LA-ESPADA-DARKIN",
@@ -621,7 +621,7 @@
     "id": "NUCLEO-HEX-PERFECTO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Núcleo_hex_perfecto.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "ORBE-DEL-GUARDIAN",
@@ -717,7 +717,7 @@
     "id": "TECNICA-SECRETA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Técnica_Secreta.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "TEMPESTAD-DE-LUDEN",
@@ -741,7 +741,7 @@
     "id": "TOMO-OCULTO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tomo_Oculto.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AKSHAN"
   },
   {
     "id": "TRANSMODULADOR",
@@ -753,7 +753,7 @@
     "id": "TUMBA-CONGELADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tumba_Congelada.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "VARA-IMPERIAL",
@@ -765,6 +765,6 @@
     "id": "VELO-DE-LA-BANSHEE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Velo_de_la_Banshee.webp",
     "rareza": "comun",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AKSHAN"
   }
 ]
