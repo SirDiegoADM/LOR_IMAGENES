@@ -291,7 +291,7 @@
     "id": "LANZADOR-DE-HECHIZOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/lanzador_de_hechizos.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "LENTO-PERO-SEGURO",
@@ -321,13 +321,13 @@
     "id": "MUSCULOSO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/musculoso.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "NO-PUEDO-NI-QUIERO-DETENERME",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/no_puedo_ni_quiero_detenerme.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "OFICIALES-DE-REFUERZO",
