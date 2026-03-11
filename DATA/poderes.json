@@ -3,49 +3,49 @@
     "id": "FUERA-DE-MI-CAMINO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡fuera_de_mi_camino!.webp",
     "rareza": "legendaria",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA"
+    "recomendados": "AMBESSA"
   },
   {
     "id": "NO-TE-MUEVAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡no_te_muevas!.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "AMANTE-DEL-CASTIGO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/amante_del_castigo.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "AMIGUITOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/amiguitos.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "APILADAS-EN-SU-CONTRA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/apiladas_en_su_contra.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA"
+    "recomendados": "AMBESSA"
   },
   {
     "id": "APLASTAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/aplastar.webp",
     "rareza": "comun",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA"
+    "recomendados": "AMBESSA"
   },
   {
     "id": "ARMAS-HASTA-LOS-DIENTES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/armas_hasta_los_dientes.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "ATACALOS-CON-RAPIDEZ",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/atácalos_con_rapidez.webp",
     "rareza": "comun",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "BROMAS-ESPECTRALES",
@@ -165,7 +165,7 @@
     "id": "ENTRADA-EXPLOSIVA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/entrada_explosiva.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "EQUIPAR",
@@ -183,7 +183,7 @@
     "id": "ESPERA-CON-PACIENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/espera_con_paciencia.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "ESTABILIZAR",
@@ -393,7 +393,7 @@
     "id": "PROFETA-DE-UN-DIOS-ANTIGUO-II",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/profeta_de_un_dios_antiguo_ii.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "PROHIBICION-DEL-MAS-ALLA",
@@ -513,12 +513,12 @@
     "id": "VIENTOS-ELEMENTALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/vientos_elementales.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   },
   {
     "id": "VIGILANTE-DE-LA-VANGUARDIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/vigilante_de_la_vanguardia.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": ""
   }
 ]
