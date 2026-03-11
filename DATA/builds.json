@@ -1,51 +1,9 @@
 [
   {
-    "campeon": "AATROX",
-    "r1": "BATERIA-REVOLTOSA",
-    "r2": "DESESPERACION-ABSOLUTA",
-    "r3": "ESPATULA-DORADA",
-    "r4": "SOBREPREPARACION-RUNA"
-  },
-  {
-    "campeon": "AKSHAN",
-    "r1": "ABRAZO-DE-LA-REINA",
-    "r2": "ARMA-VIVIENTE",
-    "r3": "ABRAZO-DE-LA-REINA",
-    "r4": ""
-  },
-  {
-    "campeon": "AKSHAN",
-    "r1": "FUERZA-DEL-VIENTO",
-    "r2": "LA-BESTIA-INTERIOR",
-    "r3": "LA-BALANZA-DE-LA-JUSTICIA",
-    "r4": ""
-  },
-  {
-    "campeon": "AKSHAN",
-    "r1": "FILO-DE-LA-TORMENTA",
-    "r2": "DUPLICADOR-QUIMTECH",
-    "r3": "GEMA-ESTELAR",
-    "r4": ""
-  },
-  {
-    "campeon": "AKSHAN",
-    "r1": "ARMA-VIVIENTE",
-    "r2": "CORAZON-DE-ORO",
-    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
-    "r4": ""
-  },
-  {
-    "campeon": "SORAKA",
-    "r1": "ABRAZO-DE-LA-REINA",
-    "r2": "ARMOTAS",
-    "r3": "ARPON-MORTIFERO",
-    "r4": ""
-  },
-  {
-    "campeon": "SORAKA",
-    "r1": "EL-APLASTADOR-DEL-REY-TROL",
-    "r2": "ARMOTAS",
-    "r3": "COMETA-ARCANO",
+    "campeon": "#N/A",
+    "r1": "",
+    "r2": "",
+    "r3": "",
     "r4": ""
   }
 ]
