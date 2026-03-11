@@ -33,7 +33,7 @@
     "id": "APRENDIZ-DE-LAS-SOMBRAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Aprendiz_de_las_Sombras.webp",
     "rareza": "epica",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AMBESSA"
   },
   {
     "id": "ARMA-VIVIENTE",
@@ -147,7 +147,7 @@
     "id": "CONDENSADOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Condensador.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AMBESSA"
   },
   {
     "id": "CONMOCION-Y-PAVOR",
@@ -177,13 +177,13 @@
     "id": "DADOS-TRUCADOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Dados_Trucados.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AMBESSA"
   },
   {
     "id": "DERROTA-DE-LA-MUERTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Derrota_de_la_Muerte.webp",
     "rareza": "epica",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AMBESSA"
   },
   {
     "id": "DESESPERACION-ABSOLUTA",
@@ -195,7 +195,7 @@
     "id": "DRAGARTOS-GEMELOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Dragartos_Gemelos.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AMBESSA"
   },
   {
     "id": "DUPLICADOR-QUIMTECH",
@@ -207,7 +207,7 @@
     "id": "EJERCITO-DE-CUERVOS-DE-SWAIN",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ejército_de_Cuervos_de_Swain.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AMBESSA"
   },
   {
     "id": "EL-APLASTADOR-DEL-REY-TROL",
@@ -273,7 +273,7 @@
     "id": "EMBLEMA-DE-LA-MAQUIAVELICA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Emblema_de_la_Maquiavélica.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AMBESSA"
   },
   {
     "id": "ESCUDO-DEL-AMANECER",
@@ -285,7 +285,7 @@
     "id": "ESCUDO-NEGRO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Escudo_negro.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN, AMBESSA"
   },
   {
     "id": "ESPADA-DE-LA-TEMPESTAD",
@@ -345,7 +345,7 @@
     "id": "ESPIRITU-RESONANTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritu_Resonante.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, AKSHAN"
+    "recomendados": "AATROX, AHRI, AKSHAN, AMBESSA"
   },
   {
     "id": "ESPIRITUS-ASISTENTES",
@@ -357,7 +357,7 @@
     "id": "EXPERIMENTOS-CRUELES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Experimentos_Crueles.webp",
     "rareza": "epica",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AMBESSA"
   },
   {
     "id": "FILO-DE-LA-TORMENTA",
@@ -375,13 +375,13 @@
     "id": "FORTUNA-ENCONTRADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fortuna_Encontrada.webp",
     "rareza": "epica",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AMBESSA"
   },
   {
     "id": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fragmento_de_Estrella_Corrompido.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AMBESSA"
   },
   {
     "id": "FUERZA-DEL-VIENTO",
@@ -429,7 +429,7 @@
     "id": "GUANTELETES-ESTELARES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Guanteletes_Estelares.webp",
     "rareza": "epica",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AMBESSA"
   },
   {
     "id": "GUIA-DE-AVISTAMIENTO-DE-YETIS",
@@ -441,7 +441,7 @@
     "id": "HACHA-CORTAMIEDOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Hacha_Cortamiedos.webp",
     "rareza": "epica",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AMBESSA"
   },
   {
     "id": "HERENCIA-GUARDIA-DE-LA-CORONA",
@@ -489,7 +489,7 @@
     "id": "LA-BESTIA-INTERIOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Bestia_Interior.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN"
+    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN, AMBESSA"
   },
   {
     "id": "LA-CARGA-DE-LA-BALA-PERDIDA",
@@ -573,7 +573,7 @@
     "id": "MARCA-DEL-SUCUBO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Marca_del_Súcubo.webp",
     "rareza": "rara",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AMBESSA"
   },
   {
     "id": "MARTILLO-DE-GUERRA-DE-CAULFIELD",
@@ -657,7 +657,7 @@
     "id": "POLVORA-CARGADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Pólvora_Cargada.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, AMBESSA"
   },
   {
     "id": "PROTECTORES-DE-DEMACIA",
@@ -735,13 +735,13 @@
     "id": "TIJERAS-ESPECTRALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tijeras_Espectrales.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AMBESSA"
   },
   {
     "id": "TOMO-OCULTO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tomo_Oculto.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AKSHAN"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AKSHAN, AMBESSA"
   },
   {
     "id": "TRANSMODULADOR",
