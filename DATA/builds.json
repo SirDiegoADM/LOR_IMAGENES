@@ -1230,5 +1230,285 @@
     "r2": "HIMNO-DEL-VALOR",
     "r3": "CAPITULO-PERDIDO",
     "r4": ""
+  },
+  {
+    "campeon": "EKKO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "DERROTA-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "EKKO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "ORBE-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "EKKO",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "EKKO",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "GEMA-ESTELAR",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "EKKO",
+    "r1": "ORBE-DEL-GUARDIAN",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "EKKO",
+    "r1": "SUJETAESPADAS-LAURENT",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "TOMO-OCULTO",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "MORDISCOS-REALES",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "MORDISCOS-REALES",
+    "r2": "TECNICA-SECRETA",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "MORDISCOS-REALES",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "TECNICA-SECRETA",
+    "r3": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "TECNICA-SECRETA",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "DUPLICADOR-QUIMTECH",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "BACULO-DEL-ARCANGEL",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "DUPLICADOR-QUIMTECH",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "SUJETAESPADAS-LAURENT",
+    "r2": "LA-CORONA-DEL-REY-TROL",
+    "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "HACHA-CORTAMIEDOS",
+    "r2": "ABRAZO-DE-LA-REINA",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "HACHA-CORTAMIEDOS",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "ESPANTAPAJAROS-INOFENSIVO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "ESPANTAPAJAROS-INOFENSIVO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "SUENOS-DE-YORDLES",
+    "r3": "ESPANTAPAJAROS-INOFENSIVO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "ESPANTAPAJAROS-INOFENSIVO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "SUENOS-DE-YORDLES",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "TIJERAS-ESPECTRALES",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "SUENOS-DE-YORDLES",
+    "r2": "FUERZA-DEL-VIENTO",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ESPANTAPAJAROS-INOFENSIVO",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "SUENOS-DE-YORDLES",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "FUERZA-DEL-VIENTO",
+    "r3": "PAQUETE-COMPLETO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "HOJASOMBRA-DE-VALLECLARO",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "FUERZA-DEL-VIENTO",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "FUERZA-DEL-VIENTO",
+    "r3": "SUENOS-DE-YORDLES",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "LA-CORONA-DEL-REY-TROL",
+    "r2": "FUERZA-DEL-VIENTO",
+    "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "HOJASOMBRA-DE-VALLECLARO",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
   }
 ]
