@@ -409,15 +409,46 @@
   },
   {
     "principal": "EVELYNN",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Zed",
+      "Kai'sa"
+    ],
+    "A": [
+      "Gnar",
+      "Norra",
+      "Elise",
+      "Kalista",
+      "Kayle",
+      "Viego",
+      "Kindred"
+    ],
+    "B": [
+      "Azir",
+      "Irelia",
+      "Hecarim",
+      "Nidalee",
+      "Bardo"
+    ],
+    "C": [
+      "Lucian"
+    ]
   },
   {
     "principal": "EVELYNN_FLOR_ESPIRITUAL",
-    "S": [],
-    "A": [],
+    "S": [
+      "Zed"
+    ],
+    "A": [
+      "Galio",
+      "Garen",
+      "Gwen",
+      "Kindred",
+      "Lucian",
+      "Mordekaiser",
+      "Ahri flor espiritual",
+      "La arrebatadora",
+      "Thresh"
+    ],
     "B": [],
     "C": []
   },
