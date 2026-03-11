@@ -230,38 +230,116 @@
   },
   {
     "principal": "BARDO",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Galio",
+      "Kai'sa"
+    ],
+    "A": [
+      "Kayle",
+      "Ekko",
+      "Twisted Fate",
+      "Soraka",
+      "Lux: Iluminada",
+      "Viego",
+      "Karma"
+    ],
+    "B": [
+      "Yuumi",
+      "Vi"
+    ],
     "C": []
   },
   {
     "principal": "CAITLYN",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Swain",
+      "Irelia",
+      "Jack",
+      "Nilah"
+    ],
+    "A": [
+      "Teemo",
+      "Jack"
+    ],
+    "B": [
+      "Norra",
+      "Aurelion Sol",
+      "Janna"
+    ],
     "C": []
   },
   {
     "principal": "DARIUS",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Gwen",
+      "Evelynn"
+    ],
+    "A": [
+      "Elise",
+      "Lucian",
+      "Shen",
+      "Irelia",
+      "Riven",
+      "Sivir",
+      "Zed",
+      "Bardo",
+      "Pyke",
+      "Yasuo"
+    ],
+    "B": [
+      "Norra",
+      "Draven",
+      "Leblanc",
+      "Katarina",
+      "Caitlyn",
+      "Poppy",
+      "Diana",
+      "Ornn"
+    ],
     "C": []
   },
   {
     "principal": "DIANA",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Leblanc",
+      "Nocturne",
+      "Aphelios",
+      "Master Yi",
+      "Irelia"
+    ],
+    "A": [
+      "Riven",
+      "Viktor",
+      "Nami",
+      "Taric",
+      "Quinn",
+      "Zed"
+    ],
+    "B": [
+      "Bardo"
+    ],
     "C": []
   },
   {
     "principal": "DRAGON_ANCESTRAL",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Volibear"
+    ],
+    "A": [
+      "Aurelion Sol",
+      "Zoe"
+    ],
+    "B": [
+      "Shyvana",
+      "Viego"
+    ],
+    "C": [
+      "Akshan",
+      "Morgana",
+      "Tryndamere",
+      "Jhin",
+      "Bardo"
+    ]
   },
   {
     "principal": "EKKO",
