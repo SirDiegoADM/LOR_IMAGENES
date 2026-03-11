@@ -7,55 +7,6 @@
     "r4": "SOBREPREPARACION-RUNA"
   },
   {
-    "campeon": "AHRI_FLOR_ESPIRITUAL",
-    "r1": "BACULO-CELESTIAL",
-    "r2": "EJERCITO-DE-CUERVOS-DE-SWAIN",
-    "r3": "BATERIA-HEXTECH-DE-JAYCE",
-    "r4": "ARTESANIA-DE-GEMAS-RUNA"
-  },
-  {
-    "campeon": "AHRI_FLOR_ESPIRITUAL",
-    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
-    "r2": "BATERIA-HEXTECH-DE-JAYCE",
-    "r3": "BACULO-CELESTIAL",
-    "r4": "ARTESANIA-DE-GEMAS-RUNA"
-  },
-  {
-    "campeon": "AHRI_FLOR_ESPIRITUAL",
-    "r1": "ABRAZO-DE-LA-REINA",
-    "r2": "ABRAZO-DE-LA-REINA",
-    "r3": "ABRAZO-DE-LA-REINA",
-    "r4": "LADRONES-EN-LA-NOCHE-RUNA"
-  },
-  {
-    "campeon": "AHRI_FLOR_ESPIRITUAL",
-    "r1": "BATERIA-HEXTECH-DE-JAYCE",
-    "r2": "CESE-Y-DESISTA",
-    "r3": "EL-APLASTADOR-DEL-REY-TROL",
-    "r4": "ROCIO-DE-POLVO-ESTORNUDOSO-RUNA"
-  },
-  {
-    "campeon": "AKSHAN",
-    "r1": "CAZADOR-DE-RUFIANES",
-    "r2": "EL-APLASTADOR-DEL-REY-TROL",
-    "r3": "ESPADAFUEGO-CELESTE",
-    "r4": "INSPIRACION-ALOCADA-RUNA"
-  },
-  {
-    "campeon": "AKSHAN",
-    "r1": "ANGEL-GUARDIAN",
-    "r2": "ARMADURA-DE-WARMOG",
-    "r3": "CAPARAZON-DEL-VACIO",
-    "r4": "INSPIRACION-ALOCADA-RUNA"
-  },
-  {
-    "campeon": "AKSHAN",
-    "r1": "ABRAZO-DE-LA-REINA",
-    "r2": "ABRAZO-DE-LA-REINA",
-    "r3": "ABRAZO-DE-LA-REINA",
-    "r4": ""
-  },
-  {
     "campeon": "AKSHAN",
     "r1": "ABRAZO-DE-LA-REINA",
     "r2": "ARMA-VIVIENTE",
@@ -82,13 +33,6 @@
     "r2": "CORAZON-DE-ORO",
     "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r4": ""
-  },
-  {
-    "campeon": "SORAKA",
-    "r1": "AMIGUIS-DEL-PORTAL",
-    "r2": "ARMOTAS",
-    "r3": "BATERIA-HEXTECH-DE-JAYCE",
-    "r4": "FALSA-LEALTAD-RUNA"
   },
   {
     "campeon": "SORAKA",
