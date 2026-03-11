@@ -123,7 +123,7 @@
     "id": "DOMINACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/dominación.webp",
     "rareza": "epica",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AMBESSA"
   },
   {
     "id": "DULCE-SOLEDAD",
@@ -381,7 +381,7 @@
     "id": "PRODUCCION-DE-FALSIFICACIONES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/producción_de_falsificaciones.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "AMBESSA"
   },
   {
     "id": "PROFECIA-ESCALOFRIANTE",
