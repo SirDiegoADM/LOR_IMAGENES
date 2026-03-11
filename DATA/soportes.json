@@ -72,8 +72,26 @@
       "Riven",
       "Samira"
     ],
-    "A": [],
-    "B": [],
+    "A": [
+      "Draven",
+      "Kayle",
+      "Lillia",
+      "Maokai",
+      "Morgana",
+      "Nami",
+      "Pantheon",
+      "Taliyah",
+      "Udyr",
+      "Xerath",
+      "Ziggs",
+      "Zilean"
+    ],
+    "B": [
+      "Diana",
+      "Kayle",
+      "Vayne",
+      "Viktor"
+    ],
     "C": []
   },
   {
