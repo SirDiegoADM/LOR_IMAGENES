@@ -93,7 +93,7 @@
     "id": "CUADRILLA-DEL-PILLAJE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cuadrilla_del_pillaje.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "CUCHILLAS-REBOTANTES",
@@ -417,7 +417,7 @@
     "id": "REGALOS-DE-BIENVENIDA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/regalos_de_bienvenida.webp",
     "rareza": "rara",
-    "recomendados": "AHRI"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL"
   },
   {
     "id": "RESISTENCIA",
