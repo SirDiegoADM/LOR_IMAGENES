@@ -141,7 +141,7 @@
     "id": "EL-FAVOR-DEL-ARTESANO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_favor_del_artesano.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AKSHAN"
   },
   {
     "id": "EL-GENIO-DE-YIPP",
@@ -261,13 +261,13 @@
     "id": "HERENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/herencia.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN"
   },
   {
     "id": "INSPIRACION-ALOCADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/inspiracion_alocada.webp",
     "rareza": "rara",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AKSHAN"
   },
   {
     "id": "JUEGO-DE-MEMORIA",
