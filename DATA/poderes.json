@@ -57,7 +57,7 @@
     "id": "BRUJERIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/brujería.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN"
   },
   {
     "id": "CARGAMENTO-DE-POLVO-ESTORNUDOSO",
@@ -243,7 +243,7 @@
     "id": "FURIA-DEL-DRAGON",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/furia_del_dragón.webp",
     "rareza": "comun",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AKSHAN"
   },
   {
     "id": "GOLPE-DEBILITANTE",
