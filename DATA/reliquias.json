@@ -39,7 +39,7 @@
     "id": "ARMA-VIVIENTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Arma_Viviente.webp",
     "rareza": "epica",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AHRI"
   },
   {
     "id": "ARMADURA-DE-WARMOG",
@@ -69,7 +69,7 @@
     "id": "BACULO-DEL-ARCANGEL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Báculo_del_Arcángel.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "BARATIJA-DEL-GUARDIAN",
@@ -117,7 +117,7 @@
     "id": "CAPITULO-PERDIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Capítulo_Perdido.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "CASCO-DEL-SENOR-DE-LA-GUERRA",
@@ -135,7 +135,7 @@
     "id": "CESE-Y-DESISTA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cese_y_Desista.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "COMETA-ARCANO",
@@ -183,7 +183,7 @@
     "id": "DERROTA-DE-LA-MUERTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Derrota_de_la_Muerte.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "DESESPERACION-ABSOLUTA",
@@ -249,7 +249,7 @@
     "id": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Plan_de_Contingencia_del_Gran_General.webp",
     "rareza": "rara",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AHRI"
   },
   {
     "id": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
@@ -261,13 +261,13 @@
     "id": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Rompepuertas_del_Curador.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "ELEGIDO-POR-LAS-ESTRELLAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Elegido_por_las_Estrellas.webp",
     "rareza": "epica",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AHRI"
   },
   {
     "id": "EMBLEMA-DE-LA-MAQUIAVELICA",
@@ -303,7 +303,7 @@
     "id": "ESPADA-DEL-ACECHADOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_del_Acechador.webp",
     "rareza": "rara",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AHRI"
   },
   {
     "id": "ESPADA-VENERABLE",
@@ -345,7 +345,7 @@
     "id": "ESPIRITU-RESONANTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espíritu_Resonante.webp",
     "rareza": "epica",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AHRI"
   },
   {
     "id": "ESPIRITUS-ASISTENTES",
@@ -357,7 +357,7 @@
     "id": "EXPERIMENTOS-CRUELES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Experimentos_Crueles.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "FILO-DE-LA-TORMENTA",
@@ -375,13 +375,13 @@
     "id": "FORTUNA-ENCONTRADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fortuna_Encontrada.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Fragmento_de_Estrella_Corrompido.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "FUERZA-DEL-VIENTO",
@@ -417,7 +417,7 @@
     "id": "GEMA-ESTELAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Gema_Estelar.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "GUANTE-ESPIRITUAL",
@@ -441,7 +441,7 @@
     "id": "HACHA-CORTAMIEDOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Hacha_Cortamiedos.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "HERENCIA-GUARDIA-DE-LA-CORONA",
@@ -459,7 +459,7 @@
     "id": "HIMNO-DEL-VALOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Himno_del_Valor.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "HOJASOMBRA-DE-VALLECLARO",
@@ -477,7 +477,7 @@
     "id": "JURAMENTO-DE-LOS-GUARDIANES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Juramento_de_los_Guardianes.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "LA-BALANZA-DE-LA-JUSTICIA",
@@ -489,7 +489,7 @@
     "id": "LA-BESTIA-INTERIOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Bestia_Interior.webp",
     "rareza": "epica",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AHRI"
   },
   {
     "id": "LA-CARGA-DE-LA-BALA-PERDIDA",
@@ -531,7 +531,7 @@
     "id": "LADRONA-DE-ESENCIAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ladrona_de_Esencias.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "LAMENTO-DRENADO",
@@ -573,7 +573,7 @@
     "id": "MARCA-DEL-SUCUBO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Marca_del_Súcubo.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "MARTILLO-DE-GUERRA-DE-CAULFIELD",
@@ -627,7 +627,7 @@
     "id": "ORBE-DEL-GUARDIAN",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Orbe_del_Guardián.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "ORBE-LUMINOSO",
@@ -657,7 +657,7 @@
     "id": "POLVORA-CARGADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Pólvora_Cargada.webp",
     "rareza": "epica",
-    "recomendados": "AATROX"
+    "recomendados": "AATROX, AHRI"
   },
   {
     "id": "PROTECTORES-DE-DEMACIA",
@@ -735,7 +735,7 @@
     "id": "TIJERAS-ESPECTRALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tijeras_Espectrales.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "TOMO-OCULTO",
