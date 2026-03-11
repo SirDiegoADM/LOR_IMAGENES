@@ -1510,5 +1510,110 @@
     "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r3": "VELO-DE-LA-BANSHEE",
     "r4": ""
+  },
+  {
+    "campeon": "EVELYNN",
+    "r1": "BATERIA-HEXTECH-DE-JAYCE",
+    "r2": "LLAMADO-DE-SIRENA",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "EVELYNN",
+    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r2": "POLVORA-CARGADA",
+    "r3": "LLAMADO-DE-SIRENA",
+    "r4": ""
+  },
+  {
+    "campeon": "EVELYNN",
+    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r2": "POLVORA-CARGADA",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "EVELYNN",
+    "r1": "FUERZA-PETREA",
+    "r2": "ACELERADOR-DE-PORTALES-DE-NORRA",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "EVELYNN",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "EVELYNN",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ORBE-LUMINOSO",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "EVELYNN",
+    "r1": "ESPADA-DE-LA-TEMPESTAD",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "EMBLEMA-DE-LA-MAQUIAVELICA",
+    "r4": ""
+  },
+  {
+    "campeon": "EVELYNN",
+    "r1": "ESPADA-DE-LA-TEMPESTAD",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "EVELYNN",
+    "r1": "EMBLEMA-DE-LA-MAQUIAVELICA",
+    "r2": "EMBLEMA-DE-LA-MAQUIAVELICA",
+    "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "EVELYNN_FLOR_ESPIRITUAL",
+    "r1": "TIJERAS-ESPECTRALES",
+    "r2": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r3": "POLVORA-CARGADA",
+    "r4": "ENCANTOS-IRRESISTIBLES-RUNA"
+  },
+  {
+    "campeon": "EVELYNN_FLOR_ESPIRITUAL",
+    "r1": "LAMENTO-DRENADO",
+    "r2": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r3": "POLVORA-CARGADA",
+    "r4": "ENCANTOS-IRRESISTIBLES-RUNA"
+  },
+  {
+    "campeon": "EVELYNN_FLOR_ESPIRITUAL",
+    "r1": "LAMENTO-DRENADO",
+    "r2": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r3": "POLVORA-CARGADA",
+    "r4": "LADRONES-EN-LA-NOCHE-RUNA"
+  },
+  {
+    "campeon": "EVELYNN_FLOR_ESPIRITUAL",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "TECNICA-SECRETA",
+    "r3": "FUERZA-PETREA",
+    "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "EVELYNN_FLOR_ESPIRITUAL",
+    "r1": "FUERZA-PETREA",
+    "r2": "ORBE-LUMINOSO",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "EVELYNN_FLOR_ESPIRITUAL",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": "ARMADURA-ESPIRITUAL-RUNA"
   }
 ]
