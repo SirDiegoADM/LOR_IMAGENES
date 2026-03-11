@@ -165,7 +165,7 @@
     "id": "ENTRADA-EXPLOSIVA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/entrada_explosiva.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "EQUIPAR",
@@ -363,7 +363,7 @@
     "id": "PODER-TRIFARIANO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/poder_trifariano.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "PRESA-FACIL",
