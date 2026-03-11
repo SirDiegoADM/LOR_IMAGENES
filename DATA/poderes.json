@@ -117,7 +117,7 @@
     "id": "DESPERTAR-TITANICO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/despertar_titánico.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "DOMINACION",
@@ -261,7 +261,7 @@
     "id": "HERENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/herencia.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "INSPIRACION-ALOCADA",
@@ -465,7 +465,7 @@
     "id": "SEDE-DEL-PODER",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/sede_del_poder.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "AHRI"
   },
   {
     "id": "SELECCION-ANTINATURAL",
