@@ -51,8 +51,18 @@
   },
   {
     "principal": "AHRI_FLOR_ESPIRITUAL",
-    "S": [],
-    "A": [],
+    "S": [
+      "Leblanc",
+      "Lucian"
+    ],
+    "A": [
+      "Azir",
+      "Kalista",
+      "Mordekaiser",
+      "Viego",
+      "Warwick",
+      "Zed"
+    ],
     "B": [],
     "C": []
   },
