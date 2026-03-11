@@ -1,6 +1,104 @@
 [
   {
     "campeon": "AATROX",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "LA-ESPADA-DARKIN",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "LA-ESPADA-DARKIN",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "ARMA-VIVIENTE",
+    "r2": "LA-ESPADA-DARKIN",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "ARMA-VIVIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ARMA-VIVIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "ACELERADOR-DE-PORTALES-DE-NORRA",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r2": "POLVORA-CARGADA",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ORBE-LUMINOSO",
+    "r3": "ARMA-VIVIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ORBE-LUMINOSO",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ORBE-LUMINOSO",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "LA-HEBILLA-DEL-BERSERKER",
+    "r2": "LA-HEBILLA-DEL-BERSERKER",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "VELO-DE-LA-BANSHEE",
