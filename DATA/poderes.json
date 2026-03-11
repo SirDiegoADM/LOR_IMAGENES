@@ -21,7 +21,7 @@
     "id": "AMIGUITOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/amiguitos.webp",
     "rareza": "epica",
-    "recomendados": "CAITLYN"
+    "recomendados": "CAITLYN, EL_REY_PORO"
   },
   {
     "id": "APILADAS-EN-SU-CONTRA",
@@ -33,7 +33,7 @@
     "id": "APLASTAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/aplastar.webp",
     "rareza": "comun",
-    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE, DIANA, DRAGON_ANCESTRAL"
+    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE, DIANA, DRAGON_ANCESTRAL, ELISE"
   },
   {
     "id": "ARMAS-HASTA-LOS-DIENTES",
@@ -45,7 +45,7 @@
     "id": "ATACALOS-CON-RAPIDEZ",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/atácalos_con_rapidez.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "ELISE"
   },
   {
     "id": "BROMAS-ESPECTRALES",
@@ -57,13 +57,13 @@
     "id": "BRUJERIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/brujería.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN, ANNIE, ASHE"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN, ANNIE, ASHE, EKKO, EL_REY_PORO"
   },
   {
     "id": "CARGAMENTO-DE-POLVO-ESTORNUDOSO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cargamento_de_polvo_estornudoso.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, AZIR"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, AZIR, ELISE"
   },
   {
     "id": "COMPARTE-EL-BOTIN",
@@ -75,7 +75,7 @@
     "id": "COMPARTIR-ES-QUERER",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/compartir_es_querer.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, BARDO"
+    "recomendados": "AATROX, AHRI, BARDO, EL_REY_PORO"
   },
   {
     "id": "CORTES-PROFUNDOS",
@@ -93,13 +93,13 @@
     "id": "CUADRILLA-DEL-PILLAJE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cuadrilla_del_pillaje.webp",
     "rareza": "comun",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, ANIVIA, ANNIE"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, ANIVIA, ANNIE, ELISE"
   },
   {
     "id": "CUCHILLAS-REBOTANTES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cuchillas_rebotantes.webp",
     "rareza": "comun",
-    "recomendados": "ANNIE, AURELION_SOL"
+    "recomendados": "ANNIE, AURELION_SOL, EKKO"
   },
   {
     "id": "DESARMADO",
@@ -123,7 +123,7 @@
     "id": "DOMINACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/dominación.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AMBESSA, ANIVIA, ANNIE, ASHE, DARIUS, DIANA"
+    "recomendados": "AHRI, AMBESSA, ANIVIA, ANNIE, ASHE, DARIUS, DIANA, ELISE"
   },
   {
     "id": "DULCE-SOLEDAD",
@@ -141,13 +141,13 @@
     "id": "EL-FAVOR-DEL-ARTESANO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_favor_del_artesano.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN, AURELION_SOL, DIANA"
+    "recomendados": "AKSHAN, AURELION_SOL, DIANA, EKKO"
   },
   {
     "id": "EL-GENIO-DE-YIPP",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_genio_de_yipp.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AZIR"
+    "recomendados": "AHRI, AZIR, EL_REY_PORO, ELISE"
   },
   {
     "id": "EN-LA-MIRA",
@@ -159,7 +159,7 @@
     "id": "EN-NECESIDAD-DE-REPARACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/en_necesidad_de_reparacion.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "ELISE"
   },
   {
     "id": "ENTRADA-EXPLOSIVA",
@@ -171,7 +171,7 @@
     "id": "EQUIPAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/equipar.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "EL_REY_PORO"
   },
   {
     "id": "ESCUDO-URUMI",
@@ -183,13 +183,13 @@
     "id": "ESPERA-CON-PACIENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/espera_con_paciencia.webp",
     "rareza": "rara",
-    "recomendados": "ANNIE, DIANA"
+    "recomendados": "ANNIE, DIANA, ELISE"
   },
   {
     "id": "ESTABILIZAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/estabilizar.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, ANIVIA, ASHE"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, ANIVIA, ASHE, ELISE"
   },
   {
     "id": "ESTUDIANTE-NUEVO",
@@ -201,7 +201,7 @@
     "id": "EVOLUCION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/evolución.webp",
     "rareza": "epica",
-    "recomendados": "BARDO, DRAGON_ANCESTRAL"
+    "recomendados": "BARDO, DRAGON_ANCESTRAL, EL_REY_PORO, ELISE"
   },
   {
     "id": "FALANGE",
@@ -219,7 +219,7 @@
     "id": "FLUJO-DE-MANA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/flujo_de_maná.webp",
     "rareza": "epica",
-    "recomendados": "ANIVIA, AZIR"
+    "recomendados": "ANIVIA, AZIR, EL_REY_PORO"
   },
   {
     "id": "FRENALOS",
@@ -237,7 +237,7 @@
     "id": "FUERA-DE-LAS-PUERTAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/fuera_de_las_puertas.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, EL_REY_PORO"
   },
   {
     "id": "FURIA-DEL-DRAGON",
@@ -267,13 +267,13 @@
     "id": "INSPIRACION-ALOCADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/inspiracion_alocada.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AKSHAN, ANNIE, AURELION_SOL"
+    "recomendados": "AATROX, AKSHAN, ANNIE, AURELION_SOL, EKKO, EL_REY_PORO"
   },
   {
     "id": "JUEGO-DE-MEMORIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/juego_de_memoria.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AURELION_SOL"
+    "recomendados": "AATROX, AURELION_SOL, ELISE"
   },
   {
     "id": "LA-GRAN-GRAN-PLAZA",
@@ -291,7 +291,7 @@
     "id": "LANZADOR-DE-HECHIZOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/lanzador_de_hechizos.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN, ANIVIA, ANNIE"
+    "recomendados": "AKSHAN, ANIVIA, ANNIE, EKKO, EL_REY_PORO"
   },
   {
     "id": "LENTO-PERO-SEGURO",
@@ -321,7 +321,7 @@
     "id": "MUSCULOSO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/musculoso.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN"
+    "recomendados": "AKSHAN, EL_REY_PORO"
   },
   {
     "id": "NO-PUEDO-NI-QUIERO-DETENERME",
@@ -363,7 +363,7 @@
     "id": "PODER-TRIFARIANO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/poder_trifariano.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AMBESSA, BARDO, DARIUS, DIANA, DRAGON_ANCESTRAL"
+    "recomendados": "AHRI, AMBESSA, BARDO, DARIUS, DIANA, DRAGON_ANCESTRAL, EKKO"
   },
   {
     "id": "PRESA-FACIL",
@@ -381,7 +381,7 @@
     "id": "PRODUCCION-DE-FALSIFICACIONES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/producción_de_falsificaciones.webp",
     "rareza": "comun",
-    "recomendados": "AMBESSA, AURELION_SOL, DIANA"
+    "recomendados": "AMBESSA, AURELION_SOL, DIANA, EKKO"
   },
   {
     "id": "PROFECIA-ESCALOFRIANTE",
@@ -417,7 +417,7 @@
     "id": "REGALOS-DE-BIENVENIDA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/regalos_de_bienvenida.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, ANIVIA, AZIR"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, ANIVIA, AZIR, EL_REY_PORO, ELISE"
   },
   {
     "id": "RESISTENCIA",
@@ -435,7 +435,7 @@
     "id": "REUNIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/reunido.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "ELISE"
   },
   {
     "id": "ROBO-RAPIDO",
@@ -477,7 +477,7 @@
     "id": "SENTIDOS-FERALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/sentidos_ferales.webp",
     "rareza": "rara",
-    "recomendados": "AURELION_SOL, DIANA"
+    "recomendados": "AURELION_SOL, DIANA, EKKO"
   },
   {
     "id": "SOBREPREPARACION",
