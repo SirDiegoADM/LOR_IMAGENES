@@ -9,7 +9,7 @@
     "id": "NO-TE-MUEVAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡no_te_muevas!.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA, CAITLYN, DRAGON_ANCESTRAL"
+    "recomendados": "ANIVIA, CAITLYN, DRAGON_ANCESTRAL, EVELYNN_FLOR_ESPIRITUAL"
   },
   {
     "id": "AMANTE-DEL-CASTIGO",
@@ -33,7 +33,7 @@
     "id": "APLASTAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/aplastar.webp",
     "rareza": "comun",
-    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE, DIANA, DRAGON_ANCESTRAL, ELISE"
+    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE, DIANA, DRAGON_ANCESTRAL, ELISE, EVELYNN_FLOR_ESPIRITUAL"
   },
   {
     "id": "ARMAS-HASTA-LOS-DIENTES",
@@ -75,7 +75,7 @@
     "id": "COMPARTIR-ES-QUERER",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/compartir_es_querer.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, BARDO, EL_REY_PORO"
+    "recomendados": "AATROX, AHRI, BARDO, EL_REY_PORO, EVELYNN"
   },
   {
     "id": "CORTES-PROFUNDOS",
@@ -111,7 +111,7 @@
     "id": "DESCUENTO-DEL-MERCADO-NEGRO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/descuento_del_mercado_negro.webp",
     "rareza": "epica",
-    "recomendados": "ANIVIA, AZIR"
+    "recomendados": "ANIVIA, AZIR, EVELYNN_FLOR_ESPIRITUAL"
   },
   {
     "id": "DESPERTAR-TITANICO",
@@ -123,7 +123,7 @@
     "id": "DOMINACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/dominación.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AMBESSA, ANIVIA, ANNIE, ASHE, DARIUS, DIANA, ELISE"
+    "recomendados": "AHRI, AMBESSA, ANIVIA, ANNIE, ASHE, DARIUS, DIANA, ELISE, EVELYNN_FLOR_ESPIRITUAL"
   },
   {
     "id": "DULCE-SOLEDAD",
@@ -147,7 +147,7 @@
     "id": "EL-GENIO-DE-YIPP",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_genio_de_yipp.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AZIR, EL_REY_PORO, ELISE"
+    "recomendados": "AHRI, AZIR, EL_REY_PORO, ELISE, EVELYNN"
   },
   {
     "id": "EN-LA-MIRA",
@@ -159,7 +159,7 @@
     "id": "EN-NECESIDAD-DE-REPARACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/en_necesidad_de_reparacion.webp",
     "rareza": "rara",
-    "recomendados": "ELISE"
+    "recomendados": "ELISE, EVELYNN"
   },
   {
     "id": "ENTRADA-EXPLOSIVA",
@@ -201,7 +201,7 @@
     "id": "EVOLUCION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/evolución.webp",
     "rareza": "epica",
-    "recomendados": "BARDO, DRAGON_ANCESTRAL, EL_REY_PORO, ELISE"
+    "recomendados": "BARDO, DRAGON_ANCESTRAL, EL_REY_PORO, ELISE, EVELYNN"
   },
   {
     "id": "FALANGE",
@@ -261,7 +261,7 @@
     "id": "HERENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/herencia.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN, BARDO"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN, BARDO, EVELYNN_FLOR_ESPIRITUAL"
   },
   {
     "id": "INSPIRACION-ALOCADA",
@@ -303,7 +303,7 @@
     "id": "MADRUGADOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/madrugador.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "EVELYNN_FLOR_ESPIRITUAL"
   },
   {
     "id": "MECHAS-ENCENDIDAS",
@@ -315,7 +315,7 @@
     "id": "MEDITACION-MISTICA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/meditación_mística.webp",
     "rareza": "rara",
-    "recomendados": "AURELION_SOL, AZIR"
+    "recomendados": "AURELION_SOL, AZIR, EVELYNN_FLOR_ESPIRITUAL"
   },
   {
     "id": "MUSCULOSO",
@@ -411,7 +411,7 @@
     "id": "QUEMADURA-DE-HECHIZO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/quemadura_de_hechizo.webp",
     "rareza": "epica",
-    "recomendados": "ANNIE"
+    "recomendados": "ANNIE, EVELYNN_FLOR_ESPIRITUAL"
   },
   {
     "id": "REGALOS-DE-BIENVENIDA",
