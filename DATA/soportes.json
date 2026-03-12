@@ -454,141 +454,476 @@
   },
   {
     "principal": "FIDDLESTICKS",
-    "S": [],
+    "S": [
+      "Gwen",
+      "Caitlyn",
+      "Teemo",
+      "Vex",
+      "Norra",
+      "Miss Fortune",
+      "Jarvan IV"
+    ],
     "A": [],
     "B": [],
     "C": []
   },
   {
     "principal": "GAREN",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Sivir",
+      "Riven",
+      "Kayn",
+      "Pyke"
+    ],
+    "A": [
+      "Zed",
+      "Elise",
+      "Akshan",
+      "Lucian",
+      "Shen",
+      "Irelia",
+      "Aphelios",
+      "Taric",
+      "Draven"
+    ],
+    "B": [
+      "Fiora",
+      "Miss Fortune",
+      "Katarina",
+      "Soraka",
+      "Caitlyn",
+      "Poppy",
+      "Bardo"
+    ],
+    "C": [
+      "Vladimir",
+      "Quinn",
+      "Diana",
+      "Yasuo",
+      "Lux"
+    ]
   },
   {
     "principal": "GNAR",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Teemo",
+      "Swain",
+      "Jhin",
+      "Sejuani",
+      "Gangplank"
+    ],
+    "A": [
+      "Annie",
+      "Rumble",
+      "Miss Fortune"
+    ],
+    "B": [
+      "Poppy"
+    ],
     "C": []
   },
   {
     "principal": "GWEN",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Zed",
+      "Kalista",
+      "Hecarim",
+      "LeBlanc",
+      "Norra",
+      "Irelia"
+    ],
+    "A": [
+      "Katarina",
+      "Sejuani",
+      "Riven",
+      "Kindred",
+      "Viego",
+      "Darius",
+      "Lucian",
+      "Kayle"
+    ],
+    "B": [
+      "Thresh",
+      "Azir",
+      "Lee Sin",
+      "Illaoi"
+    ],
     "C": []
   },
   {
     "principal": "HEIMERDINGER",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Sett",
+      "Irelia"
+    ],
+    "A": [
+      "Jayce",
+      "Lux",
+      "Zoe",
+      "Bardo"
+    ],
+    "B": [
+      "Aphelios",
+      "Nami",
+      "Udyr",
+      "Viktor"
+    ],
     "C": []
   },
   {
     "principal": "ILLAOI",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Vayne"
+    ],
+    "A": [
+      "Jarvan IV",
+      "Garen",
+      "Irelia",
+      "Quinn"
+    ],
+    "B": [
+      "Soraka",
+      "Aphelios",
+      "Riven",
+      "Udyr"
+    ],
+    "C": [
+      "Gwen",
+      "Irelia",
+      "Katarina"
+    ]
   },
   {
     "principal": "JACK",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Nami",
+      "Aatrox",
+      "Heimerdinger"
+    ],
+    "A": [
+      "Shen",
+      "Viktor"
+    ],
+    "B": [
+      "Akshan",
+      "Nilah",
+      "Fizz"
+    ],
+    "C": [
+      "Samira"
+    ]
   },
   {
     "principal": "JANNA",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Heimerdinger",
+      "Viktor",
+      "Master Yi"
+    ],
+    "A": [
+      "Jhin",
+      "Vi",
+      "Twisted Fate",
+      "Norra",
+      "Ekko",
+      "Lux",
+      "Nilah",
+      "Nami",
+      "Senna",
+      "Jinx"
+    ],
+    "B": [
+      "Garen"
+    ],
     "C": []
   },
   {
     "principal": "JAX",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Zed"
+    ],
+    "A": [
+      "Kai'Sa",
+      "Pantheon",
+      "Gwen",
+      "Quinn",
+      "Kayn",
+      "Vayne",
+      "Kayle"
+    ],
+    "B": [
+      "Lucian",
+      "Lux: Illuminada",
+      "Draven",
+      "LeBlanc",
+      "Akshan",
+      "Zoe",
+      "Teemo",
+      "Norra",
+      "Renekton"
+    ],
+    "C": [
+      "Irelia",
+      "Sivir",
+      "Bardo"
+    ]
   },
   {
     "principal": "JAYCE",
-    "S": [],
-    "A": [],
+    "S": [
+      "Lux",
+      "Elise"
+    ],
+    "A": [
+      "Swain",
+      "Elder Dragon",
+      "Volibear",
+      "Aurelion Sol",
+      "Udyr"
+    ],
     "B": [],
     "C": []
   },
   {
     "principal": "JHIN",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Sejuani",
+      "Swain",
+      "Annie",
+      "Yasuo"
+    ],
+    "A": [
+      "Viktor",
+      "Aphelios",
+      "Nami",
+      "Morgana",
+      "Samira",
+      "Miss Fortune"
+    ],
+    "B": [
+      "Gangplank",
+      "Bardo",
+      "Warwick"
+    ],
     "C": []
   },
   {
     "principal": "JINX",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Sejuani",
+      "Swain"
+    ],
+    "A": [
+      "Draven",
+      "Sion"
+    ],
+    "B": [
+      "Rumble",
+      "Gangplank",
+      "Annie",
+      "Viktor",
+      "Irelia",
+      "Ezreal",
+      "Ekko",
+      "Katarina",
+      "LeBlanc",
+      "Sivir",
+      "Nilah",
+      "Heimerdinger"
+    ],
     "C": []
   },
   {
     "principal": "KAISA",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Viktor"
+    ],
+    "A": [
+      "Sivir",
+      "Taric",
+      "Zed",
+      "Gwen"
+    ],
+    "B": [
+      "Bardo",
+      "Pantheon",
+      "Evelynn",
+      "Yuumi",
+      "Zoe",
+      "Elise",
+      "Riven",
+      "Lux: Illuminada",
+      "Udyr"
+    ],
+    "C": [
+      "Teemo",
+      "Fiora",
+      "Rumble",
+      "Lucian"
+    ]
   },
   {
     "principal": "KAYLE",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Varus",
+      "Akshan",
+      "Pantheon"
+    ],
+    "A": [
+      "Draven",
+      "Diana",
+      "Nami",
+      "Bardo",
+      "Zed",
+      "Fiora"
+    ],
+    "B": [
+      "Shen",
+      "Riven",
+      "Udyr",
+      "Jax",
+      "Taric",
+      "Evelynn",
+      "Sivir",
+      "Poppy",
+      "Viktor",
+      "Vayne",
+      "Shyvana"
+    ],
     "C": []
   },
   {
     "principal": "KAYN",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Aatrox",
+      "Jax"
+    ],
+    "A": [
+      "Fiora",
+      "Renekton",
+      "Garen",
+      "Jarvan",
+      "Soraka",
+      "Kai'Sa",
+      "Akshan",
+      "Aphelios"
+    ],
+    "B": [
+      "Draven",
+      "Nasus",
+      "Tahm Kench",
+      "Bardo",
+      "Shyvana"
+    ],
     "C": []
   },
   {
     "principal": "KINDRED",
-    "S": [],
-    "A": [],
-    "B": [],
+    "S": [
+      "Lucian",
+      "Thresh"
+    ],
+    "A": [
+      "Kalista",
+      "Viego",
+      "Gwen",
+      "Nasus"
+    ],
+    "B": [
+      "Swain",
+      "Mordekaiser"
+    ],
     "C": []
   },
   {
     "principal": "LA_ARREBATADORA",
-    "S": [],
-    "A": [],
+    "S": [
+      "Leblanc",
+      "Nasus",
+      "Ambessa",
+      "Hecarim",
+      "Azir",
+      "Jarvan IV"
+    ],
+    "A": [
+      "Zed"
+    ],
     "B": [],
     "C": []
   },
   {
     "principal": "LEBLANC",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Pantheon",
+      "Gwen",
+      "Katarina",
+      "Irelia"
+    ],
+    "A": [
+      "Fizz",
+      "Bardo",
+      "Varus"
+    ],
+    "B": [
+      "Garen",
+      "Akshan",
+      "Lee Sin",
+      "Taric"
+    ],
+    "C": [
+      "Evelynn",
+      "Quinn",
+      "Viego",
+      "Morgana"
+    ]
   },
   {
     "principal": "LEE_SIN",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Pantheon"
+    ],
+    "A": [
+      "Shen",
+      "Samira",
+      "Aphelios",
+      "Twisted Fate",
+      "Nami",
+      "Zoe",
+      "Jarvan",
+      "Katarina",
+      "LeBlanc",
+      "Draven"
+    ],
+    "B": [
+      "Galio",
+      "Sivir",
+      "Heimerdinger",
+      "Riven",
+      "Akshan",
+      "Vi",
+      "Varus"
+    ],
+    "C": [
+      "Fizz",
+      "Karma",
+      "Yasuo"
+    ]
   },
   {
     "principal": "LEONA",
-    "S": [],
-    "A": [],
+    "S": [
+      "Yasuo",
+      "Kayle"
+    ],
+    "A": [
+      "Jhin",
+      "Aphelios",
+      "Evelynn",
+      "Jarvan IV",
+      "Gnar",
+      "Annie",
+      "Bardo"
+    ],
     "B": [],
     "C": []
   },
