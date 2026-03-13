@@ -3,37 +3,37 @@
     "id": "FUERA-DE-MI-CAMINO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡fuera_de_mi_camino!.webp",
     "rareza": "legendaria",
-    "recomendados": ""
+    "recomendados": "TRYNDAMERE"
   },
   {
     "id": "NO-TE-MUEVAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/¡no_te_muevas!.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA, CAITLYN, DRAGON_ANCESTRAL, EVELYNN_FLOR_ESPIRITUAL, JHIN, LA_ARREBATADORA, MORGANA, NASUS"
+    "recomendados": "ANIVIA, CAITLYN, DRAGON_ANCESTRAL, EVELYNN_FLOR_ESPIRITUAL, JHIN, LA_ARREBATADORA, MORGANA, NASUS, SHYVANA, SORAKA, TEEMO, VEIGAR, VIEGO, YASUO"
   },
   {
     "id": "AMANTE-DEL-CASTIGO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/amante_del_castigo.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "SORAKA"
   },
   {
     "id": "AMIGUITOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/amiguitos.webp",
     "rareza": "epica",
-    "recomendados": "CAITLYN, EL_REY_PORO, GAREN, KAISA, KINDRED, NEEKO, NORRA"
+    "recomendados": "CAITLYN, EL_REY_PORO, GAREN, KAISA, KINDRED, NEEKO, NORRA, SORAKA, THRESH"
   },
   {
     "id": "APILADAS-EN-SU-CONTRA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/apiladas_en_su_contra.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, JANNA, NAMI, NAUTILUS"
+    "recomendados": "AHRI, JANNA, NAMI, NAUTILUS, SORAKA"
   },
   {
     "id": "APLASTAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/aplastar.webp",
     "rareza": "comun",
-    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE, DIANA, DRAGON_ANCESTRAL, ELISE, EVELYNN_FLOR_ESPIRITUAL, FIDDLESTICKS, GNAR, ILLAOI, JACK, JHIN, MISS_FORTUNE, NASUS, NAUTILUS, NIDALEE"
+    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE, DIANA, DRAGON_ANCESTRAL, ELISE, EVELYNN_FLOR_ESPIRITUAL, FIDDLESTICKS, GNAR, ILLAOI, JACK, JHIN, MISS_FORTUNE, NASUS, NAUTILUS, NIDALEE, SETT, SORAKA, SWAIN, TALIYAH, THRESH, VAYNE, VIEGO, YASUO, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "ARMAS-HASTA-LOS-DIENTES",
@@ -45,91 +45,91 @@
     "id": "ATACALOS-CON-RAPIDEZ",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/atácalos_con_rapidez.webp",
     "rareza": "comun",
-    "recomendados": "ELISE, NIDALEE"
+    "recomendados": "ELISE, NIDALEE, SORAKA"
   },
   {
     "id": "BROMAS-ESPECTRALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/bromas_espectrales.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, FIDDLESTICKS, GWEN, LA_ARREBATADORA, MAESTRO_YI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, FIDDLESTICKS, GWEN, LA_ARREBATADORA, MAESTRO_YI_FLOR_ESPIRITUAL, SWAIN, TEEMO_FLOR_ESPIRITUAL, THRESH"
   },
   {
     "id": "BRUJERIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/brujería.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN, ANNIE, ASHE, EKKO, EL_REY_PORO, GNAR, HEIMERDINGER, JACK, JANNA, LEE_SIN, LUX, MAESTRO_YI, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, MORDEKAISER, MORGANA, NAMI, NASUS, NIDALEE, ORNN"
+    "recomendados": "AATROX, AHRI_FLOR_ESPIRITUAL, AKSHAN, ANNIE, ASHE, EKKO, EL_REY_PORO, GNAR, HEIMERDINGER, JACK, JANNA, LEE_SIN, LUX, MAESTRO_YI, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, MORDEKAISER, MORGANA, NAMI, NASUS, NIDALEE, ORNN, SAMIRA, SETT, SHYVANA, SORAKA, TEEMO, TAHM_KENCH, TRYNDAMERE, TWISTED_FATE, VARUS, VAYNE, VEIGAR, VIKTOR, VOLIBEAR, WARWICK, YASUO_FLOR_ESPIRITUAL, YUUMI"
   },
   {
     "id": "CARGAMENTO-DE-POLVO-ESTORNUDOSO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cargamento_de_polvo_estornudoso.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, AZIR, ELISE, HEIMERDINGER, LA_ARREBATADORA, LILLIA, MAESTRO_YI_FLOR_ESPIRITUAL, NORRA"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, AZIR, ELISE, HEIMERDINGER, LA_ARREBATADORA, LILLIA, MAESTRO_YI_FLOR_ESPIRITUAL, NORRA, TEEMO_FLOR_ESPIRITUAL"
   },
   {
     "id": "COMPARTE-EL-BOTIN",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/comparte_el_botin.webp",
     "rareza": "epica",
-    "recomendados": "AKSHAN, LEBLANC, LEE_SIN, LEONA"
+    "recomendados": "AKSHAN, LEBLANC, LEE_SIN, LEONA, SAMIRA, SORAKA, VARUS, YUUMI"
   },
   {
     "id": "COMPARTIR-ES-QUERER",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/compartir_es_querer.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, BARDO, EL_REY_PORO, EVELYNN, GAREN, GNAR, JAX, KAISA, LILLIA, LUX, LUX_ILUMINADA, MAESTRO_YI, NEEKO, NIDALEE"
+    "recomendados": "AATROX, AHRI, BARDO, EL_REY_PORO, EVELYNN, GAREN, GNAR, JAX, KAISA, LILLIA, LUX, LUX_ILUMINADA, MAESTRO_YI, NEEKO, NIDALEE, SORAKA, TEEMO, VAYNE, VEX"
   },
   {
     "id": "CORTES-PROFUNDOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cortes_profundos.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, FIDDLESTICKS, LA_ARREBATADORA, MORGANA"
+    "recomendados": "AHRI, FIDDLESTICKS, LA_ARREBATADORA, MORGANA, SHYVANA"
   },
   {
     "id": "COSECHA-DE-ESENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cosecha_de_esencia.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "SORAKA, TRYNDAMERE"
   },
   {
     "id": "CUADRILLA-DEL-PILLAJE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cuadrilla_del_pillaje.webp",
     "rareza": "comun",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, ANIVIA, ANNIE, ELISE, GNAR, GWEN, JHIN, JINX, KAISA, KINDRED, LUX_ILUMINADA, MISS_FORTUNE, NEEKO, NIDALEE"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, ANIVIA, ANNIE, ELISE, GNAR, GWEN, JHIN, JINX, KAISA, KINDRED, LUX_ILUMINADA, MISS_FORTUNE, NEEKO, NIDALEE, SAMIRA, SHYVANA, SORAKA, SWAIN, TEEMO, TEEMO_FLOR_ESPIRITUAL, VI, WARWICK"
   },
   {
     "id": "CUCHILLAS-REBOTANTES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/cuchillas_rebotantes.webp",
     "rareza": "comun",
-    "recomendados": "ANNIE, AURELION_SOL, EKKO, JHIN, LEE_SIN, MEL, MORGANA, NAMI, NILAH"
+    "recomendados": "ANNIE, AURELION_SOL, EKKO, JHIN, LEE_SIN, MEL, MORGANA, NAMI, NILAH, SAMIRA, VEX"
   },
   {
     "id": "DESARMADO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/desarmado.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "SORAKA"
   },
   {
     "id": "DESCUENTO-DEL-MERCADO-NEGRO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/descuento_del_mercado_negro.webp",
     "rareza": "epica",
-    "recomendados": "ANIVIA, AZIR, EVELYNN_FLOR_ESPIRITUAL, LA_ARREBATADORA, MAESTRO_YI_FLOR_ESPIRITUAL, MEL"
+    "recomendados": "ANIVIA, AZIR, EVELYNN_FLOR_ESPIRITUAL, LA_ARREBATADORA, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, SHYVANA, TEEMO_FLOR_ESPIRITUAL, THRESH, TWISTED_FATE, VOLIBEAR, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "DESPERTAR-TITANICO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/despertar_titánico.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AURELION_SOL, DARIUS, KAYLE, NAUTILUS"
+    "recomendados": "AHRI, AURELION_SOL, DARIUS, KAYLE, NAUTILUS, TRYNDAMERE, VOLIBEAR, WARWICK"
   },
   {
     "id": "DOMINACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/dominación.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AMBESSA, ANIVIA, ANNIE, ASHE, DARIUS, DIANA, ELISE, EVELYNN_FLOR_ESPIRITUAL, GAREN, GNAR, GWEN, HEIMERDINGER, ILLAOI, JAX, JHIN, KAISA, KAYLE, KAYN, LA_ARREBATADORA, LEBLANC, LEONA, LUX, LUX_ILUMINADA, MAESTRO_YI_FLOR_ESPIRITUAL, MISS_FORTUNE, NAUTILUS, NEEKO, NIDALEE, PYKE"
+    "recomendados": "AHRI, AMBESSA, ANIVIA, ANNIE, ASHE, DARIUS, DIANA, ELISE, EVELYNN_FLOR_ESPIRITUAL, GAREN, GNAR, GWEN, HEIMERDINGER, ILLAOI, JAX, JHIN, KAISA, KAYLE, KAYN, LA_ARREBATADORA, LEBLANC, LEONA, LUX, LUX_ILUMINADA, MAESTRO_YI_FLOR_ESPIRITUAL, MISS_FORTUNE, NAUTILUS, NEEKO, NIDALEE, PYKE, SETT, SHYVANA, SORAKA, TEEMO, TEEMO_FLOR_ESPIRITUAL, THRESH, TWISTED_FATE, VAYNE, VEX, VI, YASUO_FLOR_ESPIRITUAL, YUUMI"
   },
   {
     "id": "DULCE-SOLEDAD",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/dulce_soledad.webp",
     "rareza": "rara",
-    "recomendados": "KAYLE"
+    "recomendados": "KAYLE, SORAKA"
   },
   {
     "id": "EDUCACION-SUPERIOR",
@@ -141,37 +141,37 @@
     "id": "EL-FAVOR-DEL-ARTESANO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_favor_del_artesano.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN, AURELION_SOL, DIANA, EKKO, JACK, JAX, KAYN, LEE_SIN"
+    "recomendados": "AKSHAN, AURELION_SOL, DIANA, EKKO, JACK, JAX, KAYN, LEE_SIN, VARUS, YUUMI"
   },
   {
     "id": "EL-GENIO-DE-YIPP",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/el_genio_de_yipp.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AZIR, EL_REY_PORO, ELISE, EVELYNN, JAYCE, MISS_FORTUNE, NAMI"
+    "recomendados": "AHRI, AZIR, EL_REY_PORO, ELISE, EVELYNN, JAYCE, MISS_FORTUNE, NAMI, SORAKA, TEEMO, VIEGO, YUUMI"
   },
   {
     "id": "EN-LA-MIRA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/en_la_mira.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA, GAREN, KINDRED, NASUS"
+    "recomendados": "ANIVIA, GAREN, KINDRED, NASUS, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "EN-NECESIDAD-DE-REPARACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/en_necesidad_de_reparacion.webp",
     "rareza": "rara",
-    "recomendados": "ELISE, EVELYNN, KAYLE, KINDRED, MAESTRO_YI_FLOR_ESPIRITUAL, NASUS"
+    "recomendados": "ELISE, EVELYNN, KAYLE, KINDRED, MAESTRO_YI_FLOR_ESPIRITUAL, NASUS, SORAKA"
   },
   {
     "id": "ENTRADA-EXPLOSIVA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/entrada_explosiva.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, ANNIE, FIDDLESTICKS, JINX, KINDRED, MISS_FORTUNE"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, ANNIE, FIDDLESTICKS, JINX, KINDRED, MISS_FORTUNE, SAMIRA, TEEMO_FLOR_ESPIRITUAL, WARWICK"
   },
   {
     "id": "EQUIPAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/equipar.webp",
     "rareza": "rara",
-    "recomendados": "EL_REY_PORO, MAESTRO_YI, NORRA, ORNN"
+    "recomendados": "EL_REY_PORO, MAESTRO_YI, NORRA, ORNN, SAMIRA, SORAKA, VIKTOR"
   },
   {
     "id": "ESCUDO-URUMI",
@@ -183,13 +183,13 @@
     "id": "ESPERA-CON-PACIENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/espera_con_paciencia.webp",
     "rareza": "rara",
-    "recomendados": "ANNIE, DIANA, ELISE, JAYCE, JINX, KAYLE, NEEKO, PYKE"
+    "recomendados": "ANNIE, DIANA, ELISE, JAYCE, JINX, KAYLE, NEEKO, PYKE, WARWICK"
   },
   {
     "id": "ESTABILIZAR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/estabilizar.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, ANIVIA, ASHE, ELISE, GWEN, ILLAOI, JHIN, JINX, KINDRED, LA_ARREBATADORA, MISS_FORTUNE, PYKE"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, ANIVIA, ASHE, ELISE, GWEN, ILLAOI, JHIN, JINX, KINDRED, LA_ARREBATADORA, MISS_FORTUNE, PYKE, SHYVANA, TEEMO, THRESH, VI, VOLIBEAR, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "ESTUDIANTE-NUEVO",
@@ -201,31 +201,31 @@
     "id": "EVOLUCION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/evolución.webp",
     "rareza": "epica",
-    "recomendados": "BARDO, DRAGON_ANCESTRAL, EL_REY_PORO, ELISE, EVELYNN, HEIMERDINGER, JAYCE, KAISA, KAYN, LEONA, LUX_ILUMINADA, MORDEKAISER, NAUTILUS, NEEKO, NIDALEE, PYKE"
+    "recomendados": "BARDO, DRAGON_ANCESTRAL, EL_REY_PORO, ELISE, EVELYNN, HEIMERDINGER, JAYCE, KAISA, KAYN, LEONA, LUX_ILUMINADA, MORDEKAISER, NAUTILUS, NEEKO, NIDALEE, PYKE, VIKTOR, YUUMI"
   },
   {
     "id": "FALANGE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/falange.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AKSHAN, AMBESSA, DRAGON_ANCESTRAL, GAREN, MAESTRO_YI_FLOR_ESPIRITUAL"
+    "recomendados": "AATROX, AKSHAN, AMBESSA, DRAGON_ANCESTRAL, GAREN, MAESTRO_YI_FLOR_ESPIRITUAL, SHYVANA, VIKTOR"
   },
   {
     "id": "FINAL-EXPLOSIVO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/final_explosivo.webp",
     "rareza": "rara",
-    "recomendados": "ANNIE, CAITLYN, JHIN, JINX, MEL"
+    "recomendados": "ANNIE, CAITLYN, JHIN, JINX, MEL, SWAIN, TEEMO_FLOR_ESPIRITUAL, TWISTED_FATE, VEX, WARWICK, YASUO"
   },
   {
     "id": "FLUJO-DE-MANA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/flujo_de_maná.webp",
     "rareza": "epica",
-    "recomendados": "ANIVIA, AZIR, EL_REY_PORO, JHIN, LA_ARREBATADORA, MAESTRO_YI_FLOR_ESPIRITUAL, MEL"
+    "recomendados": "ANIVIA, AZIR, EL_REY_PORO, JHIN, LA_ARREBATADORA, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, SETT, SHYVANA, SORAKA, TEEMO_FLOR_ESPIRITUAL, THRESH, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "FRENALOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/frénalos.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA, ASHE, DRAGON_ANCESTRAL, GAREN, JACK, JAYCE, NASUS"
+    "recomendados": "ANIVIA, ASHE, DRAGON_ANCESTRAL, GAREN, JACK, JAYCE, NASUS, TEEMO, VEIGAR, VIEGO"
   },
   {
     "id": "FUENTE-DE-ENERGIA-ALTERNATIVA",
@@ -237,19 +237,19 @@
     "id": "FUERA-DE-LAS-PUERTAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/fuera_de_las_puertas.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, EL_REY_PORO, JAX, JHIN, LA_ARREBATADORA, MAESTRO_YI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, EL_REY_PORO, JAX, JHIN, LA_ARREBATADORA, MAESTRO_YI_FLOR_ESPIRITUAL, SETT, SHYVANA, SORAKA, TEEMO_FLOR_ESPIRITUAL, THRESH, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "FURIA-DEL-DRAGON",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/furia_del_dragón.webp",
     "rareza": "comun",
-    "recomendados": "AATROX, AKSHAN, NEEKO"
+    "recomendados": "AATROX, AKSHAN, NEEKO, SETT, SHYVANA, SORAKA, TAHM_KENCH, THRESH, VEX, YASUO, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "GOLPE-DEBILITANTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/golpe_debilitante.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA, CAITLYN, JACK, JHIN, KAISA, MEL, MISS_FORTUNE, NAMI"
+    "recomendados": "ANIVIA, CAITLYN, JACK, JHIN, KAISA, MEL, MISS_FORTUNE, NAMI, SHYVANA, TEEMO_FLOR_ESPIRITUAL, TWISTED_FATE, VEIGAR, VI, VOLIBEAR, WARWICK, YASUO"
   },
   {
     "id": "HECHICERIA",
@@ -261,43 +261,43 @@
     "id": "HERENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/herencia.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN, BARDO, EVELYNN_FLOR_ESPIRITUAL, MORDEKAISER"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN, BARDO, EVELYNN_FLOR_ESPIRITUAL, MORDEKAISER, THRESH, VOLIBEAR"
   },
   {
     "id": "INSPIRACION-ALOCADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/inspiracion_alocada.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AKSHAN, ANNIE, AURELION_SOL, EKKO, EL_REY_PORO, JACK, JANNA, LEE_SIN, MAESTRO_YI, MEL, MORGANA, NAMI, NIDALEE, NORRA, ORNN, PYKE"
+    "recomendados": "AATROX, AKSHAN, ANNIE, AURELION_SOL, EKKO, EL_REY_PORO, JACK, JANNA, LEE_SIN, MAESTRO_YI, MEL, MORGANA, NAMI, NIDALEE, NORRA, ORNN, PYKE, SAMIRA, SETT, SORAKA, TEEMO, TAHM_KENCH, TWISTED_FATE, VEIGAR, VIKTOR, YUUMI"
   },
   {
     "id": "JUEGO-DE-MEMORIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/juego_de_memoria.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AURELION_SOL, ELISE, JHIN, MEL, NILAH"
+    "recomendados": "AATROX, AURELION_SOL, ELISE, JHIN, MEL, NILAH, SAMIRA, SETT, VEIGAR"
   },
   {
     "id": "LA-GRAN-GRAN-PLAZA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/la_gran_gran_plaza.webp",
     "rareza": "epica",
-    "recomendados": "LILLIA, MAESTRO_YI_FLOR_ESPIRITUAL"
+    "recomendados": "LILLIA, MAESTRO_YI_FLOR_ESPIRITUAL, SORAKA, VIEGO"
   },
   {
     "id": "LA-MEJOR-DEFENSA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/la_mejor_defensa....webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AMBESSA, DARIUS, DIANA, DRAGON_ANCESTRAL, GAREN, GWEN, HEIMERDINGER, JACK, JAX, LEBLANC, LUX, NAMI, NIDALEE, PYKE"
+    "recomendados": "AATROX, AMBESSA, DARIUS, DIANA, DRAGON_ANCESTRAL, GAREN, GWEN, HEIMERDINGER, JACK, JAX, LEBLANC, LUX, NAMI, NIDALEE, PYKE, SORAKA, TALIYAH, TAHM_KENCH, VARUS, VAYNE, VI, YASUO"
   },
   {
     "id": "LANZADOR-DE-HECHIZOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/lanzador_de_hechizos.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN, ANIVIA, ANNIE, EKKO, EL_REY_PORO, GAREN, GNAR, JACK, JANNA, JINX, MAESTRO_YI, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, MORGANA, NAMI, NASUS, NIDALEE, ORNN"
+    "recomendados": "AKSHAN, ANIVIA, ANNIE, EKKO, EL_REY_PORO, GAREN, GNAR, JACK, JANNA, JINX, MAESTRO_YI, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, MORGANA, NAMI, NASUS, NIDALEE, ORNN, SAMIRA, SETT, SORAKA, TEEMO, TWISTED_FATE, VARUS, VEIGAR, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "LENTO-PERO-SEGURO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/lento_pero_seguro.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, ANIVIA, JANNA, JAYCE, LEONA, LUX, MEL, NASUS"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, ANIVIA, JANNA, JAYCE, LEONA, LUX, MEL, NASUS, SETT, VOLIBEAR"
   },
   {
     "id": "MADRUGADOR",
@@ -315,7 +315,7 @@
     "id": "MEDITACION-MISTICA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/meditación_mística.webp",
     "rareza": "rara",
-    "recomendados": "AURELION_SOL, AZIR, EVELYNN_FLOR_ESPIRITUAL, JANNA, LA_ARREBATADORA, MAESTRO_YI, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, NAMI, NASUS"
+    "recomendados": "AURELION_SOL, AZIR, EVELYNN_FLOR_ESPIRITUAL, JANNA, LA_ARREBATADORA, MAESTRO_YI, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, NAMI, NASUS, SORAKA, TRYNDAMERE, TWISTED_FATE, WARWICK, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "MUSCULOSO",
@@ -327,31 +327,31 @@
     "id": "NO-PUEDO-NI-QUIERO-DETENERME",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/no_puedo_ni_quiero_detenerme.webp",
     "rareza": "epica",
-    "recomendados": "AKSHAN, GWEN, ILLAOI, LEE_SIN, LEONA, LUX_ILUMINADA, MAESTRO_YI, MAESTRO_YI_FLOR_ESPIRITUAL"
+    "recomendados": "AKSHAN, GWEN, ILLAOI, LEE_SIN, LEONA, LUX_ILUMINADA, MAESTRO_YI, MAESTRO_YI_FLOR_ESPIRITUAL, VARUS, VAYNE"
   },
   {
     "id": "OFICIALES-DE-REFUERZO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/oficiales_de_refuerzo.webp",
     "rareza": "rara",
-    "recomendados": "CAITLYN, GNAR, HEIMERDINGER"
+    "recomendados": "CAITLYN, GNAR, HEIMERDINGER, SORAKA"
   },
   {
     "id": "OFRENDAS-ADECUADAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/ofrendas_adecuadas.webp",
     "rareza": "comun",
-    "recomendados": "NAUTILUS"
+    "recomendados": "NAUTILUS, TRYNDAMERE"
   },
   {
     "id": "PERFECCION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/perfección.webp",
     "rareza": "epica",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, TEEMO_FLOR_ESPIRITUAL"
   },
   {
     "id": "PODEMOS-LOGRARLO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/podemos_lograrlo.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN"
+    "recomendados": "AKSHAN, SORAKA"
   },
   {
     "id": "PODER-ILIMITADO",
@@ -363,43 +363,43 @@
     "id": "PODER-TRIFARIANO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/poder_trifariano.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AMBESSA, BARDO, DARIUS, DIANA, DRAGON_ANCESTRAL, EKKO, FIDDLESTICKS, HEIMERDINGER, JACK, KAYLE, LEBLANC, LEONA, LILLIA, MORDEKAISER, NASUS, NAUTILUS, NEEKO, NORRA, PYKE"
+    "recomendados": "AHRI, AMBESSA, BARDO, DARIUS, DIANA, DRAGON_ANCESTRAL, EKKO, FIDDLESTICKS, HEIMERDINGER, JACK, KAYLE, LEBLANC, LEONA, LILLIA, MORDEKAISER, NASUS, NAUTILUS, NEEKO, NORRA, PYKE, SWAIN, TALIYAH, TRYNDAMERE, VAYNE, VI, VIEGO, VOLIBEAR, WARWICK"
   },
   {
     "id": "PRESA-FACIL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/presa_fácil.webp",
     "rareza": "comun",
-    "recomendados": "AHRI, KAYLE, NORRA"
+    "recomendados": "AHRI, KAYLE, NORRA, VIKTOR"
   },
   {
     "id": "PRESA-HERIDA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/presa_herida.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "TEEMO_FLOR_ESPIRITUAL"
   },
   {
     "id": "PRODUCCION-DE-FALSIFICACIONES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/producción_de_falsificaciones.webp",
     "rareza": "comun",
-    "recomendados": "AMBESSA, AURELION_SOL, DIANA, EKKO, JANNA, LEE_SIN, NAMI, NILAH, NORRA"
+    "recomendados": "AMBESSA, AURELION_SOL, DIANA, EKKO, JANNA, LEE_SIN, NAMI, NILAH, NORRA, TRYNDAMERE"
   },
   {
     "id": "PROFECIA-ESCALOFRIANTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/profecía_escalofriante.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "VOLIBEAR"
   },
   {
     "id": "PROFETA-DE-UN-DIOS-ANTIGUO-II",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/profeta_de_un_dios_antiguo_ii.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "TRYNDAMERE"
   },
   {
     "id": "PROHIBICION-DEL-MAS-ALLA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/prohibición_del_más_allá.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "THRESH"
   },
   {
     "id": "PURA-HABILIDAD",
@@ -411,25 +411,25 @@
     "id": "QUEMADURA-DE-HECHIZO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/quemadura_de_hechizo.webp",
     "rareza": "epica",
-    "recomendados": "ANNIE, EVELYNN_FLOR_ESPIRITUAL, JHIN, MAESTRO_YI_FLOR_ESPIRITUAL, MEL"
+    "recomendados": "ANNIE, EVELYNN_FLOR_ESPIRITUAL, JHIN, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, SAMIRA, SWAIN, TEEMO_FLOR_ESPIRITUAL, TWISTED_FATE, WARWICK"
   },
   {
     "id": "REGALOS-DE-BIENVENIDA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/regalos_de_bienvenida.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, ANIVIA, AZIR, EL_REY_PORO, ELISE, KAISA, MAESTRO_YI_FLOR_ESPIRITUAL"
+    "recomendados": "AHRI, AHRI_FLOR_ESPIRITUAL, ANIVIA, AZIR, EL_REY_PORO, ELISE, KAISA, MAESTRO_YI_FLOR_ESPIRITUAL, SORAKA, TWISTED_FATE"
   },
   {
     "id": "RESISTENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/resistencia.webp",
     "rareza": "comun",
-    "recomendados": "AATROX, ANIVIA, JACK, LUX_ILUMINADA"
+    "recomendados": "AATROX, ANIVIA, JACK, LUX_ILUMINADA, SORAKA, TAHM_KENCH, TRYNDAMERE, VOLIBEAR"
   },
   {
     "id": "RESTABLECER",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/restablecer.webp",
     "rareza": "comun",
-    "recomendados": "GWEN"
+    "recomendados": "GWEN, VARUS"
   },
   {
     "id": "REUNIDO",
@@ -441,25 +441,25 @@
     "id": "ROBO-RAPIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/robo_rápido.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA, AZIR, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, NILAH"
+    "recomendados": "ANIVIA, AZIR, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, NILAH, SETT, SHYVANA, SORAKA, TWISTED_FATE, VI, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "ROCIO-DE-POLVO-ESTORNUDOSO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/rocío_de_polvo_estornudoso.webp",
     "rareza": "comun",
-    "recomendados": "AMBESSA, MAESTRO_YI_FLOR_ESPIRITUAL"
+    "recomendados": "AMBESSA, MAESTRO_YI_FLOR_ESPIRITUAL, TEEMO_FLOR_ESPIRITUAL"
   },
   {
     "id": "SALON-INQUIETANTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/salón_inquietante.webp",
     "rareza": "comun",
-    "recomendados": "MORDEKAISER"
+    "recomendados": "MORDEKAISER, THRESH"
   },
   {
     "id": "SE-ILUMINA-EL-CAMINO-II",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/se_ilumina_el_camino_ii.webp",
     "rareza": "epica",
-    "recomendados": "NAUTILUS"
+    "recomendados": "NAUTILUS, TRYNDAMERE"
   },
   {
     "id": "SEDE-DEL-PODER",
@@ -471,7 +471,7 @@
     "id": "SELECCION-ANTINATURAL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/seleccion_antinatural.webp",
     "rareza": "comun",
-    "recomendados": ""
+    "recomendados": "SORAKA"
   },
   {
     "id": "SENTIDOS-FERALES",
@@ -483,7 +483,7 @@
     "id": "SOBREPREPARACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/sobrepreparación.webp",
     "rareza": "comun",
-    "recomendados": "JAX, ORNN"
+    "recomendados": "JAX, ORNN, VARUS"
   },
   {
     "id": "TERRENO-TRAICIONERO",
@@ -495,7 +495,7 @@
     "id": "TRATO-RAPIDO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/trato_rápido.webp",
     "rareza": "rara",
-    "recomendados": "BARDO, CAITLYN, JACK, JANNA, JINX, NILAH"
+    "recomendados": "BARDO, CAITLYN, JACK, JANNA, JINX, NILAH, TWISTED_FATE, VI"
   },
   {
     "id": "TROPA-EXPEDICIONARIA",
@@ -513,12 +513,12 @@
     "id": "VIENTOS-ELEMENTALES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/vientos_elementales.webp",
     "rareza": "epica",
-    "recomendados": "ANIVIA, ANNIE, GNAR, GWEN, JANNA, JHIN, JINX, KAISA, MEL, MISS_FORTUNE, NILAH"
+    "recomendados": "ANIVIA, ANNIE, GNAR, GWEN, JANNA, JHIN, JINX, KAISA, MEL, MISS_FORTUNE, NILAH, SWAIN, TALIYAH, TWISTED_FATE, VEIGAR, VEX, VOLIBEAR, WARWICK"
   },
   {
     "id": "VIGILANTE-DE-LA-VANGUARDIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/vigilante_de_la_vanguardia.webp",
     "rareza": "rara",
-    "recomendados": "NORRA"
+    "recomendados": "NORRA, SAMIRA, SETT, SORAKA"
   }
 ]
