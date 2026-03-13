@@ -1,6 +1,76 @@
 [
   {
     "campeon": "AATROX",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r2": "ARMA-VIVIENTE",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "PAQUETE-COMPLETO",
+    "r2": "LA-HEBILLA-DEL-BERSERKER",
+    "r3": "LA-HEBILLA-DEL-BERSERKER",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "LA-ESPADA-DARKIN",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "LA-ESPADA-DARKIN",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "ARMA-VIVIENTE",
+    "r2": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "LA-HEBILLA-DEL-BERSERKER",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "PAQUETE-COMPLETO",
+    "r3": "LA-HEBILLA-DEL-BERSERKER",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
     "r1": "GUANTELETES-ESTELARES",
     "r2": "LA-ESPADA-DARKIN",
     "r3": "LA-BESTIA-INTERIOR",
