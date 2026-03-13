@@ -176,6 +176,104 @@
   },
   {
     "campeon": "AHRI",
+    "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "ARMA-VIVIENTE",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "LA-HEBILLA-DEL-BERSERKER",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "TOMOS-OCULTOS",
+    "r2": "HIMNO-DEL-VALOR",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "HIMNO-DEL-VALOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "LADRONA-DE-ESENCIAS",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "ORBE-DEL-GUARDIAN",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "TOMOS-OCULTOS",
+    "r2": "HIMNO-DEL-VALOR",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "POLVORA-CARGADA",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "POLVORA-CARGADA",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r2": "HIMNO-DEL-VALOR",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "FUERZA-PETREA",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "HACHA-CORTAMIEDOS",
+    "r2": "POLVORA-CARGADA",
+    "r3": "ESPIRITU-DE-LOS-BUHRU",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "HIMNO-DEL-VALOR",
     "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
