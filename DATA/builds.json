@@ -491,6 +491,13 @@
   },
   {
     "campeon": "AKSHAN",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "BARATIJA-DEL-GUARDIAN",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
     "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r2": "TECNICA-SECRETA",
     "r3": "NUCLEO-HEX-PERFECTO",
@@ -557,6 +564,153 @@
     "r1": "CAZADOR-DE-RUFIANES",
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "TIJERAS-ESPECTRALES",
+    "r3": "CONDENSADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DRAGARTOS-GEMELOS",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "ARMA-VIVIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "MONEDERO-DE-CAMPEON",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "CONDENSADOR",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "TIJERAS-ESPECTRALES",
+    "r2": "CONDENSADOR",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "ARMA-VIVIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "ARMA-VIVIENTE",
+    "r2": "TIJERAS-ESPECTRALES",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "TIJERAS-ESPECTRALES",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "BACULO-DEL-ARCANGEL",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "DRAGARTOS-GEMELOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DRAGARTOS-GEMELOS",
+    "r2": "CONDENSADOR",
+    "r3": "TIJERAS-ESPECTRALES",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "ESPADA-DEL-ACECHADOR",
+    "r2": "CONDENSADOR",
+    "r3": "LA-CORONA-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "DRAGARTOS-GEMELOS",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r3": "ARMA-VIVIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "TUMBA-CONGELADA",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": ""
   },
   {
@@ -634,6 +788,55 @@
     "r1": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r2": "ESCUDO-NEGRO",
     "r3": "CONDENSADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
+    "r1": "TUMBA-CONGELADA",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
+    "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "ARMOTAS",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
+    "r1": "ALIENTO-HELADO",
+    "r2": "ICONO-DE-VALHIR",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
+    "r1": "GARRAS-GRANDES",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ICONO-DE-VALHIR",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
+    "r1": "ICONO-DE-VALHIR",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "PERMAHIELO",
     "r4": ""
   },
   {
