@@ -379,6 +379,27 @@
   },
   {
     "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "EL-ARCO-DE-LA-ARREBATADORA",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": "DESPERTAR-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "FUERZA-PETREA",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "EL-ARCO-DE-LA-ARREBATADORA",
+    "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": "DESPERTAR-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "FUERZA-PETREA",
     "r3": "MAZO-ACUMULADO",
@@ -3875,6 +3896,41 @@
     "r1": "ORBE-DEL-GUARDIAN",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "GUIA-DE-AVISTAMIENTO-DE-YETIS",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "TIJERAS-ESPECTRALES",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "PAQUETE-COMPLETO",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "TIJERAS-ESPECTRALES",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "TIJERAS-ESPECTRALES",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "CESE-Y-DESISTA",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "TOMOS-OCULTOS",
     "r4": ""
   },
   {
