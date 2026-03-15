@@ -960,6 +960,111 @@
   },
   {
     "campeon": "ANNIE",
+    "r1": "ARMOTAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "DERROTA-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "MAZO-DEL-DESTINO",
+    "r3": "TEMPESTAD-DE-LUDEN",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ARMOTAS",
+    "r2": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
+    "r3": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r2": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
+    "r3": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ARMOTAS",
+    "r2": "OSITO-DE-APOYO-EMOCIONAL",
+    "r3": "MAZO-DEL-DESTINO",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ARMOTAS",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "CONMOCION-Y-PAVOR",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "FUERZA-DEL-VIENTO",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "ORBE-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "GEMA-ESTELAR",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "BACULO-DEL-ARCANGEL",
+    "r2": "OSITO-DE-APOYO-EMOCIONAL",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ARMOTAS",
+    "r2": "CONMOCION-Y-PAVOR",
+    "r3": "TEMPESTAD-DE-LUDEN",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "CONMOCION-Y-PAVOR",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ARMOTAS",
+    "r2": "TEMPESTAD-DE-LUDEN",
+    "r3": "TEMPESTAD-DE-LUDEN",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ICONO-DE-VALHIR",
+    "r2": "ARMOTAS",
+    "r3": "OSITO-DE-APOYO-EMOCIONAL",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ARMOTAS",
+    "r2": "FUERZA-DEL-VIENTO",
+    "r3": "TEMPESTAD-DE-LUDEN",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "SUJETAESPADAS-LAURENT",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
     "r1": "CONMOCION-Y-PAVOR",
     "r2": "ARMOTAS",
     "r3": "OSITO-DE-APOYO-EMOCIONAL",
@@ -1044,6 +1149,48 @@
   },
   {
     "campeon": "ASHE",
+    "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r2": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "ASHE",
+    "r1": "BACULO-DEL-ARCANGEL",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "ASHE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "TUMBA-CONGELADA",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "ASHE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "ASHE",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "ASHE",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "BACULO-DEL-ARCANGEL",
+    "r4": ""
+  },
+  {
+    "campeon": "ASHE",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "EJERCITO-DE-CUERVOS-DE-SWAIN",
     "r3": "POLVORA-CARGADA",
@@ -1096,6 +1243,153 @@
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "SUJETAESPADAS-LAURENT",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "POLVORA-CARGADA",
+    "r2": "EL-ESCONDITE-DEL-AZOTE",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "LLAMADO-DE-SIRENA",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "BARATIJA-DEL-GUARDIAN",
+    "r3": "BARATIJA-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "LLAMADO-DE-SIRENA",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r3": "DADOS-TRUCADOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "POLVORA-CARGADA",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r3": "BARATIJA-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "AMIGUIS-DEL-PORTAL",
+    "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": ""
   },
   {
@@ -1156,6 +1450,69 @@
   },
   {
     "campeon": "AZIR",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "ORBE-LUMINOSO",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
+    "r1": "CONMOCION-Y-PAVOR",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
+    "r1": "FUERZA-PETREA",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "LA-CORONA-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
+    "r1": "FUERZA-PETREA",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "DERROTA-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
+    "r1": "FUERZA-PETREA",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "MARCA-DEL-SUCUBO",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "GEMA-ESTELAR",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "GEMA-ESTELAR",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
+    "r1": "PAQUETE-COMPLETO",
+    "r2": "GEMA-ESTELAR",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
     "r1": "FUERZA-PETREA",
     "r2": "ESCUDO-NEGRO",
     "r3": "LA-BESTIA-INTERIOR",
@@ -1184,7 +1541,7 @@
   },
   {
     "campeon": "AZIR",
-    "r1": "VARA-IMPERIAL",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
     "r2": "MAZO-ACUMULADO",
     "r3": "GEMA-ESTELAR",
     "r4": ""
@@ -1205,14 +1562,14 @@
   },
   {
     "campeon": "AZIR",
-    "r1": "VARA-IMPERIAL",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
     "r2": "DERROTA-DE-LA-MUERTE",
     "r3": "LA-BESTIA-INTERIOR",
     "r4": ""
   },
   {
     "campeon": "AZIR",
-    "r1": "VARA-IMPERIAL",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
     "r2": "FORTUNA-ENCONTRADA",
     "r3": "PAQUETE-COMPLETO",
     "r4": ""
@@ -1240,7 +1597,7 @@
   },
   {
     "campeon": "AZIR",
-    "r1": "VARA-IMPERIAL",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
     "r2": "ORBE-LUMINOSO",
     "r3": "GUANTELETES-ESTELARES",
     "r4": ""
@@ -1254,7 +1611,7 @@
   },
   {
     "campeon": "AZIR",
-    "r1": "VARA-IMPERIAL",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
     "r2": "TIJERAS-ESPECTRALES",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": ""
@@ -1275,14 +1632,14 @@
   },
   {
     "campeon": "AZIR",
-    "r1": "VARA-IMPERIAL",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "LA-BALANZA-DE-LA-JUSTICIA",
     "r4": ""
   },
   {
     "campeon": "AZIR",
-    "r1": "VARA-IMPERIAL",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
     "r2": "DERROTA-DE-LA-MUERTE",
     "r3": "GEMA-ESTELAR",
     "r4": ""
@@ -1296,7 +1653,7 @@
   },
   {
     "campeon": "AZIR",
-    "r1": "VARA-IMPERIAL",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
     "r2": "GEMA-ESTELAR",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": ""
