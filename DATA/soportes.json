@@ -1312,8 +1312,18 @@
   },
   {
     "principal": "NUNU_Y_WILLUMP",
-    "S": [],
-    "A": [],
+    "S": [
+      "Samira",
+      "Leblanc",
+      "Mordekaiser"
+    ],
+    "A": [
+      "Thresh",
+      "Kennen",
+      "Neeko",
+      "Vi",
+      "Azir"
+    ],
     "B": [],
     "C": []
   },
