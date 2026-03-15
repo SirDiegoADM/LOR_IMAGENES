@@ -117,7 +117,7 @@
     "id": "DESPERTAR-TITANICO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/despertar_titánico.webp",
     "rareza": "rara",
-    "recomendados": "AHRI, AURELION_SOL, DARIUS, KAYLE, NAUTILUS, TRYNDAMERE, VOLIBEAR, WARWICK"
+    "recomendados": "AHRI, AURELION_SOL, DARIUS, KAYLE, NAUTILUS, NUNU_Y_WILLUMP, TRYNDAMERE, VOLIBEAR, WARWICK"
   },
   {
     "id": "DOMINACION",
@@ -153,7 +153,7 @@
     "id": "EN-LA-MIRA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/en_la_mira.webp",
     "rareza": "rara",
-    "recomendados": "ANIVIA, GAREN, KINDRED, NASUS, YASUO_FLOR_ESPIRITUAL"
+    "recomendados": "ANIVIA, GAREN, KINDRED, NASUS, NUNU_Y_WILLUMP, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "EN-NECESIDAD-DE-REPARACION",
@@ -183,7 +183,7 @@
     "id": "ESPERA-CON-PACIENCIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/espera_con_paciencia.webp",
     "rareza": "rara",
-    "recomendados": "ANNIE, DIANA, ELISE, JAYCE, JINX, KAYLE, NEEKO, PYKE, WARWICK"
+    "recomendados": "ANNIE, DIANA, ELISE, JAYCE, JINX, KAYLE, NEEKO, NUNU_Y_WILLUMP, PYKE, WARWICK"
   },
   {
     "id": "ESTABILIZAR",
@@ -267,7 +267,7 @@
     "id": "INSPIRACION-ALOCADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/inspiracion_alocada.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AKSHAN, ANNIE, AURELION_SOL, EKKO, EL_REY_PORO, JACK, JANNA, LEE_SIN, MAESTRO_YI, MEL, MORGANA, NAMI, NIDALEE, NORRA, ORNN, PYKE, SAMIRA, SETT, SORAKA, TEEMO, TAHM_KENCH, TWISTED_FATE, VEIGAR, VIKTOR, YUUMI"
+    "recomendados": "AATROX, AKSHAN, ANNIE, AURELION_SOL, EKKO, EL_REY_PORO, JACK, JANNA, LEE_SIN, MAESTRO_YI, MEL, MORGANA, NAMI, NIDALEE, NORRA, NUNU_Y_WILLUMP, ORNN, PYKE, SAMIRA, SETT, SORAKA, TEEMO, TAHM_KENCH, TWISTED_FATE, VEIGAR, VIKTOR, YUUMI"
   },
   {
     "id": "JUEGO-DE-MEMORIA",
@@ -381,7 +381,7 @@
     "id": "PRODUCCION-DE-FALSIFICACIONES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/producción_de_falsificaciones.webp",
     "rareza": "comun",
-    "recomendados": "AMBESSA, AURELION_SOL, DIANA, EKKO, JANNA, LEE_SIN, NAMI, NILAH, NORRA, TRYNDAMERE"
+    "recomendados": "AMBESSA, AURELION_SOL, DIANA, EKKO, JANNA, LEE_SIN, NAMI, NILAH, NORRA, NUNU_Y_WILLUMP, TRYNDAMERE"
   },
   {
     "id": "PROFECIA-ESCALOFRIANTE",
