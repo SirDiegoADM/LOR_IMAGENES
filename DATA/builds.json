@@ -10102,6 +10102,83 @@
   },
   {
     "campeon": "VIKTOR",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "POLVORA-CARGADA",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "BACULO-DEL-ARCANGEL",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "ORBE-LUMINOSO",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "EL-ESCONDITE-DEL-AZOTE",
+    "r3": "BACULO-DEL-ARCANGEL",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
     "r1": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r2": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
     "r3": "LA-CORONA-DEL-REY-TROL",
@@ -10158,6 +10235,132 @@
   },
   {
     "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ICONO-DE-VALHIR",
+    "r3": "CESE-Y-DESISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "AMIGUIS-DEL-PORTAL",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "AMIGUIS-DEL-PORTAL",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "AMIGUIS-DEL-PORTAL",
+    "r2": "MAZO-ACUMULADO",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "ICONO-DE-VALHIR",
+    "r2": "AMIGUIS-DEL-PORTAL",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "AMIGUIS-DEL-PORTAL",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "CESE-Y-DESISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "AMIGUIS-DEL-PORTAL",
+    "r2": "CESE-Y-DESISTA",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "HIMNO-DEL-VALOR",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "DUPLICADOR-QUIMTECH",
+    "r2": "HIMNO-DEL-VALOR",
+    "r3": "HIMNO-DEL-VALOR",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "ICONO-DE-VALHIR",
+    "r2": "GARRAS-GRANDES",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "LA-HEBILLA-DEL-BERSERKER",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
     "r1": "ESCUDO-NEGRO",
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
     "r3": "TUMBA-CONGELADA",
@@ -10210,6 +10413,97 @@
     "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r2": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r3": "PROTOTIPO-DE-PULSAR-Z",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "OSITO-DE-APOYO-EMOCIONAL",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "ARMOTAS",
+    "r2": "CONMOCION-Y-PAVOR",
+    "r3": "EXPERIMENTOS-CRUELES",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "ARMOTAS",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "ARPON-MORTIFERO",
+    "r2": "EXPERIMENTOS-CRUELES",
+    "r3": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "MARCA-DEL-SUCUBO",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "COSECHA-MALVADA",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "LA-HEBILLA-DEL-BERSERKER",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "LLAMADO-DE-SIRENA",
+    "r3": "MARCA-DEL-SUCUBO",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r3": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "LA-CORONA-DEL-REY-TROL",
+    "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "LA-HEBILLA-DEL-BERSERKER",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "OSITO-DE-APOYO-EMOCIONAL",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "ARMOTAS",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "VELO-DE-LA-BANSHEE",
     "r4": ""
   },
   {
@@ -10284,6 +10578,139 @@
   },
   {
     "campeon": "YASUO",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r2": "FLAUTA-DE-ALBOROTADOR",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "PAQUETE-COMPLETO",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r2": "ESPADA-DE-LA-TEMPESTAD",
+    "r3": "PERMAHIELO",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-LA-TEMPESTAD",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "PERMAHIELO",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-LA-TEMPESTAD",
+    "r2": "LA-CORONA-DEL-REY-TROL",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPADA-DE-LA-TEMPESTAD",
+    "r3": "PERMAHIELO",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r2": "FLAUTA-DE-ALBOROTADOR",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-LA-TEMPESTAD",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "BACULO-DEL-ARCANGEL",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "ESPADA-DE-LA-TEMPESTAD",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "TUMBA-CONGELADA",
+    "r2": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r3": "LADRONA-DE-ESENCIAS",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
     "r1": "ESPADA-DE-VIENTO-DE-YASUO",
     "r2": "ESPADA-DE-LA-TEMPESTAD",
     "r3": "ESPIRITU-RESONANTE",
@@ -10330,6 +10757,41 @@
     "r2": "ESPADA-DE-LA-TEMPESTAD",
     "r3": "PERMAHIELO",
     "r4": ""
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r3": "MAZO-DEL-DESTINO",
+    "r4": "VESTIGIOS-DEL-VIENTO-RUNA"
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r4": "VESTIGIOS-DEL-VIENTO-RUNA"
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r3": "AMIGUIS-DEL-PORTAL",
+    "r4": "VESTIGIOS-DEL-VIENTO-RUNA"
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "OSITO-DE-APOYO-EMOCIONAL",
+    "r2": "GARRAS-GRANDES",
+    "r3": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r4": "VESTIGIOS-DEL-VIENTO-RUNA"
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": "VESTIGIOS-DEL-VIENTO-RUNA"
   },
   {
     "campeon": "YASUO_FLOR_ESPIRITUAL",
@@ -10386,6 +10848,83 @@
     "r2": "BARATIJA-DEL-GUARDIAN",
     "r3": "ORBE-LUMINOSO",
     "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "FUERZA-DEL-VIENTO",
+    "r3": "ARMADURA-DE-WARMOG",
+    "r4": ""
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "FUERZA-DEL-VIENTO",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "MORDISCOS-REALES",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "MORDISCOS-REALES",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "FUERZA-PETREA",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": ""
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "ARMADURA-DE-WARMOG",
+    "r2": "FUERZA-PETREA",
+    "r3": "LA-HEBILLA-DEL-BERSERKER",
+    "r4": ""
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "MARCA-DEL-SUCUBO",
+    "r4": ""
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "PAQUETE-COMPLETO",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
   },
   {
     "campeon": "YUUMI",
