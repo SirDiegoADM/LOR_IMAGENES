@@ -492,6 +492,27 @@
   {
     "campeon": "AKSHAN",
     "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "CAZADOR-DE-RUFIANES",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "PAQUETE-COMPLETO",
+    "r2": "ARMA-VIVIENTE",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "BARATIJA-DEL-GUARDIAN",
     "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
