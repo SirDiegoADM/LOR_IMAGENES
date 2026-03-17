@@ -8596,6 +8596,55 @@
     "r4": ""
   },
   {
+    "campeon": "TAHM_KECH",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "BATERIA-HEXTECH-DE-JAYCE",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": ""
+  },
+  {
+    "campeon": "TAHM_KECH",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "TECNICA-SECRETA",
+    "r4": ""
+  },
+  {
+    "campeon": "TAHM_KECH",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "FUERZA-PETREA",
+    "r3": "CONDENSADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "TAHM_KECH",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "TECNICA-SECRETA",
+    "r3": "HIMNO-DEL-VALOR",
+    "r4": ""
+  },
+  {
+    "campeon": "TAHM_KECH",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "LA-HEBILLA-DEL-BERSERKER",
+    "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "TAHM_KECH",
+    "r1": "LA-CORONA-DEL-REY-TROL",
+    "r2": "LA-HEBILLA-DEL-BERSERKER",
+    "r3": "LA-HEBILLA-DEL-BERSERKER",
+    "r4": ""
+  },
+  {
+    "campeon": "TAHM_KECH",
+    "r1": "BACULO-DEL-ARCANGEL",
+    "r2": "LA-HEBILLA-DEL-BERSERKER",
+    "r3": "ARMADURA-DE-WARMOG",
+    "r4": ""
+  },
+  {
     "campeon": "TALIYAH",
     "r1": "ICONO-DE-VALHIR",
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
@@ -8797,55 +8846,6 @@
     "r2": "ESPANTAPAJAROS-INOFENSIVO",
     "r3": "COSECHA-MALVADA",
     "r4": "PROLIFERACION-DE-HONGOS-RUNA"
-  },
-  {
-    "campeon": "THAM_KECH",
-    "r1": "EXPERIMENTOS-CRUELES",
-    "r2": "BATERIA-HEXTECH-DE-JAYCE",
-    "r3": "GUANTELETES-ESTELARES",
-    "r4": ""
-  },
-  {
-    "campeon": "THAM_KECH",
-    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
-    "r2": "ESPIRITU-RESONANTE",
-    "r3": "TECNICA-SECRETA",
-    "r4": ""
-  },
-  {
-    "campeon": "THAM_KECH",
-    "r1": "GUANTELETES-ESTELARES",
-    "r2": "FUERZA-PETREA",
-    "r3": "CONDENSADOR",
-    "r4": ""
-  },
-  {
-    "campeon": "THAM_KECH",
-    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
-    "r2": "TECNICA-SECRETA",
-    "r3": "HIMNO-DEL-VALOR",
-    "r4": ""
-  },
-  {
-    "campeon": "THAM_KECH",
-    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
-    "r2": "LA-HEBILLA-DEL-BERSERKER",
-    "r3": "CAPITULO-PERDIDO",
-    "r4": ""
-  },
-  {
-    "campeon": "THAM_KECH",
-    "r1": "LA-CORONA-DEL-REY-TROL",
-    "r2": "LA-HEBILLA-DEL-BERSERKER",
-    "r3": "LA-HEBILLA-DEL-BERSERKER",
-    "r4": ""
-  },
-  {
-    "campeon": "THAM_KECH",
-    "r1": "BACULO-DEL-ARCANGEL",
-    "r2": "LA-HEBILLA-DEL-BERSERKER",
-    "r3": "ARMADURA-DE-WARMOG",
-    "r4": ""
   },
   {
     "campeon": "THRESH",
