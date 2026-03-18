@@ -8989,6 +8989,13 @@
   },
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
+    "r1": "POLVORA-CARGADA",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "TEEMO_FLOR_ESPIRITUAL",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
     "r3": "TOMOS-OCULTOS",
