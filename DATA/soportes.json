@@ -2,20 +2,23 @@
   {
     "principal": "AATROX",
     "S": [
+      "Akshan",
       "Kayn",
-      "Vayne",
-      "Akshan"
+      "Vayne"
     ],
     "A": [
-      "Quinn",
-      "Varus",
       "Kayle",
-      "Riven"
+      "Quinn",
+      "Riven",
+      "Swain",
+      "Varus"
     ],
     "B": [
+      "Garen",
       "Jax",
-      "Ornn",
-      "Kai'sa"
+      "Kai'sa",
+      "Morgana",
+      "Ornn"
     ],
     "C": [
       "Soraka",
@@ -455,15 +458,24 @@
   {
     "principal": "FIDDLESTICKS",
     "S": [
-      "Gwen",
       "Caitlyn",
-      "Teemo",
-      "Vex",
-      "Norra",
-      "Miss Fortune",
-      "Jarvan IV"
+      "Ekko",
+      "Gwen",
+      "Irelia",
+      "Teemo"
     ],
-    "A": [],
+    "A": [
+      "Gangplank",
+      "Illaoi",
+      "Jarvan IV",
+      "Katarina",
+      "Miss Fortune",
+      "Mordekaiser",
+      "Nocturne",
+      "Norra",
+      "Samira",
+      "Vex"
+    ],
     "B": [],
     "C": []
   },
@@ -669,22 +681,6 @@
     ]
   },
   {
-    "principal": "JAYCE",
-    "S": [
-      "Lux",
-      "Elise"
-    ],
-    "A": [
-      "Swain",
-      "Elder Dragon",
-      "Volibear",
-      "Aurelion Sol",
-      "Udyr"
-    ],
-    "B": [],
-    "C": []
-  },
-  {
     "principal": "JHIN",
     "S": [
       "Sejuani",
@@ -704,6 +700,24 @@
       "Gangplank",
       "Bardo",
       "Warwick"
+    ],
+    "C": []
+  },
+  {
+    "principal": "JAYCE",
+    "S": [
+      "Lux",
+      "Elise"
+    ],
+    "A": [
+      "Swain",
+      "Udyr"
+    ],
+    "B": [
+      "Aurelion Sol",
+      "Diana",
+      "Dragon Ancestral",
+      "Volibear"
     ],
     "C": []
   },
@@ -1052,17 +1066,18 @@
   {
     "principal": "MEL",
     "S": [
-      "Swain",
       "Ezreal",
-      "Samira",
-      "Veigar",
-      "Jhin",
-      "Miss Fortune",
-      "Caitlyn",
       "Fizz",
-      "Sivir"
+      "Samira"
     ],
-    "A": [],
+    "A": [
+      "Katarina",
+      "Lux: Iluminada",
+      "Morgana",
+      "Nami",
+      "Swain",
+      "Zoe"
+    ],
     "B": [],
     "C": []
   },
@@ -1202,7 +1217,15 @@
       "Nilah",
       "Janna"
     ],
-    "A": [],
+    "A": [
+      "Dragon Ancestral",
+      "Leblanc",
+      "Nasus",
+      "Renekton",
+      "Sivir",
+      "Soraka",
+      "Viego"
+    ],
     "B": [],
     "C": []
   },
@@ -1424,17 +1447,16 @@
   {
     "principal": "SHYVANA",
     "S": [
+      "Ambessa",
       "Dragon Ancestral",
-      "Aurelion Sol",
-      "Aphelios",
+      "Garen",
       "Jarvan IV",
-      "Swain",
-      "Nasus",
-      "Sivir",
-      "LeBlanc",
-      "Renekton"
+      "La Arrebatadora",
+      "Nasus"
     ],
-    "A": [],
+    "A": [
+      "Udyr"
+    ],
     "B": [],
     "C": []
   },
@@ -1758,14 +1780,26 @@
   {
     "principal": "VIKTOR",
     "S": [
-      "Riven",
-      "Aphelios",
-      "Lee Sin",
-      "Fizz",
-      "Jinx"
+      "Nami",
+      "Seraphine"
     ],
-    "A": [],
-    "B": [],
+    "A": [
+      "Aphelios",
+      "Evelynn",
+      "Fizz",
+      "Jinx",
+      "Kai'sa",
+      "LeBlanc",
+      "Lee Sin",
+      "Pantheon",
+      "Riven",
+      "Rumble",
+      "Samira",
+      "Zoe"
+    ],
+    "B": [
+      "Norra"
+    ],
     "C": []
   },
   {
