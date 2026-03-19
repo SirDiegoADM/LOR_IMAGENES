@@ -2640,6 +2640,27 @@
   },
   {
     "campeon": "ELISE",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ESPANTAPAJAROS-INOFENSIVO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESPANTAPAJAROS-INOFENSIVO",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
     "r1": "SUENOS-DE-YORDLES",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "LA-BESTIA-INTERIOR",
@@ -7690,6 +7711,20 @@
     "r1": "ORBE-DEL-GUARDIAN",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "BACULO-CELESTIAL",
+    "r2": "GUIA-DE-AVISTAMIENTO-DE-YETIS",
+    "r3": "TIJERAS-ESPECTRALES",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r3": "LA-BALANZA-DE-LA-JUSTICIA",
     "r4": ""
   },
   {
