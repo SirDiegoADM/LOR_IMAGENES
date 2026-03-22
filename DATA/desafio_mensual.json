@@ -181,7 +181,7 @@
     "num": 6,
     "estrellas": 2,
     "minijefe": null,
-    "jefe": "Kai'Sa",
+    "jefe": "KAISA",
     "reglas": [
       {
         "nombre": "Número Mágico",
@@ -1764,7 +1764,7 @@
         "pct": 8
       },
       {
-        "nombre": "Kai'Sa",
+        "nombre": "KAISA",
         "pct": 8
       },
       {
@@ -2110,7 +2110,7 @@
         "pct": 8
       },
       {
-        "nombre": "Kai'Sa",
+        "nombre": "KAISA",
         "pct": 8
       },
       {
