@@ -2,12 +2,67 @@
   {
     "num": 1,
     "estrellas": 3,
-    "maxEstrellas": 4,
+    "maxEstrellas": 5,
     "minijefe": "FIORA",
     "jefe": "CAITLYN",
     "reglas": [
       {
         "nombre": "REGLA 1",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VARUS",
+        "pct": 33
+      },
+      {
+        "nombre": "GAREN",
+        "pct": 8
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 8
+      },
+      {
+        "nombre": "NORRA",
+        "pct": 8
+      },
+      {
+        "nombre": "KAISA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 2,
+    "estrellas": 1777698000000,
+    "maxEstrellas": 5,
+    "minijefe": "FIORA",
+    "jefe": "CAITLYN",
+    "reglas": [
+      {
+        "nombre": "REGLA 1",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "REGLA 2",
+        "rareza": "epica"
+      },
+      {
+        "nombre": "REGLA 3",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "REGLA 4",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "REGLA 5",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "REGLA 6",
         "rareza": "rara"
       }
     ],
