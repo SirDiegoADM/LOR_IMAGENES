@@ -2,8 +2,8 @@
   {
     "num": 1,
     "estrellas": 3,
-    "minijefe": "FIORA",
-    "jefe": "CAITLYN",
+    "minijefe": "AHRI",
+    "jefe": "AHRI_FLOR_ESPIRITUAL",
     "reglas": [
       {
         "nombre": "Conciencia de Combate",
@@ -32,19 +32,19 @@
         "pct": 33
       },
       {
-        "nombre": "GAREN",
+        "nombre": "AMBESSA",
         "pct": 8
       },
       {
-        "nombre": "SWAIN",
+        "nombre": "MISS_FORTUNE",
         "pct": 8
       },
       {
-        "nombre": "NORRA",
+        "nombre": "YASUO_FLOR_ESPIRITUAL",
         "pct": 8
       },
       {
-        "nombre": "KAISA",
+        "nombre": "HEIMERDINGER",
         "pct": 8
       }
     ]
@@ -52,8 +52,8 @@
   {
     "num": 2,
     "estrellas": 2.5,
-    "minijefe": "GAREN",
-    "jefe": "CAITLYN",
+    "minijefe": "AMBESSA",
+    "jefe": "AMBESSA",
     "reglas": [
       {
         "nombre": "Dominación Soberana",
@@ -86,19 +86,127 @@
         "pct": 33
       },
       {
-        "nombre": "GAREN",
+        "nombre": "AMBESSA",
         "pct": 8
       },
       {
-        "nombre": "SWAIN",
+        "nombre": "MISS_FORTUNE",
         "pct": 8
       },
       {
-        "nombre": "NORRA",
+        "nombre": "YASUO_FLOR_ESPIRITUAL",
         "pct": 8
       },
       {
-        "nombre": "KAISA",
+        "nombre": "HEIMERDINGER",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 3,
+    "estrellas": 2.5,
+    "minijefe": "AHRI",
+    "jefe": "AKSHAN",
+    "reglas": [
+      {
+        "nombre": "Dominación Soberana",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Resistir",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Coro de Poder",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Servicio Fiel",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Dominación",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Poderío Demaciano",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VARUS",
+        "pct": 33
+      },
+      {
+        "nombre": "AMBESSA",
+        "pct": 8
+      },
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 8
+      },
+      {
+        "nombre": "YASUO_FLOR_ESPIRITUAL",
+        "pct": 8
+      },
+      {
+        "nombre": "HEIMERDINGER",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 4,
+    "estrellas": 2.5,
+    "minijefe": "EVELYNN",
+    "jefe": "JINX",
+    "reglas": [
+      {
+        "nombre": "Dominación Soberana",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Resistir",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Coro de Poder",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Servicio Fiel",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Dominación",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Poderío Demaciano",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VARUS",
+        "pct": 33
+      },
+      {
+        "nombre": "AMBESSA",
+        "pct": 8
+      },
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 8
+      },
+      {
+        "nombre": "YASUO_FLOR_ESPIRITUAL",
+        "pct": 8
+      },
+      {
+        "nombre": "HEIMERDINGER",
         "pct": 8
       }
     ]
