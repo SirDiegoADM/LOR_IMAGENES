@@ -1,0 +1,37 @@
+[
+  {
+    "num": 1,
+    "estrellas": 3,
+    "maxEstrellas": 4,
+    "minijefe": "FIORA",
+    "jefe": "CAITLYN",
+    "reglas": [
+      {
+        "nombre": "REGLA 1",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VARUS",
+        "pct": 33
+      },
+      {
+        "nombre": "GAREN",
+        "pct": 8
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 8
+      },
+      {
+        "nombre": "NORRA",
+        "pct": 8
+      },
+      {
+        "nombre": "KAISA",
+        "pct": 8
+      }
+    ]
+  }
+]
