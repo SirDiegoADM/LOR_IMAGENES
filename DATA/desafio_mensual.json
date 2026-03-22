@@ -1,12 +1,2514 @@
 [
   {
     "num": 1,
-    "estrellas": 3,
-    "minijefe": "NUNU_Y_WILLUMP",
-    "jefe": "AHRI_FLOR_ESPIRITUAL",
+    "estrellas": 1,
+    "minijefe": null,
+    "jefe": "Ezreal",
     "reglas": [
       {
         "nombre": "Conciencia de Combate",
+        "rareza": "comun"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "BARDO",
+        "pct": 17
+      },
+      {
+        "nombre": "NASUS",
+        "pct": 8
+      },
+      {
+        "nombre": "JHIN",
+        "pct": 8
+      },
+      {
+        "nombre": "SORAKA",
+        "pct": 8
+      },
+      {
+        "nombre": "AMBESSA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 2,
+    "estrellas": 1,
+    "minijefe": null,
+    "jefe": "Karma",
+    "reglas": [
+      {
+        "nombre": "¡En Garde!",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Magia Natural",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "LEE_SIN",
+        "pct": 17
+      },
+      {
+        "nombre": "AATROX",
+        "pct": 17
+      },
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 17
+      },
+      {
+        "nombre": "BARDO",
+        "pct": 8
+      },
+      {
+        "nombre": "AHRI",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 3,
+    "estrellas": 2,
+    "minijefe": "Fiora",
+    "jefe": "CAITLYN",
+    "reglas": [
+      {
+        "nombre": "Solo los Más Fuertes",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VARUS",
+        "pct": 33
+      },
+      {
+        "nombre": "GNAR",
+        "pct": 8
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 8
+      },
+      {
+        "nombre": "DARIUS",
+        "pct": 8
+      },
+      {
+        "nombre": "SORAKA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 4,
+    "estrellas": 1,
+    "minijefe": null,
+    "jefe": "Sejuani",
+    "reglas": [
+      {
+        "nombre": "Mentes Tranquilas",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "LILLIA",
+        "pct": 25
+      },
+      {
+        "nombre": "SETT",
+        "pct": 25
+      },
+      {
+        "nombre": "BARDO",
+        "pct": 8
+      },
+      {
+        "nombre": "JINX",
+        "pct": 8
+      },
+      {
+        "nombre": "YASUO",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 5,
+    "estrellas": 2,
+    "minijefe": "Zoe",
+    "jefe": "VIKTOR",
+    "reglas": [
+      {
+        "nombre": "Molestia Náutica",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Al Caso (Común)",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "NIDALEE",
+        "pct": 25
+      },
+      {
+        "nombre": "DIANA",
+        "pct": 17
+      },
+      {
+        "nombre": "SETT",
+        "pct": 8
+      },
+      {
+        "nombre": "TRYNDAMERE",
+        "pct": 8
+      },
+      {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 6,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "Kai'Sa",
+    "reglas": [
+      {
+        "nombre": "Número Mágico",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Talento Natural",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "DRAGON_ANCESTRAL",
+        "pct": 75
+      },
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 8
+      },
+      {
+        "nombre": "ORNN",
+        "pct": 8
+      },
+      {
+        "nombre": "ANIVIA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 7,
+    "estrellas": 1,
+    "minijefe": "JHIN",
+    "jefe": "ASHE",
+    "reglas": [
+      {
+        "nombre": "Espíritus Llorosos",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Poderío Demaciano",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "GWEN",
+        "pct": 42
+      },
+      {
+        "nombre": "THRESH",
+        "pct": 17
+      },
+      {
+        "nombre": "MORDEKAISER",
+        "pct": 8
+      },
+      {
+        "nombre": "VEX",
+        "pct": 8
+      },
+      {
+        "nombre": "KINDRED",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 8,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "CAITLYN",
+    "reglas": [
+      {
+        "nombre": "Servicio Fiel",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Poderío Noxiano",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "SHYVANA",
+        "pct": 33
+      },
+      {
+        "nombre": "LUX_ILUMINADA",
+        "pct": 25
+      },
+      {
+        "nombre": "LUX",
+        "pct": 17
+      },
+      {
+        "nombre": "GAREN",
+        "pct": 17
+      },
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 9,
+    "estrellas": 2,
+    "minijefe": "LEE_SIN",
+    "jefe": "TAHM_KENCH",
+    "reglas": [
+      {
+        "nombre": "Entrenamiento en el Bosque",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Plan de Juego Flexible",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "AHRI",
+        "pct": 42
+      },
+      {
+        "nombre": "DIANA",
+        "pct": 17
+      },
+      {
+        "nombre": "JAX",
+        "pct": 8
+      },
+      {
+        "nombre": "WARWICK",
+        "pct": 8
+      },
+      {
+        "nombre": "VAYNE",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 10,
+    "estrellas": 1,
+    "minijefe": null,
+    "jefe": "Karma",
+    "reglas": [
+      {
+        "nombre": "El Precio del Progreso",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Resistir",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 25
+      },
+      {
+        "nombre": "LEE_SIN",
+        "pct": 17
+      },
+      {
+        "nombre": "NAMI",
+        "pct": 8
+      },
+      {
+        "nombre": "MAESTRO_YI",
+        "pct": 8
+      },
+      {
+        "nombre": "TRYNDAMERE",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 11,
+    "estrellas": 2,
+    "minijefe": "ASHE",
+    "jefe": "CAITLYN",
+    "reglas": [
+      {
+        "nombre": "Truco de Luz (Común)",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Meditación Guiada",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Sandboarding",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Aplastamiento",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "LEE_SIN",
+        "pct": 25
+      },
+      {
+        "nombre": "DRAGON_ANCESTRAL",
+        "pct": 17
+      },
+      {
+        "nombre": "ORNN",
+        "pct": 17
+      },
+      {
+        "nombre": "NAMI",
+        "pct": 8
+      },
+      {
+        "nombre": "MEL",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 12,
+    "estrellas": 3,
+    "minijefe": "NAUTILUS",
+    "jefe": "Draven",
+    "reglas": [
+      {
+        "nombre": "Truco de Luz (Común)",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Grupo de Asalto",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "ANNIE",
+        "pct": 25
+      },
+      {
+        "nombre": "AMBESSA",
+        "pct": 17
+      },
+      {
+        "nombre": "MEL",
+        "pct": 17
+      },
+      {
+        "nombre": "VIKTOR",
+        "pct": 8
+      },
+      {
+        "nombre": "JAX",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 13,
+    "estrellas": 2,
+    "minijefe": "Zed",
+    "jefe": "Karma",
+    "reglas": [
+      {
+        "nombre": "Servicio Fiel",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Entrenamiento en el Campo de Batalla",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "LUX",
+        "pct": 33
+      },
+      {
+        "nombre": "SHYVANA",
+        "pct": 17
+      },
+      {
+        "nombre": "LUX_ILUMINADA",
+        "pct": 17
+      },
+      {
+        "nombre": "VAYNE",
+        "pct": 8
+      },
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 14,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "Lulu",
+    "reglas": [
+      {
+        "nombre": "Tabla de Carnicero",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Rugido Estruendoso",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "NASUS",
+        "pct": 25
+      },
+      {
+        "nombre": "SAMIRA",
+        "pct": 17
+      },
+      {
+        "nombre": "GAREN",
+        "pct": 8
+      },
+      {
+        "nombre": "VIKTOR",
+        "pct": 8
+      },
+      {
+        "nombre": "JINX",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 15,
+    "estrellas": 3,
+    "minijefe": "Katarina",
+    "jefe": "SWAIN",
+    "reglas": [
+      {
+        "nombre": "Solo los Más Fuertes",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Water's Flow",
+        "rareza": "comun"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VAYNE",
+        "pct": 25
+      },
+      {
+        "nombre": "VARUS",
+        "pct": 25
+      },
+      {
+        "nombre": "YASUO",
+        "pct": 17
+      },
+      {
+        "nombre": "GAREN",
+        "pct": 8
+      },
+      {
+        "nombre": "GWEN",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 16,
+    "estrellas": 2,
+    "minijefe": "TALIYAH",
+    "jefe": "DARIUS",
+    "reglas": [
+      {
+        "nombre": "Selección Antinatural",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Explota el Puffcap",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "EL_REY_PORO",
+        "pct": 25
+      },
+      {
+        "nombre": "ELISE",
+        "pct": 25
+      },
+      {
+        "nombre": "DARIUS",
+        "pct": 8
+      },
+      {
+        "nombre": "LUX_ILUMINADA",
+        "pct": 8
+      },
+      {
+        "nombre": "EVELYNN",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 17,
+    "estrellas": 1,
+    "minijefe": "Zoe",
+    "jefe": "Fiora",
+    "reglas": [
+      {
+        "nombre": "Abraza la Corriente",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Profecía Escalofriante",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "NAMI",
+        "pct": 42
+      },
+      {
+        "nombre": "EKKO",
+        "pct": 8
+      },
+      {
+        "nombre": "GWEN",
+        "pct": 8
+      },
+      {
+        "nombre": "TWISTED_FATE",
+        "pct": 8
+      },
+      {
+        "nombre": "EL_REY_PORO",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 18,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Zed",
+    "reglas": [
+      {
+        "nombre": "Guía Celestial",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Tecnología Inestable",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "SORAKA",
+        "pct": 33
+      },
+      {
+        "nombre": "KAYLE",
+        "pct": 25
+      },
+      {
+        "nombre": "LEONA",
+        "pct": 17
+      },
+      {
+        "nombre": "JHIN",
+        "pct": 8
+      },
+      {
+        "nombre": "DIANA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 19,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "Karma",
+    "reglas": [
+      {
+        "nombre": "Muerto de Risa",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Melodía Distracción",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 25
+      },
+      {
+        "nombre": "LEE_SIN",
+        "pct": 17
+      },
+      {
+        "nombre": "DRAGON_ANCESTRAL",
+        "pct": 17
+      },
+      {
+        "nombre": "NAUTILUS",
+        "pct": 8
+      },
+      {
+        "nombre": "AZIR",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 20,
+    "estrellas": 3,
+    "minijefe": "Lulu",
+    "jefe": "LEE_SIN",
+    "reglas": [
+      {
+        "nombre": "Molestia Náutica",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Ecos de las Profundidades",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "NIDALEE",
+        "pct": 25
+      },
+      {
+        "nombre": "ILLAOI",
+        "pct": 17
+      },
+      {
+        "nombre": "NASUS",
+        "pct": 17
+      },
+      {
+        "nombre": "JHIN",
+        "pct": 8
+      },
+      {
+        "nombre": "SAMIRA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 21,
+    "estrellas": 3,
+    "minijefe": "AZIR",
+    "jefe": "Lulu",
+    "reglas": [
+      {
+        "nombre": "Llamas Parpadeantes",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Los Enemigos de Demacia Caerán",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "ANNIE",
+        "pct": 42
+      },
+      {
+        "nombre": "TWISTED_FATE",
+        "pct": 17
+      },
+      {
+        "nombre": "MEL",
+        "pct": 8
+      },
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 8
+      },
+      {
+        "nombre": "VEIGAR",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 22,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "Fiora",
+    "reglas": [
+      {
+        "nombre": "El Precio del Progreso",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Dominación",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "TRYNDAMERE",
+        "pct": 33
+      },
+      {
+        "nombre": "VEIGAR",
+        "pct": 17
+      },
+      {
+        "nombre": "KINDRED",
+        "pct": 17
+      },
+      {
+        "nombre": "NEEKO",
+        "pct": 8
+      },
+      {
+        "nombre": "MAESTRO_YI_FLOR_ESPIRITUAL",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 23,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "LEE_SIN",
+    "reglas": [
+      {
+        "nombre": "Entrenamiento en el Bosque",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Tácticas de Enjambre",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "DIANA",
+        "pct": 25
+      },
+      {
+        "nombre": "AHRI",
+        "pct": 25
+      },
+      {
+        "nombre": "ASHE",
+        "pct": 17
+      },
+      {
+        "nombre": "VAYNE",
+        "pct": 17
+      },
+      {
+        "nombre": "WARWICK",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 24,
+    "estrellas": 4,
+    "minijefe": "JINX",
+    "jefe": "Draven",
+    "reglas": [
+      {
+        "nombre": "Armadura Animada",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Rojo Como Sus Labios",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "AHRI_FLOR_ESPIRITUAL",
+        "pct": 25
+      },
+      {
+        "nombre": "KAYN",
+        "pct": 17
+      },
+      {
+        "nombre": "SORAKA",
+        "pct": 17
+      },
+      {
+        "nombre": "JINX",
+        "pct": 8
+      },
+      {
+        "nombre": "TAHM_KENCH",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 25,
+    "estrellas": 2,
+    "minijefe": "YASUO",
+    "jefe": "VIEGO",
+    "reglas": [
+      {
+        "nombre": "Lobos de Mar",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vigía de la Vanguardia",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 33
+      },
+      {
+        "nombre": "PYKE",
+        "pct": 17
+      },
+      {
+        "nombre": "TWISTED_FATE",
+        "pct": 17
+      },
+      {
+        "nombre": "ILLAOI",
+        "pct": 17
+      },
+      {
+        "nombre": "AATROX",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 26,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "SWAIN",
+    "reglas": [
+      {
+        "nombre": "El Imperio Primero",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Fragmentos de Canción",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "PYKE",
+        "pct": 17
+      },
+      {
+        "nombre": "SAMIRA",
+        "pct": 17
+      },
+      {
+        "nombre": "WARWICK",
+        "pct": 17
+      },
+      {
+        "nombre": "DARIUS",
+        "pct": 17
+      },
+      {
+        "nombre": "AATROX",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 27,
+    "estrellas": 3,
+    "minijefe": "VIKTOR",
+    "jefe": "Draven",
+    "reglas": [
+      {
+        "nombre": "Tabla de Carnicero",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Asiento del Poder",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "AATROX",
+        "pct": 17
+      },
+      {
+        "nombre": "AMBESSA",
+        "pct": 17
+      },
+      {
+        "nombre": "LEONA",
+        "pct": 8
+      },
+      {
+        "nombre": "LUX_ILUMINADA",
+        "pct": 8
+      },
+      {
+        "nombre": "NASUS",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 28,
+    "estrellas": 2,
+    "minijefe": "SWAIN",
+    "jefe": "DARIUS",
+    "reglas": [
+      {
+        "nombre": "Mentes Tranquilas",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Municiones de Mono",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "LILLIA",
+        "pct": 50
+      },
+      {
+        "nombre": "SETT",
+        "pct": 17
+      },
+      {
+        "nombre": "YASUO",
+        "pct": 17
+      },
+      {
+        "nombre": "AHRI_FLOR_ESPIRITUAL",
+        "pct": 8
+      },
+      {
+        "nombre": "DARIUS",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 29,
+    "estrellas": 2,
+    "minijefe": "Ezreal",
+    "jefe": "CAITLYN",
+    "reglas": [
+      {
+        "nombre": "Hielos Fortalecedores",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Amiguitos",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "ANIVIA",
+        "pct": 25
+      },
+      {
+        "nombre": "GNAR",
+        "pct": 17
+      },
+      {
+        "nombre": "ASHE",
+        "pct": 17
+      },
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 8
+      },
+      {
+        "nombre": "LEBLANC",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 30,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "JINX",
+    "reglas": [
+      {
+        "nombre": "Poder de Observación",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Dúo Musical",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "FIDDLESTICKS",
+        "pct": 17
+      },
+      {
+        "nombre": "GAREN",
+        "pct": 8
+      },
+      {
+        "nombre": "VIKTOR",
+        "pct": 8
+      },
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 8
+      },
+      {
+        "nombre": "TEEMO",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 31,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "VIEGO",
+    "reglas": [
+      {
+        "nombre": "El Imperio Primero",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Furia Inmortal",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "AHRI",
+        "pct": 33
+      },
+      {
+        "nombre": "DARIUS",
+        "pct": 17
+      },
+      {
+        "nombre": "ILLAOI",
+        "pct": 8
+      },
+      {
+        "nombre": "SAMIRA",
+        "pct": 8
+      },
+      {
+        "nombre": "YASUO_FLOR_ESPIRITUAL",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 32,
+    "estrellas": 2,
+    "minijefe": "Draven",
+    "jefe": "TAHM_KENCH",
+    "reglas": [
+      {
+        "nombre": "Vestige Of Helia",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Coro de Poder",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MAESTRO_YI",
+        "pct": 33
+      },
+      {
+        "nombre": "AHRI",
+        "pct": 33
+      },
+      {
+        "nombre": "VARUS",
+        "pct": 17
+      },
+      {
+        "nombre": "LILLIA",
+        "pct": 8
+      },
+      {
+        "nombre": "NEEKO",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 33,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "NAUTILUS",
+    "reglas": [
+      {
+        "nombre": "El Precio del Progreso",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Hoja en la Oscuridad (Épica)",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MAESTRO_YI",
+        "pct": 42
+      },
+      {
+        "nombre": "TRYNDAMERE",
+        "pct": 33
+      },
+      {
+        "nombre": "AKSHAN",
+        "pct": 8
+      },
+      {
+        "nombre": "CAITLYN",
+        "pct": 8
+      },
+      {
+        "nombre": "NAMI",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 34,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Irelia",
+    "reglas": [
+      {
+        "nombre": "Minimalista",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Eliminar la Imperfección",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "EVELYNN",
+        "pct": 33
+      },
+      {
+        "nombre": "VARUS",
+        "pct": 17
+      },
+      {
+        "nombre": "AHRI",
+        "pct": 8
+      },
+      {
+        "nombre": "JHIN",
+        "pct": 8
+      },
+      {
+        "nombre": "AURELION_SOL",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 35,
+    "estrellas": 4,
+    "minijefe": "Katarina",
+    "jefe": "JINX",
+    "reglas": [
+      {
+        "nombre": "Emisiones Arcanas",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Dominación Soberana",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "NIDALEE",
+        "pct": 17
+      },
+      {
+        "nombre": "NASUS",
+        "pct": 17
+      },
+      {
+        "nombre": "VEIGAR",
+        "pct": 17
+      },
+      {
+        "nombre": "LUX",
+        "pct": 17
+      },
+      {
+        "nombre": "VAYNE",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 36,
+    "estrellas": 3,
+    "minijefe": "CAITLYN",
+    "jefe": "THRESH",
+    "reglas": [
+      {
+        "nombre": "Conciencia de Combate",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "¡A Rockear!",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "NIDALEE",
+        "pct": 17
+      },
+      {
+        "nombre": "JAX",
+        "pct": 8
+      },
+      {
+        "nombre": "FIDDLESTICKS",
+        "pct": 8
+      },
+      {
+        "nombre": "PYKE",
+        "pct": 8
+      },
+      {
+        "nombre": "LEBLANC",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 37,
+    "estrellas": 2,
+    "minijefe": "Gangplank",
+    "jefe": "VIKTOR",
+    "reglas": [
+      {
+        "nombre": "El Precio del Progreso",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Coro de Poder",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "TRYNDAMERE",
+        "pct": 25
+      },
+      {
+        "nombre": "MAESTRO_YI",
+        "pct": 17
+      },
+      {
+        "nombre": "AMBESSA",
+        "pct": 17
+      },
+      {
+        "nombre": "NEEKO",
+        "pct": 8
+      },
+      {
+        "nombre": "MEL",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 38,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "DARIUS",
+    "reglas": [
+      {
+        "nombre": "El Imperio Primero",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Más Allá de la Carne",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "NIDALEE",
+        "pct": 25
+      },
+      {
+        "nombre": "ELISE",
+        "pct": 17
+      },
+      {
+        "nombre": "ILLAOI",
+        "pct": 8
+      },
+      {
+        "nombre": "SAMIRA",
+        "pct": 8
+      },
+      {
+        "nombre": "EL_REY_PORO",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 39,
+    "estrellas": 4,
+    "minijefe": "Katarina",
+    "jefe": "Ezreal",
+    "reglas": [
+      {
+        "nombre": "Abraza la Corriente",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Dominación Soberana",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "LEBLANC",
+        "pct": 25
+      },
+      {
+        "nombre": "NAMI",
+        "pct": 17
+      },
+      {
+        "nombre": "AKSHAN",
+        "pct": 8
+      },
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 8
+      },
+      {
+        "nombre": "VI",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 40,
+    "estrellas": 3,
+    "minijefe": "CAITLYN",
+    "jefe": "LEE_SIN",
+    "reglas": [
+      {
+        "nombre": "Combate Frenético",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Cositas",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "YUUMI",
+        "pct": 42
+      },
+      {
+        "nombre": "JINX",
+        "pct": 42
+      },
+      {
+        "nombre": "ANNIE",
+        "pct": 8
+      },
+      {
+        "nombre": "LA_ARREBATADORA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 41,
+    "estrellas": 3,
+    "minijefe": "SWAIN",
+    "jefe": "Draven",
+    "reglas": [
+      {
+        "nombre": "Espíritus Llorosos",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "¡A Rockear!",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VIEGO",
+        "pct": 33
+      },
+      {
+        "nombre": "GWEN",
+        "pct": 25
+      },
+      {
+        "nombre": "ELISE",
+        "pct": 25
+      },
+      {
+        "nombre": "THRESH",
+        "pct": 17
+      }
+    ]
+  },
+  {
+    "num": 42,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Draven",
+    "reglas": [
+      {
+        "nombre": "Crónica de la Ruina",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Amiguitos",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "TEEMO",
+        "pct": 50
+      },
+      {
+        "nombre": "VEX",
+        "pct": 42
+      },
+      {
+        "nombre": "GWEN",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 43,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Fiora",
+    "reglas": [
+      {
+        "nombre": "Truco de Luz (Común)",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Tormenta en Camino",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "AMBESSA",
+        "pct": 25
+      },
+      {
+        "nombre": "NEEKO",
+        "pct": 17
+      },
+      {
+        "nombre": "KINDRED",
+        "pct": 8
+      },
+      {
+        "nombre": "VIKTOR",
+        "pct": 8
+      },
+      {
+        "nombre": "WARWICK",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 44,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Ezreal",
+    "reglas": [
+      {
+        "nombre": "Solo los Más Fuertes",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Solo Monos de Pólvora II",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VAYNE",
+        "pct": 42
+      },
+      {
+        "nombre": "JAX",
+        "pct": 8
+      },
+      {
+        "nombre": "JHIN",
+        "pct": 8
+      },
+      {
+        "nombre": "VARUS",
+        "pct": 8
+      },
+      {
+        "nombre": "LEBLANC",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 45,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Ezreal",
+    "reglas": [
+      {
+        "nombre": "Repetición",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Hoja en la Oscuridad (Épica)",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MEL",
+        "pct": 25
+      },
+      {
+        "nombre": "NEEKO",
+        "pct": 25
+      },
+      {
+        "nombre": "NAMI",
+        "pct": 25
+      },
+      {
+        "nombre": "LEBLANC",
+        "pct": 8
+      },
+      {
+        "nombre": "ANNIE",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 46,
+    "estrellas": 3,
+    "minijefe": "Fiora",
+    "jefe": "DARIUS",
+    "reglas": [
+      {
+        "nombre": "Lobos de Mar",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Poderío Noxiano II",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 25
+      },
+      {
+        "nombre": "ASHE",
+        "pct": 17
+      },
+      {
+        "nombre": "ILLAOI",
+        "pct": 17
+      },
+      {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "pct": 8
+      },
+      {
+        "nombre": "KINDRED",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 47,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Katarina",
+    "reglas": [
+      {
+        "nombre": "Sombras Persistentes",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "¡Adoribus!",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VEIGAR",
+        "pct": 25
+      },
+      {
+        "nombre": "MEL",
+        "pct": 17
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 8
+      },
+      {
+        "nombre": "Kai'Sa",
+        "pct": 8
+      },
+      {
+        "nombre": "LUX_ILUMINADA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 48,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "LEE_SIN",
+    "reglas": [
+      {
+        "nombre": "Conciencia de Combate",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "¡A Rockear!",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Los Enemigos de Demacia Caerán",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "LUX_ILUMINADA",
+        "pct": 25
+      },
+      {
+        "nombre": "AZIR",
+        "pct": 17
+      },
+      {
+        "nombre": "JAX",
+        "pct": 8
+      },
+      {
+        "nombre": "FIDDLESTICKS",
+        "pct": 8
+      },
+      {
+        "nombre": "PYKE",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 49,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "AZIR",
+    "reglas": [
+      {
+        "nombre": "Portales Astutos",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Solo Monos de Pólvora II",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VEX",
+        "pct": 33
+      },
+      {
+        "nombre": "NORRA",
+        "pct": 17
+      },
+      {
+        "nombre": "YUUMI",
+        "pct": 8
+      },
+      {
+        "nombre": "ANNIE",
+        "pct": 8
+      },
+      {
+        "nombre": "VEIGAR",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 50,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "JINX",
+    "reglas": [
+      {
+        "nombre": "¡En Garde!",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Tormenta en Camino",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MORGANA",
+        "pct": 17
+      },
+      {
+        "nombre": "JINX",
+        "pct": 17
+      },
+      {
+        "nombre": "GWEN",
+        "pct": 17
+      },
+      {
+        "nombre": "JHIN",
+        "pct": 8
+      },
+      {
+        "nombre": "NASUS",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 51,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "Draven",
+    "reglas": [
+      {
+        "nombre": "Muerto de Risa",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Hemorragia (Épica)",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Amiguitos",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "AMBESSA",
+        "pct": 25
+      },
+      {
+        "nombre": "MORGANA",
+        "pct": 25
+      },
+      {
+        "nombre": "AHRI_FLOR_ESPIRITUAL",
+        "pct": 17
+      },
+      {
+        "nombre": "THRESH",
+        "pct": 8
+      },
+      {
+        "nombre": "VIEGO",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 52,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Zed",
+    "reglas": [
+      {
+        "nombre": "Crónica de la Ruina",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Llamado de Auxilio",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "TEEMO",
+        "pct": 58
+      },
+      {
+        "nombre": "VEX",
+        "pct": 33
+      },
+      {
+        "nombre": "GWEN",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 53,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "THRESH",
+    "reglas": [
+      {
+        "nombre": "El Imperio Primero",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Demasiado Dura la Roca",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "ELISE",
+        "pct": 33
+      },
+      {
+        "nombre": "SORAKA",
+        "pct": 17
+      },
+      {
+        "nombre": "VIEGO",
+        "pct": 8
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 8
+      },
+      {
+        "nombre": "EL_REY_PORO",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 54,
+    "estrellas": 4,
+    "minijefe": "TRYNDAMERE",
+    "jefe": "MISS_FORTUNE",
+    "reglas": [
+      {
+        "nombre": "Muertes Piadosas",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Bienvenido al Puente del Asesinato",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 17
+      },
+      {
+        "nombre": "JINX",
+        "pct": 17
+      },
+      {
+        "nombre": "AHRI",
+        "pct": 17
+      },
+      {
+        "nombre": "ELISE",
+        "pct": 8
+      },
+      {
+        "nombre": "CAITLYN",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 55,
+    "estrellas": 3,
+    "minijefe": "Draven",
+    "jefe": "Gangplank",
+    "reglas": [
+      {
+        "nombre": "Conciencia de Combate",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Tormenta en Camino",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "pct": 17
+      },
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 17
+      },
+      {
+        "nombre": "FIDDLESTICKS",
+        "pct": 8
+      },
+      {
+        "nombre": "PYKE",
+        "pct": 8
+      },
+      {
+        "nombre": "ELISE",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 56,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "CAITLYN",
+    "reglas": [
+      {
+        "nombre": "¡En Garde!",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Poderío Demaciano II",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VAYNE",
+        "pct": 8
+      },
+      {
+        "nombre": "Kai'Sa",
+        "pct": 8
+      },
+      {
+        "nombre": "ELISE",
+        "pct": 8
+      },
+      {
+        "nombre": "FIDDLESTICKS",
+        "pct": 8
+      },
+      {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 57,
+    "estrellas": 4,
+    "minijefe": "Draven",
+    "jefe": "THRESH",
+    "reglas": [
+      {
+        "nombre": "Poder de Observación",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Gran Festín (Épica)",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Coro de Poder",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VAYNE",
+        "pct": 17
+      },
+      {
+        "nombre": "FIDDLESTICKS",
+        "pct": 17
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 8
+      },
+      {
+        "nombre": "LUX",
+        "pct": 8
+      },
+      {
+        "nombre": "EVELYNN_FLOR_ESPIRITUAL",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 58,
+    "estrellas": 3,
+    "minijefe": "Karma",
+    "jefe": "AZIR",
+    "reglas": [
+      {
+        "nombre": "Cima de la Montaña",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Dominación Soberana",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 42
+      },
+      {
+        "nombre": "DRAGON_ANCESTRAL",
+        "pct": 42
+      },
+      {
+        "nombre": "LEBLANC",
+        "pct": 8
+      },
+      {
+        "nombre": "VIEGO",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 59,
+    "estrellas": 3,
+    "minijefe": "Fizz",
+    "jefe": "TAHM_KENCH",
+    "reglas": [
+      {
+        "nombre": "Portales Astutos",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "¡Adoribus!",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VEX",
+        "pct": 42
+      },
+      {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "pct": 17
+      },
+      {
+        "nombre": "NORRA",
+        "pct": 17
+      },
+      {
+        "nombre": "VAYNE",
+        "pct": 8
+      },
+      {
+        "nombre": "AURELION_SOL",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 60,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "AZIR",
+    "reglas": [
+      {
+        "nombre": "Muerto de Risa",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "¡Adoribus!",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Gran Festín (Épica)",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "VIKTOR",
+        "pct": 17
+      },
+      {
+        "nombre": "FIDDLESTICKS",
+        "pct": 17
+      },
+      {
+        "nombre": "VEX",
+        "pct": 8
+      },
+      {
+        "nombre": "AZIR",
+        "pct": 8
+      },
+      {
+        "nombre": "JHIN",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 61,
+    "estrellas": 4,
+    "minijefe": "Zed",
+    "jefe": "LEE_SIN",
+    "reglas": [
+      {
+        "nombre": "Magia Natural",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Withstand",
+        "rareza": "comun"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MAESTRO_YI",
+        "pct": 33
+      },
+      {
+        "nombre": "VI",
+        "pct": 17
+      },
+      {
+        "nombre": "YASUO",
+        "pct": 8
+      },
+      {
+        "nombre": "DRAGON_ANCESTRAL",
+        "pct": 8
+      },
+      {
+        "nombre": "LEONA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 62,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "Ezreal",
+    "reglas": [
+      {
+        "nombre": "Marcas Mortales",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Llamado de Auxilio",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "JINX",
+        "pct": 42
+      },
+      {
+        "nombre": "CAITLYN",
+        "pct": 17
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 8
+      },
+      {
+        "nombre": "ASHE",
+        "pct": 8
+      },
+      {
+        "nombre": "YUUMI",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 63,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "VIEGO",
+    "reglas": [
+      {
+        "nombre": "Tirador Despiadado",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Tormenta en Camino",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 33
+      },
+      {
+        "nombre": "JHIN",
+        "pct": 33
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 17
+      },
+      {
+        "nombre": "VAYNE",
+        "pct": 8
+      },
+      {
+        "nombre": "VIEGO",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 64,
+    "estrellas": 4,
+    "minijefe": "AZIR",
+    "jefe": "JINX",
+    "reglas": [
+      {
+        "nombre": "Guía Celestial",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Sufrir (Épica)",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MORGANA",
+        "pct": 25
+      },
+      {
+        "nombre": "AURELION_SOL",
+        "pct": 17
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 8
+      },
+      {
+        "nombre": "LILLIA",
+        "pct": 8
+      },
+      {
+        "nombre": "SORAKA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 65,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "Irelia",
+    "reglas": [
+      {
+        "nombre": "Fuerza Inquebrantable",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "¡A Rockear!",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "SWAIN",
+        "pct": 50
+      },
+      {
+        "nombre": "MEL",
+        "pct": 17
+      },
+      {
+        "nombre": "JINX",
+        "pct": 8
+      },
+      {
+        "nombre": "VIEGO",
+        "pct": 8
+      },
+      {
+        "nombre": "AMBESSA",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 66,
+    "estrellas": 4.5,
+    "minijefe": null,
+    "jefe": "Lulu",
+    "reglas": [
+      {
+        "nombre": "Truco de Luz (Común)",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
         "rareza": "comun"
       },
       {
@@ -14,199 +2516,205 @@
         "rareza": "rara"
       },
       {
-        "nombre": "El Precio del Progreso",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "¡Adoribus!",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Coro de Poder",
+        "nombre": "Demasiado Dura la Roca",
         "rareza": "rara"
       }
     ],
     "counters": [
       {
-        "nombre": "NUNU_Y_WILLUMP",
-        "pct": 33
+        "nombre": "MEL",
+        "pct": 25
       },
       {
         "nombre": "AMBESSA",
         "pct": 8
       },
       {
-        "nombre": "MISS_FORTUNE",
+        "nombre": "VIEGO",
         "pct": 8
       },
       {
-        "nombre": "YASUO_FLOR_ESPIRITUAL",
+        "nombre": "AZIR",
         "pct": 8
       },
       {
-        "nombre": "HEIMERDINGER",
+        "nombre": "VIKTOR",
         "pct": 8
       }
     ]
   },
   {
-    "num": 2,
-    "estrellas": 2.5,
-    "minijefe": "AMBESSA",
-    "jefe": "AMBESSA",
+    "num": 67,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "VIKTOR",
     "reglas": [
       {
+        "nombre": "Molestia Náutica",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
         "nombre": "Dominación Soberana",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Resistir",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Coro de Poder",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Servicio Fiel",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Dominación",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Poderío Demaciano",
         "rareza": "rara"
       }
     ],
     "counters": [
       {
-        "nombre": "VARUS",
-        "pct": 33
+        "nombre": "LUX",
+        "pct": 25
+      },
+      {
+        "nombre": "VIKTOR",
+        "pct": 17
       },
       {
         "nombre": "AMBESSA",
+        "pct": 17
+      },
+      {
+        "nombre": "AZIR",
         "pct": 8
       },
       {
-        "nombre": "MISS_FORTUNE",
-        "pct": 8
-      },
-      {
-        "nombre": "YASUO_FLOR_ESPIRITUAL",
-        "pct": 8
-      },
-      {
-        "nombre": "HEIMERDINGER",
+        "nombre": "NIDALEE",
         "pct": 8
       }
     ]
   },
   {
-    "num": 3,
-    "estrellas": 2.5,
-    "minijefe": "AHRI",
-    "jefe": "AKSHAN",
+    "num": 68,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "THRESH",
     "reglas": [
       {
-        "nombre": "Dominación Soberana",
+        "nombre": "Tirador Despiadado",
         "rareza": "rara"
       },
       {
-        "nombre": "Resistir",
-        "rareza": "rara"
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
       },
       {
-        "nombre": "Coro de Poder",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Servicio Fiel",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Dominación",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Poderío Demaciano",
+        "nombre": "Bienvenido al Puente del Asesinato",
         "rareza": "rara"
       }
     ],
     "counters": [
       {
-        "nombre": "VARUS",
-        "pct": 33
+        "nombre": "JHIN",
+        "pct": 25
       },
       {
-        "nombre": "AMBESSA",
-        "pct": 8
+        "nombre": "VIKTOR",
+        "pct": 17
       },
       {
         "nombre": "MISS_FORTUNE",
-        "pct": 8
+        "pct": 17
       },
       {
-        "nombre": "YASUO_FLOR_ESPIRITUAL",
-        "pct": 8
+        "nombre": "ELISE",
+        "pct": 17
       },
       {
-        "nombre": "HEIMERDINGER",
+        "nombre": "AURELION_SOL",
         "pct": 8
       }
     ]
   },
   {
-    "num": 4,
-    "estrellas": 2.5,
-    "minijefe": "EVELYNN",
-    "jefe": "JINX",
+    "num": 69,
+    "estrellas": 4.5,
+    "minijefe": "Zed",
+    "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "Dominación Soberana",
+        "nombre": "Sin Mirar Atrás",
         "rareza": "rara"
       },
       {
-        "nombre": "Resistir",
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Solo Monos de Pólvora II",
         "rareza": "rara"
       },
       {
-        "nombre": "Coro de Poder",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Servicio Fiel",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Dominación",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Poderío Demaciano",
+        "nombre": "Eliminar la Imperfección",
         "rareza": "rara"
       }
     ],
     "counters": [
       {
-        "nombre": "VARUS",
+        "nombre": "JINX",
         "pct": 33
       },
       {
-        "nombre": "AMBESSA",
+        "nombre": "AURELION_SOL",
+        "pct": 25
+      },
+      {
+        "nombre": "LILLIA",
+        "pct": 17
+      },
+      {
+        "nombre": "ELISE",
         "pct": 8
       },
       {
-        "nombre": "MISS_FORTUNE",
+        "nombre": "FIDDLESTICKS",
+        "pct": 8
+      }
+    ]
+  },
+  {
+    "num": 70,
+    "estrellas": 4.5,
+    "minijefe": null,
+    "jefe": "THRESH",
+    "reglas": [
+      {
+        "nombre": "Emisiones Arcanas",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Vicious Enemy",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Imagen Persistente",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Venganza de la Naturaleza",
+        "rareza": "rara"
+      }
+    ],
+    "counters": [
+      {
+        "nombre": "MEL",
+        "pct": 17
+      },
+      {
+        "nombre": "NIDALEE",
+        "pct": 17
+      },
+      {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
         "pct": 8
       },
       {
-        "nombre": "YASUO_FLOR_ESPIRITUAL",
+        "nombre": "LUX",
         "pct": 8
       },
       {
-        "nombre": "HEIMERDINGER",
+        "nombre": "LILLIA",
         "pct": 8
       }
     ]
