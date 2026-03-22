@@ -7323,6 +7323,13 @@
   },
   {
     "campeon": "NEEKO",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "HACHA-CORTAMIEDOS",
+    "r4": ""
+  },
+  {
+    "campeon": "NEEKO",
     "r1": "DERROTA-DE-LA-MUERTE",
     "r2": "HACHA-CORTAMIEDOS",
     "r3": "LA-BESTIA-INTERIOR",
@@ -7652,6 +7659,13 @@
   },
   {
     "campeon": "NORRA",
+    "r1": "ACELERADOR-DE-PORTALES-DE-NORRA",
+    "r2": "COMETA-ARCANO",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "NORRA",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "ACELERADOR-DE-PORTALES-DE-NORRA",
     "r3": "LA-BESTIA-INTERIOR",
@@ -7788,6 +7802,13 @@
     "r1": "ORBE-DEL-GUARDIAN",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "GUIA-DE-AVISTAMIENTO-DE-YETIS",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ESCUDO-NEGRO",
     "r4": ""
   },
   {
@@ -7949,6 +7970,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "HIMNO-DEL-VALOR",
     "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "PYKE",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ARPON-MORTIFERO",
+    "r3": "ESCUDO-NEGRO",
     "r4": ""
   },
   {
