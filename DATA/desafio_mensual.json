@@ -2,7 +2,6 @@
   {
     "num": 1,
     "estrellas": 3,
-    "maxEstrellas": 5,
     "minijefe": "FIORA",
     "jefe": "CAITLYN",
     "reglas": [
@@ -37,7 +36,6 @@
   {
     "num": 2,
     "estrellas": 1777698000000,
-    "maxEstrellas": 5,
     "minijefe": "FIORA",
     "jefe": "CAITLYN",
     "reglas": [
