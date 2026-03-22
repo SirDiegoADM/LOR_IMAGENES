@@ -6,7 +6,23 @@
     "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "REGLA 1",
+        "nombre": "Conciencia de Combate",
+        "rareza": "comun"
+      },
+      {
+        "nombre": "Amiguitos",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "El Precio del Progreso",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "¡Adoribus!",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Coro de Poder",
         "rareza": "rara"
       }
     ],
@@ -40,27 +56,27 @@
     "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "REGLA 1",
+        "nombre": "Dominación Soberana",
         "rareza": "rara"
       },
       {
-        "nombre": "REGLA 2",
-        "rareza": "epica"
-      },
-      {
-        "nombre": "REGLA 3",
-        "rareza": "comun"
-      },
-      {
-        "nombre": "REGLA 4",
+        "nombre": "Resistir",
         "rareza": "rara"
       },
       {
-        "nombre": "REGLA 5",
+        "nombre": "Coro de Poder",
         "rareza": "rara"
       },
       {
-        "nombre": "REGLA 6",
+        "nombre": "Servicio Fiel",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Dominación",
+        "rareza": "rara"
+      },
+      {
+        "nombre": "Poderío Demaciano",
         "rareza": "rara"
       }
     ],
