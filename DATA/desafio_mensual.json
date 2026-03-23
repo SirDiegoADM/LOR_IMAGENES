@@ -7,7 +7,7 @@
     "reglas": [
       {
         "nombre": "Conciencia de Combate",
-        "rareza": "comun"
+        "rareza": "rara"
       }
     ],
     "counters": [
@@ -40,12 +40,12 @@
     "jefe": "Karma",
     "reglas": [
       {
-        "nombre": "¡En Garde!",
-        "rareza": "rara"
+        "nombre": "En Garde!",
+        "rareza": "comun"
       },
       {
         "nombre": "Magia Natural",
-        "rareza": "rara"
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -78,8 +78,8 @@
     "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "Solo los Más Fuertes",
-        "rareza": "rara"
+        "nombre": "Solo los Fuertes",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -147,11 +147,11 @@
     "reglas": [
       {
         "nombre": "Molestia Náutica",
-        "rareza": "rara"
+        "rareza": "comun"
       },
       {
-        "nombre": "Al Caso (Común)",
-        "rareza": "rara"
+        "nombre": "Caso en Progreso",
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -185,11 +185,11 @@
     "reglas": [
       {
         "nombre": "Número Mágico",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
         "nombre": "Talento Natural",
-        "rareza": "rara"
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -218,11 +218,11 @@
     "jefe": "ASHE",
     "reglas": [
       {
-        "nombre": "Espíritus Llorosos",
+        "nombre": "Espíritus en Lamento",
         "rareza": "rara"
       },
       {
-        "nombre": "Poderío Demaciano",
+        "nombre": "Fuerza Demaciana",
         "rareza": "rara"
       }
     ],
@@ -256,11 +256,11 @@
     "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "Servicio Fiel",
+        "nombre": "Servicio Diligente",
         "rareza": "rara"
       },
       {
-        "nombre": "Poderío Noxiano",
+        "nombre": "Poder Noxiano",
         "rareza": "rara"
       }
     ],
@@ -294,12 +294,12 @@
     "jefe": "TAHM_KENCH",
     "reglas": [
       {
-        "nombre": "Entrenamiento en el Bosque",
-        "rareza": "rara"
+        "nombre": "Entrenamiento Forestal",
+        "rareza": "comun"
       },
       {
-        "nombre": "Plan de Juego Flexible",
-        "rareza": "rara"
+        "nombre": "Plan de Acción Flexible",
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -333,10 +333,10 @@
     "reglas": [
       {
         "nombre": "El Precio del Progreso",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
-        "nombre": "Resistir",
+        "nombre": "Persistir",
         "rareza": "rara"
       }
     ],
@@ -370,20 +370,20 @@
     "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "Truco de Luz (Común)",
-        "rareza": "rara"
+        "nombre": "Artificio de Luz",
+        "rareza": "comun"
       },
       {
         "nombre": "Meditación Guiada",
         "rareza": "rara"
       },
       {
-        "nombre": "Sandboarding",
-        "rareza": "rara"
+        "nombre": "Surfeo de Arena",
+        "rareza": "comun"
       },
       {
-        "nombre": "Aplastamiento",
-        "rareza": "rara"
+        "nombre": "Aplastar",
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -416,12 +416,12 @@
     "jefe": "Draven",
     "reglas": [
       {
-        "nombre": "Truco de Luz (Común)",
-        "rareza": "rara"
+        "nombre": "Artificio de Luz",
+        "rareza": "comun"
       },
       {
-        "nombre": "Grupo de Asalto",
-        "rareza": "rara"
+        "nombre": "Cuadrilla de Pillaje",
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -454,12 +454,12 @@
     "jefe": "Karma",
     "reglas": [
       {
-        "nombre": "Servicio Fiel",
+        "nombre": "Servicio Diligente",
         "rareza": "rara"
       },
       {
         "nombre": "Entrenamiento en el Campo de Batalla",
-        "rareza": "rara"
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -492,11 +492,11 @@
     "jefe": "Lulu",
     "reglas": [
       {
-        "nombre": "Tabla de Carnicero",
-        "rareza": "rara"
+        "nombre": "Bloque de Carnicero",
+        "rareza": "comun"
       },
       {
-        "nombre": "Rugido Estruendoso",
+        "nombre": "Rugido Estridente",
         "rareza": "rara"
       }
     ],
@@ -530,11 +530,11 @@
     "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "Solo los Más Fuertes",
-        "rareza": "rara"
+        "nombre": "Solo los Fuertes",
+        "rareza": "epica"
       },
       {
-        "nombre": "Water's Flow",
+        "nombre": "Flujo de agua",
         "rareza": "comun"
       }
     ],
@@ -572,8 +572,8 @@
         "rareza": "rara"
       },
       {
-        "nombre": "Explota el Puffcap",
-        "rareza": "rara"
+        "nombre": "Y Así Explota el Hongo",
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -649,7 +649,7 @@
       },
       {
         "nombre": "Tecnología Inestable",
-        "rareza": "rara"
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -682,12 +682,12 @@
     "jefe": "Karma",
     "reglas": [
       {
-        "nombre": "Muerto de Risa",
-        "rareza": "rara"
+        "nombre": "Muerte por Risa",
+        "rareza": "epica"
       },
       {
-        "nombre": "Melodía Distracción",
-        "rareza": "rara"
+        "nombre": "Melodía Distractora",
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -721,7 +721,7 @@
     "reglas": [
       {
         "nombre": "Molestia Náutica",
-        "rareza": "rara"
+        "rareza": "comun"
       },
       {
         "nombre": "Ecos de las Profundidades",
@@ -759,11 +759,11 @@
     "reglas": [
       {
         "nombre": "Llamas Parpadeantes",
-        "rareza": "rara"
+        "rareza": "comun"
       },
       {
         "nombre": "Los Enemigos de Demacia Caerán",
-        "rareza": "rara"
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -797,7 +797,7 @@
     "reglas": [
       {
         "nombre": "El Precio del Progreso",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
         "nombre": "Dominación",
@@ -834,8 +834,8 @@
     "jefe": "LEE_SIN",
     "reglas": [
       {
-        "nombre": "Entrenamiento en el Bosque",
-        "rareza": "rara"
+        "nombre": "Entrenamiento Forestal",
+        "rareza": "comun"
       },
       {
         "nombre": "Tácticas de Enjambre",
@@ -873,11 +873,11 @@
     "reglas": [
       {
         "nombre": "Armadura Animada",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
         "nombre": "Rojo Como Sus Labios",
@@ -918,7 +918,7 @@
         "rareza": "rara"
       },
       {
-        "nombre": "Vigía de la Vanguardia",
+        "nombre": "Vigilante de la Vanguardia",
         "rareza": "rara"
       }
     ],
@@ -952,8 +952,8 @@
     "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "El Imperio Primero",
-        "rareza": "rara"
+        "nombre": "El Imperio ante Todo",
+        "rareza": "epica"
       },
       {
         "nombre": "Fragmentos de Canción",
@@ -990,12 +990,12 @@
     "jefe": "Draven",
     "reglas": [
       {
-        "nombre": "Tabla de Carnicero",
-        "rareza": "rara"
+        "nombre": "Bloque de Carnicero",
+        "rareza": "comun"
       },
       {
-        "nombre": "Asiento del Poder",
-        "rareza": "rara"
+        "nombre": "Sede del Poder",
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -1032,7 +1032,7 @@
         "rareza": "rara"
       },
       {
-        "nombre": "Municiones de Mono",
+        "nombre": "Munición Monada",
         "rareza": "rara"
       }
     ],
@@ -1066,12 +1066,12 @@
     "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "Hielos Fortalecedores",
+        "nombre": "Hielos Fortificadores",
         "rareza": "rara"
       },
       {
         "nombre": "Amiguitos",
-        "rareza": "rara"
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1104,11 +1104,11 @@
     "jefe": "JINX",
     "reglas": [
       {
-        "nombre": "Poder de Observación",
-        "rareza": "rara"
+        "nombre": "Poder de la Observación",
+        "rareza": "comun"
       },
       {
-        "nombre": "Dúo Musical",
+        "nombre": "Dueto Musical",
         "rareza": "rara"
       }
     ],
@@ -1142,12 +1142,12 @@
     "jefe": "VIEGO",
     "reglas": [
       {
-        "nombre": "El Imperio Primero",
-        "rareza": "rara"
+        "nombre": "El Imperio ante Todo",
+        "rareza": "epica"
       },
       {
         "nombre": "Furia Inmortal",
-        "rareza": "rara"
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1180,12 +1180,12 @@
     "jefe": "TAHM_KENCH",
     "reglas": [
       {
-        "nombre": "Vestige Of Helia",
-        "rareza": "comun"
+        "nombre": "Vestigio de Helia",
+        "rareza": "epica"
       },
       {
         "nombre": "Coro de Poder",
-        "rareza": "rara"
+        "rareza": "legendaria"
       }
     ],
     "counters": [
@@ -1219,11 +1219,11 @@
     "reglas": [
       {
         "nombre": "El Precio del Progreso",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
-        "nombre": "Hoja en la Oscuridad (Épica)",
-        "rareza": "rara"
+        "nombre": "El Filo en la Oscuridad",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1257,11 +1257,11 @@
     "reglas": [
       {
         "nombre": "Minimalista",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
         "nombre": "Eliminar la Imperfección",
-        "rareza": "rara"
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1295,15 +1295,15 @@
     "reglas": [
       {
         "nombre": "Emisiones Arcanas",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Vicious Enemy",
         "rareza": "comun"
       },
       {
-        "nombre": "Dominación Soberana",
-        "rareza": "rara"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
+      },
+      {
+        "nombre": "Dominio del Soberano",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1337,11 +1337,11 @@
     "reglas": [
       {
         "nombre": "Conciencia de Combate",
-        "rareza": "comun"
+        "rareza": "rara"
       },
       {
-        "nombre": "¡A Rockear!",
-        "rareza": "rara"
+        "nombre": "A Rockear",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1375,11 +1375,11 @@
     "reglas": [
       {
         "nombre": "El Precio del Progreso",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
         "nombre": "Coro de Poder",
-        "rareza": "rara"
+        "rareza": "legendaria"
       }
     ],
     "counters": [
@@ -1412,12 +1412,12 @@
     "jefe": "DARIUS",
     "reglas": [
       {
-        "nombre": "El Imperio Primero",
-        "rareza": "rara"
+        "nombre": "El Imperio ante Todo",
+        "rareza": "epica"
       },
       {
         "nombre": "Más Allá de la Carne",
-        "rareza": "rara"
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1454,12 +1454,12 @@
         "rareza": "rara"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
-        "nombre": "Dominación Soberana",
-        "rareza": "rara"
+        "nombre": "Dominio del Soberano",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1492,12 +1492,12 @@
     "jefe": "LEE_SIN",
     "reglas": [
       {
-        "nombre": "Combate Frenético",
-        "rareza": "rara"
+        "nombre": "Pelea Frenética",
+        "rareza": "epica"
       },
       {
-        "nombre": "Cositas",
-        "rareza": "rara"
+        "nombre": "Pequeñez",
+        "rareza": "legendaria"
       }
     ],
     "counters": [
@@ -1526,12 +1526,12 @@
     "jefe": "Draven",
     "reglas": [
       {
-        "nombre": "Espíritus Llorosos",
+        "nombre": "Espíritus en Lamento",
         "rareza": "rara"
       },
       {
-        "nombre": "¡A Rockear!",
-        "rareza": "rara"
+        "nombre": "A Rockear",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1561,11 +1561,11 @@
     "reglas": [
       {
         "nombre": "Crónica de la Ruina",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
         "nombre": "Amiguitos",
-        "rareza": "rara"
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1590,12 +1590,12 @@
     "jefe": "Fiora",
     "reglas": [
       {
-        "nombre": "Truco de Luz (Común)",
-        "rareza": "rara"
+        "nombre": "Artificio de Luz",
+        "rareza": "comun"
       },
       {
-        "nombre": "Tormenta en Camino",
-        "rareza": "rara"
+        "nombre": "Tormenta Inminente",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1628,12 +1628,12 @@
     "jefe": "Ezreal",
     "reglas": [
       {
-        "nombre": "Solo los Más Fuertes",
-        "rareza": "rara"
+        "nombre": "Solo los Fuertes",
+        "rareza": "epica"
       },
       {
-        "nombre": "Solo Monos de Pólvora II",
-        "rareza": "rara"
+        "nombre": "Puros Monos Explosivos II",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1667,11 +1667,11 @@
     "reglas": [
       {
         "nombre": "Repetición",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
-        "nombre": "Hoja en la Oscuridad (Épica)",
-        "rareza": "rara"
+        "nombre": "El Filo en la Oscuridad",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1708,8 +1708,8 @@
         "rareza": "rara"
       },
       {
-        "nombre": "Poderío Noxiano II",
-        "rareza": "rara"
+        "nombre": "Poder Noxiano II",
+        "rareza": "legendaria"
       }
     ],
     "counters": [
@@ -1743,11 +1743,11 @@
     "reglas": [
       {
         "nombre": "Sombras Persistentes",
-        "rareza": "rara"
+        "rareza": "comun"
       },
       {
         "nombre": "¡Adoribus!",
-        "rareza": "rara"
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -1781,19 +1781,19 @@
     "reglas": [
       {
         "nombre": "Conciencia de Combate",
-        "rareza": "comun"
-      },
-      {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
-      },
-      {
-        "nombre": "¡A Rockear!",
         "rareza": "rara"
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
+      },
+      {
+        "nombre": "A Rockear",
+        "rareza": "epica"
       },
       {
         "nombre": "Los Enemigos de Demacia Caerán",
-        "rareza": "rara"
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1826,12 +1826,12 @@
     "jefe": "AZIR",
     "reglas": [
       {
-        "nombre": "Portales Astutos",
+        "nombre": "Portales Ingeniosos",
         "rareza": "rara"
       },
       {
-        "nombre": "Solo Monos de Pólvora II",
-        "rareza": "rara"
+        "nombre": "Puros Monos Explosivos II",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1864,12 +1864,12 @@
     "jefe": "JINX",
     "reglas": [
       {
-        "nombre": "¡En Garde!",
-        "rareza": "rara"
+        "nombre": "En Garde!",
+        "rareza": "comun"
       },
       {
-        "nombre": "Tormenta en Camino",
-        "rareza": "rara"
+        "nombre": "Tormenta Inminente",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1902,20 +1902,20 @@
     "jefe": "Draven",
     "reglas": [
       {
-        "nombre": "Muerto de Risa",
-        "rareza": "rara"
+        "nombre": "Muerte por Risa",
+        "rareza": "epica"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
-        "nombre": "Hemorragia (Épica)",
-        "rareza": "rara"
+        "nombre": "Hemorragia",
+        "rareza": "epica"
       },
       {
         "nombre": "Amiguitos",
-        "rareza": "rara"
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1949,11 +1949,11 @@
     "reglas": [
       {
         "nombre": "Crónica de la Ruina",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
-        "nombre": "Llamado de Auxilio",
-        "rareza": "rara"
+        "nombre": "Llamado de Ayuda",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -1978,12 +1978,12 @@
     "jefe": "THRESH",
     "reglas": [
       {
-        "nombre": "El Imperio Primero",
-        "rareza": "rara"
+        "nombre": "El Imperio ante Todo",
+        "rareza": "epica"
       },
       {
-        "nombre": "Demasiado Dura la Roca",
-        "rareza": "rara"
+        "nombre": "Rockeando Durísimo",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2017,15 +2017,15 @@
     "reglas": [
       {
         "nombre": "Muertes Piadosas",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
-        "nombre": "Bienvenido al Puente del Asesinato",
-        "rareza": "rara"
+        "nombre": "Llegaste al Puente de la Muerte",
+        "rareza": "legendaria"
       }
     ],
     "counters": [
@@ -2059,11 +2059,11 @@
     "reglas": [
       {
         "nombre": "Conciencia de Combate",
-        "rareza": "comun"
+        "rareza": "rara"
       },
       {
-        "nombre": "Tormenta en Camino",
-        "rareza": "rara"
+        "nombre": "Tormenta Inminente",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2096,12 +2096,12 @@
     "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "¡En Garde!",
-        "rareza": "rara"
+        "nombre": "En Garde!",
+        "rareza": "comun"
       },
       {
-        "nombre": "Poderío Demaciano II",
-        "rareza": "rara"
+        "nombre": "Fuerza Demaciana II",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2134,20 +2134,20 @@
     "jefe": "THRESH",
     "reglas": [
       {
-        "nombre": "Poder de Observación",
-        "rareza": "rara"
+        "nombre": "Poder de la Observación",
+        "rareza": "comun"
       },
       {
-        "nombre": "Gran Festín (Épica)",
-        "rareza": "rara"
+        "nombre": "Festín",
+        "rareza": "epica"
       },
       {
         "nombre": "Coro de Poder",
-        "rareza": "rara"
+        "rareza": "legendaria"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       }
     ],
     "counters": [
@@ -2184,8 +2184,8 @@
         "rareza": "rara"
       },
       {
-        "nombre": "Dominación Soberana",
-        "rareza": "rara"
+        "nombre": "Dominio del Soberano",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2214,12 +2214,12 @@
     "jefe": "TAHM_KENCH",
     "reglas": [
       {
-        "nombre": "Portales Astutos",
+        "nombre": "Portales Ingeniosos",
         "rareza": "rara"
       },
       {
         "nombre": "¡Adoribus!",
-        "rareza": "rara"
+        "rareza": "comun"
       }
     ],
     "counters": [
@@ -2252,20 +2252,20 @@
     "jefe": "AZIR",
     "reglas": [
       {
-        "nombre": "Muerto de Risa",
-        "rareza": "rara"
+        "nombre": "Muerte por Risa",
+        "rareza": "epica"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
         "nombre": "¡Adoribus!",
-        "rareza": "rara"
+        "rareza": "comun"
       },
       {
-        "nombre": "Gran Festín (Épica)",
-        "rareza": "rara"
+        "nombre": "Festín",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2299,11 +2299,11 @@
     "reglas": [
       {
         "nombre": "Magia Natural",
-        "rareza": "rara"
+        "rareza": "epica"
       },
       {
-        "nombre": "Withstand",
-        "rareza": "comun"
+        "nombre": "Resistir",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2336,16 +2336,16 @@
     "jefe": "Ezreal",
     "reglas": [
       {
-        "nombre": "Marcas Mortales",
-        "rareza": "rara"
+        "nombre": "Marcas Mortíferas",
+        "rareza": "epica"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
-        "nombre": "Llamado de Auxilio",
-        "rareza": "rara"
+        "nombre": "Llamado de Ayuda",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2378,16 +2378,16 @@
     "jefe": "VIEGO",
     "reglas": [
       {
-        "nombre": "Tirador Despiadado",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Vicious Enemy",
+        "nombre": "Arquero Despiadado",
         "rareza": "comun"
       },
       {
-        "nombre": "Tormenta en Camino",
-        "rareza": "rara"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
+      },
+      {
+        "nombre": "Tormenta Inminente",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2424,12 +2424,12 @@
         "rareza": "rara"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
-        "nombre": "Sufrir (Épica)",
-        "rareza": "rara"
+        "nombre": "Sufre",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2466,12 +2466,12 @@
         "rareza": "rara"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
-        "nombre": "¡A Rockear!",
-        "rareza": "rara"
+        "nombre": "A Rockear",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2504,20 +2504,20 @@
     "jefe": "Lulu",
     "reglas": [
       {
-        "nombre": "Truco de Luz (Común)",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Vicious Enemy",
+        "nombre": "Artificio de Luz",
         "rareza": "comun"
       },
       {
-        "nombre": "Amiguitos",
-        "rareza": "rara"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
-        "nombre": "Demasiado Dura la Roca",
-        "rareza": "rara"
+        "nombre": "Amiguitos",
+        "rareza": "epica"
+      },
+      {
+        "nombre": "Rockeando Durísimo",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2551,15 +2551,15 @@
     "reglas": [
       {
         "nombre": "Molestia Náutica",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Vicious Enemy",
         "rareza": "comun"
       },
       {
-        "nombre": "Dominación Soberana",
-        "rareza": "rara"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
+      },
+      {
+        "nombre": "Dominio del Soberano",
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2592,16 +2592,16 @@
     "jefe": "THRESH",
     "reglas": [
       {
-        "nombre": "Tirador Despiadado",
-        "rareza": "rara"
-      },
-      {
-        "nombre": "Vicious Enemy",
+        "nombre": "Arquero Despiadado",
         "rareza": "comun"
       },
       {
-        "nombre": "Bienvenido al Puente del Asesinato",
-        "rareza": "rara"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
+      },
+      {
+        "nombre": "Llegaste al Puente de la Muerte",
+        "rareza": "legendaria"
       }
     ],
     "counters": [
@@ -2634,20 +2634,20 @@
     "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "Sin Mirar Atrás",
-        "rareza": "rara"
+        "nombre": "Sin Vuelta Atrás",
+        "rareza": "epica"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
-        "nombre": "Solo Monos de Pólvora II",
-        "rareza": "rara"
+        "nombre": "Puros Monos Explosivos II",
+        "rareza": "epica"
       },
       {
         "nombre": "Eliminar la Imperfección",
-        "rareza": "rara"
+        "rareza": "epica"
       }
     ],
     "counters": [
@@ -2681,11 +2681,11 @@
     "reglas": [
       {
         "nombre": "Emisiones Arcanas",
-        "rareza": "rara"
+        "rareza": "comun"
       },
       {
-        "nombre": "Vicious Enemy",
-        "rareza": "comun"
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial"
       },
       {
         "nombre": "Imagen Persistente",
