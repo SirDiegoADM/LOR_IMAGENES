@@ -589,6 +589,13 @@
   },
   {
     "campeon": "AMBESSA",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "CONDENSADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
     "r1": "FORTUNA-ENCONTRADA",
     "r2": "TIJERAS-ESPECTRALES",
     "r3": "CONDENSADOR",
@@ -813,6 +820,13 @@
   },
   {
     "campeon": "ANIVIA",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
     "r1": "TUMBA-CONGELADA",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "VELO-DE-LA-BANSHEE",
@@ -977,6 +991,13 @@
     "r1": "TUMBA-CONGELADA",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "MAZO-DEL-DESTINO",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
@@ -4544,6 +4565,13 @@
   },
   {
     "campeon": "JINX",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "LA-CARGA-DE-LA-BALA-PERDIDA",
+    "r4": ""
+  },
+  {
+    "campeon": "JINX",
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "LA-CARGA-DE-LA-BALA-PERDIDA",
     "r3": "ARMOTAS",
@@ -6305,6 +6333,13 @@
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": "SECRETOS-DE-LOS-ESPIRITUS-RUNA"
+  },
+  {
+    "campeon": "MEL",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
   },
   {
     "campeon": "MEL",
