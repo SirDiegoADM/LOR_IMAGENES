@@ -185,7 +185,7 @@
     "campeon": "AHRI",
     "r1": "POLVORA-CARGADA",
     "r2": "FORTUNA-ENCONTRADA",
-    "r3": "FUERZA-DEL-VIENTO",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
@@ -10648,13 +10648,6 @@
   },
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
-    "r1": "RIFLE-HEXTECH",
-    "r2": "FLAUTA-DE-ALBOROTADOR",
-    "r3": "ESPANTAPAJAROS-INOFENSIVO",
-    "r4": ""
-  },
-  {
-    "campeon": "TEEMO_FLOR_ESPIRITUAL",
     "r1": "ESPANTAPAJAROS-INOFENSIVO",
     "r2": "RIFLE-HEXTECH",
     "r3": "ESCUDO-NEGRO",
@@ -12000,13 +11993,6 @@
   {
     "campeon": "VIKTOR",
     "r1": "ESPIRITU-RESONANTE",
-    "r2": "HIMNO-DEL-VALOR",
-    "r3": "GUANTE-ESPIRITUAL",
-    "r4": ""
-  },
-  {
-    "campeon": "VIKTOR",
-    "r1": "ESPIRITU-RESONANTE",
     "r2": "ANGEL-GUARDIAN",
     "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
@@ -12590,20 +12576,6 @@
     "r1": "ESPADA-DE-LA-TEMPESTAD",
     "r2": "PAQUETE-COMPLETO",
     "r3": "DADOS-TRUCADOS",
-    "r4": ""
-  },
-  {
-    "campeon": "YASUO",
-    "r1": "BASTON-INCANDESCENTE-DE-LUX",
-    "r2": "GUANTE-ESPIRITUAL",
-    "r3": "GUANTE-ESPIRITUAL",
-    "r4": ""
-  },
-  {
-    "campeon": "YASUO",
-    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
-    "r2": "ESPIRITU-RESONANTE",
-    "r3": "LA-MANO-DE-NOXUS",
     "r4": ""
   },
   {
