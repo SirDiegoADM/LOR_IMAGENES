@@ -7485,6 +7485,20 @@
   {
     "campeon": "MISS_FORTUNE",
     "r1": "ESPIRITU-RESONANTE",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "MISS_FORTUNE",
+    "r1": "MAZO-DEL-DESTINO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "CONMOCION-Y-PAVOR",
+    "r4": ""
+  },
+  {
+    "campeon": "MISS_FORTUNE",
+    "r1": "ESPIRITU-RESONANTE",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "FULGOR-ARDIENTE",
     "r4": ""
@@ -12780,6 +12794,13 @@
     "r2": "ESPADA-DE-LA-TEMPESTAD",
     "r3": "PERMAHIELO",
     "r4": ""
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "GUANTE-ESPIRITUAL",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "DADOS-TRUCADOS",
+    "r4": "VESTIGIOS-DEL-VIENTO-RUNA"
   },
   {
     "campeon": "YASUO_FLOR_ESPIRITUAL",
