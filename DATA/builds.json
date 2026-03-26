@@ -414,6 +414,13 @@
   },
   {
     "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "TIJERAS-ESPECTRALES",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": "DESPERTAR-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
     "r1": "ESPIRITUS-ASISTENTES",
     "r2": "FUERZA-PETREA",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
@@ -3614,6 +3621,13 @@
   {
     "campeon": "FIDDLESTICKS",
     "r1": "ESPANTAPAJAROS-INOFENSIVO",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "EMBLEMA-DE-LA-MAQUIAVELICA",
+    "r4": ""
+  },
+  {
+    "campeon": "FIDDLESTICKS",
+    "r1": "ESPANTAPAJAROS-INOFENSIVO",
     "r2": "DADOS-TRUCADOS",
     "r3": "CONMOCION-Y-PAVOR",
     "r4": ""
@@ -4113,6 +4127,13 @@
     "r1": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
     "r2": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "GWEN",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "RUNAS-DRACONICAS",
+    "r3": "APRENDIZ-DE-LAS-SOMBRAS",
     "r4": ""
   },
   {
@@ -6039,13 +6060,6 @@
     "r2": "PERMAHIELO",
     "r3": "PERMAHIELO",
     "r4": ""
-  },
-  {
-    "campeon": "LA_ARREBATADORA",
-    "r1": "MONEDERO-DE-CAMPEON",
-    "r2": "ESPIRITU-RESONANTE",
-    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
-    "r4": "COMPLETA-EL-CICLO-RUNA"
   },
   {
     "campeon": "LA_ARREBATADORA",
@@ -9654,6 +9668,20 @@
   },
   {
     "campeon": "SHYVANA",
+    "r1": "BACULO-CELESTIAL",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "SHYVANA",
+    "r1": "RUNAS-DRACONICAS",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "SHYVANA",
     "r1": "RUNAS-DRACONICAS",
     "r2": "LA-BALANZA-DE-LA-JUSTICIA",
     "r3": "ESPADA-DEL-ACECHADOR",
@@ -9986,6 +10014,13 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "SWAIN",
+    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r2": "ARMOTAS",
+    "r3": "ESCUDO-NEGRO",
     "r4": ""
   },
   {
@@ -10823,6 +10858,13 @@
   },
   {
     "campeon": "THRESH",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "LINTERNA-DE-ALMAS",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "THRESH",
     "r1": "LINTERNA-DE-ALMAS",
     "r2": "CESE-Y-DESISTA",
     "r3": "HACHA-CORTAMIEDOS",
@@ -10949,6 +10991,13 @@
   },
   {
     "campeon": "TRYNDAMERE",
+    "r1": "CASCO-DEL-SENOR-DE-LA-GUERRA",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "TRYNDAMERE",
     "r1": "GUANTELETES-ESTELARES",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "LLAMADO-DE-SIRENA",
@@ -11071,6 +11120,20 @@
     "r1": "GUANTELETES-ESTELARES",
     "r2": "CASCO-DEL-SENOR-DE-LA-GUERRA",
     "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "TWISTED_FATE",
+    "r1": "MAZO-DEL-DESTINO",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "TWISTED_FATE",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ARMOTAS",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
