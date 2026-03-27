@@ -933,7 +933,7 @@
       {
         "nombre": "Rojo Como Sus Labios",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Inicio de la Ronda: Inflijo 1 de daño a todas las unidades y otorgo +0|+1 a todas las unidades del Enemigo."
       }
     ],
     "counters": [
@@ -968,12 +968,12 @@
       {
         "nombre": "Lobos de Mar",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Aguasturbias del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Vigilante de la Vanguardia",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Inicio del juego: El Enemigo invoca 2 Vigilantes de la Vanguardia."
       }
     ],
     "counters": [
@@ -1814,7 +1814,7 @@
       {
         "nombre": "Lobos de Mar",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Aguasturbias del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Poder Noxiano II",
