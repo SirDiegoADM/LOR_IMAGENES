@@ -7,28 +7,29 @@
     "reglas": [
       {
         "nombre": "Conciencia de Combate",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "BARDO",
+        "nombre": "Bard",
         "pct": 15
       },
       {
-        "nombre": "NASUS",
+        "nombre": "Nasus",
         "pct": 8
       },
       {
-        "nombre": "JHIN",
+        "nombre": "Jhin",
         "pct": 8
       },
       {
-        "nombre": "SORAKA",
+        "nombre": "Soraka",
         "pct": 8
       },
       {
-        "nombre": "AMBESSA",
+        "nombre": "Ambessa",
         "pct": 8
       }
     ]
@@ -41,32 +42,34 @@
     "reglas": [
       {
         "nombre": "En Garde!",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Magia Natural",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "LEE_SIN",
+        "nombre": "Lee Sin",
         "pct": 15
       },
       {
-        "nombre": "AATROX",
+        "nombre": "Aatrox",
         "pct": 15
       },
       {
-        "nombre": "VOLIBEAR",
+        "nombre": "Volibear",
         "pct": 15
       },
       {
-        "nombre": "MORDEKAISER",
+        "nombre": "Mordekaiser",
         "pct": 15
       },
       {
-        "nombre": "BARDO",
+        "nombre": "Bard",
         "pct": 8
       }
     ]
@@ -75,32 +78,33 @@
     "num": 3,
     "estrellas": 2,
     "minijefe": "Fiora",
-    "jefe": "CAITLYN",
+    "jefe": "Caitlyn",
     "reglas": [
       {
         "nombre": "Solo los Fuertes",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VARUS",
+        "nombre": "Varus",
         "pct": 31
       },
       {
-        "nombre": "GNAR",
+        "nombre": "Gnar",
         "pct": 8
       },
       {
-        "nombre": "SWAIN",
+        "nombre": "Swain",
         "pct": 8
       },
       {
-        "nombre": "DARIUS",
+        "nombre": "Darius",
         "pct": 8
       },
       {
-        "nombre": "SORAKA",
+        "nombre": "Soraka",
         "pct": 8
       }
     ]
@@ -113,28 +117,29 @@
     "reglas": [
       {
         "nombre": "Mentes Tranquilas",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "LILLIA",
+        "nombre": "Lillia",
         "pct": 23
       },
       {
-        "nombre": "SETT",
+        "nombre": "Sett",
         "pct": 23
       },
       {
-        "nombre": "BARDO",
+        "nombre": "Bard",
         "pct": 8
       },
       {
-        "nombre": "JINX",
+        "nombre": "Jinx",
         "pct": 8
       },
       {
-        "nombre": "YASUO",
+        "nombre": "Yasuo",
         "pct": 8
       }
     ]
@@ -143,36 +148,38 @@
     "num": 5,
     "estrellas": 2,
     "minijefe": "Zoe",
-    "jefe": "VIKTOR",
+    "jefe": "Viktor",
     "reglas": [
       {
         "nombre": "Molestia Náutica",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Caso en Progreso",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "NIDALEE",
+        "nombre": "Nidalee",
         "pct": 23
       },
       {
-        "nombre": "DIANA",
+        "nombre": "Diana",
         "pct": 15
       },
       {
-        "nombre": "SETT",
+        "nombre": "Sett",
         "pct": 8
       },
       {
-        "nombre": "TRYNDAMERE",
+        "nombre": "Tryndamere",
         "pct": 8
       },
       {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Teemo",
         "pct": 8
       }
     ]
@@ -181,36 +188,38 @@
     "num": 6,
     "estrellas": 2,
     "minijefe": null,
-    "jefe": "KAISA",
+    "jefe": "Kai'Sa",
     "reglas": [
       {
         "nombre": "Número Mágico",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Talento Natural",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "DRAGON_ANCESTRAL",
+        "nombre": "Elder Dragon",
         "pct": 69
       },
       {
-        "nombre": "VOLIBEAR",
+        "nombre": "Volibear",
         "pct": 8
       },
       {
-        "nombre": "ORNN",
+        "nombre": "Ornn",
         "pct": 8
       },
       {
-        "nombre": "ANIVIA",
+        "nombre": "Anivia",
         "pct": 8
       },
       {
-        "nombre": "YASUO_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Yasuo",
         "pct": 8
       }
     ]
@@ -218,37 +227,39 @@
   {
     "num": 7,
     "estrellas": 1,
-    "minijefe": "JHIN",
-    "jefe": "ASHE",
+    "minijefe": "Jhin",
+    "jefe": "Ashe",
     "reglas": [
       {
         "nombre": "Espíritus en Lamento",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Fuerza Demaciana",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "GWEN",
+        "nombre": "Gwen",
         "pct": 38
       },
       {
-        "nombre": "THRESH",
+        "nombre": "Thresh",
         "pct": 15
       },
       {
-        "nombre": "VIEGO",
+        "nombre": "Viego",
         "pct": 15
       },
       {
-        "nombre": "MORDEKAISER",
+        "nombre": "Mordekaiser",
         "pct": 8
       },
       {
-        "nombre": "VEX",
+        "nombre": "Vex",
         "pct": 8
       }
     ]
@@ -257,36 +268,38 @@
     "num": 8,
     "estrellas": 2,
     "minijefe": null,
-    "jefe": "CAITLYN",
+    "jefe": "Caitlyn",
     "reglas": [
       {
         "nombre": "Servicio Diligente",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Poder Noxiano",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "SHYVANA",
+        "nombre": "Shyvana",
         "pct": 38
       },
       {
-        "nombre": "LUX_ILUMINADA",
+        "nombre": "Lux: Illuminated",
         "pct": 23
       },
       {
-        "nombre": "LUX",
+        "nombre": "Lux",
         "pct": 15
       },
       {
-        "nombre": "GAREN",
+        "nombre": "Garen",
         "pct": 15
       },
       {
-        "nombre": "VOLIBEAR",
+        "nombre": "Volibear",
         "pct": 8
       }
     ]
@@ -294,37 +307,39 @@
   {
     "num": 9,
     "estrellas": 2,
-    "minijefe": "LEE_SIN",
-    "jefe": "TAHM_KENCH",
+    "minijefe": "Lee Sin",
+    "jefe": "Tahm Kench",
     "reglas": [
       {
         "nombre": "Entrenamiento Forestal",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Plan de Acción Flexible",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "AHRI",
+        "nombre": "Ahri",
         "pct": 46
       },
       {
-        "nombre": "DIANA",
+        "nombre": "Diana",
         "pct": 15
       },
       {
-        "nombre": "JAX",
+        "nombre": "Jax",
         "pct": 8
       },
       {
-        "nombre": "WARWICK",
+        "nombre": "Warwick",
         "pct": 8
       },
       {
-        "nombre": "VAYNE",
+        "nombre": "Vayne",
         "pct": 8
       }
     ]
@@ -337,32 +352,34 @@
     "reglas": [
       {
         "nombre": "El Precio del Progreso",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Persistir",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VOLIBEAR",
+        "nombre": "Volibear",
         "pct": 23
       },
       {
-        "nombre": "NAMI",
+        "nombre": "Nami",
         "pct": 15
       },
       {
-        "nombre": "LEE_SIN",
+        "nombre": "Lee Sin",
         "pct": 15
       },
       {
-        "nombre": "MAESTRO_YI",
+        "nombre": "Master Yi",
         "pct": 8
       },
       {
-        "nombre": "TRYNDAMERE",
+        "nombre": "Tryndamere",
         "pct": 8
       }
     ]
@@ -370,45 +387,49 @@
   {
     "num": 11,
     "estrellas": 2,
-    "minijefe": "ASHE",
-    "jefe": "CAITLYN",
+    "minijefe": "Ashe",
+    "jefe": "Caitlyn",
     "reglas": [
       {
         "nombre": "Artificio de Luz",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Meditación Guiada",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Surfeo de Arena",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Aplastar",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "LEE_SIN",
+        "nombre": "Lee Sin",
         "pct": 23
       },
       {
-        "nombre": "DRAGON_ANCESTRAL",
+        "nombre": "Elder Dragon",
         "pct": 15
       },
       {
-        "nombre": "ORNN",
+        "nombre": "Ornn",
         "pct": 15
       },
       {
-        "nombre": "NAMI",
+        "nombre": "Nami",
         "pct": 8
       },
       {
-        "nombre": "MEL",
+        "nombre": "Mel",
         "pct": 8
       }
     ]
@@ -416,37 +437,39 @@
   {
     "num": 12,
     "estrellas": 3,
-    "minijefe": "NAUTILUS",
+    "minijefe": "Nautilus",
     "jefe": "Draven",
     "reglas": [
       {
         "nombre": "Artificio de Luz",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Cuadrilla de Pillaje",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "ANNIE",
+        "nombre": "Annie",
         "pct": 23
       },
       {
-        "nombre": "AMBESSA",
+        "nombre": "Ambessa",
         "pct": 15
       },
       {
-        "nombre": "MEL",
+        "nombre": "Mel",
         "pct": 15
       },
       {
-        "nombre": "VIKTOR",
+        "nombre": "Viktor",
         "pct": 8
       },
       {
-        "nombre": "JAX",
+        "nombre": "Jax",
         "pct": 8
       }
     ]
@@ -459,32 +482,34 @@
     "reglas": [
       {
         "nombre": "Servicio Diligente",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Entrenamiento en el Campo de Batalla",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "LUX",
+        "nombre": "Lux",
         "pct": 31
       },
       {
-        "nombre": "SHYVANA",
+        "nombre": "Shyvana",
         "pct": 15
       },
       {
-        "nombre": "VAYNE",
+        "nombre": "Vayne",
         "pct": 15
       },
       {
-        "nombre": "LUX_ILUMINADA",
+        "nombre": "Lux: Illuminated",
         "pct": 15
       },
       {
-        "nombre": "VOLIBEAR",
+        "nombre": "Volibear",
         "pct": 8
       }
     ]
@@ -497,32 +522,34 @@
     "reglas": [
       {
         "nombre": "Bloque de Carnicero",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Rugido Estridente",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "NASUS",
+        "nombre": "Nasus",
         "pct": 23
       },
       {
-        "nombre": "SAMIRA",
+        "nombre": "Samira",
         "pct": 15
       },
       {
-        "nombre": "GAREN",
+        "nombre": "Garen",
         "pct": 8
       },
       {
-        "nombre": "VIKTOR",
+        "nombre": "Viktor",
         "pct": 8
       },
       {
-        "nombre": "JINX",
+        "nombre": "Jinx",
         "pct": 8
       }
     ]
@@ -531,36 +558,38 @@
     "num": 15,
     "estrellas": 3,
     "minijefe": "Katarina",
-    "jefe": "SWAIN",
+    "jefe": "Swain",
     "reglas": [
       {
         "nombre": "Solo los Fuertes",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Flujo de agua",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VAYNE",
+        "nombre": "Vayne",
         "pct": 23
       },
       {
-        "nombre": "VARUS",
+        "nombre": "Varus",
         "pct": 23
       },
       {
-        "nombre": "YASUO",
+        "nombre": "Yasuo",
         "pct": 15
       },
       {
-        "nombre": "GAREN",
+        "nombre": "Garen",
         "pct": 8
       },
       {
-        "nombre": "GWEN",
+        "nombre": "Gwen",
         "pct": 8
       }
     ]
@@ -568,37 +597,39 @@
   {
     "num": 16,
     "estrellas": 2,
-    "minijefe": "TALIYAH",
-    "jefe": "DARIUS",
+    "minijefe": "Taliyah",
+    "jefe": "Darius",
     "reglas": [
       {
         "nombre": "Selección Antinatural",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Y Así Explota el Hongo",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "EL_REY_PORO",
+        "nombre": "The Poro King",
         "pct": 23
       },
       {
-        "nombre": "ELISE",
+        "nombre": "Elise",
         "pct": 23
       },
       {
-        "nombre": "DARIUS",
+        "nombre": "Darius",
         "pct": 8
       },
       {
-        "nombre": "LUX_ILUMINADA",
+        "nombre": "Lux: Illuminated",
         "pct": 8
       },
       {
-        "nombre": "EVELYNN",
+        "nombre": "Evelynn",
         "pct": 8
       }
     ]
@@ -611,32 +642,34 @@
     "reglas": [
       {
         "nombre": "Abraza la Corriente",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Profecía Escalofriante",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "NAMI",
+        "nombre": "Nami",
         "pct": 38
       },
       {
-        "nombre": "EKKO",
+        "nombre": "Ekko",
         "pct": 8
       },
       {
-        "nombre": "GWEN",
+        "nombre": "Gwen",
         "pct": 8
       },
       {
-        "nombre": "TWISTED_FATE",
+        "nombre": "Twisted Fate",
         "pct": 8
       },
       {
-        "nombre": "EL_REY_PORO",
+        "nombre": "The Poro King",
         "pct": 8
       }
     ]
@@ -649,32 +682,34 @@
     "reglas": [
       {
         "nombre": "Guía Celestial",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Tecnología Inestable",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "SORAKA",
+        "nombre": "Soraka",
         "pct": 38
       },
       {
-        "nombre": "KAYLE",
+        "nombre": "Kayle",
         "pct": 23
       },
       {
-        "nombre": "LEONA",
+        "nombre": "Leona",
         "pct": 15
       },
       {
-        "nombre": "JHIN",
+        "nombre": "Jhin",
         "pct": 8
       },
       {
-        "nombre": "DIANA",
+        "nombre": "Diana",
         "pct": 8
       }
     ]
@@ -687,32 +722,34 @@
     "reglas": [
       {
         "nombre": "Muerte por Risa",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Melodía Distractora",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VOLIBEAR",
+        "nombre": "Volibear",
         "pct": 23
       },
       {
-        "nombre": "LEE_SIN",
+        "nombre": "Lee Sin",
         "pct": 15
       },
       {
-        "nombre": "DRAGON_ANCESTRAL",
+        "nombre": "Elder Dragon",
         "pct": 15
       },
       {
-        "nombre": "NAUTILUS",
+        "nombre": "Nautilus",
         "pct": 8
       },
       {
-        "nombre": "AZIR",
+        "nombre": "Azir",
         "pct": 8
       }
     ]
@@ -721,36 +758,38 @@
     "num": 20,
     "estrellas": 3,
     "minijefe": "Lulu",
-    "jefe": "LEE_SIN",
+    "jefe": "Lee Sin",
     "reglas": [
       {
         "nombre": "Molestia Náutica",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Ecos de las Profundidades",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "NIDALEE",
+        "nombre": "Nidalee",
         "pct": 23
       },
       {
-        "nombre": "ILLAOI",
+        "nombre": "Illaoi",
         "pct": 15
       },
       {
-        "nombre": "NASUS",
+        "nombre": "Nasus",
         "pct": 15
       },
       {
-        "nombre": "JHIN",
+        "nombre": "Jhin",
         "pct": 8
       },
       {
-        "nombre": "SAMIRA",
+        "nombre": "Samira",
         "pct": 8
       }
     ]
@@ -758,37 +797,39 @@
   {
     "num": 21,
     "estrellas": 3,
-    "minijefe": "AZIR",
+    "minijefe": "Azir",
     "jefe": "Lulu",
     "reglas": [
       {
         "nombre": "Llamas Parpadeantes",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Los Enemigos de Demacia Caerán",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "ANNIE",
+        "nombre": "Annie",
         "pct": 38
       },
       {
-        "nombre": "TWISTED_FATE",
+        "nombre": "Twisted Fate",
         "pct": 15
       },
       {
-        "nombre": "MEL",
+        "nombre": "Mel",
         "pct": 8
       },
       {
-        "nombre": "MISS_FORTUNE",
+        "nombre": "Miss Fortune",
         "pct": 8
       },
       {
-        "nombre": "VEIGAR",
+        "nombre": "Veigar",
         "pct": 8
       }
     ]
@@ -801,32 +842,34 @@
     "reglas": [
       {
         "nombre": "El Precio del Progreso",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Dominación",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "TRYNDAMERE",
+        "nombre": "Tryndamere",
         "pct": 31
       },
       {
-        "nombre": "VEIGAR",
+        "nombre": "Veigar",
         "pct": 15
       },
       {
-        "nombre": "KINDRED",
+        "nombre": "Kindred",
         "pct": 15
       },
       {
-        "nombre": "NEEKO",
+        "nombre": "Neeko",
         "pct": 8
       },
       {
-        "nombre": "MAESTRO_YI_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Master Yi",
         "pct": 8
       }
     ]
@@ -835,36 +878,38 @@
     "num": 23,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "LEE_SIN",
+    "jefe": "Lee Sin",
     "reglas": [
       {
         "nombre": "Entrenamiento Forestal",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Tácticas de Enjambre",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "DIANA",
+        "nombre": "Diana",
         "pct": 23
       },
       {
-        "nombre": "AHRI",
+        "nombre": "Ahri",
         "pct": 23
       },
       {
-        "nombre": "ASHE",
+        "nombre": "Ashe",
         "pct": 15
       },
       {
-        "nombre": "VAYNE",
+        "nombre": "Vayne",
         "pct": 15
       },
       {
-        "nombre": "WARWICK",
+        "nombre": "Warwick",
         "pct": 8
       }
     ]
@@ -872,41 +917,44 @@
   {
     "num": 24,
     "estrellas": 4,
-    "minijefe": "JINX",
+    "minijefe": "Jinx",
     "jefe": "Draven",
     "reglas": [
       {
         "nombre": "Armadura Animada",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Rojo Como Sus Labios",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "AHRI_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Ahri",
         "pct": 23
       },
       {
-        "nombre": "KAYN",
+        "nombre": "Kayn",
         "pct": 15
       },
       {
-        "nombre": "SORAKA",
+        "nombre": "Soraka",
         "pct": 15
       },
       {
-        "nombre": "JINX",
+        "nombre": "Jinx",
         "pct": 8
       },
       {
-        "nombre": "TAHM_KENCH",
+        "nombre": "Tahm Kench",
         "pct": 8
       }
     ]
@@ -914,37 +962,39 @@
   {
     "num": 25,
     "estrellas": 2,
-    "minijefe": "YASUO",
-    "jefe": "VIEGO",
+    "minijefe": "Yasuo",
+    "jefe": "Viego",
     "reglas": [
       {
         "nombre": "Lobos de Mar",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Vigilante de la Vanguardia",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MISS_FORTUNE",
+        "nombre": "Miss Fortune",
         "pct": 31
       },
       {
-        "nombre": "PYKE",
+        "nombre": "Pyke",
         "pct": 23
       },
       {
-        "nombre": "TWISTED_FATE",
+        "nombre": "Twisted Fate",
         "pct": 15
       },
       {
-        "nombre": "ILLAOI",
+        "nombre": "Illaoi",
         "pct": 15
       },
       {
-        "nombre": "AATROX",
+        "nombre": "Aatrox",
         "pct": 8
       }
     ]
@@ -953,36 +1003,38 @@
     "num": 26,
     "estrellas": 2,
     "minijefe": null,
-    "jefe": "SWAIN",
+    "jefe": "Swain",
     "reglas": [
       {
         "nombre": "El Imperio ante Todo",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Fragmentos de Canción",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "PYKE",
+        "nombre": "Pyke",
         "pct": 15
       },
       {
-        "nombre": "SAMIRA",
+        "nombre": "Samira",
         "pct": 15
       },
       {
-        "nombre": "WARWICK",
+        "nombre": "Warwick",
         "pct": 15
       },
       {
-        "nombre": "DARIUS",
+        "nombre": "Darius",
         "pct": 15
       },
       {
-        "nombre": "AATROX",
+        "nombre": "Aatrox",
         "pct": 8
       }
     ]
@@ -990,37 +1042,39 @@
   {
     "num": 27,
     "estrellas": 3,
-    "minijefe": "VIKTOR",
+    "minijefe": "Viktor",
     "jefe": "Draven",
     "reglas": [
       {
         "nombre": "Bloque de Carnicero",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Sede del Poder",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "AATROX",
+        "nombre": "Aatrox",
         "pct": 15
       },
       {
-        "nombre": "AMBESSA",
+        "nombre": "Ambessa",
         "pct": 15
       },
       {
-        "nombre": "LEONA",
+        "nombre": "Leona",
         "pct": 8
       },
       {
-        "nombre": "LUX_ILUMINADA",
+        "nombre": "Lux: Illuminated",
         "pct": 8
       },
       {
-        "nombre": "NASUS",
+        "nombre": "Nasus",
         "pct": 8
       }
     ]
@@ -1028,37 +1082,39 @@
   {
     "num": 28,
     "estrellas": 2,
-    "minijefe": "SWAIN",
-    "jefe": "DARIUS",
+    "minijefe": "Swain",
+    "jefe": "Darius",
     "reglas": [
       {
         "nombre": "Mentes Tranquilas",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Munición Monada",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "LILLIA",
+        "nombre": "Lillia",
         "pct": 46
       },
       {
-        "nombre": "SETT",
+        "nombre": "Sett",
         "pct": 23
       },
       {
-        "nombre": "YASUO",
+        "nombre": "Yasuo",
         "pct": 15
       },
       {
-        "nombre": "AHRI_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Ahri",
         "pct": 8
       },
       {
-        "nombre": "DARIUS",
+        "nombre": "Darius",
         "pct": 8
       }
     ]
@@ -1067,36 +1123,38 @@
     "num": 29,
     "estrellas": 2,
     "minijefe": "Ezreal",
-    "jefe": "CAITLYN",
+    "jefe": "Caitlyn",
     "reglas": [
       {
         "nombre": "Hielos Fortificadores",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Amiguitos",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "ANIVIA",
+        "nombre": "Anivia",
         "pct": 23
       },
       {
-        "nombre": "GNAR",
+        "nombre": "Gnar",
         "pct": 15
       },
       {
-        "nombre": "ASHE",
+        "nombre": "Ashe",
         "pct": 15
       },
       {
-        "nombre": "VOLIBEAR",
+        "nombre": "Volibear",
         "pct": 8
       },
       {
-        "nombre": "LEBLANC",
+        "nombre": "LeBlanc",
         "pct": 8
       }
     ]
@@ -1105,36 +1163,38 @@
     "num": 30,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "JINX",
+    "jefe": "Jinx",
     "reglas": [
       {
         "nombre": "Poder de la Observación",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Dueto Musical",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "FIDDLESTICKS",
+        "nombre": "Fiddlesticks",
         "pct": 15
       },
       {
-        "nombre": "GAREN",
+        "nombre": "Garen",
         "pct": 8
       },
       {
-        "nombre": "VIKTOR",
+        "nombre": "Viktor",
         "pct": 8
       },
       {
-        "nombre": "VOLIBEAR",
+        "nombre": "Volibear",
         "pct": 8
       },
       {
-        "nombre": "TEEMO",
+        "nombre": "Teemo",
         "pct": 8
       }
     ]
@@ -1143,36 +1203,38 @@
     "num": 31,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "VIEGO",
+    "jefe": "Viego",
     "reglas": [
       {
         "nombre": "El Imperio ante Todo",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Furia Inmortal",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "AHRI",
+        "nombre": "Ahri",
         "pct": 31
       },
       {
-        "nombre": "DARIUS",
+        "nombre": "Darius",
         "pct": 15
       },
       {
-        "nombre": "ILLAOI",
+        "nombre": "Illaoi",
         "pct": 8
       },
       {
-        "nombre": "SAMIRA",
+        "nombre": "Samira",
         "pct": 8
       },
       {
-        "nombre": "YASUO_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Yasuo",
         "pct": 8
       }
     ]
@@ -1181,36 +1243,38 @@
     "num": 32,
     "estrellas": 2,
     "minijefe": "Draven",
-    "jefe": "TAHM_KENCH",
+    "jefe": "Tahm Kench",
     "reglas": [
       {
         "nombre": "Vestigio de Helia",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Coro de Poder",
-        "rareza": "legendaria"
+        "rareza": "legendaria",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MAESTRO_YI",
+        "nombre": "Master Yi",
         "pct": 31
       },
       {
-        "nombre": "AHRI",
+        "nombre": "Ahri",
         "pct": 31
       },
       {
-        "nombre": "VARUS",
+        "nombre": "Varus",
         "pct": 15
       },
       {
-        "nombre": "LILLIA",
+        "nombre": "Lillia",
         "pct": 8
       },
       {
-        "nombre": "NEEKO",
+        "nombre": "Neeko",
         "pct": 8
       }
     ]
@@ -1219,36 +1283,38 @@
     "num": 33,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "NAUTILUS",
+    "jefe": "Nautilus",
     "reglas": [
       {
         "nombre": "El Precio del Progreso",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "El Filo en la Oscuridad",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MAESTRO_YI",
+        "nombre": "Master Yi",
         "pct": 38
       },
       {
-        "nombre": "TRYNDAMERE",
+        "nombre": "Tryndamere",
         "pct": 31
       },
       {
-        "nombre": "AKSHAN",
+        "nombre": "Akshan",
         "pct": 8
       },
       {
-        "nombre": "CAITLYN",
+        "nombre": "Caitlyn",
         "pct": 8
       },
       {
-        "nombre": "NAMI",
+        "nombre": "Nami",
         "pct": 8
       }
     ]
@@ -1261,32 +1327,34 @@
     "reglas": [
       {
         "nombre": "Minimalista",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Eliminar la Imperfección",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "EVELYNN",
+        "nombre": "Evelynn",
         "pct": 31
       },
       {
-        "nombre": "VARUS",
+        "nombre": "Varus",
         "pct": 15
       },
       {
-        "nombre": "JHIN",
+        "nombre": "Jhin",
         "pct": 15
       },
       {
-        "nombre": "AHRI",
+        "nombre": "Ahri",
         "pct": 8
       },
       {
-        "nombre": "AURELION_SOL",
+        "nombre": "Aurelion Sol",
         "pct": 8
       }
     ]
@@ -1295,40 +1363,43 @@
     "num": 35,
     "estrellas": 4,
     "minijefe": "Katarina",
-    "jefe": "JINX",
+    "jefe": "Jinx",
     "reglas": [
       {
         "nombre": "Emisiones Arcanas",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Dominio del Soberano",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "NIDALEE",
+        "nombre": "Nidalee",
         "pct": 15
       },
       {
-        "nombre": "NASUS",
+        "nombre": "Nasus",
         "pct": 15
       },
       {
-        "nombre": "VEIGAR",
+        "nombre": "Veigar",
         "pct": 15
       },
       {
-        "nombre": "LUX",
+        "nombre": "Lux",
         "pct": 15
       },
       {
-        "nombre": "VAYNE",
+        "nombre": "Vayne",
         "pct": 8
       }
     ]
@@ -1336,37 +1407,39 @@
   {
     "num": 36,
     "estrellas": 3,
-    "minijefe": "CAITLYN",
-    "jefe": "THRESH",
+    "minijefe": "Caitlyn",
+    "jefe": "Thresh",
     "reglas": [
       {
         "nombre": "Conciencia de Combate",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "A Rockear",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "NIDALEE",
+        "nombre": "Nidalee",
         "pct": 15
       },
       {
-        "nombre": "JAX",
+        "nombre": "Jax",
         "pct": 8
       },
       {
-        "nombre": "FIDDLESTICKS",
+        "nombre": "Fiddlesticks",
         "pct": 8
       },
       {
-        "nombre": "PYKE",
+        "nombre": "Pyke",
         "pct": 8
       },
       {
-        "nombre": "LEBLANC",
+        "nombre": "LeBlanc",
         "pct": 8
       }
     ]
@@ -1375,36 +1448,38 @@
     "num": 37,
     "estrellas": 2,
     "minijefe": "Gangplank",
-    "jefe": "VIKTOR",
+    "jefe": "Viktor",
     "reglas": [
       {
         "nombre": "El Precio del Progreso",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Coro de Poder",
-        "rareza": "legendaria"
+        "rareza": "legendaria",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "TRYNDAMERE",
+        "nombre": "Tryndamere",
         "pct": 23
       },
       {
-        "nombre": "MAESTRO_YI",
+        "nombre": "Master Yi",
         "pct": 15
       },
       {
-        "nombre": "AMBESSA",
+        "nombre": "Ambessa",
         "pct": 15
       },
       {
-        "nombre": "NEEKO",
+        "nombre": "Neeko",
         "pct": 8
       },
       {
-        "nombre": "MEL",
+        "nombre": "Mel",
         "pct": 8
       }
     ]
@@ -1413,36 +1488,38 @@
     "num": 38,
     "estrellas": 2,
     "minijefe": null,
-    "jefe": "DARIUS",
+    "jefe": "Darius",
     "reglas": [
       {
         "nombre": "El Imperio ante Todo",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Más Allá de la Carne",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "NIDALEE",
+        "nombre": "Nidalee",
         "pct": 23
       },
       {
-        "nombre": "ELISE",
+        "nombre": "Elise",
         "pct": 15
       },
       {
-        "nombre": "ILLAOI",
+        "nombre": "Illaoi",
         "pct": 8
       },
       {
-        "nombre": "SAMIRA",
+        "nombre": "Samira",
         "pct": 8
       },
       {
-        "nombre": "EL_REY_PORO",
+        "nombre": "The Poro King",
         "pct": 8
       }
     ]
@@ -1455,36 +1532,39 @@
     "reglas": [
       {
         "nombre": "Abraza la Corriente",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Dominio del Soberano",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "LEBLANC",
+        "nombre": "LeBlanc",
         "pct": 23
       },
       {
-        "nombre": "NAMI",
+        "nombre": "Nami",
         "pct": 15
       },
       {
-        "nombre": "AKSHAN",
+        "nombre": "Akshan",
         "pct": 8
       },
       {
-        "nombre": "MISS_FORTUNE",
+        "nombre": "Miss Fortune",
         "pct": 8
       },
       {
-        "nombre": "VI",
+        "nombre": "Vi",
         "pct": 8
       }
     ]
@@ -1492,37 +1572,39 @@
   {
     "num": 40,
     "estrellas": 3,
-    "minijefe": "CAITLYN",
-    "jefe": "LEE_SIN",
+    "minijefe": "Caitlyn",
+    "jefe": "Lee Sin",
     "reglas": [
       {
         "nombre": "Pelea Frenética",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Pequeñez",
-        "rareza": "legendaria"
+        "rareza": "legendaria",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "YUUMI",
+        "nombre": "Yuumi",
         "pct": 38
       },
       {
-        "nombre": "JINX",
+        "nombre": "Jinx",
         "pct": 38
       },
       {
-        "nombre": "ANNIE",
+        "nombre": "Annie",
         "pct": 8
       },
       {
-        "nombre": "LA_ARREBATADORA",
+        "nombre": "Spirit Blossom Kindred",
         "pct": 8
       },
       {
-        "nombre": "ELISE",
+        "nombre": "Elise",
         "pct": 8
       }
     ]
@@ -1530,37 +1612,39 @@
   {
     "num": 41,
     "estrellas": 3,
-    "minijefe": "SWAIN",
+    "minijefe": "Swain",
     "jefe": "Draven",
     "reglas": [
       {
         "nombre": "Espíritus en Lamento",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "A Rockear",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VIEGO",
+        "nombre": "Viego",
         "pct": 31
       },
       {
-        "nombre": "GWEN",
+        "nombre": "Gwen",
         "pct": 23
       },
       {
-        "nombre": "ELISE",
+        "nombre": "Elise",
         "pct": 23
       },
       {
-        "nombre": "THRESH",
+        "nombre": "Thresh",
         "pct": 15
       },
       {
-        "nombre": "YUUMI",
+        "nombre": "Yuumi",
         "pct": 8
       }
     ]
@@ -1573,28 +1657,30 @@
     "reglas": [
       {
         "nombre": "Crónica de la Ruina",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Amiguitos",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "TEEMO",
+        "nombre": "Teemo",
         "pct": 46
       },
       {
-        "nombre": "VEX",
+        "nombre": "Vex",
         "pct": 38
       },
       {
-        "nombre": "GWEN",
+        "nombre": "Gwen",
         "pct": 8
       },
       {
-        "nombre": "CAITLYN",
+        "nombre": "Caitlyn",
         "pct": 8
       }
     ]
@@ -1607,32 +1693,34 @@
     "reglas": [
       {
         "nombre": "Artificio de Luz",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Tormenta Inminente",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "AMBESSA",
+        "nombre": "Ambessa",
         "pct": 23
       },
       {
-        "nombre": "NEEKO",
+        "nombre": "Neeko",
         "pct": 15
       },
       {
-        "nombre": "KINDRED",
+        "nombre": "Kindred",
         "pct": 8
       },
       {
-        "nombre": "VIKTOR",
+        "nombre": "Viktor",
         "pct": 8
       },
       {
-        "nombre": "WARWICK",
+        "nombre": "Warwick",
         "pct": 8
       }
     ]
@@ -1645,32 +1733,34 @@
     "reglas": [
       {
         "nombre": "Solo los Fuertes",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Puros Monos Explosivos II",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VAYNE",
+        "nombre": "Vayne",
         "pct": 38
       },
       {
-        "nombre": "VARUS",
+        "nombre": "Varus",
         "pct": 15
       },
       {
-        "nombre": "JAX",
+        "nombre": "Jax",
         "pct": 8
       },
       {
-        "nombre": "JHIN",
+        "nombre": "Jhin",
         "pct": 8
       },
       {
-        "nombre": "LEBLANC",
+        "nombre": "LeBlanc",
         "pct": 8
       }
     ]
@@ -1683,32 +1773,34 @@
     "reglas": [
       {
         "nombre": "Repetición",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "El Filo en la Oscuridad",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MEL",
+        "nombre": "Mel",
         "pct": 23
       },
       {
-        "nombre": "NEEKO",
+        "nombre": "Neeko",
         "pct": 23
       },
       {
-        "nombre": "NAMI",
+        "nombre": "Nami",
         "pct": 23
       },
       {
-        "nombre": "LEBLANC",
+        "nombre": "LeBlanc",
         "pct": 8
       },
       {
-        "nombre": "ANNIE",
+        "nombre": "Annie",
         "pct": 8
       }
     ]
@@ -1717,36 +1809,38 @@
     "num": 46,
     "estrellas": 3,
     "minijefe": "Fiora",
-    "jefe": "DARIUS",
+    "jefe": "Darius",
     "reglas": [
       {
         "nombre": "Lobos de Mar",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Poder Noxiano II",
-        "rareza": "legendaria"
+        "rareza": "legendaria",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MISS_FORTUNE",
+        "nombre": "Miss Fortune",
         "pct": 23
       },
       {
-        "nombre": "ASHE",
+        "nombre": "Ashe",
         "pct": 15
       },
       {
-        "nombre": "ILLAOI",
+        "nombre": "Illaoi",
         "pct": 15
       },
       {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Teemo",
         "pct": 8
       },
       {
-        "nombre": "KINDRED",
+        "nombre": "Kindred",
         "pct": 8
       }
     ]
@@ -1759,32 +1853,34 @@
     "reglas": [
       {
         "nombre": "Sombras Persistentes",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "¡Adoribus!",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VEIGAR",
+        "nombre": "Veigar",
         "pct": 23
       },
       {
-        "nombre": "MEL",
+        "nombre": "Mel",
         "pct": 15
       },
       {
-        "nombre": "SWAIN",
+        "nombre": "Swain",
         "pct": 8
       },
       {
-        "nombre": "KAISA",
+        "nombre": "Kai'Sa",
         "pct": 8
       },
       {
-        "nombre": "LUX_ILUMINADA",
+        "nombre": "Lux: Illuminated",
         "pct": 8
       }
     ]
@@ -1793,44 +1889,48 @@
     "num": 48,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "LEE_SIN",
+    "jefe": "Lee Sin",
     "reglas": [
       {
         "nombre": "Conciencia de Combate",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "A Rockear",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Los Enemigos de Demacia Caerán",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "LUX_ILUMINADA",
+        "nombre": "Lux: Illuminated",
         "pct": 23
       },
       {
-        "nombre": "AZIR",
+        "nombre": "Azir",
         "pct": 15
       },
       {
-        "nombre": "VIKTOR",
+        "nombre": "Viktor",
         "pct": 15
       },
       {
-        "nombre": "JAX",
+        "nombre": "Jax",
         "pct": 8
       },
       {
-        "nombre": "FIDDLESTICKS",
+        "nombre": "Fiddlesticks",
         "pct": 8
       }
     ]
@@ -1839,36 +1939,38 @@
     "num": 49,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "AZIR",
+    "jefe": "Azir",
     "reglas": [
       {
         "nombre": "Portales Ingeniosos",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Puros Monos Explosivos II",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VEX",
+        "nombre": "Vex",
         "pct": 31
       },
       {
-        "nombre": "NORRA",
+        "nombre": "Norra",
         "pct": 15
       },
       {
-        "nombre": "YUUMI",
+        "nombre": "Yuumi",
         "pct": 8
       },
       {
-        "nombre": "ANNIE",
+        "nombre": "Annie",
         "pct": 8
       },
       {
-        "nombre": "VEIGAR",
+        "nombre": "Veigar",
         "pct": 8
       }
     ]
@@ -1877,36 +1979,38 @@
     "num": 50,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "JINX",
+    "jefe": "Jinx",
     "reglas": [
       {
         "nombre": "En Garde!",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Tormenta Inminente",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MORGANA",
+        "nombre": "Morgana",
         "pct": 15
       },
       {
-        "nombre": "AATROX",
+        "nombre": "Aatrox",
         "pct": 15
       },
       {
-        "nombre": "JINX",
+        "nombre": "Jinx",
         "pct": 15
       },
       {
-        "nombre": "GWEN",
+        "nombre": "Gwen",
         "pct": 15
       },
       {
-        "nombre": "JHIN",
+        "nombre": "Jhin",
         "pct": 8
       }
     ]
@@ -1919,40 +2023,44 @@
     "reglas": [
       {
         "nombre": "Muerte por Risa",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Hemorragia",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Amiguitos",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "AMBESSA",
+        "nombre": "Ambessa",
         "pct": 23
       },
       {
-        "nombre": "MORGANA",
+        "nombre": "Morgana",
         "pct": 23
       },
       {
-        "nombre": "AHRI_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Ahri",
         "pct": 15
       },
       {
-        "nombre": "THRESH",
+        "nombre": "Thresh",
         "pct": 8
       },
       {
-        "nombre": "VIEGO",
+        "nombre": "Viego",
         "pct": 8
       }
     ]
@@ -1965,28 +2073,30 @@
     "reglas": [
       {
         "nombre": "Crónica de la Ruina",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Llamado de Ayuda",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "TEEMO",
+        "nombre": "Teemo",
         "pct": 54
       },
       {
-        "nombre": "VEX",
+        "nombre": "Vex",
         "pct": 31
       },
       {
-        "nombre": "GWEN",
+        "nombre": "Gwen",
         "pct": 8
       },
       {
-        "nombre": "NASUS",
+        "nombre": "Nasus",
         "pct": 8
       }
     ]
@@ -1995,36 +2105,38 @@
     "num": 53,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "THRESH",
+    "jefe": "Thresh",
     "reglas": [
       {
         "nombre": "El Imperio ante Todo",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Rockeando Durísimo",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "ELISE",
+        "nombre": "Elise",
         "pct": 31
       },
       {
-        "nombre": "SORAKA",
+        "nombre": "Soraka",
         "pct": 15
       },
       {
-        "nombre": "VIEGO",
+        "nombre": "Viego",
         "pct": 8
       },
       {
-        "nombre": "SWAIN",
+        "nombre": "Swain",
         "pct": 8
       },
       {
-        "nombre": "EL_REY_PORO",
+        "nombre": "The Poro King",
         "pct": 8
       }
     ]
@@ -2032,41 +2144,44 @@
   {
     "num": 54,
     "estrellas": 4,
-    "minijefe": "TRYNDAMERE",
-    "jefe": "MISS_FORTUNE",
+    "minijefe": "Tryndamere",
+    "jefe": "Miss Fortune",
     "reglas": [
       {
         "nombre": "Muertes Piadosas",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Llegaste al Puente de la Muerte",
-        "rareza": "legendaria"
+        "rareza": "legendaria",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MISS_FORTUNE",
+        "nombre": "Miss Fortune",
         "pct": 23
       },
       {
-        "nombre": "JINX",
+        "nombre": "Jinx",
         "pct": 15
       },
       {
-        "nombre": "AHRI",
+        "nombre": "Ahri",
         "pct": 15
       },
       {
-        "nombre": "ELISE",
+        "nombre": "Elise",
         "pct": 8
       },
       {
-        "nombre": "CAITLYN",
+        "nombre": "Caitlyn",
         "pct": 8
       }
     ]
@@ -2079,32 +2194,34 @@
     "reglas": [
       {
         "nombre": "Conciencia de Combate",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Tormenta Inminente",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Teemo",
         "pct": 15
       },
       {
-        "nombre": "MISS_FORTUNE",
+        "nombre": "Miss Fortune",
         "pct": 15
       },
       {
-        "nombre": "FIDDLESTICKS",
+        "nombre": "Fiddlesticks",
         "pct": 8
       },
       {
-        "nombre": "PYKE",
+        "nombre": "Pyke",
         "pct": 8
       },
       {
-        "nombre": "ELISE",
+        "nombre": "Elise",
         "pct": 8
       }
     ]
@@ -2113,36 +2230,38 @@
     "num": 56,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "CAITLYN",
+    "jefe": "Caitlyn",
     "reglas": [
       {
         "nombre": "En Garde!",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Fuerza Demaciana II",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VAYNE",
+        "nombre": "Vayne",
         "pct": 8
       },
       {
-        "nombre": "KAISA",
+        "nombre": "Kai'Sa",
         "pct": 8
       },
       {
-        "nombre": "ELISE",
+        "nombre": "Elise",
         "pct": 8
       },
       {
-        "nombre": "FIDDLESTICKS",
+        "nombre": "Fiddlesticks",
         "pct": 8
       },
       {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Teemo",
         "pct": 8
       }
     ]
@@ -2151,44 +2270,48 @@
     "num": 57,
     "estrellas": 4,
     "minijefe": "Draven",
-    "jefe": "THRESH",
+    "jefe": "Thresh",
     "reglas": [
       {
         "nombre": "Poder de la Observación",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Festín",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Coro de Poder",
-        "rareza": "legendaria"
+        "rareza": "legendaria",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VAYNE",
+        "nombre": "Vayne",
         "pct": 15
       },
       {
-        "nombre": "FIDDLESTICKS",
+        "nombre": "Fiddlesticks",
         "pct": 15
       },
       {
-        "nombre": "SWAIN",
+        "nombre": "Swain",
         "pct": 8
       },
       {
-        "nombre": "LUX",
+        "nombre": "Lux",
         "pct": 8
       },
       {
-        "nombre": "EVELYNN_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Evelynn",
         "pct": 8
       }
     ]
@@ -2197,32 +2320,34 @@
     "num": 58,
     "estrellas": 3,
     "minijefe": "Karma",
-    "jefe": "AZIR",
+    "jefe": "Azir",
     "reglas": [
       {
         "nombre": "Cima de la Montaña",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Dominio del Soberano",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "DRAGON_ANCESTRAL",
+        "nombre": "Elder Dragon",
         "pct": 46
       },
       {
-        "nombre": "VOLIBEAR",
+        "nombre": "Volibear",
         "pct": 38
       },
       {
-        "nombre": "LEBLANC",
+        "nombre": "LeBlanc",
         "pct": 8
       },
       {
-        "nombre": "VIEGO",
+        "nombre": "Viego",
         "pct": 8
       }
     ]
@@ -2231,36 +2356,38 @@
     "num": 59,
     "estrellas": 3,
     "minijefe": "Fizz",
-    "jefe": "TAHM_KENCH",
+    "jefe": "Tahm Kench",
     "reglas": [
       {
         "nombre": "Portales Ingeniosos",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "¡Adoribus!",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VEX",
+        "nombre": "Vex",
         "pct": 38
       },
       {
-        "nombre": "NORRA",
+        "nombre": "Norra",
         "pct": 23
       },
       {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Teemo",
         "pct": 15
       },
       {
-        "nombre": "VAYNE",
+        "nombre": "Vayne",
         "pct": 8
       },
       {
-        "nombre": "AURELION_SOL",
+        "nombre": "Aurelion Sol",
         "pct": 8
       }
     ]
@@ -2269,44 +2396,48 @@
     "num": 60,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "AZIR",
+    "jefe": "Azir",
     "reglas": [
       {
         "nombre": "Muerte por Risa",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "¡Adoribus!",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Festín",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "VIKTOR",
+        "nombre": "Viktor",
         "pct": 15
       },
       {
-        "nombre": "FIDDLESTICKS",
+        "nombre": "Fiddlesticks",
         "pct": 15
       },
       {
-        "nombre": "VEX",
+        "nombre": "Vex",
         "pct": 8
       },
       {
-        "nombre": "AZIR",
+        "nombre": "Azir",
         "pct": 8
       },
       {
-        "nombre": "JHIN",
+        "nombre": "Jhin",
         "pct": 8
       }
     ]
@@ -2315,36 +2446,38 @@
     "num": 61,
     "estrellas": 4,
     "minijefe": "Zed",
-    "jefe": "LEE_SIN",
+    "jefe": "Lee Sin",
     "reglas": [
       {
         "nombre": "Magia Natural",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Resistir",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MAESTRO_YI",
+        "nombre": "Master Yi",
         "pct": 31
       },
       {
-        "nombre": "VI",
+        "nombre": "Vi",
         "pct": 15
       },
       {
-        "nombre": "YASUO",
+        "nombre": "Yasuo",
         "pct": 8
       },
       {
-        "nombre": "DRAGON_ANCESTRAL",
+        "nombre": "Elder Dragon",
         "pct": 8
       },
       {
-        "nombre": "LEONA",
+        "nombre": "Leona",
         "pct": 8
       }
     ]
@@ -2357,36 +2490,39 @@
     "reglas": [
       {
         "nombre": "Marcas Mortíferas",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Llamado de Ayuda",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "JINX",
+        "nombre": "Jinx",
         "pct": 38
       },
       {
-        "nombre": "CAITLYN",
+        "nombre": "Caitlyn",
         "pct": 15
       },
       {
-        "nombre": "SWAIN",
+        "nombre": "Swain",
         "pct": 8
       },
       {
-        "nombre": "ASHE",
+        "nombre": "Ashe",
         "pct": 8
       },
       {
-        "nombre": "YUUMI",
+        "nombre": "Yuumi",
         "pct": 8
       }
     ]
@@ -2395,40 +2531,43 @@
     "num": 63,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "VIEGO",
+    "jefe": "Viego",
     "reglas": [
       {
         "nombre": "Arquero Despiadado",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Tormenta Inminente",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MISS_FORTUNE",
+        "nombre": "Miss Fortune",
         "pct": 31
       },
       {
-        "nombre": "JHIN",
+        "nombre": "Jhin",
         "pct": 31
       },
       {
-        "nombre": "SWAIN",
+        "nombre": "Swain",
         "pct": 15
       },
       {
-        "nombre": "VAYNE",
+        "nombre": "Vayne",
         "pct": 8
       },
       {
-        "nombre": "VIEGO",
+        "nombre": "Viego",
         "pct": 8
       }
     ]
@@ -2436,41 +2575,44 @@
   {
     "num": 64,
     "estrellas": 4,
-    "minijefe": "AZIR",
-    "jefe": "JINX",
+    "minijefe": "Azir",
+    "jefe": "Jinx",
     "reglas": [
       {
         "nombre": "Guía Celestial",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Sufre",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MORGANA",
+        "nombre": "Morgana",
         "pct": 23
       },
       {
-        "nombre": "AURELION_SOL",
+        "nombre": "Aurelion Sol",
         "pct": 15
       },
       {
-        "nombre": "SWAIN",
+        "nombre": "Swain",
         "pct": 8
       },
       {
-        "nombre": "LILLIA",
+        "nombre": "Lillia",
         "pct": 8
       },
       {
-        "nombre": "SORAKA",
+        "nombre": "Soraka",
         "pct": 8
       }
     ]
@@ -2483,36 +2625,39 @@
     "reglas": [
       {
         "nombre": "Fuerza Inquebrantable",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "A Rockear",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "SWAIN",
+        "nombre": "Swain",
         "pct": 46
       },
       {
-        "nombre": "MEL",
+        "nombre": "Mel",
         "pct": 15
       },
       {
-        "nombre": "JINX",
+        "nombre": "Jinx",
         "pct": 8
       },
       {
-        "nombre": "VIEGO",
+        "nombre": "Viego",
         "pct": 8
       },
       {
-        "nombre": "AMBESSA",
+        "nombre": "Ambessa",
         "pct": 8
       }
     ]
@@ -2525,40 +2670,44 @@
     "reglas": [
       {
         "nombre": "Artificio de Luz",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Amiguitos",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Rockeando Durísimo",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MEL",
+        "nombre": "Mel",
         "pct": 23
       },
       {
-        "nombre": "AMBESSA",
+        "nombre": "Ambessa",
         "pct": 8
       },
       {
-        "nombre": "VIEGO",
+        "nombre": "Viego",
         "pct": 8
       },
       {
-        "nombre": "AZIR",
+        "nombre": "Azir",
         "pct": 8
       },
       {
-        "nombre": "VIKTOR",
+        "nombre": "Viktor",
         "pct": 8
       }
     ]
@@ -2567,40 +2716,43 @@
     "num": 67,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "VIKTOR",
+    "jefe": "Viktor",
     "reglas": [
       {
         "nombre": "Molestia Náutica",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Dominio del Soberano",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "LUX",
+        "nombre": "Lux",
         "pct": 23
       },
       {
-        "nombre": "VIKTOR",
+        "nombre": "Viktor",
         "pct": 15
       },
       {
-        "nombre": "AMBESSA",
+        "nombre": "Ambessa",
         "pct": 15
       },
       {
-        "nombre": "AZIR",
+        "nombre": "Azir",
         "pct": 8
       },
       {
-        "nombre": "NIDALEE",
+        "nombre": "Nidalee",
         "pct": 8
       }
     ]
@@ -2609,40 +2761,43 @@
     "num": 68,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "THRESH",
+    "jefe": "Thresh",
     "reglas": [
       {
         "nombre": "Arquero Despiadado",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Llegaste al Puente de la Muerte",
-        "rareza": "legendaria"
+        "rareza": "legendaria",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "JHIN",
+        "nombre": "Jhin",
         "pct": 23
       },
       {
-        "nombre": "VIKTOR",
+        "nombre": "Viktor",
         "pct": 15
       },
       {
-        "nombre": "MISS_FORTUNE",
+        "nombre": "Miss Fortune",
         "pct": 15
       },
       {
-        "nombre": "ELISE",
+        "nombre": "Elise",
         "pct": 15
       },
       {
-        "nombre": "AURELION_SOL",
+        "nombre": "Aurelion Sol",
         "pct": 8
       }
     ]
@@ -2651,44 +2806,48 @@
     "num": 69,
     "estrellas": 4.5,
     "minijefe": "Zed",
-    "jefe": "SWAIN",
+    "jefe": "Swain",
     "reglas": [
       {
         "nombre": "Sin Vuelta Atrás",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Puros Monos Explosivos II",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       },
       {
         "nombre": "Eliminar la Imperfección",
-        "rareza": "epica"
+        "rareza": "epica",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "JINX",
+        "nombre": "Jinx",
         "pct": 31
       },
       {
-        "nombre": "AURELION_SOL",
+        "nombre": "Aurelion Sol",
         "pct": 23
       },
       {
-        "nombre": "LILLIA",
+        "nombre": "Lillia",
         "pct": 15
       },
       {
-        "nombre": "ELISE",
+        "nombre": "Elise",
         "pct": 8
       },
       {
-        "nombre": "FIDDLESTICKS",
+        "nombre": "Fiddlesticks",
         "pct": 8
       }
     ]
@@ -2697,44 +2856,48 @@
     "num": 70,
     "estrellas": 4.5,
     "minijefe": null,
-    "jefe": "THRESH",
+    "jefe": "Thresh",
     "reglas": [
       {
         "nombre": "Emisiones Arcanas",
-        "rareza": "comun"
+        "rareza": "comun",
+        "desc": "descripcion"
       },
       {
         "nombre": "Enemigo Despiadado",
-        "rareza": "especial"
+        "rareza": "especial",
+        "desc": "descripcion"
       },
       {
         "nombre": "Imagen Persistente",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       },
       {
         "nombre": "Venganza de la Naturaleza",
-        "rareza": "rara"
+        "rareza": "rara",
+        "desc": "descripcion"
       }
     ],
     "counters": [
       {
-        "nombre": "MEL",
+        "nombre": "Mel",
         "pct": 15
       },
       {
-        "nombre": "NIDALEE",
+        "nombre": "Nidalee",
         "pct": 15
       },
       {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "nombre": "Spirit Blossom Teemo",
         "pct": 8
       },
       {
-        "nombre": "LUX",
+        "nombre": "Lux",
         "pct": 8
       },
       {
-        "nombre": "LILLIA",
+        "nombre": "Lillia",
         "pct": 8
       }
     ]
