@@ -8,7 +8,7 @@
       {
         "nombre": "Conciencia de Combate",
         "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorador."
+        "desc": "TODAS las unidades tienen Explorar."
       }
     ],
     "counters": [
@@ -1413,7 +1413,7 @@
       {
         "nombre": "Conciencia de Combate",
         "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorador."
+        "desc": "TODAS las unidades tienen Explorar."
       },
       {
         "nombre": "A Rockear",
@@ -1894,7 +1894,7 @@
       {
         "nombre": "Conciencia de Combate",
         "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorador."
+        "desc": "TODAS las unidades tienen Explorar."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2195,7 +2195,7 @@
       {
         "nombre": "Conciencia de Combate",
         "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorador."
+        "desc": "TODAS las unidades tienen Explorar."
       },
       {
         "nombre": "Tormenta Inminente",
