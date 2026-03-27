@@ -43,7 +43,7 @@
       {
         "nombre": "En Garde!",
         "rareza": "comun",
-        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
+        "desc": "<span class=\"dorado\">Inicio de la ronda:</span> Crea un <span class=\"azul\">Combate Singular fugaz</span> en la mano de TODOS los jugadores."
       },
       {
         "nombre": "Magia Natural",
@@ -1984,7 +1984,7 @@
       {
         "nombre": "En Garde!",
         "rareza": "comun",
-        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
+        "desc": "<span class=\"dorado\">Inicio de la ronda:</span> Crea un <span class=\"azul\">Combate Singular fugaz</span> en la mano de TODOS los jugadores."
       },
       {
         "nombre": "Tormenta Inminente",
@@ -2235,7 +2235,7 @@
       {
         "nombre": "En Garde!",
         "rareza": "comun",
-        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
+        "desc": "<span class=\"dorado\">Inicio de la ronda:</span> Crea un <span class=\"azul\">Combate Singular fugaz</span> en la mano de TODOS los jugadores."
       },
       {
         "nombre": "Fuerza Demaciana II",
