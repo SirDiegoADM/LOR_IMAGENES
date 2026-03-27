@@ -238,7 +238,7 @@
       {
         "nombre": "Fuerza Demaciana",
         "rareza": "rara",
-        "desc": "Cuando una de las unidades del Enemiga Golpea, le otorgo +1|+1."
+        "desc": "Cuando una de las unidades del Enemigo Golpea, le otorgo +1|+1."
       }
     ],
     "counters": [
