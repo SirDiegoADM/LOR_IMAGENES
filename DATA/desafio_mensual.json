@@ -728,7 +728,7 @@
       {
         "nombre": "Melodía Distractora",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Una carta aleatoria en la mano del jugador cuesta 2 más en esta ronda."
       }
     ],
     "counters": [
