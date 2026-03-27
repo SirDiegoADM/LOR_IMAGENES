@@ -273,12 +273,12 @@
       {
         "nombre": "Servicio Diligente",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Demacia del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Poder Noxiano",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +2|+0."
       }
     ],
     "counters": [
@@ -313,12 +313,12 @@
       {
         "nombre": "Entrenamiento Forestal",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
       },
       {
         "nombre": "Plan de Acción Flexible",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: El Enemigo roba 2."
       }
     ],
     "counters": [
@@ -353,12 +353,12 @@
       {
         "nombre": "El Precio del Progreso",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
       },
       {
         "nombre": "Persistir",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo invoca una unidad, le otorga +1|+1."
       }
     ],
     "counters": [
@@ -393,22 +393,22 @@
       {
         "nombre": "Artificio de Luz",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Maga de Espejos."
       },
       {
         "nombre": "Meditación Guiada",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores inician con 10 gemas de maná."
       },
       {
         "nombre": "Surfeo de Arena",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo obtiene la Ficha de ataque, invoca 1 Arenas Agitadas."
       },
       {
         "nombre": "Aplastar",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Las unidades del Enemigo tienen Arrollar."
       }
     ],
     "counters": [
@@ -443,12 +443,12 @@
       {
         "nombre": "Artificio de Luz",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Maga de Espejos."
       },
       {
         "nombre": "Cuadrilla de Pillaje",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Cada vez que el Enemigo dañe el nexo del jugador, otorga +1|+1 a la unidad de arriba del mazo de dicho Enemigo."
       }
     ],
     "counters": [
@@ -483,12 +483,12 @@
       {
         "nombre": "Servicio Diligente",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Demacia del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Entrenamiento en el Campo de Batalla",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Otorgo +1|+1 a la unidad Más débil del Enemigo."
       }
     ],
     "counters": [
@@ -523,12 +523,12 @@
       {
         "nombre": "Bloque de Carnicero",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "TODAS las unidades tienen \"Pillaje: Recibo +1|+1 \"."
       },
       {
         "nombre": "Rugido Estridente",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo ataca, le doy -2|-0 a las unidades del jugador en esta ronda."
       }
     ],
     "counters": [
@@ -568,7 +568,7 @@
       {
         "nombre": "Flujo de agua",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo juegue un hechizo, otorga +1|+1 a su unidad Más débil."
       }
     ],
     "counters": [
@@ -603,12 +603,12 @@
       {
         "nombre": "Selección Antinatural",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Las unidades del jugador tienen Evolucionar."
       },
       {
         "nombre": "Y Así Explota el Hongo",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Planta un Hongo Venenoso en el mazo del jugador."
       }
     ],
     "counters": [
@@ -643,12 +643,12 @@
       {
         "nombre": "Abraza la Corriente",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Cuando el jugador juega un hechizo, restablezco 1 de maná de hechizos."
       },
       {
         "nombre": "Profecía Escalofriante",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: el Enemigo invoca 1 Siervo Congelado. Establezco su Cuenta Regresiva en 5."
       }
     ],
     "counters": [
@@ -683,12 +683,12 @@
       {
         "nombre": "Guía Celestial",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Targón del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Tecnología Inestable",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Otorga una palabra clave aleatoria a la primera unidad que invoque El Enemigo en cada ronda."
       }
     ],
     "counters": [
@@ -723,7 +723,7 @@
       {
         "nombre": "Muerte por Risa",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Espectro Bromista con 0|10."
       },
       {
         "nombre": "Melodía Distractora",
@@ -768,7 +768,7 @@
       {
         "nombre": "Ecos de las Profundidades",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Las unidades del Enemigo tiene +0|+1."
       }
     ],
     "counters": [
@@ -803,12 +803,12 @@
       {
         "nombre": "Llamas Parpadeantes",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "TODOS los hechizos y habilidades infligen 1 de daño adicional."
       },
       {
         "nombre": "Los Enemigos de Demacia Caerán",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
       }
     ],
     "counters": [
@@ -843,12 +843,12 @@
       {
         "nombre": "El Precio del Progreso",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
       },
       {
         "nombre": "Dominación",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo lanza Preparar."
       }
     ],
     "counters": [
@@ -883,12 +883,12 @@
       {
         "nombre": "Entrenamiento Forestal",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
       },
       {
         "nombre": "Tácticas de Enjambre",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo ataca, este invoca 1 Horror Aracnoide atacante con Endeble."
       }
     ],
     "counters": [
@@ -923,12 +923,12 @@
       {
         "nombre": "Armadura Animada",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "TODAS las unidades tienen Formidable."
       },
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Rojo Como Sus Labios",
@@ -1048,7 +1048,7 @@
       {
         "nombre": "Bloque de Carnicero",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "TODAS las unidades tienen \"Pillaje: Recibo +1|+1 \"."
       },
       {
         "nombre": "Sede del Poder",
@@ -1288,7 +1288,7 @@
       {
         "nombre": "El Precio del Progreso",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
       },
       {
         "nombre": "El Filo en la Oscuridad",
@@ -1373,7 +1373,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Dominio del Soberano",
@@ -1453,7 +1453,7 @@
       {
         "nombre": "El Precio del Progreso",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
       },
       {
         "nombre": "Coro de Poder",
@@ -1533,12 +1533,12 @@
       {
         "nombre": "Abraza la Corriente",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Cuando el jugador juega un hechizo, restablezco 1 de maná de hechizos."
       },
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Dominio del Soberano",
@@ -1694,7 +1694,7 @@
       {
         "nombre": "Artificio de Luz",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Maga de Espejos."
       },
       {
         "nombre": "Tormenta Inminente",
@@ -1899,7 +1899,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "A Rockear",
@@ -1909,7 +1909,7 @@
       {
         "nombre": "Los Enemigos de Demacia Caerán",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
       }
     ],
     "counters": [
@@ -2024,12 +2024,12 @@
       {
         "nombre": "Muerte por Risa",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Espectro Bromista con 0|10."
       },
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Hemorragia",
@@ -2155,7 +2155,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Llegaste al Puente de la Muerte",
@@ -2290,7 +2290,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       }
     ],
     "counters": [
@@ -2401,12 +2401,12 @@
       {
         "nombre": "Muerte por Risa",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Espectro Bromista con 0|10."
       },
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "¡Adoribus!",
@@ -2496,7 +2496,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Llamado de Ayuda",
@@ -2541,7 +2541,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Tormenta Inminente",
@@ -2581,12 +2581,12 @@
       {
         "nombre": "Guía Celestial",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Targón del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Sufre",
@@ -2631,7 +2631,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "A Rockear",
@@ -2671,12 +2671,12 @@
       {
         "nombre": "Artificio de Luz",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Maga de Espejos."
       },
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Amiguitos",
@@ -2726,7 +2726,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Dominio del Soberano",
@@ -2771,7 +2771,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Llegaste al Puente de la Muerte",
@@ -2816,7 +2816,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Puros Monos Explosivos II",
@@ -2866,7 +2866,7 @@
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
-        "desc": "descripcion"
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
         "nombre": "Imagen Persistente",
