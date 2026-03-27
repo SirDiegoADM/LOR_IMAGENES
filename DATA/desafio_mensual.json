@@ -1008,12 +1008,12 @@
       {
         "nombre": "El Imperio ante Todo",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
       },
       {
         "nombre": "Fragmentos de Canción",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Si el Enemigo no tiene la ficha de ataque, invoca 1 Banda Espectral."
       }
     ],
     "counters": [
@@ -1053,7 +1053,7 @@
       {
         "nombre": "Sede del Poder",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: El Enemigo invoca 1 Estrado del Emperador."
       }
     ],
     "counters": [
@@ -1093,7 +1093,7 @@
       {
         "nombre": "Munición Monada",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo ataca, invoca 1 ¡Mascafuegos! para Desafiar a la unidad Más fuerte del jugador."
       }
     ],
     "counters": [
@@ -1128,12 +1128,12 @@
       {
         "nombre": "Hielos Fortificadores",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Fréljord del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Amiguitos",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
       }
     ],
     "counters": [
@@ -1168,12 +1168,12 @@
       {
         "nombre": "Poder de la Observación",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Observatorio Hextech."
       },
       {
         "nombre": "Dueto Musical",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo ataca, invoca una copia exacta de su unidad atacante Más debil con Endeble y sus estadisticas invertidas."
       }
     ],
     "counters": [
@@ -1208,12 +1208,12 @@
       {
         "nombre": "El Imperio ante Todo",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
       },
       {
         "nombre": "Furia Inmortal",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
       }
     ],
     "counters": [
@@ -1248,12 +1248,12 @@
       {
         "nombre": "Vestigio de Helia",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "TODOS los hechizos cuestan 1 menos. TODAS las unidades tienen Escudo Antihechizos."
       },
       {
         "nombre": "Coro de Poder",
         "rareza": "legendaria",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
       }
     ],
     "counters": [
@@ -1293,7 +1293,7 @@
       {
         "nombre": "El Filo en la Oscuridad",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Fin de la ronda: Si el nexo del jugador recibió daño en esta ronda, la unidad Más fuerte del Enemigo lo Golpea."
       }
     ],
     "counters": [
@@ -1328,12 +1328,12 @@
       {
         "nombre": "Minimalista",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: El jugador comienza con 2 gemas de maná adicionales, pero no obtiene más al inicio de la ronda."
       },
       {
         "nombre": "Eliminar la Imperfección",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
       }
     ],
     "counters": [
@@ -1368,7 +1368,7 @@
       {
         "nombre": "Emisiones Arcanas",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS  los jugadores inician con 3 de maná de hechizos."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -1378,7 +1378,7 @@
       {
         "nombre": "Dominio del Soberano",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
       }
     ],
     "counters": [
@@ -1418,7 +1418,7 @@
       {
         "nombre": "A Rockear",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
       }
     ],
     "counters": [
@@ -1458,7 +1458,7 @@
       {
         "nombre": "Coro de Poder",
         "rareza": "legendaria",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
       }
     ],
     "counters": [
@@ -1493,12 +1493,12 @@
       {
         "nombre": "El Imperio ante Todo",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
       },
       {
         "nombre": "Más Allá de la Carne",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Las unidades del Enemigo tienen +1|+1 por cada una de sus palabras clave."
       }
     ],
     "counters": [
@@ -1543,7 +1543,7 @@
       {
         "nombre": "Dominio del Soberano",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
       }
     ],
     "counters": [
@@ -1578,12 +1578,12 @@
       {
         "nombre": "Pelea Frenética",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "La unidad del jugador tiene +2|+2. Fin de la ronda: Inflijo 2 de daño a todas las unidades del jugador."
       },
       {
         "nombre": "Pequeñez",
         "rareza": "legendaria",
-        "desc": "descripcion"
+        "desc": "Cuando el jugador invoca una unidad, le fijo 1|1."
       }
     ],
     "counters": [
@@ -1623,7 +1623,7 @@
       {
         "nombre": "A Rockear",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
       }
     ],
     "counters": [
@@ -1658,12 +1658,12 @@
       {
         "nombre": "Crónica de la Ruina",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Mato a TODAS las unidades, y luego las revivo."
       },
       {
         "nombre": "Amiguitos",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
       }
     ],
     "counters": [
@@ -1699,7 +1699,7 @@
       {
         "nombre": "Tormenta Inminente",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
       }
     ],
     "counters": [
@@ -1739,7 +1739,7 @@
       {
         "nombre": "Puros Monos Explosivos II",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
       }
     ],
     "counters": [
@@ -1774,12 +1774,12 @@
       {
         "nombre": "Repetición",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando CUALQUIER jugador juega un hechizo, lo copio con los mismos objetivos."
       },
       {
         "nombre": "El Filo en la Oscuridad",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Fin de la ronda: Si el nexo del jugador recibió daño en esta ronda, la unidad Más fuerte del Enemigo lo Golpea."
       }
     ],
     "counters": [
@@ -1819,7 +1819,7 @@
       {
         "nombre": "Poder Noxiano II",
         "rareza": "legendaria",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +4|+0 y Arrollar."
       }
     ],
     "counters": [
@@ -1854,12 +1854,12 @@
       {
         "nombre": "Sombras Persistentes",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Cuando una unidad muere, otorgo +1|+1 a una unidad aleatoria en la mano de ese jugador."
       },
       {
         "nombre": "¡Adoribus!",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
       }
     ],
     "counters": [
@@ -1904,7 +1904,7 @@
       {
         "nombre": "A Rockear",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
       },
       {
         "nombre": "Los Enemigos de Demacia Caerán",
@@ -1944,12 +1944,12 @@
       {
         "nombre": "Portales Ingeniosos",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Bandle del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Puros Monos Explosivos II",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
       }
     ],
     "counters": [
@@ -1989,7 +1989,7 @@
       {
         "nombre": "Tormenta Inminente",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
       }
     ],
     "counters": [
@@ -2034,12 +2034,12 @@
       {
         "nombre": "Hemorragia",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Fin de la ronda: Inflijo 1 de daño al nexo del jugador por cada unidad que tenga el Enemigo."
       },
       {
         "nombre": "Amiguitos",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
       }
     ],
     "counters": [
@@ -2074,12 +2074,12 @@
       {
         "nombre": "Crónica de la Ruina",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Mato a TODAS las unidades, y luego las revivo."
       },
       {
         "nombre": "Llamado de Ayuda",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
       }
     ],
     "counters": [
@@ -2110,12 +2110,12 @@
       {
         "nombre": "El Imperio ante Todo",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
       },
       {
         "nombre": "Rockeando Durísimo",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
       }
     ],
     "counters": [
@@ -2150,7 +2150,7 @@
       {
         "nombre": "Muertes Piadosas",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Fin de la ronda: Mato a TODAS las unidades dañadas."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2160,7 +2160,7 @@
       {
         "nombre": "Llegaste al Puente de la Muerte",
         "rareza": "legendaria",
-        "desc": "descripcion"
+        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
       }
     ],
     "counters": [
@@ -2200,7 +2200,7 @@
       {
         "nombre": "Tormenta Inminente",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
       }
     ],
     "counters": [
@@ -2240,7 +2240,7 @@
       {
         "nombre": "Fuerza Demaciana II",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando una de las unidades del Enemigo Golpea, le otorgo +2|+2."
       }
     ],
     "counters": [
@@ -2275,17 +2275,17 @@
       {
         "nombre": "Poder de la Observación",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Observatorio Hextech."
       },
       {
         "nombre": "Festín",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo invoca una unidad, le otorgo +0|+3."
       },
       {
         "nombre": "Coro de Poder",
         "rareza": "legendaria",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2325,12 +2325,12 @@
       {
         "nombre": "Cima de la Montaña",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: El Enemigo invoca 1 La Cima de Targón. Fin de la ronda: TODOS los jugadores roban1"
       },
       {
         "nombre": "Dominio del Soberano",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
       }
     ],
     "counters": [
@@ -2361,12 +2361,12 @@
       {
         "nombre": "Portales Ingeniosos",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Bandle del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "¡Adoribus!",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
       }
     ],
     "counters": [
@@ -2411,12 +2411,12 @@
       {
         "nombre": "¡Adoribus!",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
       },
       {
         "nombre": "Festín",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo invoca una unidad, le otorgo +0|+3."
       }
     ],
     "counters": [
@@ -2456,7 +2456,7 @@
       {
         "nombre": "Resistir",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Otorgo +0|+1 a las unidades del Enemigo."
       }
     ],
     "counters": [
@@ -2491,7 +2491,7 @@
       {
         "nombre": "Marcas Mortíferas",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando CUALQUIER jugador invoque una unidad, fijo su vida en 1."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2501,7 +2501,7 @@
       {
         "nombre": "Llamado de Ayuda",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
       }
     ],
     "counters": [
@@ -2536,7 +2536,7 @@
       {
         "nombre": "Arquero Despiadado",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Corsaria Tirofino."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2546,7 +2546,7 @@
       {
         "nombre": "Tormenta Inminente",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
       }
     ],
     "counters": [
@@ -2591,7 +2591,7 @@
       {
         "nombre": "Sufre",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Inflijo 3 de daño a todas las unidades heridas del jugador."
       }
     ],
     "counters": [
@@ -2626,7 +2626,7 @@
       {
         "nombre": "Fuerza Inquebrantable",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Noxus del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2636,7 +2636,7 @@
       {
         "nombre": "A Rockear",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
       }
     ],
     "counters": [
@@ -2681,12 +2681,12 @@
       {
         "nombre": "Amiguitos",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
       },
       {
         "nombre": "Rockeando Durísimo",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
       }
     ],
     "counters": [
@@ -2731,7 +2731,7 @@
       {
         "nombre": "Dominio del Soberano",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
       }
     ],
     "counters": [
@@ -2766,7 +2766,7 @@
       {
         "nombre": "Arquero Despiadado",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Corsaria Tirofino."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2776,7 +2776,7 @@
       {
         "nombre": "Llegaste al Puente de la Muerte",
         "rareza": "legendaria",
-        "desc": "descripcion"
+        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
       }
     ],
     "counters": [
@@ -2811,7 +2811,7 @@
       {
         "nombre": "Sin Vuelta Atrás",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Mientras el jugador no tenga cartas en la mano, sus unidades tienen +2|+2."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2821,12 +2821,12 @@
       {
         "nombre": "Puros Monos Explosivos II",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
       },
       {
         "nombre": "Eliminar la Imperfección",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
       }
     ],
     "counters": [
@@ -2861,7 +2861,7 @@
       {
         "nombre": "Emisiones Arcanas",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: TODOS  los jugadores inician con 3 de maná de hechizos."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2871,12 +2871,12 @@
       {
         "nombre": "Imagen Persistente",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: El Enemigo revive una copia con Endeble del seguidor muerto Más fuerte."
       },
       {
         "nombre": "Venganza de la Naturaleza",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Cuando el Enemigo obtiene la ficha de ataque, invoca 1 Retoño."
       }
     ],
     "counters": [
