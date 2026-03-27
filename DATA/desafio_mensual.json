@@ -8,7 +8,7 @@
       {
         "nombre": "Conciencia de Combate",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "TODAS las unidades tienen Explorador."
       }
     ],
     "counters": [
@@ -43,12 +43,12 @@
       {
         "nombre": "En Garde!",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
       },
       {
         "nombre": "Magia Natural",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "TODAS las cartas cuestan 2 menos."
       }
     ],
     "counters": [
@@ -83,7 +83,7 @@
       {
         "nombre": "Solo los Fuertes",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Final de la ronda: Mata a TODAS las unidades, excepto la más fuertes de cada jugador."
       }
     ],
     "counters": [
@@ -118,7 +118,7 @@
       {
         "nombre": "Mentes Tranquilas",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos."
       }
     ],
     "counters": [
@@ -153,12 +153,12 @@
       {
         "nombre": "Molestia Náutica",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
       },
       {
         "nombre": "Caso en Progreso",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Las unidades del enemigo tienen: \"Golpe al nexo: Planta 1 Trampa de bomba aturdidora entre las 8 cartas de arriba del mazo del jugador\"."
       }
     ],
     "counters": [
@@ -563,7 +563,7 @@
       {
         "nombre": "Solo los Fuertes",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Final de la ronda: Mata a TODAS las unidades, excepto la más fuertes de cada jugador."
       },
       {
         "nombre": "Flujo de agua",
@@ -763,7 +763,7 @@
       {
         "nombre": "Molestia Náutica",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
       },
       {
         "nombre": "Ecos de las Profundidades",
@@ -1088,7 +1088,7 @@
       {
         "nombre": "Mentes Tranquilas",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos."
       },
       {
         "nombre": "Munición Monada",
@@ -1413,7 +1413,7 @@
       {
         "nombre": "Conciencia de Combate",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "TODAS las unidades tienen Explorador."
       },
       {
         "nombre": "A Rockear",
@@ -1734,7 +1734,7 @@
       {
         "nombre": "Solo los Fuertes",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Final de la ronda: Mata a TODAS las unidades, excepto la más fuertes de cada jugador."
       },
       {
         "nombre": "Puros Monos Explosivos II",
@@ -1894,7 +1894,7 @@
       {
         "nombre": "Conciencia de Combate",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "TODAS las unidades tienen Explorador."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -1984,7 +1984,7 @@
       {
         "nombre": "En Garde!",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
       },
       {
         "nombre": "Tormenta Inminente",
@@ -2195,7 +2195,7 @@
       {
         "nombre": "Conciencia de Combate",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "TODAS las unidades tienen Explorador."
       },
       {
         "nombre": "Tormenta Inminente",
@@ -2235,7 +2235,7 @@
       {
         "nombre": "En Garde!",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
       },
       {
         "nombre": "Fuerza Demaciana II",
@@ -2451,7 +2451,7 @@
       {
         "nombre": "Magia Natural",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "TODAS las cartas cuestan 2 menos."
       },
       {
         "nombre": "Resistir",
@@ -2721,7 +2721,7 @@
       {
         "nombre": "Molestia Náutica",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
       },
       {
         "nombre": "Enemigo Despiadado",
