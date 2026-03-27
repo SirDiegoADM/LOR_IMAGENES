@@ -118,7 +118,7 @@
       {
         "nombre": "Mentes Tranquilas",
         "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos."
+        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos al jugarla."
       }
     ],
     "counters": [
@@ -193,12 +193,12 @@
       {
         "nombre": "Número Mágico",
         "rareza": "epica",
-        "desc": "descripcion"
+        "desc": "Cuando el jugador roba una carta, hago que su costo sea 3."
       },
       {
         "nombre": "Talento Natural",
         "rareza": "comun",
-        "desc": "descripcion"
+        "desc": "Inicio de la partida: El Enemigo comienza con 3 de maná de hechizos."
       }
     ],
     "counters": [
@@ -233,12 +233,12 @@
       {
         "nombre": "Espíritus en Lamento",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de las Islas de la Sombra del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Fuerza Demaciana",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "Cuando una de las unidades del Enemiga Golpea, le otorgo +1|+1."
       }
     ],
     "counters": [
@@ -1088,7 +1088,7 @@
       {
         "nombre": "Mentes Tranquilas",
         "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos."
+        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Munición Monada",
@@ -1618,7 +1618,7 @@
       {
         "nombre": "Espíritus en Lamento",
         "rareza": "rara",
-        "desc": "descripcion"
+        "desc": "En cada ronda, la primera carta de las Islas de la Sombra del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "A Rockear",
