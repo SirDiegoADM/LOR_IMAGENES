@@ -680,6 +680,13 @@
   },
   {
     "campeon": "AMBESSA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "MONEDERO-DE-CAMPEON",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "ESCUDO-NEGRO",
     "r3": "FORTUNA-ENCONTRADA",
@@ -5314,6 +5321,13 @@
   },
   {
     "campeon": "JINX",
+    "r1": "MAZO-DEL-DESTINO",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "ARMOTAS",
+    "r4": ""
+  },
+  {
+    "campeon": "JINX",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "LA-CARGA-DE-LA-BALA-PERDIDA",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
@@ -9102,8 +9116,8 @@
   {
     "campeon": "NUNU_Y_WILLUMP",
     "r1": "GUIA-DE-AVISTAMIENTO-DE-YETIS",
-    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
-    "r3": "TIJERAS-ESPECTRALES",
+    "r2": "TIJERAS-ESPECTRALES",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": ""
   },
   {
@@ -9444,6 +9458,13 @@
   },
   {
     "campeon": "SAMIRA",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "MONEDERO-DE-CAMPEON",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r4": ""
+  },
+  {
+    "campeon": "SAMIRA",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "FORTUNA-ENCONTRADA",
     "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
@@ -9587,6 +9608,13 @@
     "r1": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r2": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
     "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "SETT",
+    "r1": "MONEDERO-DE-CAMPEON",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "DERROTA-DE-LA-MUERTE",
     "r4": ""
   },
   {
@@ -11349,6 +11377,13 @@
   {
     "campeon": "VAYNE",
     "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "VAYNE",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r2": "TOMOS-OCULTOS",
     "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
@@ -11526,6 +11561,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "VEX",
+    "r1": "HACHA-CORTAMIEDOS",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "DERROTA-DE-LA-MUERTE",
     "r4": ""
   },
   {
