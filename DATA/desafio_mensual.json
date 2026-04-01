@@ -3,602 +3,87 @@
     "num": 1,
     "estrellas": 1,
     "minijefe": null,
-    "jefe": "Ezreal",
+    "jefe": "TALIYAH",
     "reglas": [
       {
-        "nombre": "Conciencia de Combate",
+        "nombre": "Caminante de las Dunas",
         "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorar."
+        "desc": "En cada ronda, la primera carta de Shurima del jugador cuesta 1 menos al jugarla."
       }
     ],
-    "counters": [
-      {
-        "nombre": "BARDO",
-        "pct": 15
-      },
-      {
-        "nombre": "NASUS",
-        "pct": 8
-      },
-      {
-        "nombre": "JHIN",
-        "pct": 8
-      },
-      {
-        "nombre": "SORAKA",
-        "pct": 8
-      },
-      {
-        "nombre": "AMBESSA",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
     "num": 2,
     "estrellas": 1,
     "minijefe": null,
-    "jefe": "Karma",
+    "jefe": "Poppy",
     "reglas": [
       {
-        "nombre": "En Garde!",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
+        "nombre": "Investigación Innovadora",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Piltóver y Zoun del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Magia Natural",
+        "nombre": "Fuerza Imparable",
         "rareza": "epica",
-        "desc": "TODAS las cartas cuestan 2 menos."
+        "desc": "Los aliados tienen +3|+3 Arrollar y No pueden bloquear."
       }
     ],
-    "counters": [
-      {
-        "nombre": "LEE_SIN",
-        "pct": 15
-      },
-      {
-        "nombre": "AATROX",
-        "pct": 15
-      },
-      {
-        "nombre": "VOLIBEAR",
-        "pct": 15
-      },
-      {
-        "nombre": "MORDEKAISER",
-        "pct": 15
-      },
-      {
-        "nombre": "BARDO",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
     "num": 3,
     "estrellas": 2,
-    "minijefe": "Fiora",
-    "jefe": "CAITLYN",
+    "minijefe": "Sejuani",
+    "jefe": "Fizz",
     "reglas": [
       {
-        "nombre": "Solo los Fuertes",
+        "nombre": "Carrera Armamentista",
         "rareza": "epica",
-        "desc": "Final de la ronda: Mata a TODAS las unidades, excepto la más fuertes de cada jugador."
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 2 Herrisueñas."
       }
     ],
-    "counters": [
-      {
-        "nombre": "VARUS",
-        "pct": 31
-      },
-      {
-        "nombre": "GNAR",
-        "pct": 8
-      },
-      {
-        "nombre": "SWAIN",
-        "pct": 8
-      },
-      {
-        "nombre": "DARIUS",
-        "pct": 8
-      },
-      {
-        "nombre": "SORAKA",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
     "num": 4,
     "estrellas": 1,
     "minijefe": null,
-    "jefe": "Sejuani",
+    "jefe": "Zoe",
     "reglas": [
       {
-        "nombre": "Mentes Tranquilas",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos al jugarla."
+        "nombre": "Magia de Bandle",
+        "rareza": "epica",
+        "desc": "Inicio de la partida: El judador invoca 1 El Árbol de Bandle."
       }
     ],
-    "counters": [
-      {
-        "nombre": "LILLIA",
-        "pct": 23
-      },
-      {
-        "nombre": "SETT",
-        "pct": 23
-      },
-      {
-        "nombre": "BARDO",
-        "pct": 8
-      },
-      {
-        "nombre": "JINX",
-        "pct": 8
-      },
-      {
-        "nombre": "YASUO",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
     "num": 5,
     "estrellas": 2,
-    "minijefe": "Zoe",
-    "jefe": "VIKTOR",
+    "minijefe": "TAHM_KENCH",
+    "jefe": "YASUO",
     "reglas": [
       {
-        "nombre": "Molestia Náutica",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
+        "nombre": "Misticismo Salvaje",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Cada jugador obtiene una gema de maná."
       },
       {
-        "nombre": "Caso en Progreso",
-        "rareza": "comun",
-        "desc": "Las unidades del Enemigo tienen: \"Golpe al Nexo: Planta 1 Trampa Aturdidora entre las 8 cartas de arriba del mazo del jugador\"."
+        "nombre": "Era de la Conquista",
+        "rareza": "rara",
+        "desc": "Cuando las unidades del Enemigo ataquen, otorgo +2|+0 a la unidad atacante Más fuerte."
       }
     ],
-    "counters": [
-      {
-        "nombre": "NIDALEE",
-        "pct": 23
-      },
-      {
-        "nombre": "DIANA",
-        "pct": 15
-      },
-      {
-        "nombre": "SETT",
-        "pct": 8
-      },
-      {
-        "nombre": "TRYNDAMERE",
-        "pct": 8
-      },
-      {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
     "num": 6,
     "estrellas": 2,
     "minijefe": null,
-    "jefe": "KAISA",
-    "reglas": [
-      {
-        "nombre": "Número Mágico",
-        "rareza": "epica",
-        "desc": "Cuando el jugador roba una carta, hago que su costo sea 3."
-      },
-      {
-        "nombre": "Talento Natural",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: El Enemigo comienza con 3 de maná de hechizos."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "DRAGON_ANCESTRAL",
-        "pct": 69
-      },
-      {
-        "nombre": "VOLIBEAR",
-        "pct": 8
-      },
-      {
-        "nombre": "ORNN",
-        "pct": 8
-      },
-      {
-        "nombre": "ANIVIA",
-        "pct": 8
-      },
-      {
-        "nombre": "YASUO_FLOR_ESPIRITUAL",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 7,
-    "estrellas": 1,
-    "minijefe": "JHIN",
-    "jefe": "ASHE",
-    "reglas": [
-      {
-        "nombre": "Espíritus en Lamento",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de las Islas de la Sombra del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Fuerza Demaciana",
-        "rareza": "rara",
-        "desc": "Cuando una de las unidades del Enemigo Golpea, le otorgo +1|+1."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "GWEN",
-        "pct": 38
-      },
-      {
-        "nombre": "THRESH",
-        "pct": 15
-      },
-      {
-        "nombre": "VIEGO",
-        "pct": 15
-      },
-      {
-        "nombre": "MORDEKAISER",
-        "pct": 8
-      },
-      {
-        "nombre": "VEX",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 8,
-    "estrellas": 2,
-    "minijefe": null,
-    "jefe": "CAITLYN",
-    "reglas": [
-      {
-        "nombre": "Servicio Diligente",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Demacia del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Poder Noxiano",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +2|+0."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "SHYVANA",
-        "pct": 38
-      },
-      {
-        "nombre": "LUX_ILUMINADA",
-        "pct": 23
-      },
-      {
-        "nombre": "LUX",
-        "pct": 15
-      },
-      {
-        "nombre": "GAREN",
-        "pct": 15
-      },
-      {
-        "nombre": "VOLIBEAR",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 9,
-    "estrellas": 2,
-    "minijefe": "LEE_SIN",
-    "jefe": "TAHM_KENCH",
-    "reglas": [
-      {
-        "nombre": "Entrenamiento Forestal",
-        "rareza": "comun",
-        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
-      },
-      {
-        "nombre": "Plan de Acción Flexible",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: El Enemigo roba 2."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "AHRI",
-        "pct": 46
-      },
-      {
-        "nombre": "DIANA",
-        "pct": 15
-      },
-      {
-        "nombre": "JAX",
-        "pct": 8
-      },
-      {
-        "nombre": "WARWICK",
-        "pct": 8
-      },
-      {
-        "nombre": "VAYNE",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 10,
-    "estrellas": 1,
-    "minijefe": null,
-    "jefe": "Karma",
-    "reglas": [
-      {
-        "nombre": "El Precio del Progreso",
-        "rareza": "epica",
-        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
-      },
-      {
-        "nombre": "Persistir",
-        "rareza": "rara",
-        "desc": "Cuando el Enemigo invoca una unidad, le otorga +1|+1."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "VOLIBEAR",
-        "pct": 23
-      },
-      {
-        "nombre": "NAMI",
-        "pct": 15
-      },
-      {
-        "nombre": "LEE_SIN",
-        "pct": 15
-      },
-      {
-        "nombre": "MAESTRO_YI",
-        "pct": 8
-      },
-      {
-        "nombre": "TRYNDAMERE",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 11,
-    "estrellas": 2,
-    "minijefe": "ASHE",
-    "jefe": "CAITLYN",
-    "reglas": [
-      {
-        "nombre": "Artificio de Luz",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Maga de Espejos."
-      },
-      {
-        "nombre": "Meditación Guiada",
-        "rareza": "rara",
-        "desc": "Inicio de la partida: TODOS los jugadores inician con 10 gemas de maná."
-      },
-      {
-        "nombre": "Surfeo de Arena",
-        "rareza": "comun",
-        "desc": "Cuando el Enemigo obtiene la Ficha de ataque, invoca 1 Arenas Agitadas."
-      },
-      {
-        "nombre": "Aplastar",
-        "rareza": "comun",
-        "desc": "Las unidades del Enemigo tienen Arrollar."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "LEE_SIN",
-        "pct": 23
-      },
-      {
-        "nombre": "DRAGON_ANCESTRAL",
-        "pct": 15
-      },
-      {
-        "nombre": "ORNN",
-        "pct": 15
-      },
-      {
-        "nombre": "NAMI",
-        "pct": 8
-      },
-      {
-        "nombre": "MEL",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 12,
-    "estrellas": 3,
-    "minijefe": "NAUTILUS",
-    "jefe": "Draven",
-    "reglas": [
-      {
-        "nombre": "Artificio de Luz",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Maga de Espejos."
-      },
-      {
-        "nombre": "Cuadrilla de Pillaje",
-        "rareza": "comun",
-        "desc": "Cada vez que el Enemigo dañe el nexo del jugador, otorga +1|+1 a la unidad de arriba del mazo de dicho Enemigo."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "ANNIE",
-        "pct": 23
-      },
-      {
-        "nombre": "AMBESSA",
-        "pct": 15
-      },
-      {
-        "nombre": "MEL",
-        "pct": 15
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 8
-      },
-      {
-        "nombre": "JAX",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 13,
-    "estrellas": 2,
-    "minijefe": "Zed",
-    "jefe": "Karma",
-    "reglas": [
-      {
-        "nombre": "Servicio Diligente",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Demacia del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Entrenamiento en el Campo de Batalla",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Otorgo +1|+1 a la unidad Más débil del Enemigo."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "LUX",
-        "pct": 31
-      },
-      {
-        "nombre": "SHYVANA",
-        "pct": 15
-      },
-      {
-        "nombre": "VAYNE",
-        "pct": 15
-      },
-      {
-        "nombre": "LUX_ILUMINADA",
-        "pct": 15
-      },
-      {
-        "nombre": "VOLIBEAR",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 14,
-    "estrellas": 2,
-    "minijefe": null,
-    "jefe": "Lulu",
-    "reglas": [
-      {
-        "nombre": "Bloque de Carnicero",
-        "rareza": "comun",
-        "desc": "TODAS las unidades tienen \"Pillaje: Recibo +1|+1 \"."
-      },
-      {
-        "nombre": "Rugido Estridente",
-        "rareza": "rara",
-        "desc": "Cuando el Enemigo ataca, le doy -2|-0 a las unidades del jugador en esta ronda."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "NASUS",
-        "pct": 23
-      },
-      {
-        "nombre": "SAMIRA",
-        "pct": 15
-      },
-      {
-        "nombre": "GAREN",
-        "pct": 8
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 8
-      },
-      {
-        "nombre": "JINX",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 15,
-    "estrellas": 3,
-    "minijefe": "Katarina",
-    "jefe": "SWAIN",
-    "reglas": [
-      {
-        "nombre": "Solo los Fuertes",
-        "rareza": "epica",
-        "desc": "Final de la ronda: Mata a TODAS las unidades, excepto la más fuertes de cada jugador."
-      },
-      {
-        "nombre": "Flujo de agua",
-        "rareza": "comun",
-        "desc": "Cuando el Enemigo juegue un hechizo, otorga +1|+1 a su unidad Más débil."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "VAYNE",
-        "pct": 23
-      },
-      {
-        "nombre": "VARUS",
-        "pct": 23
-      },
-      {
-        "nombre": "YASUO",
-        "pct": 15
-      },
-      {
-        "nombre": "GAREN",
-        "pct": 8
-      },
-      {
-        "nombre": "GWEN",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 16,
-    "estrellas": 2,
-    "minijefe": "TALIYAH",
-    "jefe": "DARIUS",
+    "jefe": "AZIR",
     "reglas": [
       {
         "nombre": "Selección Antinatural",
@@ -606,38 +91,821 @@
         "desc": "Las unidades del jugador tienen Evolucionar."
       },
       {
-        "nombre": "Y Así Explota el Hongo",
+        "nombre": "Desarmado",
         "rareza": "comun",
-        "desc": "Inicio de la ronda: Planta un Hongo Venenoso en el mazo del jugador."
+        "desc": "Las unidades del jugador tienen -2|-0."
       }
     ],
-    "counters": [
+    "counters": []
+  },
+  {
+    "num": 7,
+    "estrellas": 1,
+    "minijefe": "Poppy",
+    "jefe": "JHIN",
+    "reglas": [
       {
-        "nombre": "EL_REY_PORO",
-        "pct": 23
+        "nombre": "Investigación Innovadora",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Piltóver y Zoun del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "ELISE",
-        "pct": 23
-      },
-      {
-        "nombre": "DARIUS",
-        "pct": 8
-      },
-      {
-        "nombre": "LUX_ILUMINADA",
-        "pct": 8
-      },
-      {
-        "nombre": "EVELYNN",
-        "pct": 8
+        "nombre": "Buenos Día, Gruñón",
+        "rareza": "comun",
+        "desc": "Inicio de la partida: El Enemigo invoca 1 Rocoso en Hibernación."
       }
-    ]
+    ],
+    "counters": []
+  },
+  {
+    "num": 8,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "Draven",
+    "reglas": [
+      {
+        "nombre": "Poder de la Observación",
+        "rareza": "comun",
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Observatorio Hextech."
+      },
+      {
+        "nombre": "Artificio de Luz",
+        "rareza": "rara",
+        "desc": "Inicio de la partida: El Enemigo invocan 1 Maga de Espejos con 0|8."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 9,
+    "estrellas": 2,
+    "minijefe": "Fiora",
+    "jefe": "Irelia",
+    "reglas": [
+      {
+        "nombre": "Entrenamiento Forestal",
+        "rareza": "comun",
+        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
+      },
+      {
+        "nombre": "Actos Heroicos",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Otorga +1|+1 al aliado Más fuerte del Enemigo por cada uno de sus otros aliados."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 10,
+    "estrellas": 1,
+    "minijefe": "Poppy",
+    "jefe": "Sejuani",
+    "reglas": [
+      {
+        "nombre": "Conciencia de Combate",
+        "rareza": "rara",
+        "desc": "TODAS las unidades tienen Explorar."
+      },
+      {
+        "nombre": "Nieblas Inestables",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Si el Enemigo tiene la ficha de ataque, invoca 1 Niebla Invasiva."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 11,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "AZIR",
+    "reglas": [
+      {
+        "nombre": "Magia Natural",
+        "rareza": "epica",
+        "desc": "TODAS las cartas cuestan 2 menos."
+      },
+      {
+        "nombre": "El Imperio ante Todo",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
+      },
+      {
+        "nombre": "Acabemos con el Set",
+        "rareza": "rara",
+        "desc": "Cuando el Enemigo ataque, lanzo Aturdir sobre la unidad Más débil del jugador."
+      },
+      {
+        "nombre": "Escalofrío Reptante",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Lanzo Helar a la unidad Más fuerte del jugador."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 12,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "VIKTOR",
+    "reglas": [
+      {
+        "nombre": "Armadura Animada",
+        "rareza": "epica",
+        "desc": "TODAS las unidades tienen Formidable."
+      },
+      {
+        "nombre": "Incapacidad",
+        "rareza": "rara",
+        "desc": "Las unidades dañadas del jugador reciben No bloquea."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 13,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "LEE_SIN",
+    "reglas": [
+      {
+        "nombre": "Carrera Armamentista",
+        "rareza": "epica",
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 2 Herrisueñas."
+      },
+      {
+        "nombre": "Manta Sigilosa",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Si el jugador tiene maná de hechizos, el Enemigo le roba1."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 14,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "Zed",
+    "reglas": [
+      {
+        "nombre": "Solo los Fuertes",
+        "rareza": "epica",
+        "desc": "Final de la ronda: Mata a TODAS las unidades, excepto la más fuertes de cada jugador."
+      },
+      {
+        "nombre": "Las Sombras Vienen por ti",
+        "rareza": "comun",
+        "desc": "Las unidades del Enemigo tienen \"Golpe al Nexo: Creo 1 Demonio Sombrío en la mano\"."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 15,
+    "estrellas": 3,
+    "minijefe": "MISS_FORTUNE",
+    "jefe": "KAISA",
+    "reglas": [
+      {
+        "nombre": "Investigación Innovadora",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Piltóver y Zoun del jugador cuesta 1 menos al jugarla."
+      },
+      {
+        "nombre": "En Necesidad de Reparación",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Doy +3|+3 a la unidad Más débil del Enemigo en esta ronda."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 16,
+    "estrellas": 2,
+    "minijefe": null,
+    "jefe": "JINX",
+    "reglas": [
+      {
+        "nombre": "Meditación Guiada",
+        "rareza": "rara",
+        "desc": "Inicio de la partida: TODOS los jugadores inician con 10 gemas de maná."
+      },
+      {
+        "nombre": "Provisiones Hurtadas",
+        "rareza": "comun",
+        "desc": "Inicio de la partida: El Enemigo invoca 1 Palacio del Señor de la Guerra. Cuando la cuenta regresiva de su Palacio del Señor de la Guerra llega a 0, robo una gema de maná del jugador e invoco1 Palacio del Señor de la Guerra."
+      }
+    ],
+    "counters": []
   },
   {
     "num": 17,
     "estrellas": 1,
+    "minijefe": "Karma",
+    "jefe": "TALIYAH",
+    "reglas": [
+      {
+        "nombre": "Fuerza Imparable",
+        "rareza": "epica",
+        "desc": "Los aliados tienen +3|+3 Arrollar y No pueden bloquear."
+      },
+      {
+        "nombre": "Flujo de Maná",
+        "rareza": "epica",
+        "desc": "Inicio de la partida: El Enemigo obtiene una gema de maná."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 18,
+    "estrellas": 3,
+    "minijefe": "VIEGO",
+    "jefe": "Lulu",
+    "reglas": [
+      {
+        "nombre": "Repetición",
+        "rareza": "epica",
+        "desc": "Cuando CUALQUIER jugador juega un hechizo, lo copio con los mismos objetivos."
+      },
+      {
+        "nombre": "Profeta de un Dios Antiguo II",
+        "rareza": "epica",
+        "desc": "Cuando el Enemigo ataca, hago Surgir 3."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 19,
+    "estrellas": 2,
+    "minijefe": "DARIUS",
+    "jefe": "AZIR",
+    "reglas": [
+      {
+        "nombre": "Poder de la Observación",
+        "rareza": "comun",
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Observatorio Hextech."
+      },
+      {
+        "nombre": "Festín Rebosante",
+        "rareza": "rara",
+        "desc": "Las unidades del Enemigo tienen Dureza."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 20,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "JINX",
+    "reglas": [
+      {
+        "nombre": "Marcas Mortíferas",
+        "rareza": "epica",
+        "desc": "Cuando CUALQUIER jugador invoque una unidad, fijo su vida en 1."
+      },
+      {
+        "nombre": "Fuerza Implacable",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: El Enemigo otorga +0|+1 e Impacto a su unidad Más fuerte."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 21,
+    "estrellas": 3,
+    "minijefe": "Lulu",
+    "jefe": "VIKTOR",
+    "reglas": [
+      {
+        "nombre": "Armadura Animada",
+        "rareza": "epica",
+        "desc": "TODAS las unidades tienen Formidable."
+      },
+      {
+        "nombre": "Deja sus Huesos Limpiecitos",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo Impacto."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 22,
+    "estrellas": 2,
+    "minijefe": "Ezreal",
+    "jefe": "Zed",
+    "reglas": [
+      {
+        "nombre": "Artificio de Luz",
+        "rareza": "comun",
+        "desc": "Inicio de la partida: El Enemigo invocan 1 Maga de Espejos con 0|8."
+      },
+      {
+        "nombre": "Abraza las Sombras",
+        "rareza": "rara",
+        "desc": "Las unidades atacantes del Enemigo tienen +1|+0."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 23,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "DARIUS",
+    "reglas": [
+      {
+        "nombre": "Armadura Animada",
+        "rareza": "epica",
+        "desc": "TODAS las unidades tienen Formidable."
+      },
+      {
+        "nombre": "Entretenimiento Noxiano",
+        "rareza": "comun",
+        "desc": "Inicio de la partida: El Enemigo invoca 1 Arena Noxkraya."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 24,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "JINX",
+    "reglas": [
+      {
+        "nombre": "Vestigio de Helia",
+        "rareza": "epica",
+        "desc": "TODOS los hechizos cuestan 1 menos. TODAS las unidades tienen Escudo Antihechizos."
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "El Equipo te da la Bienvenida",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Doy Vulnerable a la unidad Más fuerte del jugador en esta ronda."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 25,
+    "estrellas": 2,
     "minijefe": "Zoe",
+    "jefe": "Gangplank",
+    "reglas": [
+      {
+        "nombre": "Espíritus en Lamento",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de las Islas de la Sombra del jugador cuesta 1 menos al jugarla."
+      },
+      {
+        "nombre": "¡Vamos!",
+        "rareza": "comun",
+        "desc": "Cuando el Enemigo ataca, invoca 1 poro aleatorio atacante de costo 1."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 26,
+    "estrellas": 2,
+    "minijefe": "AZIR",
+    "jefe": "Fiora",
+    "reglas": [
+      {
+        "nombre": "Arquero Despiadado",
+        "rareza": "comun",
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Corsaria Tirofino."
+      },
+      {
+        "nombre": "Sufre",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades heridas del jugador."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 27,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Lulu",
+    "reglas": [
+      {
+        "nombre": "Repetición",
+        "rareza": "epica",
+        "desc": "Cuando CUALQUIER jugador juega un hechizo, lo copio con los mismos objetivos."
+      },
+      {
+        "nombre": "Magia Amorfa",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Creo 1 Denegar con Fugaz en la mano del Enemigo. Cuesto 2."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 28,
+    "estrellas": 2,
+    "minijefe": "CAITLYN",
+    "jefe": "SWAIN",
+    "reglas": [
+      {
+        "nombre": "Lobos de Mar",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Aguasturbias del jugador cuesta 1 menos al jugarla."
+      },
+      {
+        "nombre": "Favorito de los Fanáticos",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: Doy +2|+0 y Arrollar a la unidad Más fuerte del Enemigo en esta ronda."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 29,
+    "estrellas": 2,
+    "minijefe": "JINX",
+    "jefe": "Katarina",
+    "reglas": [
+      {
+        "nombre": "Molestia Náutica",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
+      },
+      {
+        "nombre": "Un Poco de Simplicidad",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Doy +1|+0 a la unidad Más fuerte del Enemigo por cada carta en la mano del jugador."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 30,
+    "estrellas": 3,
+    "minijefe": "KAISA",
+    "jefe": "Irelia",
+    "reglas": [
+      {
+        "nombre": "Armadura Animada",
+        "rareza": "epica",
+        "desc": "TODAS las unidades tienen Formidable."
+      },
+      {
+        "nombre": "Atraco Accidentado",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: El Enemigo tiene un 50% de probabilidad de crear 1 Hallazgo Fortuito en la mano. El jugador tiene un 25% de probabilidad."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 31,
+    "estrellas": 3,
+    "minijefe": "Irelia",
+    "jefe": "LEE_SIN",
+    "reglas": [
+      {
+        "nombre": "Marcas Mortíferas",
+        "rareza": "epica",
+        "desc": "Cuando CUALQUIER jugador invoque una unidad, fijo su vida en 1."
+      },
+      {
+        "nombre": "Poder Arrollador",
+        "rareza": "legendaria",
+        "desc": "Fin de la ronda: Otorgo +1|+1 a las unidades del Enemigo en todas partes."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 32,
+    "estrellas": 2,
+    "minijefe": "TAHM_KENCH",
+    "jefe": "SWAIN",
+    "reglas": [
+      {
+        "nombre": "Hielos Fortificadores",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Fréljord del jugador cuesta 1 menos al jugarla."
+      },
+      {
+        "nombre": "Mejoras Iterativas",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca la siguiente torreta."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 33,
+    "estrellas": 3,
+    "minijefe": "Gangplank",
+    "jefe": "AZIR",
+    "reglas": [
+      {
+        "nombre": "Repetición",
+        "rareza": "epica",
+        "desc": "Cuando CUALQUIER jugador juega un hechizo, lo copio con los mismos objetivos."
+      },
+      {
+        "nombre": "Furia Inmortal",
+        "rareza": "epica",
+        "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 34,
+    "estrellas": 3,
+    "minijefe": "TAHM_KENCH",
+    "jefe": "Ezreal",
+    "reglas": [
+      {
+        "nombre": "Entrenamiento Forestal",
+        "rareza": "comun",
+        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
+      },
+      {
+        "nombre": "Resistir",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: Otorgo +0|+1 a las unidades del Enemigo."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 35,
+    "estrellas": 4,
+    "minijefe": "SWAIN",
+    "jefe": "Lulu",
+    "reglas": [
+      {
+        "nombre": "Fuerza Imparable",
+        "rareza": "epica",
+        "desc": "Los aliados tienen +3|+3 Arrollar y No pueden bloquear."
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "El Filo en la Oscuridad",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Si el nexo del jugador recibió daño en esta ronda, la unidad Más fuerte del Enemigo lo Golpea."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 36,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Draven",
+    "reglas": [
+      {
+        "nombre": "Sombras Persistentes",
+        "rareza": "comun",
+        "desc": "Cuando una unidad muere, otorgo +1|+1 a una unidad aleatoria en la mano de ese jugador."
+      },
+      {
+        "nombre": "Llegaste al Puente de la Muerte",
+        "rareza": "legendaria",
+        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 37,
+    "estrellas": 2,
+    "minijefe": "Fiora",
+    "jefe": "VIEGO",
+    "reglas": [
+      {
+        "nombre": "Arquero Despiadado",
+        "rareza": "comun",
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Corsaria Tirofino."
+      },
+      {
+        "nombre": "Mejoras Iterativas",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca la siguiente torreta."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 38,
+    "estrellas": 2,
+    "minijefe": "CAITLYN",
+    "jefe": "KAISA",
+    "reglas": [
+      {
+        "nombre": "Conciencia de Combate",
+        "rareza": "rara",
+        "desc": "TODAS las unidades tienen Explorar."
+      },
+      {
+        "nombre": "Llegaste al Puente de la Muerte",
+        "rareza": "legendaria",
+        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 39,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "Gangplank",
+    "reglas": [
+      {
+        "nombre": "Entrenamiento Forestal",
+        "rareza": "comun",
+        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "Llamado de Ayuda",
+        "rareza": "epica",
+        "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 40,
+    "estrellas": 3,
+    "minijefe": "Fiora",
+    "jefe": "JINX",
+    "reglas": [
+      {
+        "nombre": "El Precio del Progreso",
+        "rareza": "epica",
+        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
+      },
+      {
+        "nombre": "Tormenta Inminente",
+        "rareza": "epica",
+        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 41,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Gangplank",
+    "reglas": [
+      {
+        "nombre": "Conciencia de Combate",
+        "rareza": "rara",
+        "desc": "TODAS las unidades tienen Explorar."
+      },
+      {
+        "nombre": "Hemorragia",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Inflijo 1 de daño al nexo del jugador por cada unidad que tenga el Enemigo."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 42,
+    "estrellas": 3,
+    "minijefe": "JINX",
+    "jefe": "Katarina",
+    "reglas": [
+      {
+        "nombre": "Vestigio de Helia",
+        "rareza": "epica",
+        "desc": "TODOS los hechizos cuestan 1 menos. TODAS las unidades tienen Escudo Antihechizos."
+      },
+      {
+        "nombre": "Eliminar la Imperfección",
+        "rareza": "epica",
+        "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 43,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Irelia",
+    "reglas": [
+      {
+        "nombre": "Muerte por Risa",
+        "rareza": "epica",
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Espectro Bromista con 0|10."
+      },
+      {
+        "nombre": "Sufre",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades heridas del jugador."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 44,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "VIEGO",
+    "reglas": [
+      {
+        "nombre": "Conciencia de Combate",
+        "rareza": "rara",
+        "desc": "TODAS las unidades tienen Explorar."
+      },
+      {
+        "nombre": "Coro de Poder",
+        "rareza": "legendaria",
+        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 45,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "YASUO",
+    "reglas": [
+      {
+        "nombre": "Armadura Animada",
+        "rareza": "epica",
+        "desc": "TODAS las unidades tienen Formidable."
+      },
+      {
+        "nombre": "Amiguitos",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 46,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "Zed",
+    "reglas": [
+      {
+        "nombre": "Llamas Parpadeantes",
+        "rareza": "comun",
+        "desc": "TODOS los hechizos y habilidades infligen 1 de daño adicional."
+      },
+      {
+        "nombre": "Puros Monos Explosivos II",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 47,
+    "estrellas": 3,
+    "minijefe": null,
+    "jefe": "DARIUS",
+    "reglas": [
+      {
+        "nombre": "En Garde!",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
+      },
+      {
+        "nombre": "A Rockear",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 48,
+    "estrellas": 4,
+    "minijefe": null,
     "jefe": "Fiora",
     "reglas": [
       {
@@ -646,643 +914,46 @@
         "desc": "Cuando el jugador juega un hechizo, restablezco 1 de maná de hechizos."
       },
       {
-        "nombre": "Profecía Escalofriante",
-        "rareza": "rara",
-        "desc": "Inicio de la partida: el Enemigo invoca 1 Siervo Congelado. Establezco su Cuenta Regresiva en 5."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "NAMI",
-        "pct": 38
-      },
-      {
-        "nombre": "EKKO",
-        "pct": 8
-      },
-      {
-        "nombre": "GWEN",
-        "pct": 8
-      },
-      {
-        "nombre": "TWISTED_FATE",
-        "pct": 8
-      },
-      {
-        "nombre": "EL_REY_PORO",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 18,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Zed",
-    "reglas": [
-      {
-        "nombre": "Guía Celestial",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Targón del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Tecnología Inestable",
-        "rareza": "comun",
-        "desc": "Otorga una palabra clave aleatoria a la primera unidad que invoque El Enemigo en cada ronda."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "SORAKA",
-        "pct": 38
-      },
-      {
-        "nombre": "KAYLE",
-        "pct": 23
-      },
-      {
-        "nombre": "LEONA",
-        "pct": 15
-      },
-      {
-        "nombre": "JHIN",
-        "pct": 8
-      },
-      {
-        "nombre": "DIANA",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 19,
-    "estrellas": 2,
-    "minijefe": null,
-    "jefe": "Karma",
-    "reglas": [
-      {
-        "nombre": "Muerte por Risa",
-        "rareza": "epica",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Espectro Bromista con 0|10."
-      },
-      {
-        "nombre": "Melodía Distractora",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Una carta aleatoria en la mano del jugador cuesta 2 más en esta ronda."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "VOLIBEAR",
-        "pct": 23
-      },
-      {
-        "nombre": "LEE_SIN",
-        "pct": 15
-      },
-      {
-        "nombre": "DRAGON_ANCESTRAL",
-        "pct": 15
-      },
-      {
-        "nombre": "NAUTILUS",
-        "pct": 8
-      },
-      {
-        "nombre": "AZIR",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 20,
-    "estrellas": 3,
-    "minijefe": "Lulu",
-    "jefe": "LEE_SIN",
-    "reglas": [
-      {
-        "nombre": "Molestia Náutica",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
-      },
-      {
-        "nombre": "Ecos de las Profundidades",
-        "rareza": "rara",
-        "desc": "Las unidades del Enemigo tiene +0|+1."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "NIDALEE",
-        "pct": 23
-      },
-      {
-        "nombre": "ILLAOI",
-        "pct": 15
-      },
-      {
-        "nombre": "NASUS",
-        "pct": 15
-      },
-      {
-        "nombre": "JHIN",
-        "pct": 8
-      },
-      {
-        "nombre": "SAMIRA",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 21,
-    "estrellas": 3,
-    "minijefe": "AZIR",
-    "jefe": "Lulu",
-    "reglas": [
-      {
-        "nombre": "Llamas Parpadeantes",
-        "rareza": "comun",
-        "desc": "TODOS los hechizos y habilidades infligen 1 de daño adicional."
-      },
-      {
-        "nombre": "Los Enemigos de Demacia Caerán",
-        "rareza": "epica",
-        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "ANNIE",
-        "pct": 38
-      },
-      {
-        "nombre": "TWISTED_FATE",
-        "pct": 15
-      },
-      {
-        "nombre": "MEL",
-        "pct": 8
-      },
-      {
-        "nombre": "MISS_FORTUNE",
-        "pct": 8
-      },
-      {
-        "nombre": "VEIGAR",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 22,
-    "estrellas": 2,
-    "minijefe": null,
-    "jefe": "Fiora",
-    "reglas": [
-      {
-        "nombre": "El Precio del Progreso",
-        "rareza": "epica",
-        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
-      },
-      {
-        "nombre": "Dominación",
-        "rareza": "rara",
-        "desc": "Inicio de la ronda: El Enemigo lanza Preparar."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "TRYNDAMERE",
-        "pct": 31
-      },
-      {
-        "nombre": "VEIGAR",
-        "pct": 15
-      },
-      {
-        "nombre": "KINDRED",
-        "pct": 15
-      },
-      {
-        "nombre": "NEEKO",
-        "pct": 8
-      },
-      {
-        "nombre": "MAESTRO_YI_FLOR_ESPIRITUAL",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 23,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "LEE_SIN",
-    "reglas": [
-      {
-        "nombre": "Entrenamiento Forestal",
-        "rareza": "comun",
-        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
-      },
-      {
-        "nombre": "Tácticas de Enjambre",
-        "rareza": "rara",
-        "desc": "Cuando el Enemigo ataca, este invoca 1 Horror Aracnoide atacante con Endeble."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "DIANA",
-        "pct": 23
-      },
-      {
-        "nombre": "AHRI",
-        "pct": 23
-      },
-      {
-        "nombre": "ASHE",
-        "pct": 15
-      },
-      {
-        "nombre": "VAYNE",
-        "pct": 15
-      },
-      {
-        "nombre": "WARWICK",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 24,
-    "estrellas": 4,
-    "minijefe": "JINX",
-    "jefe": "Draven",
-    "reglas": [
-      {
-        "nombre": "Armadura Animada",
-        "rareza": "epica",
-        "desc": "TODAS las unidades tienen Formidable."
-      },
-      {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Rojo Como Sus Labios",
-        "rareza": "rara",
-        "desc": "Inicio de la Ronda: Inflijo 1 de daño a todas las unidades y otorgo +0|+1 a todas las unidades del Enemigo."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "AHRI_FLOR_ESPIRITUAL",
-        "pct": 23
-      },
-      {
-        "nombre": "KAYN",
-        "pct": 15
-      },
-      {
-        "nombre": "SORAKA",
-        "pct": 15
-      },
-      {
-        "nombre": "JINX",
-        "pct": 8
-      },
-      {
-        "nombre": "TAHM_KENCH",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 25,
-    "estrellas": 2,
-    "minijefe": "YASUO",
-    "jefe": "VIEGO",
-    "reglas": [
-      {
-        "nombre": "Lobos de Mar",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Aguasturbias del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Vigilante de la Vanguardia",
-        "rareza": "rara",
-        "desc": "Inicio del juego: El Enemigo invoca 2 Vigilantes de la Vanguardia."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "MISS_FORTUNE",
-        "pct": 31
-      },
-      {
-        "nombre": "PYKE",
-        "pct": 23
-      },
-      {
-        "nombre": "TWISTED_FATE",
-        "pct": 15
-      },
-      {
-        "nombre": "ILLAOI",
-        "pct": 15
-      },
-      {
-        "nombre": "AATROX",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 26,
-    "estrellas": 2,
-    "minijefe": null,
-    "jefe": "SWAIN",
-    "reglas": [
-      {
-        "nombre": "El Imperio ante Todo",
+        "nombre": "Tormenta Inminente",
         "rareza": "epica",
-        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
+        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
       },
       {
-        "nombre": "Fragmentos de Canción",
-        "rareza": "rara",
-        "desc": "Inicio de la ronda: Si el Enemigo no tiene la ficha de ataque, invoca 1 Banda Espectral."
+        "nombre": "Hemorragia",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Inflijo 1 de daño al nexo del jugador por cada unidad que tenga el Enemigo."
       }
     ],
-    "counters": [
-      {
-        "nombre": "PYKE",
-        "pct": 15
-      },
-      {
-        "nombre": "SAMIRA",
-        "pct": 15
-      },
-      {
-        "nombre": "WARWICK",
-        "pct": 15
-      },
-      {
-        "nombre": "DARIUS",
-        "pct": 15
-      },
-      {
-        "nombre": "AATROX",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
-    "num": 27,
+    "num": 49,
     "estrellas": 3,
-    "minijefe": "VIKTOR",
-    "jefe": "Draven",
+    "minijefe": "Zed",
+    "jefe": "Gangplank",
     "reglas": [
       {
-        "nombre": "Bloque de Carnicero",
+        "nombre": "Sombras Persistentes",
         "rareza": "comun",
-        "desc": "TODAS las unidades tienen \"Pillaje: Recibo +1|+1 \"."
+        "desc": "Cuando una unidad muere, otorgo +1|+1 a una unidad aleatoria en la mano de ese jugador."
       },
       {
-        "nombre": "Sede del Poder",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: El Enemigo invoca 1 Estrado del Emperador."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "AATROX",
-        "pct": 15
-      },
-      {
-        "nombre": "AMBESSA",
-        "pct": 15
-      },
-      {
-        "nombre": "LEONA",
-        "pct": 8
-      },
-      {
-        "nombre": "LUX_ILUMINADA",
-        "pct": 8
-      },
-      {
-        "nombre": "NASUS",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 28,
-    "estrellas": 2,
-    "minijefe": "SWAIN",
-    "jefe": "DARIUS",
-    "reglas": [
-      {
-        "nombre": "Mentes Tranquilas",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Munición Monada",
-        "rareza": "rara",
-        "desc": "Cuando el Enemigo ataca, invoca 1 ¡Mascafuegos! para Desafiar a la unidad Más fuerte del jugador."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "LILLIA",
-        "pct": 46
-      },
-      {
-        "nombre": "SETT",
-        "pct": 23
-      },
-      {
-        "nombre": "YASUO",
-        "pct": 15
-      },
-      {
-        "nombre": "AHRI_FLOR_ESPIRITUAL",
-        "pct": 8
-      },
-      {
-        "nombre": "DARIUS",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 29,
-    "estrellas": 2,
-    "minijefe": "Ezreal",
-    "jefe": "CAITLYN",
-    "reglas": [
-      {
-        "nombre": "Hielos Fortificadores",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Fréljord del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Amiguitos",
+        "nombre": "Festín",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
+        "desc": "Cuando el Enemigo invoca una unidad, le otorgo +0|+3."
       }
     ],
-    "counters": [
-      {
-        "nombre": "ANIVIA",
-        "pct": 23
-      },
-      {
-        "nombre": "GNAR",
-        "pct": 15
-      },
-      {
-        "nombre": "ASHE",
-        "pct": 15
-      },
-      {
-        "nombre": "VOLIBEAR",
-        "pct": 8
-      },
-      {
-        "nombre": "LEBLANC",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
-    "num": 30,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "JINX",
-    "reglas": [
-      {
-        "nombre": "Poder de la Observación",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Observatorio Hextech."
-      },
-      {
-        "nombre": "Dueto Musical",
-        "rareza": "rara",
-        "desc": "Cuando el Enemigo ataca, invoca una copia exacta de su unidad atacante Más debil con Endeble y sus estadisticas invertidas."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "FIDDLESTICKS",
-        "pct": 15
-      },
-      {
-        "nombre": "GAREN",
-        "pct": 8
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 8
-      },
-      {
-        "nombre": "VOLIBEAR",
-        "pct": 8
-      },
-      {
-        "nombre": "TEEMO",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 31,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "VIEGO",
-    "reglas": [
-      {
-        "nombre": "El Imperio ante Todo",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
-      },
-      {
-        "nombre": "Furia Inmortal",
-        "rareza": "epica",
-        "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "AHRI",
-        "pct": 31
-      },
-      {
-        "nombre": "DARIUS",
-        "pct": 15
-      },
-      {
-        "nombre": "ILLAOI",
-        "pct": 8
-      },
-      {
-        "nombre": "SAMIRA",
-        "pct": 8
-      },
-      {
-        "nombre": "YASUO_FLOR_ESPIRITUAL",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 32,
-    "estrellas": 2,
-    "minijefe": "Draven",
-    "jefe": "TAHM_KENCH",
-    "reglas": [
-      {
-        "nombre": "Vestigio de Helia",
-        "rareza": "epica",
-        "desc": "TODOS los hechizos cuestan 1 menos. TODAS las unidades tienen Escudo Antihechizos."
-      },
-      {
-        "nombre": "Coro de Poder",
-        "rareza": "legendaria",
-        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "MAESTRO_YI",
-        "pct": 31
-      },
-      {
-        "nombre": "AHRI",
-        "pct": 31
-      },
-      {
-        "nombre": "VARUS",
-        "pct": 15
-      },
-      {
-        "nombre": "LILLIA",
-        "pct": 8
-      },
-      {
-        "nombre": "NEEKO",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 33,
-    "estrellas": 3,
-    "minijefe": null,
+    "num": 50,
+    "estrellas": 4,
+    "minijefe": "Irelia",
     "jefe": "NAUTILUS",
     "reglas": [
       {
@@ -1291,483 +962,83 @@
         "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
       },
       {
-        "nombre": "El Filo en la Oscuridad",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Si el nexo del jugador recibió daño en esta ronda, la unidad Más fuerte del Enemigo lo Golpea."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "MAESTRO_YI",
-        "pct": 38
-      },
-      {
-        "nombre": "TRYNDAMERE",
-        "pct": 31
-      },
-      {
-        "nombre": "AKSHAN",
-        "pct": 8
-      },
-      {
-        "nombre": "CAITLYN",
-        "pct": 8
-      },
-      {
-        "nombre": "NAMI",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 34,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Irelia",
-    "reglas": [
-      {
-        "nombre": "Minimalista",
-        "rareza": "epica",
-        "desc": "Inicio de la partida: El jugador comienza con 2 gemas de maná adicionales, pero no obtiene más al inicio de la ronda."
-      },
-      {
-        "nombre": "Eliminar la Imperfección",
-        "rareza": "epica",
-        "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "EVELYNN",
-        "pct": 31
-      },
-      {
-        "nombre": "VARUS",
-        "pct": 15
-      },
-      {
-        "nombre": "JHIN",
-        "pct": 15
-      },
-      {
-        "nombre": "AHRI",
-        "pct": 8
-      },
-      {
-        "nombre": "AURELION_SOL",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 35,
-    "estrellas": 4,
-    "minijefe": "Katarina",
-    "jefe": "JINX",
-    "reglas": [
-      {
-        "nombre": "Emisiones Arcanas",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS  los jugadores inician con 3 de maná de hechizos."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Dominio del Soberano",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "NIDALEE",
-        "pct": 15
-      },
-      {
-        "nombre": "NASUS",
-        "pct": 15
-      },
-      {
-        "nombre": "VEIGAR",
-        "pct": 15
-      },
-      {
-        "nombre": "LUX",
-        "pct": 15
-      },
-      {
-        "nombre": "VAYNE",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 36,
-    "estrellas": 3,
-    "minijefe": "CAITLYN",
-    "jefe": "THRESH",
-    "reglas": [
-      {
-        "nombre": "Conciencia de Combate",
-        "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorar."
-      },
-      {
-        "nombre": "A Rockear",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "NIDALEE",
-        "pct": 15
-      },
-      {
-        "nombre": "JAX",
-        "pct": 8
-      },
-      {
-        "nombre": "FIDDLESTICKS",
-        "pct": 8
-      },
-      {
-        "nombre": "PYKE",
-        "pct": 8
-      },
-      {
-        "nombre": "LEBLANC",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 37,
-    "estrellas": 2,
-    "minijefe": "Gangplank",
-    "jefe": "VIKTOR",
-    "reglas": [
-      {
-        "nombre": "El Precio del Progreso",
-        "rareza": "epica",
-        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
-      },
-      {
-        "nombre": "Coro de Poder",
-        "rareza": "legendaria",
-        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "TRYNDAMERE",
-        "pct": 23
-      },
-      {
-        "nombre": "MAESTRO_YI",
-        "pct": 15
-      },
-      {
-        "nombre": "AMBESSA",
-        "pct": 15
-      },
-      {
-        "nombre": "NEEKO",
-        "pct": 8
-      },
-      {
-        "nombre": "MEL",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 38,
-    "estrellas": 2,
-    "minijefe": null,
-    "jefe": "DARIUS",
-    "reglas": [
-      {
-        "nombre": "El Imperio ante Todo",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
-      },
-      {
-        "nombre": "Más Allá de la Carne",
-        "rareza": "epica",
-        "desc": "Las unidades del Enemigo tienen +1|+1 por cada una de sus palabras clave."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "NIDALEE",
-        "pct": 23
-      },
-      {
-        "nombre": "ELISE",
-        "pct": 15
-      },
-      {
-        "nombre": "ILLAOI",
-        "pct": 8
-      },
-      {
-        "nombre": "SAMIRA",
-        "pct": 8
-      },
-      {
-        "nombre": "EL_REY_PORO",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 39,
-    "estrellas": 4,
-    "minijefe": "Katarina",
-    "jefe": "Ezreal",
-    "reglas": [
-      {
-        "nombre": "Abraza la Corriente",
-        "rareza": "rara",
-        "desc": "Cuando el jugador juega un hechizo, restablezco 1 de maná de hechizos."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Dominio del Soberano",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "LEBLANC",
-        "pct": 23
-      },
-      {
-        "nombre": "NAMI",
-        "pct": 15
-      },
-      {
-        "nombre": "AKSHAN",
-        "pct": 8
-      },
-      {
-        "nombre": "MISS_FORTUNE",
-        "pct": 8
-      },
-      {
-        "nombre": "VI",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 40,
-    "estrellas": 3,
-    "minijefe": "CAITLYN",
-    "jefe": "LEE_SIN",
-    "reglas": [
-      {
-        "nombre": "Pelea Frenética",
-        "rareza": "epica",
-        "desc": "La unidad del jugador tiene +2|+2. Fin de la ronda: Inflijo 2 de daño a todas las unidades del jugador."
-      },
-      {
-        "nombre": "Pequeñez",
-        "rareza": "legendaria",
-        "desc": "Cuando el jugador invoca una unidad, le fijo 1|1."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "YUUMI",
-        "pct": 38
-      },
-      {
-        "nombre": "JINX",
-        "pct": 38
-      },
-      {
-        "nombre": "ANNIE",
-        "pct": 8
-      },
-      {
-        "nombre": "LA_ARREBATADORA",
-        "pct": 8
-      },
-      {
-        "nombre": "ELISE",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 41,
-    "estrellas": 3,
-    "minijefe": "SWAIN",
-    "jefe": "Draven",
-    "reglas": [
-      {
-        "nombre": "Espíritus en Lamento",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de las Islas de la Sombra del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "A Rockear",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "VIEGO",
-        "pct": 31
-      },
-      {
-        "nombre": "GWEN",
-        "pct": 23
-      },
-      {
-        "nombre": "ELISE",
-        "pct": 23
-      },
-      {
-        "nombre": "THRESH",
-        "pct": 15
-      },
-      {
-        "nombre": "YUUMI",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 42,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Draven",
-    "reglas": [
-      {
-        "nombre": "Crónica de la Ruina",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: Mato a TODAS las unidades, y luego las revivo."
-      },
-      {
-        "nombre": "Amiguitos",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "TEEMO",
-        "pct": 46
-      },
-      {
-        "nombre": "VEX",
-        "pct": 38
-      },
-      {
-        "nombre": "GWEN",
-        "pct": 8
-      },
-      {
-        "nombre": "CAITLYN",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 43,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Fiora",
-    "reglas": [
-      {
-        "nombre": "Artificio de Luz",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Maga de Espejos."
-      },
-      {
-        "nombre": "Tormenta Inminente",
-        "rareza": "epica",
-        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "AMBESSA",
-        "pct": 23
-      },
-      {
-        "nombre": "NEEKO",
-        "pct": 15
-      },
-      {
-        "nombre": "KINDRED",
-        "pct": 8
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 8
-      },
-      {
-        "nombre": "WARWICK",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 44,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Ezreal",
-    "reglas": [
-      {
-        "nombre": "Solo los Fuertes",
-        "rareza": "epica",
-        "desc": "Final de la ronda: Mata a TODAS las unidades, excepto la más fuertes de cada jugador."
-      },
-      {
         "nombre": "Puros Monos Explosivos II",
         "rareza": "epica",
         "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
       }
     ],
-    "counters": [
-      {
-        "nombre": "VAYNE",
-        "pct": 38
-      },
-      {
-        "nombre": "VARUS",
-        "pct": 15
-      },
-      {
-        "nombre": "JAX",
-        "pct": 8
-      },
-      {
-        "nombre": "JHIN",
-        "pct": 8
-      },
-      {
-        "nombre": "LEBLANC",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
-    "num": 45,
+    "num": 51,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "YASUO",
+    "reglas": [
+      {
+        "nombre": "Carrera Armamentista",
+        "rareza": "epica",
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 2 Herrisueñas."
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "Rockeando Durísimo",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
+      },
+      {
+        "nombre": "Dominio del Soberano",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 52,
     "estrellas": 3,
+    "minijefe": null,
+    "jefe": "KAISA",
+    "reglas": [
+      {
+        "nombre": "Caminante de las Dunas",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Shurima del jugador cuesta 1 menos al jugarla."
+      },
+      {
+        "nombre": "Los Enemigos de Demacia Caerán",
+        "rareza": "epica",
+        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 53,
+    "estrellas": 3,
+    "minijefe": "Irelia",
+    "jefe": "Draven",
+    "reglas": [
+      {
+        "nombre": "Misticismo Salvaje",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Cada jugador obtiene una gema de maná."
+      },
+      {
+        "nombre": "Los Enemigos de Demacia Caerán",
+        "rareza": "epica",
+        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 54,
+    "estrellas": 4,
     "minijefe": null,
     "jefe": "Ezreal",
     "reglas": [
@@ -1777,299 +1048,109 @@
         "desc": "Cuando CUALQUIER jugador juega un hechizo, lo copio con los mismos objetivos."
       },
       {
-        "nombre": "El Filo en la Oscuridad",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Si el nexo del jugador recibió daño en esta ronda, la unidad Más fuerte del Enemigo lo Golpea."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "MEL",
-        "pct": 23
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "NEEKO",
-        "pct": 23
-      },
-      {
-        "nombre": "NAMI",
-        "pct": 23
-      },
-      {
-        "nombre": "LEBLANC",
-        "pct": 8
-      },
-      {
-        "nombre": "ANNIE",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 46,
-    "estrellas": 3,
-    "minijefe": "Fiora",
-    "jefe": "DARIUS",
-    "reglas": [
-      {
-        "nombre": "Lobos de Mar",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Aguasturbias del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Poder Noxiano II",
+        "nombre": "Llegaste al Puente de la Muerte",
         "rareza": "legendaria",
-        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +4|+0 y Arrollar."
+        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
       }
     ],
-    "counters": [
-      {
-        "nombre": "MISS_FORTUNE",
-        "pct": 23
-      },
-      {
-        "nombre": "ASHE",
-        "pct": 15
-      },
-      {
-        "nombre": "ILLAOI",
-        "pct": 15
-      },
-      {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
-        "pct": 8
-      },
-      {
-        "nombre": "KINDRED",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
-    "num": 47,
+    "num": 55,
     "estrellas": 3,
     "minijefe": null,
     "jefe": "Katarina",
     "reglas": [
       {
-        "nombre": "Sombras Persistentes",
+        "nombre": "Entrenamiento Forestal",
         "rareza": "comun",
-        "desc": "Cuando una unidad muere, otorgo +1|+1 a una unidad aleatoria en la mano de ese jugador."
+        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
       },
       {
-        "nombre": "¡Adoribus!",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
+        "nombre": "Mejoras Iterativas",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca la siguiente torreta."
       }
     ],
-    "counters": [
-      {
-        "nombre": "VEIGAR",
-        "pct": 23
-      },
-      {
-        "nombre": "MEL",
-        "pct": 15
-      },
-      {
-        "nombre": "SWAIN",
-        "pct": 8
-      },
-      {
-        "nombre": "KAISA",
-        "pct": 8
-      },
-      {
-        "nombre": "LUX_ILUMINADA",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
-    "num": 48,
-    "estrellas": 4,
-    "minijefe": null,
-    "jefe": "LEE_SIN",
+    "num": 56,
+    "estrellas": 3,
+    "minijefe": "Draven",
+    "jefe": "Katarina",
     "reglas": [
       {
-        "nombre": "Conciencia de Combate",
+        "nombre": "Meditación Guiada",
         "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorar."
+        "desc": "Inicio de la partida: TODOS los jugadores inician con 10 gemas de maná."
+      },
+      {
+        "nombre": "Poder Arrollador",
+        "rareza": "legendaria",
+        "desc": "Fin de la ronda: Otorgo +1|+1 a las unidades del Enemigo en todas partes."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 57,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "VIKTOR",
+    "reglas": [
+      {
+        "nombre": "Abraza la Corriente",
+        "rareza": "rara",
+        "desc": "Cuando el jugador juega un hechizo, restablezco 1 de maná de hechizos."
+      },
+      {
+        "nombre": "Furia Inmortal",
+        "rareza": "epica",
+        "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
+      },
+      {
+        "nombre": "Poder Noxiano II",
+        "rareza": "legendaria",
+        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +4|+0 y Arrollar."
       },
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "A Rockear",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
-      },
-      {
-        "nombre": "Los Enemigos de Demacia Caerán",
-        "rareza": "epica",
-        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
       }
     ],
-    "counters": [
-      {
-        "nombre": "LUX_ILUMINADA",
-        "pct": 23
-      },
-      {
-        "nombre": "AZIR",
-        "pct": 15
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 15
-      },
-      {
-        "nombre": "JAX",
-        "pct": 8
-      },
-      {
-        "nombre": "FIDDLESTICKS",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
-    "num": 49,
+    "num": 58,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "AZIR",
+    "jefe": "Ezreal",
     "reglas": [
       {
-        "nombre": "Portales Ingeniosos",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Bandle del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Puros Monos Explosivos II",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "VEX",
-        "pct": 31
-      },
-      {
-        "nombre": "NORRA",
-        "pct": 15
-      },
-      {
-        "nombre": "YUUMI",
-        "pct": 8
-      },
-      {
-        "nombre": "ANNIE",
-        "pct": 8
-      },
-      {
-        "nombre": "VEIGAR",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 50,
-    "estrellas": 4,
-    "minijefe": null,
-    "jefe": "JINX",
-    "reglas": [
-      {
-        "nombre": "En Garde!",
+        "nombre": "Emisiones Arcanas",
         "rareza": "comun",
-        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
+        "desc": "Inicio de la partida: TODOS  los jugadores inician con 3 de maná de hechizos."
       },
       {
-        "nombre": "Tormenta Inminente",
+        "nombre": "Flujo de Maná",
         "rareza": "epica",
-        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
+        "desc": "Inicio de la partida: El Enemigo obtiene una gema de maná."
       }
     ],
-    "counters": [
-      {
-        "nombre": "MORGANA",
-        "pct": 15
-      },
-      {
-        "nombre": "AATROX",
-        "pct": 15
-      },
-      {
-        "nombre": "JINX",
-        "pct": 15
-      },
-      {
-        "nombre": "GWEN",
-        "pct": 15
-      },
-      {
-        "nombre": "JHIN",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
-    "num": 51,
-    "estrellas": 4,
+    "num": 59,
+    "estrellas": 3,
     "minijefe": null,
     "jefe": "Draven",
-    "reglas": [
-      {
-        "nombre": "Muerte por Risa",
-        "rareza": "epica",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Espectro Bromista con 0|10."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Hemorragia",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Inflijo 1 de daño al nexo del jugador por cada unidad que tenga el Enemigo."
-      },
-      {
-        "nombre": "Amiguitos",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "AMBESSA",
-        "pct": 23
-      },
-      {
-        "nombre": "MORGANA",
-        "pct": 23
-      },
-      {
-        "nombre": "AHRI_FLOR_ESPIRITUAL",
-        "pct": 15
-      },
-      {
-        "nombre": "THRESH",
-        "pct": 8
-      },
-      {
-        "nombre": "VIEGO",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 52,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Zed",
     "reglas": [
       {
         "nombre": "Crónica de la Ruina",
@@ -2077,611 +1158,66 @@
         "desc": "Inicio de la ronda: Mato a TODAS las unidades, y luego las revivo."
       },
       {
-        "nombre": "Llamado de Ayuda",
-        "rareza": "epica",
-        "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "TEEMO",
-        "pct": 54
-      },
-      {
-        "nombre": "VEX",
-        "pct": 31
-      },
-      {
-        "nombre": "GWEN",
-        "pct": 8
-      },
-      {
-        "nombre": "NASUS",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 53,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "THRESH",
-    "reglas": [
-      {
-        "nombre": "El Imperio ante Todo",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
-      },
-      {
-        "nombre": "Rockeando Durísimo",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "ELISE",
-        "pct": 31
-      },
-      {
-        "nombre": "SORAKA",
-        "pct": 15
-      },
-      {
-        "nombre": "VIEGO",
-        "pct": 8
-      },
-      {
-        "nombre": "SWAIN",
-        "pct": 8
-      },
-      {
-        "nombre": "EL_REY_PORO",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 54,
-    "estrellas": 4,
-    "minijefe": "TRYNDAMERE",
-    "jefe": "MISS_FORTUNE",
-    "reglas": [
-      {
-        "nombre": "Muertes Piadosas",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Mato a TODAS las unidades dañadas."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Llegaste al Puente de la Muerte",
-        "rareza": "legendaria",
-        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "MISS_FORTUNE",
-        "pct": 23
-      },
-      {
-        "nombre": "JINX",
-        "pct": 15
-      },
-      {
-        "nombre": "AHRI",
-        "pct": 15
-      },
-      {
-        "nombre": "ELISE",
-        "pct": 8
-      },
-      {
-        "nombre": "CAITLYN",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 55,
-    "estrellas": 3,
-    "minijefe": "Draven",
-    "jefe": "Gangplank",
-    "reglas": [
-      {
-        "nombre": "Conciencia de Combate",
-        "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorar."
-      },
-      {
-        "nombre": "Tormenta Inminente",
-        "rareza": "epica",
-        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
-        "pct": 15
-      },
-      {
-        "nombre": "MISS_FORTUNE",
-        "pct": 15
-      },
-      {
-        "nombre": "FIDDLESTICKS",
-        "pct": 8
-      },
-      {
-        "nombre": "PYKE",
-        "pct": 8
-      },
-      {
-        "nombre": "ELISE",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 56,
-    "estrellas": 3,
-    "minijefe": null,
-    "jefe": "CAITLYN",
-    "reglas": [
-      {
-        "nombre": "En Garde!",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
-      },
-      {
-        "nombre": "Fuerza Demaciana II",
-        "rareza": "epica",
-        "desc": "Cuando una de las unidades del Enemigo Golpea, le otorgo +2|+2."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "VAYNE",
-        "pct": 8
-      },
-      {
-        "nombre": "KAISA",
-        "pct": 8
-      },
-      {
-        "nombre": "ELISE",
-        "pct": 8
-      },
-      {
-        "nombre": "FIDDLESTICKS",
-        "pct": 8
-      },
-      {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 57,
-    "estrellas": 4,
-    "minijefe": "Draven",
-    "jefe": "THRESH",
-    "reglas": [
-      {
-        "nombre": "Poder de la Observación",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Observatorio Hextech."
-      },
-      {
         "nombre": "Festín",
         "rareza": "epica",
         "desc": "Cuando el Enemigo invoca una unidad, le otorgo +0|+3."
-      },
-      {
-        "nombre": "Coro de Poder",
-        "rareza": "legendaria",
-        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       }
     ],
-    "counters": [
-      {
-        "nombre": "VAYNE",
-        "pct": 15
-      },
-      {
-        "nombre": "FIDDLESTICKS",
-        "pct": 15
-      },
-      {
-        "nombre": "SWAIN",
-        "pct": 8
-      },
-      {
-        "nombre": "LUX",
-        "pct": 8
-      },
-      {
-        "nombre": "EVELYNN_FLOR_ESPIRITUAL",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 58,
-    "estrellas": 3,
-    "minijefe": "Karma",
-    "jefe": "AZIR",
-    "reglas": [
-      {
-        "nombre": "Cima de la Montaña",
-        "rareza": "rara",
-        "desc": "Inicio de la partida: El Enemigo invoca 1 La Cima de Targón. Fin de la ronda: TODOS los jugadores roban1"
-      },
-      {
-        "nombre": "Dominio del Soberano",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "DRAGON_ANCESTRAL",
-        "pct": 46
-      },
-      {
-        "nombre": "VOLIBEAR",
-        "pct": 38
-      },
-      {
-        "nombre": "LEBLANC",
-        "pct": 8
-      },
-      {
-        "nombre": "VIEGO",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 59,
-    "estrellas": 3,
-    "minijefe": "Fizz",
-    "jefe": "TAHM_KENCH",
-    "reglas": [
-      {
-        "nombre": "Portales Ingeniosos",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Bandle del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "¡Adoribus!",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "VEX",
-        "pct": 38
-      },
-      {
-        "nombre": "NORRA",
-        "pct": 23
-      },
-      {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
-        "pct": 15
-      },
-      {
-        "nombre": "VAYNE",
-        "pct": 8
-      },
-      {
-        "nombre": "AURELION_SOL",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
     "num": 60,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "AZIR",
+    "jefe": "Ezreal",
     "reglas": [
       {
-        "nombre": "Muerte por Risa",
+        "nombre": "Carrera Armamentista",
         "rareza": "epica",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Espectro Bromista con 0|10."
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 2 Herrisueñas."
       },
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "¡Adoribus!",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
-      },
-      {
-        "nombre": "Festín",
-        "rareza": "epica",
-        "desc": "Cuando el Enemigo invoca una unidad, le otorgo +0|+3."
       }
     ],
-    "counters": [
-      {
-        "nombre": "VIKTOR",
-        "pct": 15
-      },
-      {
-        "nombre": "FIDDLESTICKS",
-        "pct": 15
-      },
-      {
-        "nombre": "VEX",
-        "pct": 8
-      },
-      {
-        "nombre": "AZIR",
-        "pct": 8
-      },
-      {
-        "nombre": "JHIN",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
     "num": 61,
     "estrellas": 4,
-    "minijefe": "Zed",
-    "jefe": "LEE_SIN",
+    "minijefe": "YASUO",
+    "jefe": "Lulu",
     "reglas": [
       {
-        "nombre": "Magia Natural",
+        "nombre": "Solo los Fuertes",
         "rareza": "epica",
-        "desc": "TODAS las cartas cuestan 2 menos."
+        "desc": "Final de la ronda: Mata a TODAS las unidades, excepto la más fuertes de cada jugador."
       },
       {
-        "nombre": "Resistir",
+        "nombre": "Fuga de Maná",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: Otorgo +0|+1 a las unidades del Enemigo."
+        "desc": "Cuando el jugador juegue un hechizo, creo una copia con Fugaz en la mano del Enemigo."
       }
     ],
-    "counters": [
-      {
-        "nombre": "MAESTRO_YI",
-        "pct": 31
-      },
-      {
-        "nombre": "VI",
-        "pct": 15
-      },
-      {
-        "nombre": "YASUO",
-        "pct": 8
-      },
-      {
-        "nombre": "DRAGON_ANCESTRAL",
-        "pct": 8
-      },
-      {
-        "nombre": "LEONA",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
     "num": 62,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "Ezreal",
-    "reglas": [
-      {
-        "nombre": "Marcas Mortíferas",
-        "rareza": "epica",
-        "desc": "Cuando CUALQUIER jugador invoque una unidad, fijo su vida en 1."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Llamado de Ayuda",
-        "rareza": "epica",
-        "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "JINX",
-        "pct": 38
-      },
-      {
-        "nombre": "CAITLYN",
-        "pct": 15
-      },
-      {
-        "nombre": "SWAIN",
-        "pct": 8
-      },
-      {
-        "nombre": "ASHE",
-        "pct": 8
-      },
-      {
-        "nombre": "YUUMI",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 63,
-    "estrellas": 4,
-    "minijefe": null,
     "jefe": "VIEGO",
     "reglas": [
       {
-        "nombre": "Arquero Despiadado",
+        "nombre": "Bloque de Carnicero",
         "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Corsaria Tirofino."
+        "desc": "TODAS las unidades tienen \"Pillaje: Recibo +1|+1 \"."
       },
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Tormenta Inminente",
-        "rareza": "epica",
-        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "MISS_FORTUNE",
-        "pct": 31
-      },
-      {
-        "nombre": "JHIN",
-        "pct": 31
-      },
-      {
-        "nombre": "SWAIN",
-        "pct": 15
-      },
-      {
-        "nombre": "VAYNE",
-        "pct": 8
-      },
-      {
-        "nombre": "VIEGO",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 64,
-    "estrellas": 4,
-    "minijefe": "AZIR",
-    "jefe": "JINX",
-    "reglas": [
-      {
-        "nombre": "Guía Celestial",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Targón del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Sufre",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: Inflijo 3 de daño a todas las unidades heridas del jugador."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "MORGANA",
-        "pct": 23
-      },
-      {
-        "nombre": "AURELION_SOL",
-        "pct": 15
-      },
-      {
-        "nombre": "SWAIN",
-        "pct": 8
-      },
-      {
-        "nombre": "LILLIA",
-        "pct": 8
-      },
-      {
-        "nombre": "SORAKA",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 65,
-    "estrellas": 4,
-    "minijefe": null,
-    "jefe": "Irelia",
-    "reglas": [
-      {
-        "nombre": "Fuerza Inquebrantable",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Noxus del jugador cuesta 1 menos al jugarla."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "A Rockear",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "SWAIN",
-        "pct": 46
-      },
-      {
-        "nombre": "MEL",
-        "pct": 15
-      },
-      {
-        "nombre": "JINX",
-        "pct": 8
-      },
-      {
-        "nombre": "VIEGO",
-        "pct": 8
-      },
-      {
-        "nombre": "AMBESSA",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 66,
-    "estrellas": 4.5,
-    "minijefe": null,
-    "jefe": "Lulu",
-    "reglas": [
-      {
-        "nombre": "Artificio de Luz",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Maga de Espejos."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Amiguitos",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
       },
       {
         "nombre": "Rockeando Durísimo",
@@ -2689,174 +1225,13 @@
         "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
       }
     ],
-    "counters": [
-      {
-        "nombre": "MEL",
-        "pct": 23
-      },
-      {
-        "nombre": "AMBESSA",
-        "pct": 8
-      },
-      {
-        "nombre": "VIEGO",
-        "pct": 8
-      },
-      {
-        "nombre": "AZIR",
-        "pct": 8
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 8
-      }
-    ]
+    "counters": []
   },
   {
-    "num": 67,
+    "num": 63,
     "estrellas": 4,
-    "minijefe": null,
-    "jefe": "VIKTOR",
-    "reglas": [
-      {
-        "nombre": "Molestia Náutica",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Dominio del Soberano",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "LUX",
-        "pct": 23
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 15
-      },
-      {
-        "nombre": "AMBESSA",
-        "pct": 15
-      },
-      {
-        "nombre": "AZIR",
-        "pct": 8
-      },
-      {
-        "nombre": "NIDALEE",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 68,
-    "estrellas": 4,
-    "minijefe": null,
-    "jefe": "THRESH",
-    "reglas": [
-      {
-        "nombre": "Arquero Despiadado",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Corsaria Tirofino."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Llegaste al Puente de la Muerte",
-        "rareza": "legendaria",
-        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "JHIN",
-        "pct": 23
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 15
-      },
-      {
-        "nombre": "MISS_FORTUNE",
-        "pct": 15
-      },
-      {
-        "nombre": "ELISE",
-        "pct": 15
-      },
-      {
-        "nombre": "AURELION_SOL",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 69,
-    "estrellas": 4.5,
-    "minijefe": "Zed",
-    "jefe": "SWAIN",
-    "reglas": [
-      {
-        "nombre": "Sin Vuelta Atrás",
-        "rareza": "epica",
-        "desc": "Mientras el jugador no tenga cartas en la mano, sus unidades tienen +2|+2."
-      },
-      {
-        "nombre": "Enemigo Despiadado",
-        "rareza": "especial",
-        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
-      },
-      {
-        "nombre": "Puros Monos Explosivos II",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
-      },
-      {
-        "nombre": "Eliminar la Imperfección",
-        "rareza": "epica",
-        "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
-      }
-    ],
-    "counters": [
-      {
-        "nombre": "JINX",
-        "pct": 31
-      },
-      {
-        "nombre": "AURELION_SOL",
-        "pct": 23
-      },
-      {
-        "nombre": "LILLIA",
-        "pct": 15
-      },
-      {
-        "nombre": "ELISE",
-        "pct": 8
-      },
-      {
-        "nombre": "FIDDLESTICKS",
-        "pct": 8
-      }
-    ]
-  },
-  {
-    "num": 70,
-    "estrellas": 4.5,
-    "minijefe": null,
-    "jefe": "THRESH",
+    "minijefe": "TRYNDAMERE",
+    "jefe": "VIEGO",
     "reglas": [
       {
         "nombre": "Emisiones Arcanas",
@@ -2869,37 +1244,194 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Imagen Persistente",
-        "rareza": "rara",
-        "desc": "Inicio de la ronda: El Enemigo revive una copia con Endeble del seguidor muerto Más fuerte."
-      },
-      {
-        "nombre": "Venganza de la Naturaleza",
-        "rareza": "rara",
-        "desc": "Cuando el Enemigo obtiene la ficha de ataque, invoca 1 Retoño."
+        "nombre": "Puros Monos Explosivos II",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
       }
     ],
-    "counters": [
+    "counters": []
+  },
+  {
+    "num": 64,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "SWAIN",
+    "reglas": [
       {
-        "nombre": "MEL",
-        "pct": 15
+        "nombre": "Mentes Tranquilas",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "NIDALEE",
-        "pct": 15
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "TEEMO_FLOR_ESPIRITUAL",
-        "pct": 8
-      },
-      {
-        "nombre": "LUX",
-        "pct": 8
-      },
-      {
-        "nombre": "LILLIA",
-        "pct": 8
+        "nombre": "Sufre",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades heridas del jugador."
       }
-    ]
+    ],
+    "counters": []
+  },
+  {
+    "num": 65,
+    "estrellas": 4,
+    "minijefe": "Gangplank",
+    "jefe": "Katarina",
+    "reglas": [
+      {
+        "nombre": "Servicio Diligente",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Demacia del jugador cuesta 1 menos al jugarla."
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "Coro de Poder",
+        "rareza": "legendaria",
+        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 66,
+    "estrellas": 4.5,
+    "minijefe": null,
+    "jefe": "VIKTOR",
+    "reglas": [
+      {
+        "nombre": "El Imperio ante Todo",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "Puros Monos Explosivos II",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
+      },
+      {
+        "nombre": "Furia Inmortal",
+        "rareza": "epica",
+        "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 67,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "Ezreal",
+    "reglas": [
+      {
+        "nombre": "Espíritus en Lamento",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de las Islas de la Sombra del jugador cuesta 1 menos al jugarla."
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "Rockeando Durísimo",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 68,
+    "estrellas": 4,
+    "minijefe": null,
+    "jefe": "Lulu",
+    "reglas": [
+      {
+        "nombre": "El Imperio ante Todo",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "Llamado de Ayuda",
+        "rareza": "epica",
+        "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 69,
+    "estrellas": 4.5,
+    "minijefe": null,
+    "jefe": "MISS_FORTUNE",
+    "reglas": [
+      {
+        "nombre": "El Imperio ante Todo",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "Eliminar la Imperfección",
+        "rareza": "epica",
+        "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
+      },
+      {
+        "nombre": "Coro de Poder",
+        "rareza": "legendaria",
+        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
+      }
+    ],
+    "counters": []
+  },
+  {
+    "num": 70,
+    "estrellas": 4.5,
+    "minijefe": null,
+    "jefe": "Katarina",
+    "reglas": [
+      {
+        "nombre": "Misticismo Salvaje",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Cada jugador obtiene una gema de maná."
+      },
+      {
+        "nombre": "Enemigo Despiadado",
+        "rareza": "especial",
+        "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "Profeta de un Dios Antiguo II",
+        "rareza": "epica",
+        "desc": "Cuando el Enemigo ataca, hago Surgir 3."
+      },
+      {
+        "nombre": "Los Enemigos de Demacia Caerán",
+        "rareza": "epica",
+        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
+      }
+    ],
+    "counters": []
   }
 ]
