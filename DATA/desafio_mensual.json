@@ -27,7 +27,7 @@
       {
         "nombre": "Fuerza Imparable",
         "rareza": "epica",
-        "desc": "Los aliados tienen +3|+3 Arrollar y No pueden bloquear."
+        "desc": "Los aliados tienen +3|+3, Arrollar y No pueden bloquear."
       }
     ],
     "counters": []
@@ -307,7 +307,7 @@
       {
         "nombre": "Fuerza Imparable",
         "rareza": "epica",
-        "desc": "Los aliados tienen +3|+3 Arrollar y No pueden bloquear."
+        "desc": "Los aliados tienen +3|+3, Arrollar y No pueden bloquear."
       },
       {
         "nombre": "Flujo de Maná",
@@ -654,7 +654,7 @@
       {
         "nombre": "Fuerza Imparable",
         "rareza": "epica",
-        "desc": "Los aliados tienen +3|+3 Arrollar y No pueden bloquear."
+        "desc": "Los aliados tienen +3|+3, Arrollar y No pueden bloquear."
       },
       {
         "nombre": "Enemigo Despiadado",
