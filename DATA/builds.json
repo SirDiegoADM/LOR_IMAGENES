@@ -680,6 +680,13 @@
   },
   {
     "campeon": "AMBESSA",
+    "r1": "ESPADA-DEL-ACECHADOR",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "TOMOS-OCULTOS",
     "r3": "MONEDERO-DE-CAMPEON",
@@ -1362,6 +1369,13 @@
     "r1": "OSITO-DE-APOYO-EMOCIONAL",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "MAZO-DEL-DESTINO",
+    "r4": ""
+  },
+  {
+    "campeon": "ASHE",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": ""
   },
   {
@@ -2559,6 +2573,13 @@
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "BACULO-DEL-ARCANGEL",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "CESE-Y-DESISTA",
     "r4": ""
   },
   {
@@ -4397,6 +4418,13 @@
   },
   {
     "campeon": "HEIMERDINGER",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "GASTO-DE-DEFENSA",
+    "r3": "COMETA-ARCANO",
+    "r4": ""
+  },
+  {
+    "campeon": "HEIMERDINGER",
     "r1": "GASTO-DE-DEFENSA",
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -5128,6 +5156,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "BACULO-DEL-ARCANGEL",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "JHIN",
+    "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r2": "BATERIA-REVOLTOSA",
+    "r3": "MAZO-DEL-DESTINO",
     "r4": ""
   },
   {
@@ -6841,6 +6876,13 @@
   {
     "campeon": "LUX",
     "r1": "BASTON-INCANDESCENTE-DE-LUX",
+    "r2": "PROTECTORES-DE-DEMACIA",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "LUX",
+    "r1": "BASTON-INCANDESCENTE-DE-LUX",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "TUMBA-CONGELADA",
     "r4": ""
@@ -7197,6 +7239,13 @@
   },
   {
     "campeon": "MAESTRO_YI",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "TECNICA-SECRETA",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "MAESTRO_YI",
     "r1": "TOMOS-OCULTOS",
     "r2": "TECNICA-SECRETA",
     "r3": "LA-BESTIA-INTERIOR",
@@ -7386,6 +7435,13 @@
   },
   {
     "campeon": "MEL",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "MEL",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "ANGEL-GUARDIAN",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -7522,6 +7578,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "TOMOS-OCULTOS",
     "r3": "ARMOTAS",
+    "r4": ""
+  },
+  {
+    "campeon": "MISS_FORTUNE",
+    "r1": "CONMOCION-Y-PAVOR",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "ESCUDO-NEGRO",
     "r4": ""
   },
   {
@@ -7837,6 +7900,13 @@
     "r1": "COSECHA-MALVADA",
     "r2": "ANGEL-GUARDIAN",
     "r3": "HIDRA-VORAZ",
+    "r4": ""
+  },
+  {
+    "campeon": "MORGANA",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "LA-CARGA-DE-LA-BALA-PERDIDA",
     "r4": ""
   },
   {
@@ -8936,6 +9006,13 @@
     "r1": "LA-PALA-DEL-ENTERRADOR",
     "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "NORRA",
+    "r1": "ACELERADOR-DE-PORTALES-DE-NORRA",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "ESPIRITU-RESONANTE",
     "r4": ""
   },
   {
@@ -10740,6 +10817,13 @@
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
     "r1": "FLAUTA-DE-ALBOROTADOR",
+    "r2": "DADOS-TRUCADOS",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "TEEMO_FLOR_ESPIRITUAL",
+    "r1": "FLAUTA-DE-ALBOROTADOR",
     "r2": "ESPANTAPAJAROS-INOFENSIVO",
     "r3": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
     "r4": "PROLIFERACION-DE-HONGOS-RUNA"
@@ -10918,6 +11002,13 @@
     "r2": "ESPANTAPAJAROS-INOFENSIVO",
     "r3": "COSECHA-MALVADA",
     "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "THRESH",
+    "r1": "LINTERNA-DE-ALMAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "HACHA-CORTAMIEDOS",
+    "r4": ""
   },
   {
     "campeon": "THRESH",
@@ -11596,6 +11687,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "VEX",
+    "r1": "HACHA-CORTAMIEDOS",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -12541,6 +12639,13 @@
     "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r2": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r3": "PROTOTIPO-DE-PULSAR-Z",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "ARPON-MORTIFERO",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
