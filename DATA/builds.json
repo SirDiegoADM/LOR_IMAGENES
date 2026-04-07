@@ -9178,6 +9178,27 @@
   },
   {
     "campeon": "NUNU_Y_WILLUMP",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "TIJERAS-ESPECTRALES",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "TIJERAS-ESPECTRALES",
+    "r2": "CONDENSADOR",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "CONDENSADOR",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
     "r1": "FULGOR-ARDIENTE",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "MAZO-ACUMULADO",
