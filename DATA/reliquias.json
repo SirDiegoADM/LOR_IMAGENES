@@ -108,6 +108,12 @@
     "recomendados": "ANNIE, DIANA, FIDDLESTICKS, GNAR, JINX, LEE_SIN, MEL, NAMI, NEEKO, NILAH, SAMIRA, SWAIN, VEX, VIKTOR, YASUO_FLOR_ESPIRITUAL"
   },
   {
+    "id": "CAOS-IMPROVISADO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Caos_Improvisado.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
     "id": "CAPARAZON-DEL-VACIO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Caparazón_del_Vacío.webp",
     "rareza": "rara",
@@ -174,6 +180,12 @@
     "recomendados": "GWEN, KINDRED, LA_ARREBATADORA, LUX_ILUMINADA, MEL, MORDEKAISER, MORGANA, NASUS, PYKE, SHYVANA, SWAIN, TEEMO_FLOR_ESPIRITUAL, THRESH, VEX, VIEGO, WARWICK"
   },
   {
+    "id": "CUCHILLA-GIRATORIA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cuchilla_Giratoria.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
     "id": "DADOS-TRUCADOS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Dados_Trucados.webp",
     "rareza": "epica",
@@ -234,6 +246,12 @@
     "recomendados": "AHRI, AURELION_SOL, BARDO, EVELYNN, FIDDLESTICKS, JAYCE, NAMI, NORRA, SWAIN, VEIGAR"
   },
   {
+    "id": "EL-EQUILIBRADOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Equilibrador.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
     "id": "EL-ESCONDITE-DEL-AZOTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Escondite_del_Azote.webp",
     "rareza": "rara",
@@ -250,6 +268,12 @@
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Plan_de_Contingencia_del_Gran_General.webp",
     "rareza": "rara",
     "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, AMBESSA, ANIVIA, ANNIE, ASHE, AURELION_SOL, AZIR, BARDO, CAITLYN, DIANA, EKKO, ELISE, EVELYNN, EVELYNN_FLOR_ESPIRITUAL, GAREN, GWEN, ILLAOI, JACK, JANNA, JAX, JAYCE, JHIN, JINX, KAISA, KAYN, KINDRED, LA_ARREBATADORA, LEE_SIN, LEONA, LILLIA, LUX, MAESTRO_YI, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, MISS_FORTUNE, MORGANA, NAMI, NASUS, NAUTILUS, NEEKO, NILAH, NORRA, PYKE, SAMIRA, SETT, SORAKA, TAHM_KENCH, TALIYAH, TEEMO, TEEMO_FLOR_ESPIRITUAL, TWISTED_FATE, VAYNE, VEX, YASUO, YASUO_FLOR_ESPIRITUAL, YUUMI"
+  },
+  {
+    "id": "EL-PRECIO-DE-LA-RETRIBUCIÓN",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Precio_de_la_Retribución.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
     "id": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
@@ -522,6 +546,12 @@
     "recomendados": "CAITLYN, EKKO, GNAR, JACK, JAX, LUX, PYKE, TALIYAH, YUUMI"
   },
   {
+    "id": "LA-MANO-DEL-DESTINO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Mano_del_Destino.webp",
+    "rareza": "rara",
+    "recomendados": ""
+  },
+  {
     "id": "LA-PALA-DEL-ENTERRADOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Pala_del_Enterrador.webp",
     "rareza": "rara",
@@ -567,6 +597,12 @@
     "id": "MANGUAL-DE-HIELO-PURO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Mangual_de_Hielo_Puro.webp",
     "rareza": "comun",
+    "recomendados": ""
+  },
+  {
+    "id": "MARCA-DE-SANGRE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Marca_de_Sangre.webp",
+    "rareza": "rara",
     "recomendados": ""
   },
   {
@@ -636,6 +672,12 @@
     "recomendados": "AATROX, ANIVIA, AZIR, BARDO, EVELYNN, EVELYNN_FLOR_ESPIRITUAL, GAREN, HEIMERDINGER, JACK, KAISA, KAYLE, KAYN, LA_ARREBATADORA, LEE_SIN, LEONA, LUX, MORGANA, ORNN, SETT, SWAIN, TAHM_KENCH, TALIYAH, TEEMO_FLOR_ESPIRITUAL, THRESH, VIKTOR, YASUO_FLOR_ESPIRITUAL"
   },
   {
+    "id": "ORDEN-DE-EXPLORACIÓN",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Orden_de_Exploración.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
     "id": "OSITO-DE-APOYO-EMOCIONAL",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Osito_de_Apoyo_Emocional.webp",
     "rareza": "epica",
@@ -654,10 +696,28 @@
     "recomendados": "ANIVIA, KAYN, KINDRED, LEBLANC, LILLIA, YASUO"
   },
   {
+    "id": "PLACA-DEL-CENTINELA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Placa_del_Centinela.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
+    "id": "PODER-RENOVADOR",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Poder_Renovador.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
     "id": "POLVORA-CARGADA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Pólvora_Cargada.webp",
     "rareza": "epica",
     "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, AMBESSA, ASHE, AURELION_SOL, BARDO, DARIUS, DRAGON_ANCESTRAL, EVELYNN, EVELYNN_FLOR_ESPIRITUAL, GNAR, GWEN, HEIMERDINGER, JACK, JANNA, JAYCE, JHIN, JINX, KAISA, KINDRED, LA_ARREBATADORA, LEONA, LUX, MAESTRO_YI_FLOR_ESPIRITUAL, MISS_FORTUNE, MORGANA, NILAH, ORNN, PYKE, SAMIRA, SHYVANA, SWAIN, TALIYAH, TEEMO_FLOR_ESPIRITUAL, TWISTED_FATE, VEIGAR, VI, VIKTOR, WARWICK"
+  },
+  {
+    "id": "POTENCIA-ARROLLADORA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Potencia_Arrolladora.webp",
+    "rareza": "rara",
+    "recomendados": ""
   },
   {
     "id": "PROTECTORES-DE-DEMACIA",
@@ -678,6 +738,12 @@
     "recomendados": "TEEMO_FLOR_ESPIRITUAL, THRESH, VI"
   },
   {
+    "id": "RELICARIO-ENERVANTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Relicario_Enervante.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
     "id": "REVESTIMIENTO-DE-TORRETA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Revestimiento_de_Torreta.webp",
     "rareza": "rara",
@@ -688,6 +754,12 @@
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Rifle_Hextech.webp",
     "rareza": "epica",
     "recomendados": "CAITLYN, TEEMO_FLOR_ESPIRITUAL"
+  },
+  {
+    "id": "RITMOS-DE-DESESPERANZA",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ritmos_de_Desesperanza.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
     "id": "RUNAS-DRACONICAS",
