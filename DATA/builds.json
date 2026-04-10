@@ -561,6 +561,13 @@
   },
   {
     "campeon": "AKSHAN",
+    "r1": "CAZADOR-DE-RUFIANES",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -1149,6 +1156,13 @@
   },
   {
     "campeon": "ANNIE",
+    "r1": "MAZO-DEL-DESTINO",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "CONMOCION-Y-PAVOR",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
     "r1": "ARMOTAS",
     "r2": "LADRONA-DE-ESENCIAS",
     "r3": "MURMULLO",
@@ -1369,6 +1383,13 @@
     "r1": "OSITO-DE-APOYO-EMOCIONAL",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "MAZO-DEL-DESTINO",
+    "r4": ""
+  },
+  {
+    "campeon": "ASHE",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "ORDEN-DE-EXPLORACIÓN",
+    "r3": "LA-BESTIA-INTERIOR",
     "r4": ""
   },
   {
@@ -2787,6 +2808,13 @@
   },
   {
     "campeon": "EKKO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "EKKO",
     "r1": "FULGOR-ARDIENTE",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "APRENDIZ-DE-LAS-SOMBRAS",
@@ -3105,6 +3133,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "LA-CORONA-DEL-REY-TROL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "HOJASOMBRA-DE-VALLECLARO",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": ""
   },
   {
@@ -4887,6 +4922,13 @@
   },
   {
     "campeon": "JAX",
+    "r1": "ARMA-VIVIENTE",
+    "r2": "SUJETAESPADAS-LAURENT",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "JAX",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
@@ -5366,6 +5408,20 @@
     "r1": "BATERIA-REVOLTOSA",
     "r2": "BACULO-DEL-ARCANGEL",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "JINX",
+    "r1": "EL-PRECIO-DE-LA-RETRIBUCIÓN",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "LA-CARGA-DE-LA-BALA-PERDIDA",
+    "r4": ""
+  },
+  {
+    "campeon": "JINX",
+    "r1": "ARMOTAS",
+    "r2": "PROTECTORES-DE-DEMACIA",
+    "r3": "CONMOCION-Y-PAVOR",
     "r4": ""
   },
   {
@@ -6750,6 +6806,27 @@
   {
     "campeon": "LILLIA",
     "r1": "ESPIRITU-RESONANTE",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
+    "r1": "EL-PRECIO-DE-LA-RETRIBUCIÓN",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
+    "r1": "ESPADA-DEL-ACECHADOR",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "PERMAHIELO",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
+    "r1": "ESPIRITU-RESONANTE",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "PERMAHIELO",
     "r4": ""
@@ -7582,6 +7659,13 @@
   },
   {
     "campeon": "MISS_FORTUNE",
+    "r1": "MAZO-DEL-DESTINO",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "CONMOCION-Y-PAVOR",
+    "r4": ""
+  },
+  {
+    "campeon": "MISS_FORTUNE",
     "r1": "CONMOCION-Y-PAVOR",
     "r2": "ESPIRITU-DE-LOS-BUHRU",
     "r3": "ESCUDO-NEGRO",
@@ -7900,6 +7984,13 @@
     "r1": "COSECHA-MALVADA",
     "r2": "ANGEL-GUARDIAN",
     "r3": "HIDRA-VORAZ",
+    "r4": ""
+  },
+  {
+    "campeon": "MORGANA",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "ORDEN-DE-EXPLORACIÓN",
     "r4": ""
   },
   {
@@ -8264,6 +8355,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "NASUS",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "ESPIRITU-RESONANTE",
     "r4": ""
   },
   {
@@ -9829,6 +9927,13 @@
   },
   {
     "campeon": "SHYVANA",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "BACULO-CELESTIAL",
+    "r4": ""
+  },
+  {
+    "campeon": "SHYVANA",
     "r1": "BACULO-CELESTIAL",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "ESPADA-DEL-ACECHADOR",
@@ -10049,6 +10154,13 @@
     "r1": "MAZO-ACUMULADO",
     "r2": "CORAZON-DE-ORO",
     "r3": "LA-CORONA-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "SORAKA",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "MARCA-DE-SANGRE",
     "r4": ""
   },
   {
@@ -10838,6 +10950,13 @@
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
     "r1": "FLAUTA-DE-ALBOROTADOR",
+    "r2": "ESPANTAPAJAROS-INOFENSIVO",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "TEEMO_FLOR_ESPIRITUAL",
+    "r1": "FLAUTA-DE-ALBOROTADOR",
     "r2": "DADOS-TRUCADOS",
     "r3": "FULGOR-ARDIENTE",
     "r4": "PROLIFERACION-DE-HONGOS-RUNA"
@@ -11442,6 +11561,34 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "TEMPESTAD-DE-LUDEN",
     "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
+    "r1": "TECNICA-SECRETA",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "ORBE-LUMINOSO",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
+    "r1": "RELICARIO-ENERVANTE",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "ORBE-LUMINOSO",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
+    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r2": "TECNICA-SECRETA",
+    "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -12062,6 +12209,20 @@
   },
   {
     "campeon": "VIEGO",
+    "r1": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r2": "MAZO-ACUMULADO",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "VIEGO",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "DERROTA-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "VIEGO",
     "r1": "ESCUDO-NEGRO",
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
     "r3": "TIJERAS-ESPECTRALES",
@@ -12660,6 +12821,13 @@
     "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r2": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r3": "PROTOTIPO-DE-PULSAR-Z",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "CUCHILLA-GIRATORIA",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r4": ""
   },
   {
