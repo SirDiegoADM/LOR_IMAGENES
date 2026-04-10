@@ -11565,6 +11565,13 @@
   },
   {
     "campeon": "UDYR",
+    "r1": "RELICARIO-ENERVANTE",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
     "r1": "TECNICA-SECRETA",
     "r2": "GUANTELETES-ESTELARES",
     "r3": "ORBE-LUMINOSO",
