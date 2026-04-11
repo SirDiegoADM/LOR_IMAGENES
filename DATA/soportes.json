@@ -1648,7 +1648,12 @@
   },
   {
     "principal": "UDYR",
-    "S": [],
+    "S": [
+      "Ashe",
+      "Bardo",
+      "Fiora",
+      "Shyvana"
+    ],
     "A": [],
     "B": [],
     "C": []
