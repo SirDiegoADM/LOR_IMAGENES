@@ -1649,13 +1649,23 @@
   {
     "principal": "UDYR",
     "S": [
-      "Ashe",
-      "Bardo",
       "Fiora",
-      "Shyvana"
+      "Taric"
     ],
-    "A": [],
-    "B": [],
+    "A": [
+      "Renekton",
+      "Braum",
+      "Sivir",
+      "Kai'Sa",
+      "Viktor",
+      "Morgana"
+    ],
+    "B": [
+      "Ambessa",
+      "Shyvana",
+      "Pantheon",
+      "Kayle"
+    ],
     "C": []
   },
   {
