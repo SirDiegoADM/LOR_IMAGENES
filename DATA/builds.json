@@ -519,6 +519,13 @@
   },
   {
     "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "FUERZA-PETREA",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
     "r1": "FUERZA-PÉTREA",
     "r2": "ESPÍRITUS-ASISTENTES",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
@@ -5734,6 +5741,13 @@
   },
   {
     "campeon": "JACK",
+    "r1": "PLACA-DEL-CENTINELA",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "JACK",
     "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r2": "TOMOS-OCULTOS",
     "r3": "DERROTA-DE-LA-MUERTE",
@@ -7151,6 +7165,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "TEMPESTAD-DE-LUDEN",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "KAYLE",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "TECNICA-SECRETA",
+    "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
   },
   {
@@ -8730,6 +8751,13 @@
   },
   {
     "campeon": "LUX_ILUMINADA",
+    "r1": "HACHA-CORTAMIEDOS",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "LUX_ILUMINADA",
     "r1": "BASTÓN-INCANDESCENTE-DE-LUX",
     "r2": "HACHA-CORTAMIEDOS",
     "r3": "NÚCLEO-HEX-PERFECTO",
@@ -9419,6 +9447,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "TOMOS-OCULTOS",
     "r3": "ARMOTAS",
+    "r4": ""
+  },
+  {
+    "campeon": "MISS_FORTUNE",
+    "r1": "CONMOCION-Y-PAVOR",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "MAZO-ACUMULADO",
     "r4": ""
   },
   {
@@ -11579,6 +11614,13 @@
   },
   {
     "campeon": "PYKE",
+    "r1": "ARPON-MORTIFERO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r4": ""
+  },
+  {
+    "campeon": "PYKE",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "MAZO-ACUMULADO",
     "r3": "BASTÓN-INCANDESCENTE-DE-LUX",
@@ -12135,6 +12177,20 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "LA-CORONA-DEL-REY-TROL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "SHYVANA",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r4": ""
+  },
+  {
+    "campeon": "SHYVANA",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "COSECHA-MALVADA",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -13868,6 +13924,13 @@
   },
   {
     "campeon": "TRYNDAMERE",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "AMIGUIS-DEL-PORTAL",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "TRYNDAMERE",
     "r1": "ESPÍRITU-RESONANTE",
     "r2": "AMIGUIS-DEL-PORTAL",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -14256,6 +14319,27 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "TEMPESTAD-DE-LUDEN",
     "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
+    "r1": "BACULO-DEL-ARCANGEL",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
+    "r1": "DUPLICADOR-QUIMTECH",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "LA-HEBILLA-DEL-BERSERKER",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
+    "r1": "TOMOS-OCULTOS",
+    "r2": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r3": "PLACA-DEL-CENTINELA",
     "r4": ""
   },
   {
