@@ -1,6 +1,20 @@
 [
   {
     "campeon": "AATROX",
+    "r1": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "MARCA-DEL-SUCUBO",
     "r3": "LA-BESTIA-INTERIOR",
@@ -522,7 +536,7 @@
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r3": "BASTON-INCANDESCENTE-DE-LUX",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "AHRI_FLOR_ESPIRITUAL",
@@ -3109,6 +3123,13 @@
   },
   {
     "campeon": "EKKO",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "CAOS-IMPROVISADO",
+    "r4": ""
+  },
+  {
+    "campeon": "EKKO",
     "r1": "JURAMENTO-DE-LOS-GUARDIANES",
     "r2": "LA-BALANZA-DE-LA-JUSTICIA",
     "r3": "GEMA-ESTELAR",
@@ -3987,14 +4008,14 @@
     "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
     "r3": "BASTON-INCANDESCENTE-DE-LUX",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "EVELYNN_FLOR_ESPIRITUAL",
     "r1": "BASTON-INCANDESCENTE-DE-LUX",
     "r2": "DADOS-TRUCADOS",
     "r3": "LA-BESTIA-INTERIOR",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "EVELYNN_FLOR_ESPIRITUAL",
@@ -6801,7 +6822,7 @@
     "r1": "ESPIRITU-RESONANTE",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "DADOS-TRUCADOS",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "LA_ARREBATADORA",
@@ -6841,23 +6862,9 @@
   {
     "campeon": "LA_ARREBATADORA",
     "r1": "ESPIRITU-RESONANTE",
-    "r2": "LA-BESTIA-INTERIOR",
-    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
-  },
-  {
-    "campeon": "LA_ARREBATADORA",
-    "r1": "ESPIRITU-RESONANTE",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "CAPARAZON-DEL-VACIO",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
-  },
-  {
-    "campeon": "LA_ARREBATADORA",
-    "r1": "ESPIRITU-RESONANTE",
-    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
-    "r3": "COSECHA-MALVADA",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "LA_ARREBATADORA",
@@ -7484,6 +7491,20 @@
   },
   {
     "campeon": "LILLIA",
+    "r1": "CUCHILLA-GIRATORIA",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
     "r1": "COSECHA-MALVADA",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "ANGEL-GUARDIAN",
@@ -7648,6 +7669,13 @@
     "r1": "ESPADA-DEL-ACECHADOR",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "PERMAHIELO",
+    "r4": ""
+  },
+  {
+    "campeon": "LUX",
+    "r1": "PROTECTORES-DE-DEMACIA",
+    "r2": "BASTON-INCANDESCENTE-DE-LUX",
+    "r3": "FUERZA-PETREA",
     "r4": ""
   },
   {
@@ -8110,7 +8138,7 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "ESPADA-VENERABLE",
     "r3": "DADOS-TRUCADOS",
-    "r4": "SALÓN-INQUIETANTE-RUNA"
+    "r4": "SALON-INQUIETANTE-RUNA"
   },
   {
     "campeon": "MAESTRO_YI_FLOR_ESPIRITUAL",
@@ -8131,7 +8159,7 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "ESPADA-VENERABLE",
     "r3": "TECNICA-SECRETA",
-    "r4": "SALÓN-INQUIETANTE-RUNA"
+    "r4": "SALON-INQUIETANTE-RUNA"
   },
   {
     "campeon": "MAESTRO_YI_FLOR_ESPIRITUAL",
@@ -8144,15 +8172,8 @@
     "campeon": "MAESTRO_YI_FLOR_ESPIRITUAL",
     "r1": "TECNICA-SECRETA",
     "r2": "LA-BESTIA-INTERIOR",
-    "r3": "FULGOR-ARDIENTE",
-    "r4": "SECRETOS-DE-LOS-ESPÍRITUS-RUNA"
-  },
-  {
-    "campeon": "MAESTRO_YI_FLOR_ESPIRITUAL",
-    "r1": "TECNICA-SECRETA",
-    "r2": "LA-BESTIA-INTERIOR",
     "r3": "BASTON-INCANDESCENTE-DE-LUX",
-    "r4": "SECRETOS-DE-LOS-ESPÍRITUS-RUNA"
+    "r4": "SECRETOS-DE-LOS-ESPIRITUS-RUNA"
   },
   {
     "campeon": "MAESTRO_YI_FLOR_ESPIRITUAL",
@@ -10466,6 +10487,13 @@
   },
   {
     "campeon": "PYKE",
+    "r1": "ESPADAFUEGO-CELESTE",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "PYKE",
     "r1": "ARPON-MORTIFERO",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "LA-BALANZA-DE-LA-JUSTICIA",
@@ -11260,6 +11288,13 @@
     "r1": "MAZO-ACUMULADO",
     "r2": "CORAZON-DE-ORO",
     "r3": "LA-CORONA-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "SORAKA",
+    "r1": "BACULO-CELESTIAL",
+    "r2": "EXPERIMENTOS-CRUELES",
+    "r3": "ESCUDO-NEGRO",
     "r4": ""
   },
   {
@@ -12135,14 +12170,14 @@
     "r1": "ESPIRITU-RESONANTE",
     "r2": "CONDENSADOR",
     "r3": "FORTUNA-ENCONTRADA",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r3": "BASTON-INCANDESCENTE-DE-LUX",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
@@ -12150,13 +12185,6 @@
     "r2": "DADOS-TRUCADOS",
     "r3": "TOMOS-OCULTOS",
     "r4": "COMPRADOR-EXPERTO-RUNA"
-  },
-  {
-    "campeon": "TEEMO_FLOR_ESPIRITUAL",
-    "r1": "FLAUTA-DE-ALBOROTADOR",
-    "r2": "ESPANTAPAJAROS-INOFENSIVO",
-    "r3": "RIFLE-HEXTECH",
-    "r4": "PROLIFERACIÓN-DE-HONGOS-RUNA"
   },
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
@@ -12902,6 +12930,13 @@
   },
   {
     "campeon": "UDYR",
+    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r2": "POLVORA-CARGADA",
+    "r3": "RELICARIO-ENERVANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "CAPITULO-PERDIDO",
@@ -13311,6 +13346,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "VEX",
+    "r1": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -14184,6 +14226,13 @@
   {
     "campeon": "VOLIBEAR",
     "r1": "GUANTELETES-ESTELARES",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
     "r2": "CESE-Y-DESISTA",
     "r3": "GARRAS-GRANDES",
     "r4": ""
@@ -14647,6 +14696,13 @@
     "campeon": "YASUO",
     "r1": "ESPADA-DE-VIENTO-DE-YASUO",
     "r2": "ESPIRITU-RESONANTE",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r2": "ESPIRITU-RESONANTE",
     "r3": "LA-MANO-DEL-DESTINO",
     "r4": ""
   },
@@ -14900,21 +14956,21 @@
     "r1": "TOMOS-OCULTOS",
     "r2": "LA-BALANZA-DE-LA-JUSTICIA",
     "r3": "JURAMENTO-DE-LOS-GUARDIANES",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "YASUO_FLOR_ESPIRITUAL",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "DADOS-TRUCADOS",
     "r3": "BASTON-INCANDESCENTE-DE-LUX",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "YASUO_FLOR_ESPIRITUAL",
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "ESPADA-DE-VIENTO-DE-YASUO",
     "r3": "FULGOR-ARDIENTE",
-    "r4": "INSPIRACIÓN-ALOCADA-RUNA"
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "YASUO_FLOR_ESPIRITUAL",
