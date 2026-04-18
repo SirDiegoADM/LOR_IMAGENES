@@ -111,7 +111,7 @@
     "id": "CAOS-IMPROVISADO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Caos_Improvisado.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "EKKO"
   },
   {
     "id": "CAPARAZON-DEL-VACIO",
@@ -183,7 +183,7 @@
     "id": "CUCHILLA-GIRATORIA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cuchilla_Giratoria.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "LILLIA, TEEMO, WARWICK"
   },
   {
     "id": "DADOS-TRUCADOS",
@@ -273,7 +273,7 @@
     "id": "EL-PRECIO-DE-LA-RETRIBUCION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Precio_de_la_Retribución.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "JINX, KINDRED, LILLIA, MEL, VEX"
   },
   {
     "id": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
@@ -549,13 +549,13 @@
     "id": "LA-MANO-DE-NOXUS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_mano_de_Noxus.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "DARIUS"
   },
   {
     "id": "LA-MANO-DEL-DESTINO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Mano_del_Destino.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "DARIUS, NAUTILUS, YASUO"
   },
   {
     "id": "LA-PALA-DEL-ENTERRADOR",
@@ -609,7 +609,7 @@
     "id": "MARCA-DE-SANGRE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Marca_de_Sangre.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "SORAKA, WARWICK"
   },
   {
     "id": "MARCA-DEL-SUCUBO",
@@ -681,7 +681,7 @@
     "id": "ORDEN-DE-EXPLORACION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Orden_de_Exploración.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "ASHE, MORGANA"
   },
   {
     "id": "OSITO-DE-APOYO-EMOCIONAL",
@@ -705,13 +705,13 @@
     "id": "PLACA-DEL-CENTINELA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Placa_del_Centinela.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "AATROX, JACK, SORAKA, UDYR"
   },
   {
     "id": "PODER-RENOVADOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Poder_Renovador.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "JAYCE"
   },
   {
     "id": "POLVORA-CARGADA",
@@ -723,7 +723,7 @@
     "id": "POTENCIA-ARROLLADORA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Potencia_Arrolladora.webp",
     "rareza": "rara",
-    "recomendados": ""
+    "recomendados": "FIDDLESTICKS"
   },
   {
     "id": "PROTECTORES-DE-DEMACIA",
@@ -747,7 +747,7 @@
     "id": "RELICARIO-ENERVANTE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Relicario_Enervante.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "UDYR"
   },
   {
     "id": "REVESTIMIENTO-DE-TORRETA",
@@ -765,7 +765,7 @@
     "id": "RITMOS-DE-DESESPERANZA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Ritmos_de_Desesperanza.webp",
     "rareza": "epica",
-    "recomendados": ""
+    "recomendados": "HEIMERDINGER, VEX"
   },
   {
     "id": "RUNAS-DRACONICAS",
