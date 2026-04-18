@@ -546,6 +546,12 @@
     "recomendados": "CAITLYN, EKKO, GNAR, JACK, JAX, LUX, PYKE, TALIYAH, YUUMI"
   },
   {
+    "id": "LA-MANO-DE-NOXUS",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_mano_de_Noxus.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
     "id": "LA-MANO-DEL-DESTINO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/La_Mano_del_Destino.webp",
     "rareza": "rara",
