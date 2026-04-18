@@ -2584,6 +2584,20 @@
   },
   {
     "campeon": "DARIUS",
+    "r1": "LA-MANO-DE-NOXUS",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "LA-MANO-DE-NOXUS",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
     "r1": "GUANTELETES-ESTELARES",
     "r2": "TIJERAS-ESPECTRALES",
     "r3": "DADOS-TRUCADOS",
