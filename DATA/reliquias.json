@@ -15,7 +15,7 @@
     "id": "ALIENTO-HELADO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Aliento_Helado.webp",
     "rareza": "epica",
-    "recomendados": "ANIVIA"
+    "recomendados": "ANIVIA, LILLIA"
   },
   {
     "id": "AMIGUIS-DEL-PORTAL",
@@ -117,7 +117,7 @@
     "id": "CAPARAZON-DEL-VACIO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Caparazón_del_Vacío.webp",
     "rareza": "rara",
-    "recomendados": "AATROX, AHRI, AKSHAN, AMBESSA, ANIVIA, ANNIE, BARDO, CAITLYN, DRAGON_ANCESTRAL, EL_REY_PORO, ELISE, EVELYNN, GAREN, GNAR, GWEN, JAX, JAYCE, KAISA, KINDRED, LA_ARREBATADORA, LEONA, LILLIA, LUX_ILUMINADA, MEL, MORDEKAISER, NASUS, NEEKO, NUNU_Y_WILLUMP, ORNN, PYKE, SAMIRA, SHYVANA, SORAKA, SWAIN, THRESH, TRYNDAMERE, UDYR, VAYNE, VEX, VIEGO, VIKTOR, WARWICK, YASUO, YUUMI"
+    "recomendados": "AATROX, AHRI, AKSHAN, AMBESSA, ANIVIA, ANNIE, ASHE, BARDO, CAITLYN, DRAGON_ANCESTRAL, EL_REY_PORO, ELISE, EVELYNN, GAREN, GNAR, GWEN, JAX, JAYCE, KAISA, KINDRED, LA_ARREBATADORA, LEONA, LILLIA, LUX_ILUMINADA, MEL, MORDEKAISER, NASUS, NEEKO, NUNU_Y_WILLUMP, ORNN, PYKE, SAMIRA, SHYVANA, SORAKA, SWAIN, THRESH, TRYNDAMERE, UDYR, VAYNE, VEX, VIEGO, VIKTOR, WARWICK, YASUO, YUUMI"
   },
   {
     "id": "CAPITULO-PERDIDO",
@@ -213,7 +213,7 @@
     "id": "DUPLICADOR-QUIMTECH",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Duplicador_Quimtech.webp",
     "rareza": "rara",
-    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, CAITLYN, DARIUS, DRAGON_ANCESTRAL, EKKO, EL_REY_PORO, FIDDLESTICKS, GAREN, GNAR, HEIMERDINGER, JACK, JANNA, JAYCE, JHIN, KAYLE, LA_ARREBATADORA, LEE_SIN, LEONA, LUX, LUX_ILUMINADA, MEL, MISS_FORTUNE, MORGANA, NAMI, NASUS, ORNN, SAMIRA, SETT, SWAIN, TEEMO_FLOR_ESPIRITUAL, TRYNDAMERE, TWISTED-FATE, TWISTED_FATE, UDYR, VARUS, VEIGAR, VEX, VIKTOR, VOLIBEAR, YASUO"
+    "recomendados": "AKSHAN, AMBESSA, ANIVIA, ANNIE, CAITLYN, DARIUS, DRAGON_ANCESTRAL, EKKO, EL_REY_PORO, FIDDLESTICKS, GAREN, GNAR, HEIMERDINGER, JACK, JANNA, JAYCE, JHIN, KAYLE, LA_ARREBATADORA, LEE_SIN, LEONA, LUX, LUX_ILUMINADA, MEL, MISS_FORTUNE, MORGANA, NAMI, NASUS, ORNN, SAMIRA, SETT, SORAKA, SWAIN, TEEMO_FLOR_ESPIRITUAL, TRYNDAMERE, TWISTED-FATE, TWISTED_FATE, UDYR, VARUS, VEIGAR, VEX, VIKTOR, VOLIBEAR, YASUO"
   },
   {
     "id": "EJERCITO-DE-CUERVOS-DE-SWAIN",
@@ -273,7 +273,7 @@
     "id": "EL-PRECIO-DE-LA-RETRIBUCION",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/El_Precio_de_la_Retribución.webp",
     "rareza": "epica",
-    "recomendados": "JINX, KINDRED, LILLIA, MEL, VEX"
+    "recomendados": "AATROX, JINX, KINDRED, LILLIA, MEL, VEX"
   },
   {
     "id": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
@@ -315,7 +315,7 @@
     "id": "ESPADA-DE-LA-TEMPESTAD",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espada_de_la_Tempestad.webp",
     "rareza": "rara",
-    "recomendados": "AHRI_FLOR_ESPIRITUAL, ANNIE, AURELION_SOL, DARIUS, EVELYNN, GWEN, JAX, JHIN, LUX, MAESTRO_YI_FLOR_ESPIRITUAL, NIDALEE, ORNN, TALIYAH, TRYNDAMERE, YASUO"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, ANNIE, ASHE, AURELION_SOL, DARIUS, ELISE, EVELYNN, GWEN, JAX, JHIN, KAISA, LUX, MAESTRO_YI_FLOR_ESPIRITUAL, NIDALEE, ORNN, TALIYAH, TRYNDAMERE, YASUO"
   },
   {
     "id": "ESPADA-DE-VIENTO-DE-YASUO",
@@ -351,7 +351,7 @@
     "id": "ESPANTAPAJAROS-INOFENSIVO",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Espantapájaros_Inofensivo.webp",
     "rareza": "epica",
-    "recomendados": "CAITLYN, EKKO, ELISE, FIDDLESTICKS, JAYCE, LUX, TEEMO_FLOR_ESPIRITUAL, WARWICK"
+    "recomendados": "CAITLYN, EKKO, ELISE, FIDDLESTICKS, JAYCE, LUX, SORAKA, TEEMO_FLOR_ESPIRITUAL, WARWICK"
   },
   {
     "id": "ESPATULA-DORADA",
@@ -387,7 +387,7 @@
     "id": "FILO-DE-LA-TORMENTA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Filo_de_la_Tormenta.webp",
     "rareza": "comun",
-    "recomendados": "DARIUS, ELISE, ILLAOI, MISS_FORTUNE, MORDEKAISER, NEEKO, VAYNE, VEX, VI, VIEGO, YUUMI"
+    "recomendados": "AHRI_FLOR_ESPIRITUAL, AURELION_SOL, DARIUS, ELISE, EVELYNN, ILLAOI, MAESTRO_YI_FLOR_ESPIRITUAL, MISS_FORTUNE, MORDEKAISER, NEEKO, TALIYAH, VAYNE, VEX, VI, VIEGO, YUUMI"
   },
   {
     "id": "FLAUTA-DE-ALBOROTADOR",
@@ -429,7 +429,7 @@
     "id": "GARRAS-GRANDES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/garras_grandes.webp",
     "rareza": "epica",
-    "recomendados": "ANIVIA, DRAGON_ANCESTRAL, NASUS, SHYVANA, VIEGO, VOLIBEAR, YASUO_FLOR_ESPIRITUAL"
+    "recomendados": "ANIVIA, ANNIE, DRAGON_ANCESTRAL, JHIN, JINX, KAISA, MEL, MISS_FORTUNE, NASUS, SHYVANA, SWAIN, VIEGO, VOLIBEAR, YASUO_FLOR_ESPIRITUAL"
   },
   {
     "id": "GASTO-DE-DEFENSA",
@@ -711,7 +711,7 @@
     "id": "PODER-RENOVADOR",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Poder_Renovador.webp",
     "rareza": "epica",
-    "recomendados": "JAYCE"
+    "recomendados": "ANIVIA, JAYCE"
   },
   {
     "id": "POLVORA-CARGADA",
@@ -771,7 +771,7 @@
     "id": "RUNAS-DRACONICAS",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Runas_Dracónicas.webp",
     "rareza": "epica",
-    "recomendados": "GWEN, SHYVANA"
+    "recomendados": "GWEN, PYKE, SHYVANA"
   },
   {
     "id": "SINFONIA-DE-LA-TEJEHECHIZOS",
