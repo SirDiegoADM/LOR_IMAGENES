@@ -225,6 +225,13 @@
   },
   {
     "campeon": "AHRI",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "LADRONA-DE-ESENCIAS",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
     "r1": "POLVORA-CARGADA",
     "r2": "TOMOS-OCULTOS",
     "r3": "HIMNO-DEL-VALOR",
@@ -8856,6 +8863,13 @@
   },
   {
     "campeon": "MISS_FORTUNE",
+    "r1": "CONMOCION-Y-PAVOR",
+    "r2": "ARMOTAS",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "MISS_FORTUNE",
     "r1": "GARRAS-GRANDES",
     "r2": "FULGOR-ARDIENTE",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
@@ -9622,6 +9636,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "NASUS",
+    "r1": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ESPADA-DEL-ACECHADOR",
     "r4": ""
   },
   {
