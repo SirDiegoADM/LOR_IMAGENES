@@ -1128,6 +1128,13 @@
   },
   {
     "campeon": "ANIVIA",
+    "r1": "TUMBA-CONGELADA",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "TEMPESTAD-DE-LUDEN",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
     "r1": "PODER-RENOVADOR",
     "r2": "ANGEL-GUARDIAN",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -1761,6 +1768,13 @@
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "SUJETAESPADAS-LAURENT",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r4": ""
   },
   {
@@ -3998,6 +4012,13 @@
   },
   {
     "campeon": "EVELYNN",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "EVELYNN",
     "r1": "LLAMADO-DE-SIRENA",
     "r2": "ESCUDO-NEGRO",
     "r3": "FILO-DE-LA-TORMENTA",
@@ -4289,6 +4310,13 @@
     "r2": "BACULO-DEL-ARCANGEL",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "FIDDLESTICKS",
+    "r1": "CONMOCION-Y-PAVOR",
+    "r2": "ESPANTAPAJAROS-INOFENSIVO",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
   },
   {
     "campeon": "FIDDLESTICKS",
@@ -7092,6 +7120,20 @@
   },
   {
     "campeon": "LA_ARREBATADORA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "LA-CORONA-DEL-REY-TROL",
+    "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "LA_ARREBATADORA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "CUCHILLA-GIRATORIA",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "LA_ARREBATADORA",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "COSECHA-MALVADA",
@@ -7774,6 +7816,41 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "POTENCIA-ARROLLADORA",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "POLVORA-CARGADA",
+    "r3": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
+    "r1": "LA-MANO-DEL-DESTINO",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "ORBE-DEL-GUARDIAN",
     "r4": ""
   },
   {
