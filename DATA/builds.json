@@ -15625,6 +15625,13 @@
   },
   {
     "campeon": "VIKTOR",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "CAPITULO-PERDIDO",
+    "r3": "HIMNO-DEL-VALOR",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
     "r1": "LA-MANO-DEL-DESTINO",
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "ESPIRITU-RESONANTE",
@@ -16062,6 +16069,13 @@
     "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r2": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r3": "PROTOTIPO-DE-PULSAR-Z",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "LLAMADO-DE-SIRENA",
+    "r2": "MARCA-DEL-SUCUBO",
+    "r3": "COSECHA-MALVADA",
     "r4": ""
   },
   {
@@ -16609,6 +16623,13 @@
     "r2": "ESPADA-DE-LA-TEMPESTAD",
     "r3": "PERMAHIELO",
     "r4": ""
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r3": "AMIGUIS-DEL-PORTAL",
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "YASUO_FLOR_ESPIRITUAL",
