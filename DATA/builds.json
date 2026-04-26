@@ -7197,6 +7197,13 @@
   },
   {
     "campeon": "KAYLE",
+    "r1": "ESPADAFUEGO-CELESTE",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "TECNICA-SECRETA",
+    "r4": ""
+  },
+  {
+    "campeon": "KAYLE",
     "r1": "TECNICA-SECRETA",
     "r2": "HIMNO-DEL-VALOR",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -16059,6 +16066,13 @@
   },
   {
     "campeon": "WARWICK",
+    "r1": "CUCHILLA-GIRATORIA",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "POLVORA-CARGADA",
     "r3": "EJERCITO-DE-CUERVOS-DE-SWAIN",
@@ -16742,6 +16756,13 @@
     "r2": "BARATIJA-DEL-GUARDIAN",
     "r3": "ORBE-LUMINOSO",
     "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "PAQUETE-COMPLETO",
+    "r4": ""
   },
   {
     "campeon": "YUUMI",
