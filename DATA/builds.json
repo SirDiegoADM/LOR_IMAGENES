@@ -1709,6 +1709,13 @@
   },
   {
     "campeon": "ASHE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ASHE",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "TIJERAS-ESPECTRALES",
     "r3": "ESCUDO-NEGRO",
@@ -2601,6 +2608,20 @@
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "RIFLE-HEXTECH",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -3627,6 +3648,13 @@
   },
   {
     "campeon": "EL_REY_PORO",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "CAPARAZON-DEL-VACIO",
     "r3": "VELO-DE-LA-BANSHEE",
@@ -3812,6 +3840,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "LA-CORONA-DEL-REY-TROL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": ""
   },
   {
@@ -9451,6 +9486,27 @@
   },
   {
     "campeon": "MISS_FORTUNE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "CONMOCION-Y-PAVOR",
+    "r4": ""
+  },
+  {
+    "campeon": "MISS_FORTUNE",
+    "r1": "CONMOCION-Y-PAVOR",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "MISS_FORTUNE",
+    "r1": "CONMOCION-Y-PAVOR",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "MISS_FORTUNE",
     "r1": "MAZO-DEL-DESTINO",
     "r2": "CAPARAZON-DEL-VACIO",
     "r3": "ESPIRITU-RESONANTE",
@@ -10287,6 +10343,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "NASUS",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
@@ -11218,6 +11281,13 @@
     "r1": "LA-PALA-DEL-ENTERRADOR",
     "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "NORRA",
+    "r1": "GEMA-ESTELAR",
+    "r2": "GEMA-ESTELAR",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": ""
   },
   {
@@ -12776,6 +12846,13 @@
   },
   {
     "campeon": "SWAIN",
+    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r2": "MAZO-DEL-DESTINO",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "SWAIN",
     "r1": "EL-ESCONDITE-DEL-AZOTE",
     "r2": "EL-ESCONDITE-DEL-AZOTE",
     "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
@@ -13430,6 +13507,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "TEEMO",
+    "r1": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
+    "r2": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r4": ""
   },
   {
@@ -16353,6 +16437,20 @@
   },
   {
     "campeon": "YASUO",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "PERMAHIELO",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
     "r1": "PERMAHIELO",
     "r2": "ANGEL-GUARDIAN",
     "r3": "ESPADA-DE-LA-TEMPESTAD",
@@ -16777,6 +16875,13 @@
     "r2": "BARATIJA-DEL-GUARDIAN",
     "r3": "ORBE-LUMINOSO",
     "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "MORDISCOS-REALES",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
   },
   {
     "campeon": "YUUMI",
