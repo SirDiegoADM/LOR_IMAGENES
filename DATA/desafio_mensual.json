@@ -3,12 +3,12 @@
     "num": 1,
     "estrellas": 1,
     "minijefe": null,
-    "jefe": "TALIYAH",
+    "jefe": "TAHM_KENCH",
     "reglas": [
       {
-        "nombre": "Caminante de las Dunas",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Shurima del jugador cuesta 1 menos al jugarla."
+        "nombre": "Número Mágico",
+        "rareza": "epica",
+        "desc": "Cuando el jugador roba una carta, hago que su costo sea 3."
       }
     ],
     "counters": [
@@ -38,17 +38,17 @@
     "num": 2,
     "estrellas": 1,
     "minijefe": null,
-    "jefe": "Poppy",
+    "jefe": "Karma",
     "reglas": [
       {
-        "nombre": "Investigación Innovadora",
+        "nombre": "Portales Ingeniosos",
         "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Piltóver y Zoun del jugador cuesta 1 menos al jugarla."
+        "desc": "En cada ronda, la primera carta de Bandle del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Fuerza Imparable",
+        "nombre": "Pelea Frenética",
         "rareza": "epica",
-        "desc": "Los aliados tienen +3|+3, Arrollar y No pueden bloquear."
+        "desc": "La unidad del jugador tiene +2|+2. Fin de la ronda: Inflijo 2 de daño a todas las unidades del jugador."
       }
     ],
     "counters": [
@@ -77,13 +77,13 @@
   {
     "num": 3,
     "estrellas": 2,
-    "minijefe": "Sejuani",
-    "jefe": "Fizz",
+    "minijefe": "JHIN",
+    "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "Carrera Armamentista",
+        "nombre": "Sin Vuelta Atrás",
         "rareza": "epica",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 2 Herrisueñas."
+        "desc": "Mientras el jugador no tenga cartas en la mano, sus unidades tienen +2|+2."
       }
     ],
     "counters": [
@@ -113,12 +113,12 @@
     "num": 4,
     "estrellas": 1,
     "minijefe": null,
-    "jefe": "Zoe",
+    "jefe": "ASHE",
     "reglas": [
       {
-        "nombre": "Magia de Bandle",
-        "rareza": "epica",
-        "desc": "Inicio de la partida: El judador invoca 1 El Árbol de Bandle."
+        "nombre": "Cima de la Montaña",
+        "rareza": "rara",
+        "desc": "Inicio de la partida: El Enemigo invoca 1 La Cima de Targón. Fin de la ronda: TODOS los jugadores roban1"
       }
     ],
     "counters": [
@@ -147,18 +147,18 @@
   {
     "num": 5,
     "estrellas": 2,
-    "minijefe": "TAHM_KENCH",
-    "jefe": "YASUO",
+    "minijefe": "ASHE",
+    "jefe": "Fizz",
     "reglas": [
       {
-        "nombre": "Misticismo Salvaje",
-        "rareza": "rara",
-        "desc": "Inicio de la ronda: Cada jugador obtiene una gema de maná."
+        "nombre": "Muertes Piadosas",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Mato a TODAS las unidades dañadas."
       },
       {
-        "nombre": "Era de la Conquista",
+        "nombre": "Fuerza Demaciana",
         "rareza": "rara",
-        "desc": "Cuando las unidades del Enemigo ataquen, otorgo +2|+0 a la unidad atacante Más fuerte."
+        "desc": "Cuando una de las unidades del Enemigo Golpea, le otorgo +1|+1."
       }
     ],
     "counters": [
@@ -188,17 +188,17 @@
     "num": 6,
     "estrellas": 2,
     "minijefe": null,
-    "jefe": "AZIR",
+    "jefe": "Ezreal",
     "reglas": [
       {
-        "nombre": "Selección Antinatural",
+        "nombre": "Fuerza Inquebrantable",
         "rareza": "rara",
-        "desc": "Las unidades del jugador tienen Evolucionar."
+        "desc": "En cada ronda, la primera carta de Noxus del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Desarmado",
-        "rareza": "comun",
-        "desc": "Las unidades del jugador tienen -2|-0."
+        "nombre": "La Muerte es Como el Viento",
+        "rareza": "rara",
+        "desc": "Cuando el jugador juega su primera unidad en cada ronda, la Aturdo"
       }
     ],
     "counters": [
@@ -227,18 +227,18 @@
   {
     "num": 7,
     "estrellas": 1,
-    "minijefe": "Poppy",
-    "jefe": "JHIN",
+    "minijefe": "TALIYAH",
+    "jefe": "Ezreal",
     "reglas": [
       {
-        "nombre": "Investigación Innovadora",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Piltóver y Zoun del jugador cuesta 1 menos al jugarla."
+        "nombre": "Minimalista",
+        "rareza": "epica",
+        "desc": "Inicio de la partida: El jugador comienza con 2 gemas de maná adicionales, pero no obtiene más al inicio de la ronda."
       },
       {
-        "nombre": "Buenos Día, Gruñón",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: El Enemigo invoca 1 Rocoso en Hibernación."
+        "nombre": "Munición Monada",
+        "rareza": "rara",
+        "desc": "Cuando el Enemigo ataca, invoca 1 ¡Mascafuegos! para Desafiar a la unidad Más fuerte del jugador."
       }
     ],
     "counters": [
@@ -268,17 +268,17 @@
     "num": 8,
     "estrellas": 2,
     "minijefe": null,
-    "jefe": "Draven",
+    "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "Poder de la Observación",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Observatorio Hextech."
+        "nombre": "Guía Celestial",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Targón del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Artificio de Luz",
+        "nombre": "Fragmentos de Canción",
         "rareza": "rara",
-        "desc": "Inicio de la partida: El Enemigo invocan 1 Maga de Espejos con 0|8."
+        "desc": "Inicio de la ronda: Si el Enemigo no tiene la ficha de ataque, invoca 1 Banda Espectral."
       }
     ],
     "counters": [
@@ -307,18 +307,18 @@
   {
     "num": 9,
     "estrellas": 2,
-    "minijefe": "Fiora",
-    "jefe": "Irelia",
+    "minijefe": "LEE_SIN",
+    "jefe": "Fiora",
     "reglas": [
       {
-        "nombre": "Entrenamiento Forestal",
-        "rareza": "comun",
-        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
+        "nombre": "Muertes Piadosas",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Mato a TODAS las unidades dañadas."
       },
       {
-        "nombre": "Actos Heroicos",
-        "rareza": "rara",
-        "desc": "Inicio de la ronda: Otorga +1|+1 al aliado Más fuerte del Enemigo por cada uno de sus otros aliados."
+        "nombre": "Entrenamiento en el Campo de Batalla",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Otorgo +1|+1 a la unidad Más débil del Enemigo."
       }
     ],
     "counters": [
@@ -347,18 +347,18 @@
   {
     "num": 10,
     "estrellas": 1,
-    "minijefe": "Poppy",
-    "jefe": "Sejuani",
+    "minijefe": null,
+    "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "Conciencia de Combate",
-        "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorar."
+        "nombre": "Muerte por Risa",
+        "rareza": "epica",
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Espectro Bromista con 0|10."
       },
       {
-        "nombre": "Nieblas Inestables",
+        "nombre": "Vigilante de la Vanguardia",
         "rareza": "rara",
-        "desc": "Inicio de la ronda: Si el Enemigo tiene la ficha de ataque, invoca 1 Niebla Invasiva."
+        "desc": "Inicio del juego: El Enemigo invoca 2 Vigilantes de la Vanguardia."
       }
     ],
     "counters": [
@@ -387,28 +387,28 @@
   {
     "num": 11,
     "estrellas": 2,
-    "minijefe": null,
-    "jefe": "AZIR",
+    "minijefe": "Ezreal",
+    "jefe": "TALIYAH",
     "reglas": [
       {
-        "nombre": "Magia Natural",
+        "nombre": "Minimalista",
         "rareza": "epica",
-        "desc": "TODAS las cartas cuestan 2 menos."
+        "desc": "Inicio de la partida: El jugador comienza con 2 gemas de maná adicionales, pero no obtiene más al inicio de la ronda."
       },
       {
-        "nombre": "El Imperio ante Todo",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
-      },
-      {
-        "nombre": "Acabemos con el Set",
+        "nombre": "Fuerza Inquebrantable",
         "rareza": "rara",
-        "desc": "Cuando el Enemigo ataque, lanzo Aturdir sobre la unidad Más débil del jugador."
+        "desc": "En cada ronda, la primera carta de Noxus del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Escalofrío Reptante",
+        "nombre": "¡Adoribus!",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
+      },
+      {
+        "nombre": "Velocidad Ventajosa",
         "rareza": "rara",
-        "desc": "Inicio de la ronda: Lanzo Helar a la unidad Más fuerte del jugador."
+        "desc": "Las unidades del Enemigo tienen Ataque Rápido."
       }
     ],
     "counters": [
@@ -438,17 +438,17 @@
     "num": 12,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "VIKTOR",
+    "jefe": "Fizz",
     "reglas": [
       {
-        "nombre": "Armadura Animada",
-        "rareza": "epica",
-        "desc": "TODAS las unidades tienen Formidable."
+        "nombre": "Conciencia de Combate",
+        "rareza": "rara",
+        "desc": "TODAS las unidades tienen Explorar."
       },
       {
-        "nombre": "Incapacidad",
-        "rareza": "rara",
-        "desc": "Las unidades dañadas del jugador reciben No bloquea."
+        "nombre": "Y Así Explota el Hongo",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Planta un Hongo Venenoso en el mazo del jugador."
       }
     ],
     "counters": [
@@ -477,18 +477,18 @@
   {
     "num": 13,
     "estrellas": 2,
-    "minijefe": null,
-    "jefe": "LEE_SIN",
+    "minijefe": "Poppy",
+    "jefe": "YASUO",
     "reglas": [
       {
-        "nombre": "Carrera Armamentista",
+        "nombre": "Magia de Bandle",
         "rareza": "epica",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 2 Herrisueñas."
+        "desc": "Inicio de la partida: El judador invoca 1 El Árbol de Bandle."
       },
       {
-        "nombre": "Manta Sigilosa",
+        "nombre": "Plan de Acción Flexible",
         "rareza": "comun",
-        "desc": "Inicio de la ronda: Si el jugador tiene maná de hechizos, el Enemigo le roba1."
+        "desc": "Inicio de la partida: El Enemigo roba 2."
       }
     ],
     "counters": [
@@ -517,8 +517,8 @@
   {
     "num": 14,
     "estrellas": 2,
-    "minijefe": null,
-    "jefe": "Zed",
+    "minijefe": "Fizz",
+    "jefe": "VIKTOR",
     "reglas": [
       {
         "nombre": "Solo los Fuertes",
@@ -526,9 +526,9 @@
         "desc": "Final de la ronda: Mata a TODAS las unidades, excepto la más fuertes de cada jugador."
       },
       {
-        "nombre": "Las Sombras Vienen por ti",
+        "nombre": "Caso en Progreso",
         "rareza": "comun",
-        "desc": "Las unidades del Enemigo tienen \"Golpe al Nexo: Creo 1 Demonio Sombrío en la mano\"."
+        "desc": "Las unidades del Enemigo tienen: \"Golpe al Nexo: Planta 1 Trampa Aturdidora entre las 8 cartas de arriba del mazo del jugador\"."
       }
     ],
     "counters": [
@@ -557,18 +557,18 @@
   {
     "num": 15,
     "estrellas": 3,
-    "minijefe": "MISS_FORTUNE",
-    "jefe": "KAISA",
+    "minijefe": "NAUTILUS",
+    "jefe": "DARIUS",
     "reglas": [
       {
-        "nombre": "Investigación Innovadora",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Piltóver y Zoun del jugador cuesta 1 menos al jugarla."
+        "nombre": "Muertes Piadosas",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Mato a TODAS las unidades dañadas."
       },
       {
-        "nombre": "En Necesidad de Reparación",
-        "rareza": "rara",
-        "desc": "Inicio de la ronda: Doy +3|+3 a la unidad Más débil del Enemigo en esta ronda."
+        "nombre": "Melodía Distractora",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Una carta aleatoria en la mano del jugador cuesta 2 más en esta ronda."
       }
     ],
     "counters": [
@@ -598,17 +598,17 @@
     "num": 16,
     "estrellas": 2,
     "minijefe": null,
-    "jefe": "JINX",
+    "jefe": "Draven",
     "reglas": [
       {
-        "nombre": "Meditación Guiada",
+        "nombre": "Selección Antinatural",
         "rareza": "rara",
-        "desc": "Inicio de la partida: TODOS los jugadores inician con 10 gemas de maná."
+        "desc": "Las unidades del jugador tienen Evolucionar."
       },
       {
-        "nombre": "Provisiones Hurtadas",
+        "nombre": "Aplastar",
         "rareza": "comun",
-        "desc": "Inicio de la partida: El Enemigo invoca 1 Palacio del Señor de la Guerra. Cuando la cuenta regresiva de su Palacio del Señor de la Guerra llega a 0, robo una gema de maná del jugador e invoco1 Palacio del Señor de la Guerra."
+        "desc": "Las unidades del Enemigo tienen Arrollar."
       }
     ],
     "counters": [
@@ -637,18 +637,18 @@
   {
     "num": 17,
     "estrellas": 1,
-    "minijefe": "Karma",
-    "jefe": "TALIYAH",
+    "minijefe": null,
+    "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "Fuerza Imparable",
+        "nombre": "El Precio del Progreso",
         "rareza": "epica",
-        "desc": "Los aliados tienen +3|+3, Arrollar y No pueden bloquear."
+        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
       },
       {
-        "nombre": "Flujo de Maná",
-        "rareza": "epica",
-        "desc": "Inicio de la partida: El Enemigo obtiene una gema de maná."
+        "nombre": "Rojo Como Sus Labios",
+        "rareza": "rara",
+        "desc": "Inicio de la Ronda: Inflijo 1 de daño a todas las unidades y otorgo +0|+1 a todas las unidades del Enemigo."
       }
     ],
     "counters": [
@@ -677,18 +677,18 @@
   {
     "num": 18,
     "estrellas": 3,
-    "minijefe": "VIEGO",
-    "jefe": "Lulu",
+    "minijefe": null,
+    "jefe": "THRESH",
     "reglas": [
       {
-        "nombre": "Repetición",
+        "nombre": "Muertes Piadosas",
         "rareza": "epica",
-        "desc": "Cuando CUALQUIER jugador juega un hechizo, lo copio con los mismos objetivos."
+        "desc": "Fin de la ronda: Mato a TODAS las unidades dañadas."
       },
       {
-        "nombre": "Profeta de un Dios Antiguo II",
-        "rareza": "epica",
-        "desc": "Cuando el Enemigo ataca, hago Surgir 3."
+        "nombre": "Fortificaciones",
+        "rareza": "rara",
+        "desc": "El nexo del Enemigo tiene Dureza."
       }
     ],
     "counters": [
@@ -717,18 +717,18 @@
   {
     "num": 19,
     "estrellas": 2,
-    "minijefe": "DARIUS",
-    "jefe": "AZIR",
+    "minijefe": null,
+    "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "Poder de la Observación",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Observatorio Hextech."
+        "nombre": "Vestigio de Helia",
+        "rareza": "epica",
+        "desc": "TODOS los hechizos cuestan 1 menos. TODAS las unidades tienen Escudo Antihechizos."
       },
       {
-        "nombre": "Festín Rebosante",
+        "nombre": "Rugido Estridente",
         "rareza": "rara",
-        "desc": "Las unidades del Enemigo tienen Dureza."
+        "desc": "Cuando el Enemigo ataca, le doy -2|-0 a las unidades del jugador en esta ronda."
       }
     ],
     "counters": [
@@ -757,8 +757,8 @@
   {
     "num": 20,
     "estrellas": 3,
-    "minijefe": null,
-    "jefe": "JINX",
+    "minijefe": "Katarina",
+    "jefe": "TAHM_KENCH",
     "reglas": [
       {
         "nombre": "Marcas Mortíferas",
@@ -766,9 +766,9 @@
         "desc": "Cuando CUALQUIER jugador invoque una unidad, fijo su vida en 1."
       },
       {
-        "nombre": "Fuerza Implacable",
+        "nombre": "Ecos de las Profundidades",
         "rareza": "rara",
-        "desc": "Inicio de la ronda: El Enemigo otorga +0|+1 e Impacto a su unidad Más fuerte."
+        "desc": "Las unidades del Enemigo tiene +0|+1."
       }
     ],
     "counters": [
@@ -797,18 +797,18 @@
   {
     "num": 21,
     "estrellas": 3,
-    "minijefe": "Lulu",
-    "jefe": "VIKTOR",
+    "minijefe": null,
+    "jefe": "NAUTILUS",
     "reglas": [
       {
-        "nombre": "Armadura Animada",
-        "rareza": "epica",
-        "desc": "TODAS las unidades tienen Formidable."
+        "nombre": "Selección Antinatural",
+        "rareza": "rara",
+        "desc": "Las unidades del jugador tienen Evolucionar."
       },
       {
-        "nombre": "Deja sus Huesos Limpiecitos",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo Impacto."
+        "nombre": "Chispa de Acero",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Lanzo Aturdir a la unidad Más fuerte del jugador."
       }
     ],
     "counters": [
@@ -837,18 +837,18 @@
   {
     "num": 22,
     "estrellas": 2,
-    "minijefe": "Ezreal",
-    "jefe": "Zed",
+    "minijefe": "VIKTOR",
+    "jefe": "Lulu",
     "reglas": [
       {
-        "nombre": "Artificio de Luz",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: El Enemigo invocan 1 Maga de Espejos con 0|8."
+        "nombre": "Hielos Fortificadores",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Fréljord del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Abraza las Sombras",
+        "nombre": "Conocimiento Iluminado",
         "rareza": "rara",
-        "desc": "Las unidades atacantes del Enemigo tienen +1|+0."
+        "desc": "Inicio de la ronda: Curo 3 al nexo del Enemigo."
       }
     ],
     "counters": [
@@ -878,17 +878,17 @@
     "num": 23,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "DARIUS",
+    "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "Armadura Animada",
+        "nombre": "Crónica de la Ruina",
         "rareza": "epica",
-        "desc": "TODAS las unidades tienen Formidable."
+        "desc": "Inicio de la ronda: Mato a TODAS las unidades, y luego las revivo."
       },
       {
-        "nombre": "Entretenimiento Noxiano",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: El Enemigo invoca 1 Arena Noxkraya."
+        "nombre": "Poder Noxiano",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +2|+0."
       }
     ],
     "counters": [
@@ -918,12 +918,12 @@
     "num": 24,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "JINX",
+    "jefe": "THRESH",
     "reglas": [
       {
-        "nombre": "Vestigio de Helia",
-        "rareza": "epica",
-        "desc": "TODOS los hechizos cuestan 1 menos. TODAS las unidades tienen Escudo Antihechizos."
+        "nombre": "Abraza la Corriente",
+        "rareza": "rara",
+        "desc": "Cuando el jugador juega un hechizo, restablezco 1 de maná de hechizos."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -931,9 +931,9 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "El Equipo te da la Bienvenida",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Doy Vulnerable a la unidad Más fuerte del jugador en esta ronda."
+        "nombre": "Alcen el vuelo",
+        "rareza": "rara",
+        "desc": "Cuando el Enemigo obtiene la ficha de ataque, invoca 1 Rastreadora Plumaveloz."
       }
     ],
     "counters": [
@@ -962,18 +962,18 @@
   {
     "num": 25,
     "estrellas": 2,
-    "minijefe": "Zoe",
-    "jefe": "Gangplank",
+    "minijefe": null,
+    "jefe": "KAISA",
     "reglas": [
       {
-        "nombre": "Espíritus en Lamento",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de las Islas de la Sombra del jugador cuesta 1 menos al jugarla."
+        "nombre": "Magia de Bandle",
+        "rareza": "epica",
+        "desc": "Inicio de la partida: El judador invoca 1 El Árbol de Bandle."
       },
       {
-        "nombre": "¡Vamos!",
-        "rareza": "comun",
-        "desc": "Cuando el Enemigo ataca, invoca 1 poro aleatorio atacante de costo 1."
+        "nombre": "Chispa de Acero",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Lanzo Aturdir a la unidad Más fuerte del jugador."
       }
     ],
     "counters": [
@@ -1002,18 +1002,18 @@
   {
     "num": 26,
     "estrellas": 2,
-    "minijefe": "AZIR",
-    "jefe": "Fiora",
+    "minijefe": "Gangplank",
+    "jefe": "VIKTOR",
     "reglas": [
       {
-        "nombre": "Arquero Despiadado",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Corsaria Tirofino."
+        "nombre": "Investigación Innovadora",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Piltóver y Zoun del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Sufre",
+        "nombre": "Venganza de la Naturaleza",
         "rareza": "rara",
-        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades heridas del jugador."
+        "desc": "Cuando el Enemigo obtiene la ficha de ataque, invoca 1 Retoño."
       }
     ],
     "counters": [
@@ -1042,18 +1042,18 @@
   {
     "num": 27,
     "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Lulu",
+    "minijefe": "Karma",
+    "jefe": "YASUO",
     "reglas": [
       {
-        "nombre": "Repetición",
+        "nombre": "Carrera Armamentista",
         "rareza": "epica",
-        "desc": "Cuando CUALQUIER jugador juega un hechizo, lo copio con los mismos objetivos."
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 2 Herrisueñas."
       },
       {
-        "nombre": "Magia Amorfa",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Creo 1 Denegar con Fugaz en la mano del Enemigo. Cuesto 2."
+        "nombre": "Largo Descanso",
+        "rareza": "rara",
+        "desc": "Las unidades del Enemigo tienen Regeneración."
       }
     ],
     "counters": [
@@ -1082,18 +1082,18 @@
   {
     "num": 28,
     "estrellas": 2,
-    "minijefe": "CAITLYN",
-    "jefe": "SWAIN",
+    "minijefe": "TAHM_KENCH",
+    "jefe": "JINX",
     "reglas": [
       {
-        "nombre": "Lobos de Mar",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Aguasturbias del jugador cuesta 1 menos al jugarla."
+        "nombre": "Crónica de la Ruina",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: Mato a TODAS las unidades, y luego las revivo."
       },
       {
-        "nombre": "Favorito de los Fanáticos",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: Doy +2|+0 y Arrollar a la unidad Más fuerte del Enemigo en esta ronda."
+        "nombre": "Profecía Escalofriante",
+        "rareza": "rara",
+        "desc": "Inicio de la partida: el Enemigo invoca 1 Siervo Congelado. Establezco su Cuenta Regresiva en 5."
       }
     ],
     "counters": [
@@ -1122,18 +1122,18 @@
   {
     "num": 29,
     "estrellas": 2,
-    "minijefe": "JINX",
-    "jefe": "Katarina",
+    "minijefe": "Zed",
+    "jefe": "Fiora",
     "reglas": [
       {
-        "nombre": "Molestia Náutica",
-        "rareza": "comun",
-        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
+        "nombre": "Cima de la Montaña",
+        "rareza": "rara",
+        "desc": "Inicio de la partida: El Enemigo invoca 1 La Cima de Targón. Fin de la ronda: TODOS los jugadores roban1"
       },
       {
-        "nombre": "Un Poco de Simplicidad",
-        "rareza": "rara",
-        "desc": "Inicio de la ronda: Doy +1|+0 a la unidad Más fuerte del Enemigo por cada carta en la mano del jugador."
+        "nombre": "Flujo de agua",
+        "rareza": "comun",
+        "desc": "Cuando el Enemigo juegue un hechizo, otorga +1|+1 a su unidad Más débil."
       }
     ],
     "counters": [
@@ -1162,18 +1162,18 @@
   {
     "num": 30,
     "estrellas": 3,
-    "minijefe": "KAISA",
-    "jefe": "Irelia",
+    "minijefe": "SWAIN",
+    "jefe": "Zed",
     "reglas": [
       {
-        "nombre": "Armadura Animada",
-        "rareza": "epica",
-        "desc": "TODAS las unidades tienen Formidable."
+        "nombre": "Guía Celestial",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Targón del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Atraco Accidentado",
+        "nombre": "Talento Natural",
         "rareza": "comun",
-        "desc": "Inicio de la ronda: El Enemigo tiene un 50% de probabilidad de crear 1 Hallazgo Fortuito en la mano. El jugador tiene un 25% de probabilidad."
+        "desc": "Inicio de la partida: El Enemigo comienza con 3 de maná de hechizos."
       }
     ],
     "counters": [
@@ -1202,18 +1202,18 @@
   {
     "num": 31,
     "estrellas": 3,
-    "minijefe": "Irelia",
-    "jefe": "LEE_SIN",
+    "minijefe": "Draven",
+    "jefe": "VIKTOR",
     "reglas": [
       {
-        "nombre": "Marcas Mortíferas",
-        "rareza": "epica",
-        "desc": "Cuando CUALQUIER jugador invoque una unidad, fijo su vida en 1."
+        "nombre": "Selección Antinatural",
+        "rareza": "rara",
+        "desc": "Las unidades del jugador tienen Evolucionar."
       },
       {
-        "nombre": "Poder Arrollador",
-        "rareza": "legendaria",
-        "desc": "Fin de la ronda: Otorgo +1|+1 a las unidades del Enemigo en todas partes."
+        "nombre": "Más Allá de la Carne",
+        "rareza": "epica",
+        "desc": "Las unidades del Enemigo tienen +1|+1 por cada una de sus palabras clave."
       }
     ],
     "counters": [
@@ -1242,18 +1242,18 @@
   {
     "num": 32,
     "estrellas": 2,
-    "minijefe": "TAHM_KENCH",
-    "jefe": "SWAIN",
+    "minijefe": null,
+    "jefe": "Ezreal",
     "reglas": [
       {
-        "nombre": "Hielos Fortificadores",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Fréljord del jugador cuesta 1 menos al jugarla."
+        "nombre": "En Garde!",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
       },
       {
-        "nombre": "Mejoras Iterativas",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca la siguiente torreta."
+        "nombre": "Pequeñez",
+        "rareza": "legendaria",
+        "desc": "Cuando el jugador invoca una unidad, le fijo 1|1."
       }
     ],
     "counters": [
@@ -1282,18 +1282,18 @@
   {
     "num": 33,
     "estrellas": 3,
-    "minijefe": "Gangplank",
-    "jefe": "AZIR",
+    "minijefe": "Ezreal",
+    "jefe": "Fizz",
     "reglas": [
       {
-        "nombre": "Repetición",
-        "rareza": "epica",
-        "desc": "Cuando CUALQUIER jugador juega un hechizo, lo copio con los mismos objetivos."
+        "nombre": "Espíritus en Lamento",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de las Islas de la Sombra del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Furia Inmortal",
-        "rareza": "epica",
-        "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
+        "nombre": "Imagen Persistente",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: El Enemigo revive una copia con Endeble del seguidor muerto Más fuerte."
       }
     ],
     "counters": [
@@ -1322,18 +1322,18 @@
   {
     "num": 34,
     "estrellas": 3,
-    "minijefe": "TAHM_KENCH",
-    "jefe": "Ezreal",
+    "minijefe": null,
+    "jefe": "TAHM_KENCH",
     "reglas": [
       {
-        "nombre": "Entrenamiento Forestal",
-        "rareza": "comun",
-        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
+        "nombre": "Cima de la Montaña",
+        "rareza": "rara",
+        "desc": "Inicio de la partida: El Enemigo invoca 1 La Cima de Targón. Fin de la ronda: TODOS los jugadores roban1"
       },
       {
-        "nombre": "Resistir",
+        "nombre": "Puros Monos Explosivos II",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: Otorgo +0|+1 a las unidades del Enemigo."
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
       }
     ],
     "counters": [
@@ -1362,13 +1362,13 @@
   {
     "num": 35,
     "estrellas": 4,
-    "minijefe": "SWAIN",
-    "jefe": "Lulu",
+    "minijefe": null,
+    "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "Fuerza Imparable",
-        "rareza": "epica",
-        "desc": "Los aliados tienen +3|+3, Arrollar y No pueden bloquear."
+        "nombre": "Arquero Despiadado",
+        "rareza": "comun",
+        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Corsaria Tirofino."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -1376,9 +1376,9 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "El Filo en la Oscuridad",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Si el nexo del jugador recibió daño en esta ronda, la unidad Más fuerte del Enemigo lo Golpea."
+        "nombre": "Imagen Persistente",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: El Enemigo revive una copia con Endeble del seguidor muerto Más fuerte."
       }
     ],
     "counters": [
@@ -1407,18 +1407,18 @@
   {
     "num": 36,
     "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Draven",
+    "minijefe": "YASUO",
+    "jefe": "DARIUS",
     "reglas": [
       {
-        "nombre": "Sombras Persistentes",
-        "rareza": "comun",
-        "desc": "Cuando una unidad muere, otorgo +1|+1 a una unidad aleatoria en la mano de ese jugador."
+        "nombre": "Número Mágico",
+        "rareza": "epica",
+        "desc": "Cuando el jugador roba una carta, hago que su costo sea 3."
       },
       {
-        "nombre": "Llegaste al Puente de la Muerte",
-        "rareza": "legendaria",
-        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
+        "nombre": "Mejoras Iterativas",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca la siguiente torreta."
       }
     ],
     "counters": [
@@ -1447,18 +1447,18 @@
   {
     "num": 37,
     "estrellas": 2,
-    "minijefe": "Fiora",
-    "jefe": "VIEGO",
+    "minijefe": null,
+    "jefe": "AZIR",
     "reglas": [
       {
-        "nombre": "Arquero Despiadado",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Corsaria Tirofino."
+        "nombre": "Abraza la Corriente",
+        "rareza": "rara",
+        "desc": "Cuando el jugador juega un hechizo, restablezco 1 de maná de hechizos."
       },
       {
-        "nombre": "Mejoras Iterativas",
+        "nombre": "Fuerza Demaciana II",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca la siguiente torreta."
+        "desc": "Cuando una de las unidades del Enemigo Golpea, le otorgo +2|+2."
       }
     ],
     "counters": [
@@ -1487,18 +1487,18 @@
   {
     "num": 38,
     "estrellas": 2,
-    "minijefe": "CAITLYN",
-    "jefe": "KAISA",
+    "minijefe": null,
+    "jefe": "VIKTOR",
     "reglas": [
       {
-        "nombre": "Conciencia de Combate",
-        "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorar."
+        "nombre": "Entrenamiento Forestal",
+        "rareza": "comun",
+        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
       },
       {
-        "nombre": "Llegaste al Puente de la Muerte",
-        "rareza": "legendaria",
-        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
+        "nombre": "Dominio del Soberano",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
       }
     ],
     "counters": [
@@ -1528,12 +1528,12 @@
     "num": 39,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "Gangplank",
+    "jefe": "DARIUS",
     "reglas": [
       {
-        "nombre": "Entrenamiento Forestal",
-        "rareza": "comun",
-        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
+        "nombre": "Marcas Mortíferas",
+        "rareza": "epica",
+        "desc": "Cuando CUALQUIER jugador invoque una unidad, fijo su vida en 1."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -1541,9 +1541,9 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Llamado de Ayuda",
+        "nombre": "Rockeando Durísimo",
         "rareza": "epica",
-        "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
+        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
       }
     ],
     "counters": [
@@ -1572,18 +1572,18 @@
   {
     "num": 40,
     "estrellas": 3,
-    "minijefe": "Fiora",
-    "jefe": "JINX",
+    "minijefe": null,
+    "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "El Precio del Progreso",
-        "rareza": "epica",
-        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
+        "nombre": "Cima de la Montaña",
+        "rareza": "rara",
+        "desc": "Inicio de la partida: El Enemigo invoca 1 La Cima de Targón. Fin de la ronda: TODOS los jugadores roban1"
       },
       {
-        "nombre": "Tormenta Inminente",
-        "rareza": "epica",
-        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
+        "nombre": "Coro de Poder",
+        "rareza": "legendaria",
+        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
       }
     ],
     "counters": [
@@ -1613,17 +1613,17 @@
     "num": 41,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "Gangplank",
+    "jefe": "YASUO",
     "reglas": [
       {
-        "nombre": "Conciencia de Combate",
+        "nombre": "Mentes Tranquilas",
         "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorar."
+        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Hemorragia",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Inflijo 1 de daño al nexo del jugador por cada unidad que tenga el Enemigo."
+        "nombre": "Pequeñez",
+        "rareza": "legendaria",
+        "desc": "Cuando el jugador invoca una unidad, le fijo 1|1."
       }
     ],
     "counters": [
@@ -1652,18 +1652,18 @@
   {
     "num": 42,
     "estrellas": 3,
-    "minijefe": "JINX",
-    "jefe": "Katarina",
+    "minijefe": "VIEGO",
+    "jefe": "Fizz",
     "reglas": [
       {
-        "nombre": "Vestigio de Helia",
+        "nombre": "El Precio del Progreso",
         "rareza": "epica",
-        "desc": "TODOS los hechizos cuestan 1 menos. TODAS las unidades tienen Escudo Antihechizos."
+        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
       },
       {
-        "nombre": "Eliminar la Imperfección",
-        "rareza": "epica",
-        "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
+        "nombre": "Poder Noxiano II",
+        "rareza": "legendaria",
+        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +4|+0 y Arrollar."
       }
     ],
     "counters": [
@@ -1693,17 +1693,17 @@
     "num": 43,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "Irelia",
+    "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "Muerte por Risa",
-        "rareza": "epica",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 1 Espectro Bromista con 0|10."
+        "nombre": "Guía Celestial",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Targón del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Sufre",
+        "nombre": "Llamado de Ayuda",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades heridas del jugador."
+        "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
       }
     ],
     "counters": [
@@ -1733,17 +1733,17 @@
     "num": 44,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "VIEGO",
+    "jefe": "LEE_SIN",
     "reglas": [
       {
-        "nombre": "Conciencia de Combate",
-        "rareza": "rara",
-        "desc": "TODAS las unidades tienen Explorar."
+        "nombre": "Crónica de la Ruina",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: Mato a TODAS las unidades, y luego las revivo."
       },
       {
-        "nombre": "Coro de Poder",
-        "rareza": "legendaria",
-        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
+        "nombre": "Los Enemigos de Demacia Caerán",
+        "rareza": "epica",
+        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
       }
     ],
     "counters": [
@@ -1773,17 +1773,17 @@
     "num": 45,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "YASUO",
+    "jefe": "Zed",
     "reglas": [
       {
-        "nombre": "Armadura Animada",
-        "rareza": "epica",
-        "desc": "TODAS las unidades tienen Formidable."
+        "nombre": "Espíritus en Lamento",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de las Islas de la Sombra del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Amiguitos",
+        "nombre": "Tormenta Inminente",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
+        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
       }
     ],
     "counters": [
@@ -1812,18 +1812,18 @@
   {
     "num": 46,
     "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Zed",
+    "minijefe": "CAITLYN",
+    "jefe": "KAISA",
     "reglas": [
       {
-        "nombre": "Llamas Parpadeantes",
-        "rareza": "comun",
-        "desc": "TODOS los hechizos y habilidades infligen 1 de daño adicional."
+        "nombre": "Marcas Mortíferas",
+        "rareza": "epica",
+        "desc": "Cuando CUALQUIER jugador invoque una unidad, fijo su vida en 1."
       },
       {
-        "nombre": "Puros Monos Explosivos II",
+        "nombre": "Resistir",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
+        "desc": "Inicio de la ronda: Otorgo +0|+1 a las unidades del Enemigo."
       }
     ],
     "counters": [
@@ -1852,18 +1852,18 @@
   {
     "num": 47,
     "estrellas": 3,
-    "minijefe": null,
+    "minijefe": "MISS_FORTUNE",
     "jefe": "DARIUS",
     "reglas": [
       {
-        "nombre": "En Garde!",
+        "nombre": "Artificio de Luz",
         "rareza": "comun",
-        "desc": "Inicio de la ronda: Crea un Combate Singular fugaz en la mano de TODOS los jugadores."
+        "desc": "Inicio de la partida: El Enemigo invocan 1 Maga de Espejos con 0|8."
       },
       {
-        "nombre": "A Rockear",
+        "nombre": "Los Enemigos de Demacia Caerán",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
+        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
       }
     ],
     "counters": [
@@ -1892,13 +1892,13 @@
   {
     "num": 48,
     "estrellas": 4,
-    "minijefe": null,
-    "jefe": "Fiora",
+    "minijefe": "Zed",
+    "jefe": "Gangplank",
     "reglas": [
       {
-        "nombre": "Abraza la Corriente",
-        "rareza": "rara",
-        "desc": "Cuando el jugador juega un hechizo, restablezco 1 de maná de hechizos."
+        "nombre": "Crónica de la Ruina",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: Mato a TODAS las unidades, y luego las revivo."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -1906,14 +1906,14 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Tormenta Inminente",
+        "nombre": "Llamado de Ayuda",
         "rareza": "epica",
-        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
+        "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
       },
       {
-        "nombre": "Hemorragia",
+        "nombre": "Los Enemigos de Demacia Caerán",
         "rareza": "epica",
-        "desc": "Fin de la ronda: Inflijo 1 de daño al nexo del jugador por cada unidad que tenga el Enemigo."
+        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
       }
     ],
     "counters": [
@@ -1942,18 +1942,18 @@
   {
     "num": 49,
     "estrellas": 3,
-    "minijefe": "Zed",
-    "jefe": "Gangplank",
+    "minijefe": "Gangplank",
+    "jefe": "VIEGO",
     "reglas": [
       {
-        "nombre": "Sombras Persistentes",
-        "rareza": "comun",
-        "desc": "Cuando una unidad muere, otorgo +1|+1 a una unidad aleatoria en la mano de ese jugador."
+        "nombre": "Fuerza Inquebrantable",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Noxus del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Festín",
+        "nombre": "Rockeando Durísimo",
         "rareza": "epica",
-        "desc": "Cuando el Enemigo invoca una unidad, le otorgo +0|+3."
+        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
       }
     ],
     "counters": [
@@ -1982,18 +1982,18 @@
   {
     "num": 50,
     "estrellas": 4,
-    "minijefe": "Irelia",
-    "jefe": "NAUTILUS",
+    "minijefe": null,
+    "jefe": "Ezreal",
     "reglas": [
       {
-        "nombre": "El Precio del Progreso",
-        "rareza": "epica",
-        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
+        "nombre": "Investigación Innovadora",
+        "rareza": "rara",
+        "desc": "En cada ronda, la primera carta de Piltóver y Zoun del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Puros Monos Explosivos II",
+        "nombre": "Resistir",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
+        "desc": "Inicio de la ronda: Otorgo +0|+1 a las unidades del Enemigo."
       }
     ],
     "counters": [
@@ -2019,12 +2019,12 @@
     "num": 51,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "YASUO",
+    "jefe": "MISS_FORTUNE",
     "reglas": [
       {
-        "nombre": "Carrera Armamentista",
+        "nombre": "Muertes Piadosas",
         "rareza": "epica",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 2 Herrisueñas."
+        "desc": "Fin de la ronda: Mato a TODAS las unidades dañadas."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2032,14 +2032,14 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Rockeando Durísimo",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
+        "nombre": "Poder Noxiano II",
+        "rareza": "legendaria",
+        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +4|+0 y Arrollar."
       },
       {
-        "nombre": "Dominio del Soberano",
+        "nombre": "Resistir",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca una copia con Endeble del seguidor Más fuerte del jugador, que haya muerto en la ultima ronda."
+        "desc": "Inicio de la ronda: Otorgo +0|+1 a las unidades del Enemigo."
       }
     ],
     "counters": [
@@ -2069,17 +2069,17 @@
     "num": 52,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "KAISA",
+    "jefe": "TAHM_KENCH",
     "reglas": [
       {
-        "nombre": "Caminante de las Dunas",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Shurima del jugador cuesta 1 menos al jugarla."
+        "nombre": "Molestia Náutica",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
       },
       {
-        "nombre": "Los Enemigos de Demacia Caerán",
+        "nombre": "Flujo de Maná",
         "rareza": "epica",
-        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
+        "desc": "Inicio de la partida: El Enemigo obtiene una gema de maná."
       }
     ],
     "counters": [
@@ -2108,18 +2108,18 @@
   {
     "num": 53,
     "estrellas": 3,
-    "minijefe": "Irelia",
-    "jefe": "Draven",
+    "minijefe": null,
+    "jefe": "Katarina",
     "reglas": [
       {
-        "nombre": "Misticismo Salvaje",
-        "rareza": "rara",
-        "desc": "Inicio de la ronda: Cada jugador obtiene una gema de maná."
+        "nombre": "Sombras Persistentes",
+        "rareza": "comun",
+        "desc": "Cuando una unidad muere, otorgo +1|+1 a una unidad aleatoria en la mano de ese jugador."
       },
       {
-        "nombre": "Los Enemigos de Demacia Caerán",
+        "nombre": "Eliminar la Imperfección",
         "rareza": "epica",
-        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
+        "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
       }
     ],
     "counters": [
@@ -2148,13 +2148,13 @@
   {
     "num": 54,
     "estrellas": 4,
-    "minijefe": null,
-    "jefe": "Ezreal",
+    "minijefe": "TRYNDAMERE",
+    "jefe": "Fiora",
     "reglas": [
       {
-        "nombre": "Repetición",
+        "nombre": "El Precio del Progreso",
         "rareza": "epica",
-        "desc": "Cuando CUALQUIER jugador juega un hechizo, lo copio con los mismos objetivos."
+        "desc": "Los hechizos del jugador cuestan 2 menos. Las unidades del jugador cuestan 1 más."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2162,9 +2162,9 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Llegaste al Puente de la Muerte",
-        "rareza": "legendaria",
-        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
+        "nombre": "Profeta de un Dios Antiguo II",
+        "rareza": "epica",
+        "desc": "Cuando el Enemigo ataca, hago Surgir 3."
       }
     ],
     "counters": [
@@ -2193,18 +2193,18 @@
   {
     "num": 55,
     "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Katarina",
+    "minijefe": "VIEGO",
+    "jefe": "JINX",
     "reglas": [
       {
-        "nombre": "Entrenamiento Forestal",
+        "nombre": "Molestia Náutica",
         "rareza": "comun",
-        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
+        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
       },
       {
-        "nombre": "Mejoras Iterativas",
+        "nombre": "Puros Monos Explosivos II",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca la siguiente torreta."
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
       }
     ],
     "counters": [
@@ -2233,18 +2233,18 @@
   {
     "num": 56,
     "estrellas": 3,
-    "minijefe": "Draven",
-    "jefe": "Katarina",
+    "minijefe": "Lulu",
+    "jefe": "LEE_SIN",
     "reglas": [
       {
-        "nombre": "Meditación Guiada",
+        "nombre": "Fuerza Inquebrantable",
         "rareza": "rara",
-        "desc": "Inicio de la partida: TODOS los jugadores inician con 10 gemas de maná."
+        "desc": "En cada ronda, la primera carta de Noxus del jugador cuesta 1 menos al jugarla."
       },
       {
-        "nombre": "Poder Arrollador",
-        "rareza": "legendaria",
-        "desc": "Fin de la ronda: Otorgo +1|+1 a las unidades del Enemigo en todas partes."
+        "nombre": "Furia Inmortal",
+        "rareza": "epica",
+        "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
       }
     ],
     "counters": [
@@ -2274,22 +2274,22 @@
     "num": 57,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "VIKTOR",
+    "jefe": "Lulu",
     "reglas": [
       {
-        "nombre": "Abraza la Corriente",
-        "rareza": "rara",
-        "desc": "Cuando el jugador juega un hechizo, restablezco 1 de maná de hechizos."
-      },
-      {
-        "nombre": "Furia Inmortal",
+        "nombre": "Magia de Bandle",
         "rareza": "epica",
-        "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
+        "desc": "Inicio de la partida: El judador invoca 1 El Árbol de Bandle."
       },
       {
-        "nombre": "Poder Noxiano II",
-        "rareza": "legendaria",
-        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +4|+0 y Arrollar."
+        "nombre": "¡Adoribus!",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
+      },
+      {
+        "nombre": "Eliminar la Imperfección",
+        "rareza": "epica",
+        "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2323,18 +2323,18 @@
   {
     "num": 58,
     "estrellas": 3,
-    "minijefe": null,
-    "jefe": "Ezreal",
+    "minijefe": "Ezreal",
+    "jefe": "VIKTOR",
     "reglas": [
       {
-        "nombre": "Emisiones Arcanas",
-        "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS  los jugadores inician con 3 de maná de hechizos."
+        "nombre": "Selección Antinatural",
+        "rareza": "rara",
+        "desc": "Las unidades del jugador tienen Evolucionar."
       },
       {
-        "nombre": "Flujo de Maná",
+        "nombre": "Mejoras Iterativas",
         "rareza": "epica",
-        "desc": "Inicio de la partida: El Enemigo obtiene una gema de maná."
+        "desc": "Inicio de la ronda: El Enemigo invoca la siguiente torreta."
       }
     ],
     "counters": [
@@ -2364,17 +2364,17 @@
     "num": 59,
     "estrellas": 3,
     "minijefe": null,
-    "jefe": "Draven",
+    "jefe": "Zed",
     "reglas": [
       {
-        "nombre": "Crónica de la Ruina",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: Mato a TODAS las unidades, y luego las revivo."
+        "nombre": "Misticismo Salvaje",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: Cada jugador obtiene una gema de maná."
       },
       {
-        "nombre": "Festín",
+        "nombre": "Sufre",
         "rareza": "epica",
-        "desc": "Cuando el Enemigo invoca una unidad, le otorgo +0|+3."
+        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades heridas del jugador."
       }
     ],
     "counters": [
@@ -2400,17 +2400,27 @@
     "num": 60,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "Ezreal",
+    "jefe": "Fiora",
     "reglas": [
       {
-        "nombre": "Carrera Armamentista",
-        "rareza": "epica",
-        "desc": "Inicio de la partida: TODOS los jugadores invocan 2 Herrisueñas."
+        "nombre": "Molestia Náutica",
+        "rareza": "comun",
+        "desc": "Inicio de la ronda: Restablezco el maná de hechizos de TODOS los jugadores."
       },
       {
         "nombre": "Enemigo Despiadado",
         "rareza": "especial",
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
+      },
+      {
+        "nombre": "Más Allá de la Carne",
+        "rareza": "epica",
+        "desc": "Las unidades del Enemigo tienen +1|+1 por cada una de sus palabras clave."
+      },
+      {
+        "nombre": "Resistir",
+        "rareza": "epica",
+        "desc": "Inicio de la ronda: Otorgo +0|+1 a las unidades del Enemigo."
       }
     ],
     "counters": [
@@ -2439,18 +2449,18 @@
   {
     "num": 61,
     "estrellas": 4,
-    "minijefe": "YASUO",
-    "jefe": "Lulu",
+    "minijefe": null,
+    "jefe": "Katarina",
     "reglas": [
       {
-        "nombre": "Solo los Fuertes",
+        "nombre": "Sin Vuelta Atrás",
         "rareza": "epica",
-        "desc": "Final de la ronda: Mata a TODAS las unidades, excepto la más fuertes de cada jugador."
+        "desc": "Mientras el jugador no tenga cartas en la mano, sus unidades tienen +2|+2."
       },
       {
-        "nombre": "Fuga de Maná",
-        "rareza": "epica",
-        "desc": "Cuando el jugador juegue un hechizo, creo una copia con Fugaz en la mano del Enemigo."
+        "nombre": "Llegaste al Puente de la Muerte",
+        "rareza": "legendaria",
+        "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
       }
     ],
     "counters": [
@@ -2480,12 +2490,12 @@
     "num": 62,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "VIEGO",
+    "jefe": "Fizz",
     "reglas": [
       {
-        "nombre": "Bloque de Carnicero",
-        "rareza": "comun",
-        "desc": "TODAS las unidades tienen \"Pillaje: Recibo +1|+1 \"."
+        "nombre": "Muertes Piadosas",
+        "rareza": "epica",
+        "desc": "Fin de la ronda: Mato a TODAS las unidades dañadas."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2493,9 +2503,9 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Rockeando Durísimo",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
+        "nombre": "Pequeñez",
+        "rareza": "legendaria",
+        "desc": "Cuando el jugador invoca una unidad, le fijo 1|1."
       }
     ],
     "counters": [
@@ -2524,13 +2534,13 @@
   {
     "num": 63,
     "estrellas": 4,
-    "minijefe": "TRYNDAMERE",
-    "jefe": "VIEGO",
+    "minijefe": "KAISA",
+    "jefe": "Fiora",
     "reglas": [
       {
-        "nombre": "Emisiones Arcanas",
+        "nombre": "Llamas Parpadeantes",
         "rareza": "comun",
-        "desc": "Inicio de la partida: TODOS  los jugadores inician con 3 de maná de hechizos."
+        "desc": "TODOS los hechizos y habilidades infligen 1 de daño adicional."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2538,9 +2548,9 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Puros Monos Explosivos II",
+        "nombre": "Flujo de Maná",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
+        "desc": "Inicio de la partida: El Enemigo obtiene una gema de maná."
       }
     ],
     "counters": [
@@ -2570,12 +2580,12 @@
     "num": 64,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "SWAIN",
+    "jefe": "Lulu",
     "reglas": [
       {
-        "nombre": "Mentes Tranquilas",
+        "nombre": "Guía Celestial",
         "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos al jugarla."
+        "desc": "En cada ronda, la primera carta de Targón del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2583,9 +2593,9 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Sufre",
+        "nombre": "El Filo en la Oscuridad",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades heridas del jugador."
+        "desc": "Fin de la ronda: Si el nexo del jugador recibió daño en esta ronda, la unidad Más fuerte del Enemigo lo Golpea."
       }
     ],
     "counters": [
@@ -2614,13 +2624,13 @@
   {
     "num": 65,
     "estrellas": 4,
-    "minijefe": "Gangplank",
-    "jefe": "Katarina",
+    "minijefe": "Katarina",
+    "jefe": "YASUO",
     "reglas": [
       {
-        "nombre": "Servicio Diligente",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de Demacia del jugador cuesta 1 menos al jugarla."
+        "nombre": "Entrenamiento Forestal",
+        "rareza": "comun",
+        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2628,9 +2638,9 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Coro de Poder",
+        "nombre": "Poder Noxiano II",
         "rareza": "legendaria",
-        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
+        "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +4|+0 y Arrollar."
       }
     ],
     "counters": [
@@ -2660,12 +2670,12 @@
     "num": 66,
     "estrellas": 4.5,
     "minijefe": null,
-    "jefe": "VIKTOR",
+    "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "El Imperio ante Todo",
+        "nombre": "Vestigio de Helia",
         "rareza": "epica",
-        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
+        "desc": "TODOS los hechizos cuestan 1 menos. TODAS las unidades tienen Escudo Antihechizos."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2673,14 +2683,14 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Puros Monos Explosivos II",
-        "rareza": "epica",
-        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
+        "nombre": "Imagen Persistente",
+        "rareza": "rara",
+        "desc": "Inicio de la ronda: El Enemigo revive una copia con Endeble del seguidor muerto Más fuerte."
       },
       {
-        "nombre": "Furia Inmortal",
+        "nombre": "Tormenta Inminente",
         "rareza": "epica",
-        "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
+        "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
       }
     ],
     "counters": [
@@ -2709,13 +2719,13 @@
   {
     "num": 67,
     "estrellas": 4,
-    "minijefe": null,
-    "jefe": "Ezreal",
+    "minijefe": "LEE_SIN",
+    "jefe": "SWAIN",
     "reglas": [
       {
-        "nombre": "Espíritus en Lamento",
-        "rareza": "rara",
-        "desc": "En cada ronda, la primera carta de las Islas de la Sombra del jugador cuesta 1 menos al jugarla."
+        "nombre": "Entrenamiento Forestal",
+        "rareza": "comun",
+        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2723,9 +2733,9 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Rockeando Durísimo",
+        "nombre": "Mejoras Iterativas",
         "rareza": "epica",
-        "desc": "Inicio de la ronda: Inflijo 1 de daño a todas las unidades del jugador."
+        "desc": "Inicio de la ronda: El Enemigo invoca la siguiente torreta."
       }
     ],
     "counters": [
@@ -2755,12 +2765,12 @@
     "num": 68,
     "estrellas": 4,
     "minijefe": null,
-    "jefe": "Lulu",
+    "jefe": "Irelia",
     "reglas": [
       {
-        "nombre": "El Imperio ante Todo",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
+        "nombre": "Llamas Parpadeantes",
+        "rareza": "comun",
+        "desc": "TODOS los hechizos y habilidades infligen 1 de daño adicional."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2768,9 +2778,9 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Llamado de Ayuda",
+        "nombre": "Hemorragia",
         "rareza": "epica",
-        "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
+        "desc": "Fin de la ronda: Inflijo 1 de daño al nexo del jugador por cada unidad que tenga el Enemigo."
       }
     ],
     "counters": [
@@ -2799,13 +2809,13 @@
   {
     "num": 69,
     "estrellas": 4.5,
-    "minijefe": null,
-    "jefe": "MISS_FORTUNE",
+    "minijefe": "Ezreal",
+    "jefe": "Katarina",
     "reglas": [
       {
-        "nombre": "El Imperio ante Todo",
-        "rareza": "epica",
-        "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
+        "nombre": "Entrenamiento Forestal",
+        "rareza": "comun",
+        "desc": "TODAS las unidades tienen \"Golpear: Duplico mi poder\"."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2813,14 +2823,14 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Eliminar la Imperfección",
+        "nombre": "Mejoras Iterativas",
         "rareza": "epica",
-        "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
+        "desc": "Inicio de la ronda: El Enemigo invoca la siguiente torreta."
       },
       {
-        "nombre": "Coro de Poder",
-        "rareza": "legendaria",
-        "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
+        "nombre": "Furia Inmortal",
+        "rareza": "epica",
+        "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
       }
     ],
     "counters": [
@@ -2849,13 +2859,13 @@
   {
     "num": 70,
     "estrellas": 4.5,
-    "minijefe": null,
-    "jefe": "Katarina",
+    "minijefe": "Zed",
+    "jefe": "CAITLYN",
     "reglas": [
       {
-        "nombre": "Misticismo Salvaje",
+        "nombre": "Mentes Tranquilas",
         "rareza": "rara",
-        "desc": "Inicio de la ronda: Cada jugador obtiene una gema de maná."
+        "desc": "En cada ronda, la primera carta de Jonia del jugador cuesta 1 menos al jugarla."
       },
       {
         "nombre": "Enemigo Despiadado",
@@ -2863,14 +2873,14 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       },
       {
-        "nombre": "Profeta de un Dios Antiguo II",
+        "nombre": "Puros Monos Explosivos II",
         "rareza": "epica",
-        "desc": "Cuando el Enemigo ataca, hago Surgir 3."
+        "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
       },
       {
-        "nombre": "Los Enemigos de Demacia Caerán",
-        "rareza": "epica",
-        "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
+        "nombre": "Venganza de la Naturaleza",
+        "rareza": "rara",
+        "desc": "Cuando el Enemigo obtiene la ficha de ataque, invoca 1 Retoño."
       }
     ],
     "counters": [
