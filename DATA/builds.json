@@ -2626,6 +2626,20 @@
   },
   {
     "campeon": "CAITLYN",
+    "r1": "ESPANTAPAJAROS-INOFENSIVO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "CUCHILLA-GIRATORIA",
+    "r2": "RIFLE-HEXTECH",
+    "r3": "FLAUTA-DE-ALBOROTADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
     "r1": "RIFLE-HEXTECH",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "FULGOR-ARDIENTE",
@@ -5520,6 +5534,13 @@
     "r1": "TEMPESTAD-DE-LUDEN",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "HEIMERDINGER",
+    "r1": "GASTO-DE-DEFENSA",
+    "r2": "PODER-RENOVADOR",
+    "r3": "COMETA-ARCANO",
     "r4": ""
   },
   {
@@ -9353,6 +9374,13 @@
   },
   {
     "campeon": "MEL",
+    "r1": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "MEL",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "TEMPESTAD-DE-LUDEN",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -11127,6 +11155,13 @@
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "NIDALEE",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "ESPADA-DE-LA-TEMPESTAD",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r4": ""
   },
   {
