@@ -2227,6 +2227,13 @@
   },
   {
     "campeon": "AZIR",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "MARCA-DEL-SUCUBO",
+    "r3": "COSECHA-MALVADA",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
     "r1": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r2": "MARCA-DEL-SUCUBO",
     "r3": "ESPADA-DE-LA-TEMPESTAD",
@@ -2517,6 +2524,13 @@
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "DERROTA-DE-LA-MUERTE",
     "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "BARDO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "DADOS-TRUCADOS",
+    "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
   },
   {
@@ -5125,6 +5139,13 @@
   },
   {
     "campeon": "GNAR",
+    "r1": "PROTECTORES-DE-DEMACIA",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "GNAR",
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "BACULO-DEL-ARCANGEL",
     "r3": "PROTOTIPO-DE-PULSAR-Z",
@@ -6199,6 +6220,13 @@
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "JAX",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -9297,6 +9325,13 @@
   },
   {
     "campeon": "MAESTRO_YI_FLOR_ESPIRITUAL",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "ESPADA-VENERABLE",
+    "r3": "ESPANTAPAJAROS-INOFENSIVO",
+    "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "MAESTRO_YI_FLOR_ESPIRITUAL",
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
     "r3": "FILO-DE-LA-TORMENTA",
@@ -11232,6 +11267,13 @@
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "NIDALEE",
+    "r1": "ESPADA-DE-LA-TEMPESTAD",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "PROTOTIPO-DE-PULSAR-Z",
     "r4": ""
   },
   {
