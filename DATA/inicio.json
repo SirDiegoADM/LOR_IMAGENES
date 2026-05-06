@@ -1,9 +1,9 @@
 [
   {
-    "hero_fondo": "UDYR_INICIO.webp",
-    "parche_ver": "VERSIÓN 7.4",
-    "parche_desc": "Descubre qué espíritu anda suelto en la versión 7.4.",
-    "parche_img": "PARCHE_UDYR.webp",
-    "parche_link": "https://playruneterra.com/es-mx/news/game-updates/7-4-patch-notes/"
+    "hero_fondo": "ZOE_INICIO.webp",
+    "parche_ver": "VERSIÓN 7.5",
+    "parche_desc": "Descubre qué curiosa mensajera llega el camino de los campeones.",
+    "parche_img": "ZOE.webp",
+    "parche_link": "https://playruneterra.com/es-mx/news/game-updates/7-5-patch-notes/"
   }
 ]
