@@ -1,5 +1,11 @@
 [
   {
+    "nombre": "ZOE",
+    "descripcion": "La curiosa mensajera",
+    "imagen": "ZOE.webp",
+    "enlace": "https://sites.google.com/view/runeterrapoclatam/zoe"
+  },
+  {
     "nombre": "CON AMIGOS COMO ESTOS...",
     "descripcion": "Consejos y selección de combinaciones de reliquias recomendadas por la comunidad para superar la aventura \"Con amigos como estos...\"",
     "imagen": "amigos.webp",
