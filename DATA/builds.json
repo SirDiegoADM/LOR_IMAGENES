@@ -17522,6 +17522,27 @@
   },
   {
     "campeon": "ZOE",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "GEMA-ESTELAR",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "COMETA-ARCANO",
+    "r2": "PODER-RENOVADOR",
+    "r3": "BACULO-DEL-ARCANGEL",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "PLACA-DEL-CENTINELA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
     "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
