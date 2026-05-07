@@ -14848,6 +14848,13 @@
   },
   {
     "campeon": "UDYR",
+    "r1": "BACULO-CELESTIAL",
+    "r2": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
     "r1": "TECNICA-SECRETA",
     "r2": "ESCUDO-NEGRO",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -17518,6 +17525,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "TOMOS-OCULTOS",
+    "r2": "CAOS-IMPROVISADO",
+    "r3": "DADOS-TRUCADOS",
     "r4": ""
   },
   {
