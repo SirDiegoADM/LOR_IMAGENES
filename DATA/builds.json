@@ -17519,5 +17519,33 @@
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
     "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "PLACA-DEL-CENTINELA",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "ARMA-VIVIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "PLACA-DEL-CENTINELA",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "CACHORRITO_ESPACIAL",
+    "r2": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r3": "ORBE-LUMINOSO",
+    "r4": ""
   }
 ]
