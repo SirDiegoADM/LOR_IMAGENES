@@ -1,6 +1,13 @@
 [
   {
     "campeon": "AATROX",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "PLACA-DEL-CENTINELA",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
     "r1": "GUANTELETES-ESTELARES",
     "r2": "ORBE-LUMINOSO",
     "r3": "PLACA-DEL-CENTINELA",
@@ -3714,6 +3721,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
+    "r1": "DUPLICADOR-QUIMTECH",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -9469,6 +9483,13 @@
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": "SECRETOS-DE-LOS-ESPIRITUS-RUNA"
+  },
+  {
+    "campeon": "MEL",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ORBE-DEL-GUARDIAN",
+    "r4": ""
   },
   {
     "campeon": "MEL",
@@ -17525,6 +17546,20 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "BACULO-DEL-ARCANGEL",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "CACHORRITO-ESPACIAL",
+    "r3": "DADOS-TRUCADOS",
     "r4": ""
   },
   {
