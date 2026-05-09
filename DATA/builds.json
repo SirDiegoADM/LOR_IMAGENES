@@ -17186,6 +17186,13 @@
   },
   {
     "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "MAZO-DEL-DESTINO",
+    "r4": "VESTIGIOS-DEL-VIENTO-RUNA"
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
     "r3": "AMIGUIS-DEL-PORTAL",
@@ -17546,6 +17553,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "CACHORRITO-ESPACIAL",
+    "r2": "GEMA-ESTELAR",
+    "r3": "GEMA-ESTELAR",
     "r4": ""
   },
   {
