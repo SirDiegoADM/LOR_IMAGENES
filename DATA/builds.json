@@ -1373,13 +1373,6 @@
   },
   {
     "campeon": "ANIVIA",
-    "r1": "PAQUETE-COMPLETO",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "ANGEL-GUARDIAN",
-    "r4": ""
-  },
-  {
-    "campeon": "ANIVIA",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "FORTUNA-ENCONTRADA",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -1404,13 +1397,6 @@
     "r1": "PAQUETE-COMPLETO",
     "r2": "ANGEL-GUARDIAN",
     "r3": "DUPLICADOR-QUIMTECH",
-    "r4": ""
-  },
-  {
-    "campeon": "ANIVIA",
-    "r1": "DUPLICADOR-QUIMTECH",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "ANGEL-GUARDIAN",
     "r4": ""
   },
   {
@@ -2776,13 +2762,6 @@
     "r1": "DERROTA-DE-LA-MUERTE",
     "r2": "ESPANTAPAJAROS-INOFENSIVO",
     "r3": "FLAUTA-DE-ALBOROTADOR",
-    "r4": ""
-  },
-  {
-    "campeon": "CAITLYN",
-    "r1": "ESPADA-DEL-ACECHADOR",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "ANGEL-GUARDIAN",
     "r4": ""
   },
   {
@@ -6826,13 +6805,6 @@
   },
   {
     "campeon": "JHIN",
-    "r1": "DUPLICADOR-QUIMTECH",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "ANGEL-GUARDIAN",
-    "r4": ""
-  },
-  {
-    "campeon": "JHIN",
     "r1": "POLVORA-CARGADA",
     "r2": "ARMOTAS",
     "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
@@ -9719,13 +9691,6 @@
     "campeon": "MEL",
     "r1": "CAPARAZON-DEL-VACIO",
     "r2": "ANGEL-GUARDIAN",
-    "r3": "ANGEL-GUARDIAN",
-    "r4": ""
-  },
-  {
-    "campeon": "MEL",
-    "r1": "CAPARAZON-DEL-VACIO",
-    "r2": "ANGEL-GUARDIAN",
     "r3": "COSECHA-MALVADA",
     "r4": ""
   },
@@ -10896,13 +10861,6 @@
     "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "DUPLICADOR-QUIMTECH",
-    "r4": ""
-  },
-  {
-    "campeon": "NASUS",
-    "r1": "ANGEL-GUARDIAN",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "ANGEL-GUARDIAN",
     "r4": ""
   },
   {
@@ -14120,13 +14078,6 @@
   },
   {
     "campeon": "TEEMO",
-    "r1": "ANGEL-GUARDIAN",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "ANGEL-GUARDIAN",
-    "r4": ""
-  },
-  {
-    "campeon": "TEEMO",
     "r1": "CONDENSADOR",
     "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r3": "GEMA-ESTELAR",
@@ -15807,13 +15758,6 @@
   },
   {
     "campeon": "VEX",
-    "r1": "HACHA-CORTAMIEDOS",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "ANGEL-GUARDIAN",
-    "r4": ""
-  },
-  {
-    "campeon": "VEX",
     "r1": "ARMOTAS",
     "r2": "DERROTA-DE-LA-MUERTE",
     "r3": "ESPIRITU-RESONANTE",
@@ -16279,13 +16223,6 @@
     "r1": "ESCUDO-NEGRO",
     "r2": "TIJERAS-ESPECTRALES",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
-    "r4": ""
-  },
-  {
-    "campeon": "VIEGO",
-    "r1": "ESPADA-DEL-ACECHADOR",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "ANGEL-GUARDIAN",
     "r4": ""
   },
   {
