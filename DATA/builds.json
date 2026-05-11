@@ -7925,6 +7925,13 @@
   },
   {
     "campeon": "LA_ARREBATADORA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": "SALON-INQUIETANTE-RUNA"
+  },
+  {
+    "campeon": "LA_ARREBATADORA",
     "r1": "TUMBA-CONGELADA",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
@@ -17756,6 +17763,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "TOMOS-OCULTOS",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "CAOS-IMPROVISADO",
     "r4": ""
   },
   {
