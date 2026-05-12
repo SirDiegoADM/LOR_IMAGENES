@@ -8457,6 +8457,13 @@
   },
   {
     "campeon": "LEONA",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "ABRAZO-DE-LA-REINA",
+    "r3": "ABRAZO-DE-LA-REINA",
+    "r4": ""
+  },
+  {
+    "campeon": "LEONA",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "FORTUNA-ENCONTRADA",
     "r3": "DADOS-TRUCADOS",
