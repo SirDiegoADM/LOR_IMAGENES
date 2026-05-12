@@ -6000,6 +6000,13 @@
   },
   {
     "campeon": "JACK",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "ABRAZO-DE-LA-REINA",
+    "r3": "ABRAZO-DE-LA-REINA",
+    "r4": ""
+  },
+  {
+    "campeon": "JACK",
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "LA-PALA-DEL-ENTERRADOR",
     "r3": "LA-HEBILLA-DEL-BERSERKER",
@@ -17763,6 +17770,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "CAOS-IMPROVISADO",
     "r4": ""
   },
   {
