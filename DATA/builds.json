@@ -1296,13 +1296,6 @@
   },
   {
     "campeon": "ANIVIA",
-    "r1": "ANGEL-GUARDIAN",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "ARMOTAS",
-    "r4": ""
-  },
-  {
-    "campeon": "ANIVIA",
     "r1": "ALIENTO-HELADO",
     "r2": "ICONO-DE-VALHIR",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -1341,13 +1334,6 @@
     "r1": "ARMOTAS",
     "r2": "FORTUNA-ENCONTRADA",
     "r3": "ESPIRITU-RESONANTE",
-    "r4": ""
-  },
-  {
-    "campeon": "ANIVIA",
-    "r1": "ANGEL-GUARDIAN",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "TEMPESTAD-DE-LUDEN",
     "r4": ""
   },
   {
@@ -7043,13 +7029,6 @@
   },
   {
     "campeon": "JINX",
-    "r1": "ANGEL-GUARDIAN",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "LA-CARGA-DE-LA-BALA-PERDIDA",
-    "r4": ""
-  },
-  {
-    "campeon": "JINX",
     "r1": "POLVORA-CARGADA",
     "r2": "LA-CARGA-DE-LA-BALA-PERDIDA",
     "r3": "ANGEL-GUARDIAN",
@@ -9563,6 +9542,13 @@
   },
   {
     "campeon": "MEL",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "MEL",
     "r1": "EL-PRECIO-DE-LA-RETRIBUCION",
     "r2": "CAPARAZON-DEL-VACIO",
     "r3": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
@@ -10959,6 +10945,13 @@
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "NAUTILUS",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "TESORO-DE-LAS-PROFUNDIDADES",
+    "r3": "ESCUDO-NEGRO",
     "r4": ""
   },
   {
@@ -13987,13 +13980,6 @@
   },
   {
     "campeon": "TEEMO",
-    "r1": "ANGEL-GUARDIAN",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "ORBE-DEL-GUARDIAN",
-    "r4": ""
-  },
-  {
-    "campeon": "TEEMO",
     "r1": "ESPANTAPAJAROS-INOFENSIVO",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "FUERZA-DEL-VIENTO",
@@ -14025,13 +14011,6 @@
     "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "DERROTA-DE-LA-MUERTE",
-    "r4": ""
-  },
-  {
-    "campeon": "TEEMO",
-    "r1": "ANGEL-GUARDIAN",
-    "r2": "ANGEL-GUARDIAN",
-    "r3": "GEMA-ESTELAR",
     "r4": ""
   },
   {
@@ -17763,6 +17742,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "CACHORRITO-ESPACIAL",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "TOMOS-OCULTOS",
     "r4": ""
   },
   {
