@@ -547,6 +547,20 @@
   },
   {
     "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "FUERZA-PETREA",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "TOMOS-OCULTOS",
+    "r2": "DADOS-TRUCADOS",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": "DESPERTAR-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "TOMOS-OCULTOS",
     "r3": "EL-PRECIO-DE-LA-RETRIBUCION",
@@ -719,6 +733,13 @@
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "BACULO-DEL-ARCANGEL",
     "r4": "DESPERTAR-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AKSHAN",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "ARMA-VIVIENTE",
+    "r4": ""
   },
   {
     "campeon": "AKSHAN",
@@ -1411,6 +1432,13 @@
     "r1": "TUMBA-CONGELADA",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "MAZO-DEL-DESTINO",
+    "r3": "COSECHA-MALVADA",
     "r4": ""
   },
   {
@@ -4621,6 +4649,20 @@
   },
   {
     "campeon": "EVELYNN_FLOR_ESPIRITUAL",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "EVELYNN_FLOR_ESPIRITUAL",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "LAMENTO-DRENADO",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "EVELYNN_FLOR_ESPIRITUAL",
     "r1": "FUERZA-PETREA",
     "r2": "TUMBA-CONGELADA",
     "r3": "MAZO-ACUMULADO",
@@ -4730,6 +4772,13 @@
     "r2": "BACULO-DEL-ARCANGEL",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "FIDDLESTICKS",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "CONMOCION-Y-PAVOR",
+    "r4": ""
   },
   {
     "campeon": "FIDDLESTICKS",
@@ -9395,6 +9444,13 @@
   },
   {
     "campeon": "MAESTRO_YI_FLOR_ESPIRITUAL",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "MAZO-ACUMULADO",
+    "r4": "EL-FAVOR-DEL-ARTESANO-RUNA"
+  },
+  {
+    "campeon": "MAESTRO_YI_FLOR_ESPIRITUAL",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "ESPADA-VENERABLE",
     "r3": "ESPANTAPAJAROS-INOFENSIVO",
@@ -11658,6 +11714,20 @@
     "campeon": "NORRA",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "TOMOS-OCULTOS",
+    "r3": "RITMOS-DE-DESESPERANZA",
+    "r4": ""
+  },
+  {
+    "campeon": "NORRA",
+    "r1": "ACELERADOR-DE-PORTALES-DE-NORRA",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "NORRA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "TOMOS-OCULTOS",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": ""
   },
@@ -12734,6 +12804,13 @@
   },
   {
     "campeon": "SHYVANA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "SHYVANA",
     "r1": "EL-PRECIO-DE-LA-RETRIBUCION",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "APRENDIZ-DE-LAS-SOMBRAS",
@@ -13052,6 +13129,13 @@
     "r1": "MAZO-ACUMULADO",
     "r2": "CORAZON-DE-ORO",
     "r3": "LA-CORONA-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "SORAKA",
+    "r1": "PLACA-DEL-CENTINELA",
+    "r2": "EXPERIMENTOS-CRUELES",
+    "r3": "BACULO-CELESTIAL",
     "r4": ""
   },
   {
@@ -13605,6 +13689,13 @@
     "r1": "BATERIA-REVOLTOSA",
     "r2": "TEMPESTAD-DE-LUDEN",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "TAHM_KENCH",
+    "r1": "PLACA-DEL-CENTINELA",
+    "r2": "EXPERIMENTOS-CRUELES",
+    "r3": "MARCA-DE-SANGRE",
     "r4": ""
   },
   {
@@ -14369,6 +14460,13 @@
     "r2": "ESPANTAPAJAROS-INOFENSIVO",
     "r3": "COSECHA-MALVADA",
     "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "THRESH",
+    "r1": "LINTERNA-DE-ALMAS",
+    "r2": "FUERZA-DEL-VIENTO",
+    "r3": "LA-HEBILLA-DEL-BERSERKER",
+    "r4": ""
   },
   {
     "campeon": "THRESH",
@@ -17347,6 +17445,27 @@
   },
   {
     "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r3": "LA-MANO-DEL-DESTINO",
+    "r4": "VESTIGIOS-DEL-VIENTO-RUNA"
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "AMIGUIS-DEL-PORTAL",
+    "r3": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r4": "VESTIGIOS-DEL-VIENTO-RUNA"
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "DADOS-TRUCADOS",
+    "r3": "EL-GAMBITO-DEL-AMO-DE-LAS-CARTAS",
+    "r4": "COMPRADOR-EXPERTO-RUNA"
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
     "r1": "MAZO-DEL-DESTINO",
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "FULGOR-ARDIENTE",
@@ -17519,6 +17638,13 @@
     "r2": "BARATIJA-DEL-GUARDIAN",
     "r3": "ORBE-LUMINOSO",
     "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "RITMOS-DE-DESESPERANZA",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "DADOS-TRUCADOS",
+    "r4": ""
   },
   {
     "campeon": "YUUMI",
@@ -17742,6 +17868,34 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "LAMENTO-DRENADO",
+    "r3": "LINTERNA-DE-ALMAS",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "TOMOS-OCULTOS",
+    "r2": "RITMOS-DE-DESESPERANZA",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "DADOS-TRUCADOS",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "CAOS-IMPROVISADO",
+    "r3": "COSECHA-MALVADA",
     "r4": ""
   },
   {
