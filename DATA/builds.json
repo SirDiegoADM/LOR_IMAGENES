@@ -548,6 +548,13 @@
   {
     "campeon": "AHRI_FLOR_ESPIRITUAL",
     "r1": "FUERZA-PETREA",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "FUERZA-PETREA",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": "ARMADURA-ESPIRITUAL-RUNA"
@@ -11712,6 +11719,13 @@
   },
   {
     "campeon": "NORRA",
+    "r1": "ACELERADOR-DE-PORTALES-DE-NORRA",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "NORRA",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "TOMOS-OCULTOS",
     "r3": "RITMOS-DE-DESESPERANZA",
@@ -11925,6 +11939,13 @@
     "r1": "ORBE-DEL-GUARDIAN",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "ORBE-DEL-GUARDIAN",
+    "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -12219,6 +12240,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "HIMNO-DEL-VALOR",
     "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "PYKE",
+    "r1": "ARPON-MORTIFERO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": ""
   },
   {
@@ -13129,6 +13157,13 @@
     "r1": "MAZO-ACUMULADO",
     "r2": "CORAZON-DE-ORO",
     "r3": "LA-CORONA-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "SORAKA",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -14212,6 +14247,13 @@
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
     "r1": "FLAUTA-DE-ALBOROTADOR",
+    "r2": "ESPANTAPAJAROS-INOFENSIVO",
+    "r3": "RITMOS-DE-DESESPERANZA",
+    "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "TEEMO_FLOR_ESPIRITUAL",
+    "r1": "FLAUTA-DE-ALBOROTADOR",
     "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
     "r3": "ESPANTAPAJAROS-INOFENSIVO",
     "r4": "PROLIFERACION-DE-HONGOS-RUNA"
@@ -15103,6 +15145,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "TEMPESTAD-DE-LUDEN",
     "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "TECNICA-SECRETA",
     "r4": ""
   },
   {
@@ -17442,6 +17491,13 @@
     "r2": "ESPADA-DE-LA-TEMPESTAD",
     "r3": "PERMAHIELO",
     "r4": ""
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "GUANTE-ESPIRITUAL",
+    "r3": "AMIGUIS-DEL-PORTAL",
+    "r4": "SECRETOS-DE-LOS-ESPIRITUS-RUNA"
   },
   {
     "campeon": "YASUO_FLOR_ESPIRITUAL",
