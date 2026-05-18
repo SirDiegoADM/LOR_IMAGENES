@@ -253,8 +253,8 @@
   },
   {
     "id": "HECHICERIA",
-    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/hechiceria.webp",
-    "rareza": "epica",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/brujería.webp",
+    "rareza": "rara",
     "recomendados": "AHRI_FLOR_ESPIRITUAL, AMBESSA, AURELION_SOL, EL_REY_PORO, EVELYNN_FLOR_ESPIRITUAL, HEIMERDINGER, JAYCE, LA_ARREBATADORA, LILLIA, LUX, MAESTRO_YI, MEL, MORGANA, NASUS, NAUTILUS, NORRA, SETT, SHYVANA, SORAKA, TEEMO_FLOR_ESPIRITUAL, TRYNDAMERE, TWISTED_FATE, UDYR, VAYNE, VI, VOLIBEAR, YASUO, YASUO_FLOR_ESPIRITUAL"
   },
   {
