@@ -547,6 +547,13 @@
   },
   {
     "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "TECNICA-SECRETA",
+    "r3": "DADOS-TRUCADOS",
+    "r4": "DESPERTAR-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
     "r1": "FUERZA-PETREA",
     "r2": "FULGOR-ARDIENTE",
     "r3": "LA-BESTIA-INTERIOR",
@@ -11943,6 +11950,13 @@
   },
   {
     "campeon": "NUNU_Y_WILLUMP",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
     "r1": "ORBE-DEL-GUARDIAN",
     "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -14246,6 +14260,13 @@
   },
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
+    "r1": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
+    "r2": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "TEEMO_FLOR_ESPIRITUAL",
     "r1": "FLAUTA-DE-ALBOROTADOR",
     "r2": "ESPANTAPAJAROS-INOFENSIVO",
     "r3": "RITMOS-DE-DESESPERANZA",
@@ -15439,6 +15460,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "HIMNO-DEL-VALOR",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "VAYNE",
+    "r1": "PAQUETE-COMPLETO",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "DERROTA-DE-LA-MUERTE",
     "r4": ""
   },
   {
@@ -17924,6 +17952,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "ANGEL-GUARDIAN",
     "r4": ""
   },
   {
