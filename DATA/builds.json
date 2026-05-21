@@ -2262,6 +2262,13 @@
   },
   {
     "campeon": "AZIR",
+    "r1": "CONMOCION-Y-PAVOR",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "DERROTA-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
     "r1": "PAQUETE-COMPLETO",
     "r2": "VARA-IMPERIAL-DE-AZIR",
     "r3": "GEMA-ESTELAR",
@@ -8209,6 +8216,13 @@
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "LEBLANC",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
   },
   {
     "campeon": "LEBLANC",
