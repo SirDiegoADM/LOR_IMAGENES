@@ -1,6 +1,13 @@
 [
   {
     "campeon": "AATROX",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "LA-HEBILLA-DEL-BERSERKER",
+    "r3": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "FULGOR-ARDIENTE",
     "r3": "PLACA-DEL-CENTINELA",
