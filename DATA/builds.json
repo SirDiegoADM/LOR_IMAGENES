@@ -17957,6 +17957,13 @@
   {
     "campeon": "ZOE",
     "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "PLACA-DEL-CENTINELA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "CAPARAZON-DEL-VACIO",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "ANGEL-GUARDIAN",
     "r4": ""
