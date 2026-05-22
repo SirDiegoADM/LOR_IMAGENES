@@ -8968,6 +8968,13 @@
   },
   {
     "campeon": "LUX",
+    "r1": "BASTON-INCANDESCENTE-DE-LUX",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "LUX",
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "DADOS-TRUCADOS",
     "r3": "BASTON-INCANDESCENTE-DE-LUX",
@@ -15733,6 +15740,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "VEX",
+    "r1": "RUNAS-DRACONICAS",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "DESESPERACION-ABSOLUTA",
     "r4": ""
   },
   {
