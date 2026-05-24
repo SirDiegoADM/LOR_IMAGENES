@@ -757,6 +757,13 @@
   },
   {
     "campeon": "AKSHAN",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "ARMA-VIVIENTE",
@@ -3326,6 +3333,13 @@
   },
   {
     "campeon": "DRAGON_ANCESTRAL",
+    "r1": "ESPADAFUEGO-CELESTE",
+    "r2": "CESE-Y-DESISTA",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "GARRAS-GRANDES",
     "r3": "GUANTELETES-ESTELARES",
@@ -5723,6 +5737,13 @@
     "r1": "TEMPESTAD-DE-LUDEN",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "HEIMERDINGER",
+    "r1": "RITMOS-DE-DESESPERANZA",
+    "r2": "ESPANTAPAJAROS-INOFENSIVO",
+    "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
   },
   {
@@ -11250,6 +11271,13 @@
   },
   {
     "campeon": "NEEKO",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "DERROTA-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "NEEKO",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "ANGEL-GUARDIAN",
@@ -12545,6 +12573,13 @@
   },
   {
     "campeon": "SAMIRA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "DADOS-TRUCADOS",
+    "r4": ""
+  },
+  {
+    "campeon": "SAMIRA",
     "r1": "POLVORA-CARGADA",
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "FULGOR-ARDIENTE",
@@ -13199,6 +13234,13 @@
     "r1": "MAZO-ACUMULADO",
     "r2": "CORAZON-DE-ORO",
     "r3": "LA-CORONA-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "SORAKA",
+    "r1": "BACULO-CELESTIAL",
+    "r2": "EXPERIMENTOS-CRUELES",
+    "r3": "FUERZA-PETREA",
     "r4": ""
   },
   {
@@ -13920,6 +13962,13 @@
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "ARMADURA-DE-WARMOG",
+    "r4": ""
+  },
+  {
+    "campeon": "TALIYAH",
+    "r1": "TUMBA-CONGELADA",
+    "r2": "ORDEN-DE-EXPLORACION",
+    "r3": "ICONO-DE-VALHIR",
     "r4": ""
   },
   {
