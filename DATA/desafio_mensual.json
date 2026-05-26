@@ -18,15 +18,19 @@
       },
       {
         "nombre": "ORNN",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "BARDO",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ELISE",
-        "pct": 13
+        "pct": 10
+      },
+      {
+        "nombre": "GWEN",
+        "pct": 10
       }
     ]
   },
@@ -50,23 +54,23 @@
     "counters": [
       {
         "nombre": "LEE_SIN",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "HEIMERDINGER",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "NORRA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "GNAR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ORNN",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -85,23 +89,23 @@
     "counters": [
       {
         "nombre": "DARIUS",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "ELISE",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "ANNIE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "NUNU_Y_WILLUMP",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "BARDO",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -120,23 +124,23 @@
     "counters": [
       {
         "nombre": "VOLIBEAR",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "AATROX",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "NASUS",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "MORDEKAISER",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "BARDO",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -160,23 +164,23 @@
     "counters": [
       {
         "nombre": "WARWICK",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "BARDO",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "CAITLYN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VEIGAR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AZIR",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -200,23 +204,23 @@
     "counters": [
       {
         "nombre": "ANNIE",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "SAMIRA",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "MEL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "LEBLANC",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AMBESSA",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -239,24 +243,24 @@
     ],
     "counters": [
       {
-        "nombre": "VARUS",
-        "pct": 25
+        "nombre": "ILLAOI",
+        "pct": 30
       },
       {
-        "nombre": "ILLAOI",
-        "pct": 25
+        "nombre": "VARUS",
+        "pct": 20
       },
       {
         "nombre": "LUX_ILUMINADA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "LEBLANC",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "EVELYNN",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -280,23 +284,23 @@
     "counters": [
       {
         "nombre": "KAYLE",
-        "pct": 25
+        "pct": 20
+      },
+      {
+        "nombre": "LEONA",
+        "pct": 20
       },
       {
         "nombre": "DIANA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "Zoe",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "YUUMI",
-        "pct": 13
-      },
-      {
-        "nombre": "MORGANA",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -319,24 +323,24 @@
     ],
     "counters": [
       {
-        "nombre": "WARWICK",
-        "pct": 25
+        "nombre": "CAITLYN",
+        "pct": 20
       },
       {
-        "nombre": "CAITLYN",
-        "pct": 13
+        "nombre": "WARWICK",
+        "pct": 20
       },
       {
         "nombre": "ELISE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "NILAH",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "JACK",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -359,24 +363,24 @@
     ],
     "counters": [
       {
+        "nombre": "AMBESSA",
+        "pct": 20
+      },
+      {
         "nombre": "VEIGAR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "THRESH",
-        "pct": 13
-      },
-      {
-        "nombre": "AMBESSA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AZIR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "SORAKA",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -410,23 +414,23 @@
     "counters": [
       {
         "nombre": "LEBLANC",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "MEL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AMBESSA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "SAMIRA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "JANNA",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -449,24 +453,24 @@
     ],
     "counters": [
       {
-        "nombre": "Zoe",
-        "pct": 25
+        "nombre": "KAISA",
+        "pct": 20
       },
       {
-        "nombre": "KAISA",
-        "pct": 13
+        "nombre": "Zoe",
+        "pct": 20
       },
       {
         "nombre": "AMBESSA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ELISE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AZIR",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -490,23 +494,23 @@
     "counters": [
       {
         "nombre": "JAX",
-        "pct": 25
+        "pct": 20
+      },
+      {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "pct": 20
       },
       {
         "nombre": "NORRA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "TALIYAH",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "NASUS",
-        "pct": 13
-      },
-      {
-        "nombre": "KINDRED",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -530,23 +534,23 @@
     "counters": [
       {
         "nombre": "VAYNE",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "VARUS",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "AURELION_SOL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AKSHAN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "GAREN",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -569,24 +573,24 @@
     ],
     "counters": [
       {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "pct": 20
+      },
+      {
         "nombre": "CAITLYN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "WARWICK",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "THRESH",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ASHE",
-        "pct": 13
-      },
-      {
-        "nombre": "JAX",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -610,23 +614,23 @@
     "counters": [
       {
         "nombre": "EL_REY_PORO",
-        "pct": 38
+        "pct": 30
+      },
+      {
+        "nombre": "NAUTILUS",
+        "pct": 20
       },
       {
         "nombre": "ELISE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "KAISA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "GAREN",
-        "pct": 13
-      },
-      {
-        "nombre": "HEIMERDINGER",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -649,24 +653,24 @@
     ],
     "counters": [
       {
-        "nombre": "MAESTRO_YI",
-        "pct": 25
+        "nombre": "TRYNDAMERE",
+        "pct": 30
       },
       {
-        "nombre": "TRYNDAMERE",
-        "pct": 25
+        "nombre": "MAESTRO_YI",
+        "pct": 20
       },
       {
         "nombre": "NEEKO",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ILLAOI",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "LEE_SIN",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -690,23 +694,23 @@
     "counters": [
       {
         "nombre": "THRESH",
-        "pct": 38
+        "pct": 30
       },
       {
         "nombre": "NEEKO",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "TWISTED_FATE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ASHE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "JACK",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -733,20 +737,20 @@
         "pct": 50
       },
       {
+        "nombre": "AHRI",
+        "pct": 20
+      },
+      {
         "nombre": "VEX",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "JAX",
-        "pct": 13
-      },
-      {
-        "nombre": "AHRI",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "UDYR",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -770,23 +774,23 @@
     "counters": [
       {
         "nombre": "MEL",
-        "pct": 25
+        "pct": 20
+      },
+      {
+        "nombre": "YUUMI",
+        "pct": 20
       },
       {
         "nombre": "VEX",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "FIDDLESTICKS",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "JACK",
-        "pct": 13
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -810,23 +814,23 @@
     "counters": [
       {
         "nombre": "EL_REY_PORO",
-        "pct": 38
+        "pct": 30
       },
       {
         "nombre": "ELISE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "KAISA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VI",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "HEIMERDINGER",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -849,24 +853,24 @@
     ],
     "counters": [
       {
-        "nombre": "NUNU_Y_WILLUMP",
-        "pct": 38
-      },
-      {
         "nombre": "UDYR",
-        "pct": 25
+        "pct": 30
       },
       {
-        "nombre": "GNAR",
-        "pct": 13
+        "nombre": "NUNU_Y_WILLUMP",
+        "pct": 30
       },
       {
         "nombre": "ASHE",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "GNAR",
+        "pct": 10
       },
       {
         "nombre": "JHIN",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -890,15 +894,15 @@
     "counters": [
       {
         "nombre": "TEEMO",
-        "pct": 75
-      },
-      {
-        "nombre": "GWEN",
-        "pct": 13
+        "pct": 70
       },
       {
         "nombre": "JHIN",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "GWEN",
+        "pct": 10
       }
     ]
   },
@@ -927,19 +931,23 @@
     "counters": [
       {
         "nombre": "NAMI",
-        "pct": 63
+        "pct": 60
       },
       {
         "nombre": "SAMIRA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "SWAIN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "JHIN",
-        "pct": 13
+        "pct": 10
+      },
+      {
+        "nombre": "VAYNE",
+        "pct": 10
       }
     ]
   },
@@ -963,23 +971,23 @@
     "counters": [
       {
         "nombre": "TALIYAH",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "NORRA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "LUX_ILUMINADA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ELISE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "KAYN",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1003,23 +1011,23 @@
     "counters": [
       {
         "nombre": "EKKO",
-        "pct": 38
+        "pct": 30
       },
       {
         "nombre": "JANNA",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "CAITLYN",
-        "pct": 13
+        "pct": 20
       },
       {
         "nombre": "VI",
-        "pct": 13
+        "pct": 20
       },
       {
         "nombre": "VIKTOR",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1043,23 +1051,23 @@
     "counters": [
       {
         "nombre": "JHIN",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "TWISTED_FATE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ANNIE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "CAITLYN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "MEL",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1086,20 +1094,20 @@
         "pct": 50
       },
       {
+        "nombre": "VEX",
+        "pct": 20
+      },
+      {
         "nombre": "JHIN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ANNIE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "GWEN",
-        "pct": 13
-      },
-      {
-        "nombre": "VEX",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1123,23 +1131,23 @@
     "counters": [
       {
         "nombre": "VOLIBEAR",
-        "pct": 38
-      },
-      {
-        "nombre": "AATROX",
-        "pct": 13
+        "pct": 40
       },
       {
         "nombre": "DRAGON_ANCESTRAL",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "AATROX",
+        "pct": 10
       },
       {
         "nombre": "ORNN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AHRI_FLOR_ESPIRITUAL",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1162,24 +1170,24 @@
     ],
     "counters": [
       {
-        "nombre": "LEONA",
-        "pct": 25
+        "nombre": "SORAKA",
+        "pct": 30
       },
       {
-        "nombre": "SORAKA",
-        "pct": 25
+        "nombre": "LEONA",
+        "pct": 20
       },
       {
         "nombre": "KAYLE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "DIANA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AURELION_SOL",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1203,23 +1211,23 @@
     "counters": [
       {
         "nombre": "EL_REY_PORO",
-        "pct": 38
+        "pct": 30
       },
       {
         "nombre": "ELISE",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "EKKO",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "HEIMERDINGER",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "YUUMI",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1247,11 +1255,15 @@
       },
       {
         "nombre": "VIKTOR",
-        "pct": 38
+        "pct": 30
       },
       {
         "nombre": "MEL",
-        "pct": 13
+        "pct": 10
+      },
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 10
       }
     ]
   },
@@ -1275,23 +1287,23 @@
     "counters": [
       {
         "nombre": "VEIGAR",
-        "pct": 38
-      },
-      {
-        "nombre": "VIEGO",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "ELISE",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "VIEGO",
+        "pct": 20
       },
       {
         "nombre": "GWEN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "YUUMI",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1319,15 +1331,15 @@
       },
       {
         "nombre": "DRAGON_ANCESTRAL",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "AATROX",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ILLAOI",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1360,19 +1372,19 @@
       },
       {
         "nombre": "SWAIN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "MISS_FORTUNE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "FIDDLESTICKS",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "DRAGON_ANCESTRAL",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1396,15 +1408,15 @@
     "counters": [
       {
         "nombre": "DRAGON_ANCESTRAL",
-        "pct": 75
+        "pct": 80
       },
       {
         "nombre": "VOLIBEAR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "TRYNDAMERE",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1432,19 +1444,19 @@
       },
       {
         "nombre": "LEBLANC",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VAYNE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "MEL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ASHE",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1472,19 +1484,19 @@
       },
       {
         "nombre": "SHYVANA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AHRI",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "JAX",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ASHE",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1513,23 +1525,23 @@
     "counters": [
       {
         "nombre": "JINX",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "MEL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VEX",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "MISS_FORTUNE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "SWAIN",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1553,23 +1565,23 @@
     "counters": [
       {
         "nombre": "VOLIBEAR",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "KINDRED",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "NIDALEE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AURELION_SOL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "HEIMERDINGER",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1597,15 +1609,19 @@
       },
       {
         "nombre": "LA_ARREBATADORA",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "NAMI",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VIKTOR",
-        "pct": 13
+        "pct": 10
+      },
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 10
       }
     ]
   },
@@ -1629,23 +1645,23 @@
     "counters": [
       {
         "nombre": "TRYNDAMERE",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "MAESTRO_YI",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "SAMIRA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "MEL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AHRI_FLOR_ESPIRITUAL",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1668,24 +1684,24 @@
     ],
     "counters": [
       {
-        "nombre": "KAYLE",
-        "pct": 25
-      },
-      {
-        "nombre": "LEONA",
-        "pct": 25
-      },
-      {
         "nombre": "SORAKA",
-        "pct": 13
+        "pct": 20
       },
       {
         "nombre": "MORGANA",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "KAYLE",
+        "pct": 20
+      },
+      {
+        "nombre": "LEONA",
+        "pct": 20
       },
       {
         "nombre": "Zoe",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1709,19 +1725,19 @@
     "counters": [
       {
         "nombre": "TEEMO",
-        "pct": 63
-      },
-      {
-        "nombre": "JHIN",
-        "pct": 13
+        "pct": 60
       },
       {
         "nombre": "VEX",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "JHIN",
+        "pct": 10
       },
       {
         "nombre": "WARWICK",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1749,19 +1765,19 @@
       },
       {
         "nombre": "THRESH",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VEIGAR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "GWEN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "WARWICK",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1785,23 +1801,23 @@
     "counters": [
       {
         "nombre": "MISS_FORTUNE",
-        "pct": 38
+        "pct": 40
       },
       {
         "nombre": "MEL",
-        "pct": 13
+        "pct": 20
       },
       {
         "nombre": "CAITLYN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ANNIE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "EL_REY_PORO",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1825,23 +1841,23 @@
     "counters": [
       {
         "nombre": "AMBESSA",
-        "pct": 38
-      },
-      {
-        "nombre": "NAMI",
-        "pct": 13
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 13
+        "pct": 30
       },
       {
         "nombre": "NEEKO",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "NAMI",
+        "pct": 10
+      },
+      {
+        "nombre": "VIKTOR",
+        "pct": 10
       },
       {
         "nombre": "SHYVANA",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1875,23 +1891,23 @@
     "counters": [
       {
         "nombre": "GWEN",
-        "pct": 25
-      },
-      {
-        "nombre": "AURELION_SOL",
-        "pct": 13
-      },
-      {
-        "nombre": "THRESH",
-        "pct": 13
+        "pct": 30
       },
       {
         "nombre": "VEX",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "AURELION_SOL",
+        "pct": 10
+      },
+      {
+        "nombre": "THRESH",
+        "pct": 10
       },
       {
         "nombre": "MEL",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1915,23 +1931,23 @@
     "counters": [
       {
         "nombre": "DARIUS",
-        "pct": 38
+        "pct": 40
       },
       {
         "nombre": "AMBESSA",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "LEBLANC",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "SWAIN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "FIDDLESTICKS",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -1955,23 +1971,23 @@
     "counters": [
       {
         "nombre": "VIKTOR",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "JINX",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "LEBLANC",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "HEIMERDINGER",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "EKKO",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2008,20 +2024,20 @@
         "pct": 50
       },
       {
+        "nombre": "PYKE",
+        "pct": 20
+      },
+      {
         "nombre": "TEEMO_FLOR_ESPIRITUAL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "SWAIN",
-        "pct": 13
-      },
-      {
-        "nombre": "PYKE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "FIDDLESTICKS",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2044,24 +2060,24 @@
     ],
     "counters": [
       {
+        "nombre": "NIDALEE",
+        "pct": 20
+      },
+      {
         "nombre": "GNAR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AKSHAN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "LUX",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "MISS_FORTUNE",
-        "pct": 13
-      },
-      {
-        "nombre": "JAYCE",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2085,23 +2101,23 @@
     "counters": [
       {
         "nombre": "VIEGO",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "GNAR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AZIR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "EVELYNN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AATROX",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2133,20 +2149,20 @@
         "pct": 50
       },
       {
+        "nombre": "MAESTRO_YI",
+        "pct": 20
+      },
+      {
         "nombre": "TALIYAH",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "MAESTRO_YI_FLOR_ESPIRITUAL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "SORAKA",
-        "pct": 13
-      },
-      {
-        "nombre": "MAESTRO_YI",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2170,23 +2186,23 @@
     "counters": [
       {
         "nombre": "MEL",
-        "pct": 25
+        "pct": 20
+      },
+      {
+        "nombre": "NIDALEE",
+        "pct": 20
       },
       {
         "nombre": "LUX_ILUMINADA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VAYNE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "LUX",
-        "pct": 13
-      },
-      {
-        "nombre": "HEIMERDINGER",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2210,23 +2226,23 @@
     "counters": [
       {
         "nombre": "SAMIRA",
-        "pct": 25
-      },
-      {
-        "nombre": "LEBLANC",
-        "pct": 13
+        "pct": 20
       },
       {
         "nombre": "DARIUS",
-        "pct": 13
+        "pct": 20
       },
       {
         "nombre": "SWAIN",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "LEBLANC",
+        "pct": 10
       },
       {
         "nombre": "ANNIE",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2260,23 +2276,23 @@
     "counters": [
       {
         "nombre": "VAYNE",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "EVELYNN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "YASUO_FLOR_ESPIRITUAL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "NASUS",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "TALIYAH",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2300,23 +2316,23 @@
     "counters": [
       {
         "nombre": "EVELYNN",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "KAISA",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "EKKO",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "HEIMERDINGER",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "SHYVANA",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2340,23 +2356,23 @@
     "counters": [
       {
         "nombre": "VOLIBEAR",
-        "pct": 25
-      },
-      {
-        "nombre": "EVELYNN",
-        "pct": 13
+        "pct": 30
       },
       {
         "nombre": "ANIVIA",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "EVELYNN",
+        "pct": 10
       },
       {
         "nombre": "SWAIN",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "DRAGON_ANCESTRAL",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2390,23 +2406,23 @@
     "counters": [
       {
         "nombre": "LUX",
-        "pct": 25
-      },
-      {
-        "nombre": "VIKTOR",
-        "pct": 13
-      },
-      {
-        "nombre": "AHRI_FLOR_ESPIRITUAL",
-        "pct": 13
-      },
-      {
-        "nombre": "MAESTRO_YI_FLOR_ESPIRITUAL",
-        "pct": 13
+        "pct": 20
       },
       {
         "nombre": "NIDALEE",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "VIKTOR",
+        "pct": 10
+      },
+      {
+        "nombre": "AHRI_FLOR_ESPIRITUAL",
+        "pct": 10
+      },
+      {
+        "nombre": "MAESTRO_YI_FLOR_ESPIRITUAL",
+        "pct": 10
       }
     ]
   },
@@ -2429,24 +2445,24 @@
     ],
     "counters": [
       {
+        "nombre": "JINX",
+        "pct": 20
+      },
+      {
         "nombre": "AURELION_SOL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "YASUO",
-        "pct": 13
-      },
-      {
-        "nombre": "JINX",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VIKTOR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "ASHE",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2475,23 +2491,23 @@
     "counters": [
       {
         "nombre": "JINX",
-        "pct": 25
-      },
-      {
-        "nombre": "SWAIN",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "MISS_FORTUNE",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 20
       },
       {
         "nombre": "YUUMI",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VIKTOR",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2524,15 +2540,19 @@
       },
       {
         "nombre": "ANNIE",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "MISS_FORTUNE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "KAISA",
-        "pct": 13
+        "pct": 10
+      },
+      {
+        "nombre": "LILLIA",
+        "pct": 10
       }
     ]
   },
@@ -2561,23 +2581,23 @@
     "counters": [
       {
         "nombre": "MORGANA",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "KAYLE",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "LEONA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AURELION_SOL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "SWAIN",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2610,19 +2630,19 @@
       },
       {
         "nombre": "ELISE",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "DIANA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VIKTOR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VAYNE",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2656,23 +2676,23 @@
     "counters": [
       {
         "nombre": "AHRI",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "MAESTRO_YI",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "MAESTRO_YI_FLOR_ESPIRITUAL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "VARUS",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AATROX",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2701,23 +2721,23 @@
     "counters": [
       {
         "nombre": "DIANA",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "AHRI",
-        "pct": 25
-      },
-      {
-        "nombre": "SHYVANA",
-        "pct": 13
+        "pct": 20
       },
       {
         "nombre": "VAYNE",
-        "pct": 13
+        "pct": 20
+      },
+      {
+        "nombre": "SHYVANA",
+        "pct": 10
       },
       {
         "nombre": "AATROX",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2750,15 +2770,15 @@
       },
       {
         "nombre": "JINX",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "VIKTOR",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "KAISA",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2792,23 +2812,23 @@
     "counters": [
       {
         "nombre": "AURELION_SOL",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "VIEGO",
-        "pct": 25
+        "pct": 20
       },
       {
         "nombre": "DIANA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AHRI",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "SWAIN",
-        "pct": 13
+        "pct": 10
       }
     ]
   },
@@ -2842,23 +2862,23 @@
     "counters": [
       {
         "nombre": "YASUO",
-        "pct": 25
+        "pct": 30
       },
       {
         "nombre": "AHRI",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "AHRI_FLOR_ESPIRITUAL",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "LILLIA",
-        "pct": 13
+        "pct": 10
       },
       {
         "nombre": "JINX",
-        "pct": 13
+        "pct": 10
       }
     ]
   }
