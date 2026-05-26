@@ -260,6 +260,13 @@
   },
   {
     "campeon": "AHRI",
+    "r1": "CAOS-IMPROVISADO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
     "r1": "PLACA-DEL-CENTINELA",
     "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -2773,6 +2780,13 @@
   },
   {
     "campeon": "CAITLYN",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "DADOS-TRUCADOS",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
     "r1": "ESPANTAPAJAROS-INOFENSIVO",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -4761,6 +4775,13 @@
   },
   {
     "campeon": "EVELYNN_FLOR_ESPIRITUAL",
+    "r1": "LAMENTO-DRENADO",
+    "r2": "FUERZA-PETREA",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "EVELYNN_FLOR_ESPIRITUAL",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
@@ -4884,6 +4905,13 @@
     "r2": "BACULO-DEL-ARCANGEL",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "FIDDLESTICKS",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "PODER-RENOVADOR",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
   },
   {
     "campeon": "FIDDLESTICKS",
@@ -9521,6 +9549,13 @@
   },
   {
     "campeon": "MAESTRO_YI",
+    "r1": "TECNICA-SECRETA",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "MAESTRO_YI",
     "r1": "FULGOR-ARDIENTE",
     "r2": "TECNICA-SECRETA",
     "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
@@ -10413,6 +10448,13 @@
     "r1": "COSECHA-MALVADA",
     "r2": "ANGEL-GUARDIAN",
     "r3": "HIDRA-VORAZ",
+    "r4": ""
+  },
+  {
+    "campeon": "MORGANA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": ""
   },
   {
@@ -13612,6 +13654,13 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "SWAIN",
+    "r1": "ARMOTAS",
+    "r2": "DADOS-TRUCADOS",
+    "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
   },
   {
@@ -16955,6 +17004,13 @@
   },
   {
     "campeon": "VOLIBEAR",
+    "r1": "ICONO-DE-VALHIR",
+    "r2": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r3": "OSITO-DE-APOYO-EMOCIONAL",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
     "r1": "GUANTELETES-ESTELARES",
     "r2": "FORTUNA-ENCONTRADA",
     "r3": "CAOS-IMPROVISADO",
@@ -17504,6 +17560,13 @@
     "r1": "POLVORA-CARGADA",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "COSECHA-MALVADA",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
     "r4": ""
   },
   {
