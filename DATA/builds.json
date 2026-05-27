@@ -5511,6 +5511,13 @@
   {
     "campeon": "GWEN",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "BACULO-CELESTIAL",
+    "r4": ""
+  },
+  {
+    "campeon": "GWEN",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
     "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
@@ -6619,6 +6626,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "JAYCE",
+    "r1": "PODER-RENOVADOR",
+    "r2": "DADOS-TRUCADOS",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
