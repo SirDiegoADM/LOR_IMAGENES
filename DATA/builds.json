@@ -5510,6 +5510,13 @@
   },
   {
     "campeon": "GWEN",
+    "r1": "ESPADAFUEGO-CELESTE",
+    "r2": "CESE-Y-DESISTA",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "GWEN",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "DERROTA-DE-LA-MUERTE",
     "r3": "BACULO-CELESTIAL",
@@ -6199,6 +6206,13 @@
     "r1": "HOJASOMBRA-DE-VALLECLARO",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "JACK",
+    "r1": "CUCHILLA-GIRATORIA",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "APRENDIZ-DE-LAS-SOMBRAS",
     "r4": ""
   },
   {
@@ -9381,6 +9395,13 @@
   },
   {
     "campeon": "LUX_ILUMINADA",
+    "r1": "BASTON-INCANDESCENTE-DE-LUX",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "LUX_ILUMINADA",
     "r1": "ESPADA-DE-LA-TEMPESTAD",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "SUENOS-DE-YORDLES",
@@ -11449,6 +11470,13 @@
     "r1": "MAZO-ACUMULADO",
     "r2": "GUANTELETES-ESTELARES",
     "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "NEEKO",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "ORBE-DEL-GUARDIAN",
     "r4": ""
   },
   {
@@ -16552,6 +16580,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "VIEGO",
+    "r1": "TIJERAS-ESPECTRALES",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r4": ""
   },
   {
