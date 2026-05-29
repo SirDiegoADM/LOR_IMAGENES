@@ -16381,6 +16381,13 @@
   },
   {
     "campeon": "VI",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "CESE-Y-DESISTA",
+    "r3": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r4": ""
+  },
+  {
+    "campeon": "VI",
     "r1": "RITMOS-DE-DESESPERANZA",
     "r2": "FULGOR-ARDIENTE",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -17053,6 +17060,13 @@
   },
   {
     "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "DADOS-TRUCADOS",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
     "r1": "ICONO-DE-VALHIR",
     "r2": "LA-BALANZA-DE-LA-JUSTICIA",
     "r3": "OSITO-DE-APOYO-EMOCIONAL",
@@ -17609,6 +17623,13 @@
     "r1": "POLVORA-CARGADA",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "ESPADA-DE-LA-TEMPESTAD",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
