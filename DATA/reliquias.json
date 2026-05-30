@@ -147,7 +147,7 @@
     "id": "CESE-Y-DESISTA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Cese_y_Desista.webp",
     "rareza": "epica",
-    "recomendados": "AHRI, ASHE, AURELION_SOL, DARIUS, DRAGON_ANCESTRAL, EKKO, GAREN, GWEN, JHIN, KAISA, KAYLE, NASUS, ORNN, THRESH, VI, VIEGO, VOLIBEAR"
+    "recomendados": "AHRI, ASHE, AURELION_SOL, DARIUS, DRAGON_ANCESTRAL, EKKO, GAREN, GWEN, JHIN, KAISA, KAYLE, NASUS, ORNN, SHYVANA, THRESH, VI, VIEGO, VOLIBEAR"
   },
   {
     "id": "COMETA-ARCANO",
@@ -711,7 +711,7 @@
     "id": "PLACA-DEL-CENTINELA",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Placa_del_Centinela.webp",
     "rareza": "epica",
-    "recomendados": "AATROX, AHRI, JACK, SORAKA, TAHM_KENCH, UDYR, VAYNE, ZOE"
+    "recomendados": "AATROX, AHRI, JACK, SORAKA, TAHM_KENCH, UDYR, VAYNE, WARWICK, ZOE"
   },
   {
     "id": "PODER-RENOVADOR",
