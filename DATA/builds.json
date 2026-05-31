@@ -2032,6 +2032,13 @@
   {
     "campeon": "AURELION_SOL",
     "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "EMBLEMA-DE-LA-MAQUIAVELICA",
     "r3": "ESPADA-DE-LA-TEMPESTAD",
     "r4": ""
@@ -3028,6 +3035,13 @@
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "BACULO-DEL-ARCANGEL",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
@@ -14870,6 +14884,13 @@
   {
     "campeon": "THRESH",
     "r1": "LINTERNA-DE-ALMAS",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "THRESH",
+    "r1": "LINTERNA-DE-ALMAS",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "LA-HEBILLA-DEL-BERSERKER",
     "r4": ""
@@ -16391,6 +16412,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "VI",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
