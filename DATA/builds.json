@@ -1317,6 +1317,13 @@
   },
   {
     "campeon": "ANIVIA",
+    "r1": "DUPLICADOR-QUIMTECH",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "TUMBA-CONGELADA",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "ESCUDO-NEGRO",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
@@ -2349,6 +2356,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "GEMA-ESTELAR",
     "r4": ""
   },
   {
@@ -6108,6 +6122,13 @@
     "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
     "r2": "POLVORA-CARGADA",
     "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ORDEN-DE-EXPLORACION",
     "r4": ""
   },
   {
@@ -11040,6 +11061,20 @@
   },
   {
     "campeon": "NASUS",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r4": ""
+  },
+  {
+    "campeon": "NASUS",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "NASUS",
     "r1": "LA-BALANZA-DE-LA-JUSTICIA",
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
     "r3": "COSECHA-MALVADA",
@@ -15611,6 +15646,13 @@
   },
   {
     "campeon": "UDYR",
+    "r1": "TECNICA-SECRETA",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "HIMNO-DEL-VALOR",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
     "r1": "ESCUDO-NEGRO",
     "r2": "TECNICA-SECRETA",
     "r3": "TOMOS-OCULTOS",
@@ -16482,6 +16524,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "VI",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "TOMOS-OCULTOS",
     "r4": ""
   },
   {
@@ -17448,6 +17497,13 @@
     "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r2": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r3": "PROTOTIPO-DE-PULSAR-Z",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "TOMOS-OCULTOS",
     "r4": ""
   },
   {
