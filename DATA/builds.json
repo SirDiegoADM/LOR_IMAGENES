@@ -1534,6 +1534,13 @@
   },
   {
     "campeon": "ANNIE",
+    "r1": "CUCHILLA-GIRATORIA",
+    "r2": "ICONO-DE-VALHIR",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "MAZO-DEL-DESTINO",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -6128,6 +6135,27 @@
     "campeon": "ILLAOI",
     "r1": "DURA-LECCION",
     "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "TECNICA-SECRETA",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "DURA-LECCION",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
+    "r1": "DURA-LECCION",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
     "r3": "ORDEN-DE-EXPLORACION",
     "r4": ""
   },
@@ -8117,6 +8145,13 @@
     "r1": "ESPADA-DEL-ACECHADOR",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "PERMAHIELO",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
+    "r1": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r2": "CUCHILLA-GIRATORIA",
+    "r3": "ESPIRITU-RESONANTE",
     "r4": ""
   },
   {
@@ -18617,6 +18652,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
     "r4": ""
   },
   {
