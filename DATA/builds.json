@@ -4138,6 +4138,13 @@
   },
   {
     "campeon": "ELISE",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "FUERZA-DEL-VIENTO",
@@ -6129,6 +6136,20 @@
     "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
     "r2": "POLVORA-CARGADA",
     "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r3": "ESCUDO-NEGRO",
     "r4": ""
   },
   {
@@ -11628,6 +11649,13 @@
   },
   {
     "campeon": "NEEKO",
+    "r1": "ORBE-DEL-GUARDIAN",
+    "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "NEEKO",
     "r1": "DADOS-TRUCADOS",
     "r2": "ANGEL-GUARDIAN",
     "r3": "ORBE-DEL-GUARDIAN",
@@ -12940,6 +12968,13 @@
     "r1": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "SAMIRA",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
@@ -15688,6 +15723,13 @@
   },
   {
     "campeon": "UDYR",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "TECNICA-SECRETA",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
     "r1": "TECNICA-SECRETA",
     "r2": "TOMOS-OCULTOS",
     "r3": "HIMNO-DEL-VALOR",
@@ -16570,6 +16612,13 @@
   },
   {
     "campeon": "VI",
+    "r1": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "VI",
     "r1": "DADOS-TRUCADOS",
     "r2": "FULGOR-ARDIENTE",
     "r3": "TOMOS-OCULTOS",
@@ -17272,6 +17321,13 @@
     "campeon": "VOLIBEAR",
     "r1": "GUANTELETES-ESTELARES",
     "r2": "FULGOR-ARDIENTE",
+    "r3": "AMIGUIS-DEL-PORTAL",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "FULGOR-ARDIENTE",
     "r3": "DADOS-TRUCADOS",
     "r4": ""
   },
@@ -17539,6 +17595,13 @@
     "r1": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r2": "EL-ROMPEPUERTAS-DEL-CURADOR",
     "r3": "PROTOTIPO-DE-PULSAR-Z",
+    "r4": ""
+  },
+  {
+    "campeon": "WARWICK",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "CUCHILLA-GIRATORIA",
+    "r3": "DADOS-TRUCADOS",
     "r4": ""
   },
   {
@@ -18401,6 +18464,13 @@
     "r2": "BARATIJA-DEL-GUARDIAN",
     "r3": "ORBE-LUMINOSO",
     "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": ""
   },
   {
     "campeon": "YUUMI",
