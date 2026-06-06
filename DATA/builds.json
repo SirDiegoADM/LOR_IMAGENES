@@ -6140,6 +6140,13 @@
   },
   {
     "campeon": "ILLAOI",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "TECNICA-SECRETA",
+    "r3": "DERROTA-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "ESPIRITU-DE-LOS-BUHRU",
     "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
@@ -14396,6 +14403,13 @@
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "ARMADURA-DE-WARMOG",
+    "r4": ""
+  },
+  {
+    "campeon": "TALIYAH",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "POLVORA-CARGADA",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r4": ""
   },
   {
