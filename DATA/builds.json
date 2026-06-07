@@ -6140,6 +6140,13 @@
   },
   {
     "campeon": "ILLAOI",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "TECNICA-SECRETA",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
     "r1": "ESPIRITU-DE-LOS-BUHRU",
     "r2": "TECNICA-SECRETA",
     "r3": "DERROTA-DE-LA-MUERTE",
@@ -9062,6 +9069,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "LILLIA",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "ESPADA-DEL-ACECHADOR",
     "r4": ""
   },
   {
