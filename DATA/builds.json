@@ -13497,6 +13497,13 @@
   },
   {
     "campeon": "SHYVANA",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "SHYVANA",
     "r1": "RUNAS-DRACONICAS",
     "r2": "ESPADAFUEGO-CELESTE",
     "r3": "CESE-Y-DESISTA",
@@ -18457,6 +18464,13 @@
     "r2": "ESPADA-DE-LA-TEMPESTAD",
     "r3": "PERMAHIELO",
     "r4": ""
+  },
+  {
+    "campeon": "YASUO_FLOR_ESPIRITUAL",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": "VESTIGIOS-DEL-VIENTO-RUNA"
   },
   {
     "campeon": "YASUO_FLOR_ESPIRITUAL",
