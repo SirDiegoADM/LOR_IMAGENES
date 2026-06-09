@@ -6217,6 +6217,13 @@
   },
   {
     "campeon": "ILLAOI",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "TECNICA-SECRETA",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
     "r1": "HOJASOMBRA-DE-VALLECLARO",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
@@ -9437,6 +9444,13 @@
   },
   {
     "campeon": "LUX",
+    "r1": "DUPLICADOR-QUIMTECH",
+    "r2": "ESPANTAPAJAROS-INOFENSIVO",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "LUX",
     "r1": "BASTON-INCANDESCENTE-DE-LUX",
     "r2": "GUANTELETES-ESTELARES",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -12555,6 +12569,13 @@
     "r1": "ORBE-DEL-GUARDIAN",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "RITMOS-DE-DESESPERANZA",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
