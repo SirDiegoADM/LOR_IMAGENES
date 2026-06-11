@@ -12209,6 +12209,13 @@
   },
   {
     "campeon": "NILAH",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "CUCHILLA-GIRATORIA",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "NILAH",
     "r1": "CONDENSADOR",
     "r2": "GEMA-ESTELAR",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
@@ -15265,6 +15272,13 @@
     "r2": "ESPANTAPAJAROS-INOFENSIVO",
     "r3": "COSECHA-MALVADA",
     "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "THRESH",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
   },
   {
     "campeon": "THRESH",
