@@ -1555,6 +1555,13 @@
   },
   {
     "campeon": "ANNIE",
+    "r1": "COSECHA-MALVADA",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "CUCHILLA-GIRATORIA",
     "r3": "TOMOS-OCULTOS",
@@ -2727,6 +2734,13 @@
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "DERROTA-DE-LA-MUERTE",
     "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "BARDO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": ""
   },
   {
@@ -14995,6 +15009,13 @@
   },
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
+    "r1": "BACULO-DEL-ARCANGEL",
+    "r2": "TEMPESTAD-DE-LUDEN",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "TEEMO_FLOR_ESPIRITUAL",
     "r1": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
     "r2": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
     "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
@@ -15272,6 +15293,13 @@
     "r2": "ESPANTAPAJAROS-INOFENSIVO",
     "r3": "COSECHA-MALVADA",
     "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "THRESH",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "COSECHA-MALVADA",
+    "r4": ""
   },
   {
     "campeon": "THRESH",
