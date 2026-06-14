@@ -799,6 +799,13 @@
   },
   {
     "campeon": "AKSHAN",
+    "r1": "TECNICA-SECRETA",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "ESPADAFUEGO-CELESTE",
+    "r4": ""
+  },
+  {
+    "campeon": "AKSHAN",
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
@@ -1320,6 +1327,13 @@
     "r1": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r2": "ESCUDO-NEGRO",
     "r3": "CONDENSADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "ANIVIA",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
   },
   {
@@ -6231,6 +6245,13 @@
   },
   {
     "campeon": "ILLAOI",
+    "r1": "DURA-LECCION",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ESPIRITU-DE-LOS-BUHRU",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "FULGOR-ARDIENTE",
     "r3": "TECNICA-SECRETA",
@@ -6892,6 +6913,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "JAYCE",
+    "r1": "BATERIA-HEXTECH-DE-JAYCE",
+    "r2": "PODER-RENOVADOR",
+    "r3": "ESCUDO-NEGRO",
     "r4": ""
   },
   {
@@ -8992,6 +9020,13 @@
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "LEONA",
+    "r1": "ESPANTAPAJAROS-INOFENSIVO",
+    "r2": "POLVORA-CARGADA",
+    "r3": "FORTUNA-ENCONTRADA",
     "r4": ""
   },
   {
@@ -13182,6 +13217,13 @@
   },
   {
     "campeon": "SAMIRA",
+    "r1": "ESPADAFUEGO-CELESTE",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "SAMIRA",
     "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "FULGOR-ARDIENTE",
@@ -15796,6 +15838,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
     "r3": "ARMOTAS",
+    "r4": ""
+  },
+  {
+    "campeon": "TWISTED_FATE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "NUCLEO-HEX-PERFECTO",
     "r4": ""
   },
   {
