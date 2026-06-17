@@ -589,6 +589,13 @@
   },
   {
     "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "FUERZA-PETREA",
+    "r4": "ARMADURA-ESPIRITUAL-RUNA"
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
     "r1": "ESPIRITUS-ASISTENTES",
     "r2": "ESCUDO-NEGRO",
     "r3": "FULGOR-ARDIENTE",
@@ -6322,6 +6329,13 @@
   },
   {
     "campeon": "ILLAOI",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ORBE-LUMINOSO",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
     "r1": "ESPIRITU-DE-LOS-BUHRU",
     "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
@@ -7011,6 +7025,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "JAYCE",
+    "r1": "ESPANTAPAJAROS-INOFENSIVO",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
   },
   {
@@ -8559,6 +8580,13 @@
     "r2": "PERMAHIELO",
     "r3": "PERMAHIELO",
     "r4": ""
+  },
+  {
+    "campeon": "LA_ARREBATADORA",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": "INSPIRACION-ALOCADA-RUNA"
   },
   {
     "campeon": "LA_ARREBATADORA",
@@ -10966,6 +10994,13 @@
     "r1": "COSECHA-MALVADA",
     "r2": "ANGEL-GUARDIAN",
     "r3": "HIDRA-VORAZ",
+    "r4": ""
+  },
+  {
+    "campeon": "MORGANA",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": ""
   },
   {
@@ -15724,6 +15759,13 @@
   {
     "campeon": "TRYNDAMERE",
     "r1": "ESPIRITU-RESONANTE",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "ORBE-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "TRYNDAMERE",
+    "r1": "ESPIRITU-RESONANTE",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
@@ -16181,6 +16223,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "TEMPESTAD-DE-LUDEN",
     "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "UDYR",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "TECNICA-SECRETA",
     "r4": ""
   },
   {
