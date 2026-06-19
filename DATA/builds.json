@@ -11488,6 +11488,13 @@
   },
   {
     "campeon": "NASUS",
+    "r1": "COSECHA-MALVADA",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "NASUS",
     "r1": "LA-BALANZA-DE-LA-JUSTICIA",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "LA-BESTIA-INTERIOR",
