@@ -5062,6 +5062,13 @@
   },
   {
     "campeon": "EVELYNN_FLOR_ESPIRITUAL",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "TECNICA-SECRETA",
+    "r3": "HIMNO-DEL-VALOR",
+    "r4": "ENCANTOS-IRRESISTIBLES-RUNA"
+  },
+  {
+    "campeon": "EVELYNN_FLOR_ESPIRITUAL",
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "TUMBA-CONGELADA",
     "r3": "LAMENTO-DRENADO",
