@@ -9031,6 +9031,13 @@
   },
   {
     "campeon": "LEBLANC",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ORBE-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "LEBLANC",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "ESPADA-DEL-ACECHADOR",
