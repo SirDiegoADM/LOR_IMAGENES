@@ -2,6 +2,13 @@
   {
     "campeon": "AATROX",
     "r1": "ESCUDO-NEGRO",
+    "r2": "MAZO-ACUMULADO",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
+    "r1": "ESCUDO-NEGRO",
     "r2": "PLACA-DEL-CENTINELA",
     "r3": "DADOS-TRUCADOS",
     "r4": ""
@@ -3266,6 +3273,13 @@
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "BACULO-DEL-ARCANGEL",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r3": "DADOS-TRUCADOS",
     "r4": ""
   },
   {
@@ -7680,6 +7694,13 @@
   },
   {
     "campeon": "JINX",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "LA-CARGA-DE-LA-BALA-PERDIDA",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "JINX",
     "r1": "TEMPESTAD-DE-LUDEN",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "LA-CARGA-DE-LA-BALA-PERDIDA",
@@ -11579,6 +11600,13 @@
   },
   {
     "campeon": "NAMI",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "NAMI",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "DADOS-TRUCADOS",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -12275,6 +12303,13 @@
     "r1": "MAZO-ACUMULADO",
     "r2": "GUANTELETES-ESTELARES",
     "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "NEEKO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": ""
   },
   {
@@ -13633,6 +13668,13 @@
     "r1": "EL-RENOMBRE-DE-LA-CAZARRECOMPENSAS",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "SAMIRA",
+    "r1": "LADRONA-DE-ESENCIAS",
+    "r2": "RITMOS-DE-DESESPERANZA",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -15103,6 +15145,13 @@
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "ARMADURA-DE-WARMOG",
+    "r4": ""
+  },
+  {
+    "campeon": "TALIYAH",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "ESPANTAPAJAROS-INOFENSIVO",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
