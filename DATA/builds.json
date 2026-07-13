@@ -3277,6 +3277,13 @@
   },
   {
     "campeon": "DARIUS",
+    "r1": "NUCLEO-HEX-PERFECTO",
+    "r2": "RITMOS-DE-DESESPERANZA",
+    "r3": "PODER-RENOVADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
     "r1": "GUANTELETES-ESTELARES",
     "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
     "r3": "DADOS-TRUCADOS",
@@ -4138,6 +4145,13 @@
   },
   {
     "campeon": "EL_REY_PORO",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "EL_REY_PORO",
     "r1": "MORDISCOS-REALES",
     "r2": "ESPIRITU-DE-LOS-BUHRU",
     "r3": "TECNICA-SECRETA",
@@ -4351,6 +4365,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "LA-CORONA-DEL-REY-TROL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "FUERZA-DEL-VIENTO",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "ANGEL-GUARDIAN",
     "r4": ""
   },
   {
@@ -13077,6 +13098,13 @@
   },
   {
     "campeon": "NUNU_Y_WILLUMP",
+    "r1": "PLACA-DEL-CENTINELA",
+    "r2": "BACULO-CELESTIAL",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
     "r1": "TIJERAS-ESPECTRALES",
     "r2": "PLACA-DEL-CENTINELA",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
@@ -19758,6 +19786,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "SINFONIA-DE-LA-TEJEHECHIZOS",
     "r4": ""
   },
   {
