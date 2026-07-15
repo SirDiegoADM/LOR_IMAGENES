@@ -564,10 +564,26 @@
   },
   {
     "principal": "HECARIM",
-    "S": [],
-    "A": [],
-    "B": [],
-    "C": []
+    "S": [
+      "Zed",
+      "Lucian",
+      "Azir"
+    ],
+    "A": [
+      "Kalista",
+      "Gwen",
+      "Katarina",
+      "Thresh",
+      "Vayne"
+    ],
+    "B": [
+      "Mordekaiser",
+      "Leblanc"
+    ],
+    "C": [
+      "Bardo",
+      "Norra"
+    ]
   },
   {
     "principal": "HEIMERDINGER",
@@ -1946,8 +1962,14 @@
   },
   {
     "principal": "ZOE",
-    "S": [],
-    "A": [],
+    "S": [
+      "Viktor",
+      "Seraphine"
+    ],
+    "A": [
+      "Aphelios",
+      "Lee Sin"
+    ],
     "B": [],
     "C": []
   }
