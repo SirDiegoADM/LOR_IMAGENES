@@ -192,6 +192,14 @@
     "consejos": "<h3> Potencial de Tier S y Velocidad de Limpieza</h3>\n<p>Gwen es ampliamente considerada una campeona de Tier S, capaz de lograr algunos de los tiempos de limpieza más rápidos del juego. Aunque su poder de 6 estrellas es criticado por algunos por ser excesivo, es innegable su eficacia para asegurar victorias en la Ronda 1. Gwen rinde excepcionalmente bien solo con reliquias raras.</p>\n\n<h3> Posicionamiento</h3>\n<p>Coloca siempre a Gwen en el segundo espacio de ataque (o más a la derecha) en lugar del primero. La palabra clave Consagrar potencia al primer atacante. Al colocar a Gwen después, ella no consume la mejora del consagrar (permitiendo que otra unidad la aproveche), pero sigue aportando sus propias estadísticas de consagrar al total. Aunque el Salón inquietante pueda parecer redundante, los campeones que adquieres no obtienen Consagrado, por lo que poder dárselo ayudará a aumentar el Consagrado si mueren.</p>\n\n<h3>Gestión de la Ficha de Ataque y Herencia Guardia de la Corona</h3>\n<p>La condición de nivel subido de Gwen requiere que inflija daño. Si llevas la reliquia <b>Herencia Guardia de la Corona</b>, querrás sincronizar su subida de nivel para un turno en el que puedas aprovechar el Ataque adicional (Rally), ya que eso hará que las unidades que atacan sean más grandes (si es en el mismo turno). Si estás cerca de subir de nivel, ataca de forma que supere el umbral necesario para ganar una segunda fase de ataque inmediatamente.</p>\n\n<h3> El Enfrentamiento contra Yasuo</h3>\n<p>Gwen sufre significativamente en la aventura de Yasuo. Su estrategia depende de unidades Efímeras (Bandas espectrales), las cuales son fácilmente aturdidas o retiradas, lo que les impide golpear o morir para activar consagrar. En esta aventura específica, confía menos en las bandas y más en el daño directo de Gwen y sus hechizos de eliminación.</p>\n\n<h3> Sinergias adicionales con Gwen</h3>\n<p>Si quieres hacer mucho daño rápidamente, toma <b>mechas encendidas</b>, <b>Tempestad de Luden</b> e <b>Himno del Valor</b> para obtener mucha curación y daño directo al Nexo enemigo. No hay necesidad de tomar nodos de curación ya que Gwen puede curarse a sí misma; lo mejor es eliminar cartas. Las mejores cartas a eliminar son El Inmortal y Lanzamiento de plantel, junto con cualquier carta innecesaria de tu campeón de apoyo.</p>"
   },
   {
+    "id": "HECARIM",
+    "nombre": "HECARIM",
+    "titulo": "",
+    "estilo": "AGRESIVO.webp",
+    "dificultad": "FACIL.webp",
+    "consejos": ""
+  },
+  {
     "id": "HEIMERDINGER",
     "nombre": "HEIMERDINGER",
     "titulo": "El Venerable Inventor",
