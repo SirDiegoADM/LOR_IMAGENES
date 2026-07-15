@@ -1,20 +1,14 @@
 [
   {
-    "nombre": "ILLAOI",
-    "descripcion": "Illaoi la Sacerdotisa del Kraken",
-    "imagen": "ILLAOI.webp",
-    "enlace": "https://sites.google.com/view/runeterrapoclatam/illaoi"
+    "nombre": "HECARIM",
+    "descripcion": "Eso no es un trueno. La sombra de la guerra está en el horizonte.",
+    "imagen": "HECARIM1.webp",
+    "enlace": "https://sites.google.com/view/runeterrapoclatam/hecarim"
   },
   {
     "nombre": "CON AMIGOS COMO ESTOS...",
     "descripcion": "Consejos y selección de combinaciones de reliquias recomendadas por la comunidad para superar la aventura \"Con amigos como estos...\"",
     "imagen": "amigos.webp",
     "enlace": "https://sites.google.com/view/runeterrapoclatam/con-amigos-como-estos/con_amigos_como_estos"
-  },
-  {
-    "nombre": "UDYR",
-    "descripcion": "Caminante de los Espíritus Bestiales",
-    "imagen": "PARCHE_UDYR.webp",
-    "enlace": "https://sites.google.com/view/runeterrapoclatam/udyr"
   }
 ]
