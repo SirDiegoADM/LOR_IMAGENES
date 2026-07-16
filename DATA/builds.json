@@ -5930,6 +5930,13 @@
   },
   {
     "campeon": "GWEN",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "RITMOS-DE-DESESPERANZA",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "GWEN",
     "r1": "TIJERAS-ESPECTRALES",
     "r2": "ARMOTAS",
     "r3": "EL-PRECIO-DE-LA-RETRIBUCION",
@@ -6283,6 +6290,34 @@
     "r1": "TEMPESTAD-DE-LUDEN",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "DERROTA-DE-LA-MUERTE",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
+    "r1": "GUJA-DE-HECARIM",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "LA-MANO-DE-NOXUS",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
+    "r1": "GUJA-DE-HECARIM",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "DERROTA-DE-LA-MUERTE",
     "r4": ""
   },
   {
@@ -11813,6 +11848,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "NASUS",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
