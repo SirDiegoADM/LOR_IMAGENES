@@ -6294,6 +6294,13 @@
   },
   {
     "campeon": "HECARIM",
+    "r1": "EL-ARCO-DE-LA-ARREBATADORA",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
     "r1": "DERROTA-DE-LA-MUERTE",
     "r2": "ESCUDO-NEGRO",
     "r3": "FUERZA-DEL-VIENTO",
@@ -16035,6 +16042,13 @@
     "r2": "ESPANTAPAJAROS-INOFENSIVO",
     "r3": "COSECHA-MALVADA",
     "r4": "PROLIFERACION-DE-HONGOS-RUNA"
+  },
+  {
+    "campeon": "THRESH",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "GEMA-ESTELAR",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
   },
   {
     "campeon": "THRESH",
