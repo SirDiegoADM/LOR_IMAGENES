@@ -6294,6 +6294,27 @@
   },
   {
     "campeon": "HECARIM",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
+    "r1": "GUJA-DE-HECARIM",
+    "r2": "EL-ARCO-DE-LA-ARREBATADORA",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "GUJA-DE-HECARIM",
     "r3": "TIJERAS-ESPECTRALES",
