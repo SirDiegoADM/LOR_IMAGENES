@@ -197,7 +197,7 @@
     "titulo": "",
     "estilo": "AGRESIVO.webp",
     "dificultad": "MEDIO.webp",
-    "consejos": ""
+    "consejos": "<h3>Velocidad</h3>\r\n<p><img src=\"https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/MATERIALES/r_3.webp\" style=\"vertical-align: middle; height: 24px; margin-right: 5px;\" alt=\"Rating\"> - Con los objetos adecuados, a menudo puedes conseguir un reinicio de la ficha de ataque y ganar en el turno 1 o el turno 2. No valoro esto más alto porque depende de la selección de cartas en la partida.</p>\r\n\r\n<h3>Escalar / Poder a Largo Plazo</h3>\r\n<p><img src=\"https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/MATERIALES/r_3.webp\" style=\"vertical-align: middle; height: 24px; margin-right: 5px;\" alt=\"Rating\"> - Esto está en el límite entre una valoración de 2 y 3. Su escalado es solo con poder, pero puedes activarlo varias veces en un solo turno y es global para todos los efímeros.</p>\r\n\r\n<h3>Control</h3>\r\n<p><img src=\"https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/MATERIALES/r_2.webp\" style=\"vertical-align: middle; height: 24px; margin-right: 5px;\" alt=\"Rating\">  - Este es definitivamente el punto más débil de Hecarim y a menudo recibe daño durante el turno defensivo. Necesitarás usar Ruina para acabar con las mayores amenazas e intentar sobrevivir y curarte después.</p>\r\n "
   },
   {
     "id": "HEIMERDINGER",
