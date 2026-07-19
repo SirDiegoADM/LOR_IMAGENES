@@ -6301,6 +6301,13 @@
   },
   {
     "campeon": "HECARIM",
+    "r1": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r2": "GUJA-DE-HECARIM",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "GUJA-DE-HECARIM",
     "r3": "DERROTA-DE-LA-MUERTE",
@@ -17420,6 +17427,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "VEX",
+    "r1": "HACHA-CORTAMIEDOS",
+    "r2": "TUMBA-CONGELADA",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
