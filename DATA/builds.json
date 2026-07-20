@@ -2893,6 +2893,13 @@
   {
     "campeon": "BARDO",
     "r1": "ESPIRITU-RESONANTE",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ORBE-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "BARDO",
+    "r1": "ESPIRITU-RESONANTE",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "PLACA-DEL-CENTINELA",
     "r4": ""
@@ -7358,6 +7365,13 @@
   },
   {
     "campeon": "JAX",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "ORBE-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "JAX",
     "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -8978,6 +8992,13 @@
     "r1": "ESPADA-DEL-ACECHADOR",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "PERMAHIELO",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ORBE-DEL-GUARDIAN",
     "r4": ""
   },
   {
@@ -11484,6 +11505,13 @@
     "r1": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r2": "SUJETAESPADAS-LAURENT",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "MORDEKAISER",
+    "r1": "TUMBA-CONGELADA",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -15800,6 +15828,13 @@
   },
   {
     "campeon": "TEEMO",
+    "r1": "COSECHA-MALVADA",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "TEEMO",
     "r1": "PLACA-DEL-CENTINELA",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "FLAUTA-DE-ALBOROTADOR",
@@ -17483,6 +17518,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "VEIGAR",
+    "r1": "TUMBA-CONGELADA",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
   },
   {
