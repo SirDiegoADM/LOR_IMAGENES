@@ -544,5 +544,11 @@
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/plan_de_accion_flexible.webp",
     "rareza": "comun",
     "recomendados": "NAUTILUS"
+  },
+  {
+    "id": "POTENCIACION-ARCANA",
+    "url": "\"https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/PODERES/potenciación_arcana.webp\n\"",
+    "rareza": "comun",
+    "recomendados": "VEX"
   }
 ]
