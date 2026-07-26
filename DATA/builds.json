@@ -1,6 +1,13 @@
 [
   {
     "campeon": "AATROX",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "ORDEN-DE-EXPLORACION",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
     "r1": "TUMBA-CONGELADA",
     "r2": "ESCUDO-NEGRO",
     "r3": "LA-BESTIA-INTERIOR",
@@ -2251,6 +2258,13 @@
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "SUJETAESPADAS-LAURENT",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "LLAMADO-DE-SIRENA",
+    "r3": "PROTECTORES-DE-DEMACIA",
     "r4": ""
   },
   {
@@ -11680,6 +11694,13 @@
     "r1": "COSECHA-MALVADA",
     "r2": "ANGEL-GUARDIAN",
     "r3": "HIDRA-VORAZ",
+    "r4": ""
+  },
+  {
+    "campeon": "MORGANA",
+    "r1": "TUMBA-CONGELADA",
+    "r2": "ESPANTAPAJAROS-INOFENSIVO",
+    "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
   },
   {
