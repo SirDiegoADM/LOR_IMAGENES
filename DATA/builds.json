@@ -3081,6 +3081,20 @@
   },
   {
     "campeon": "CAITLYN",
+    "r1": "RIFLE-HEXTECH",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ESPANTAPAJAROS-INOFENSIVO",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
+    "r1": "RIFLE-HEXTECH",
+    "r2": "ESPANTAPAJAROS-INOFENSIVO",
+    "r3": "SUJETAESPADAS-LAURENT",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
     "r1": "FULGOR-ARDIENTE",
     "r2": "RITMOS-DE-DESESPERANZA",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -3602,6 +3616,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "ESPADA-DE-LA-TEMPESTAD",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
@@ -6805,6 +6826,13 @@
   },
   {
     "campeon": "ILLAOI",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
     "r1": "DURA-LECCION",
     "r2": "ESPIRITU-DE-LOS-BUHRU",
     "r3": "TIJERAS-ESPECTRALES",
@@ -7254,6 +7282,13 @@
   {
     "campeon": "JANNA",
     "r1": "ESPIRITU-RESONANTE",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "JANNA",
+    "r1": "ESPIRITU-RESONANTE",
     "r2": "FORTUNA-ENCONTRADA",
     "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
@@ -7550,6 +7585,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "JAYCE",
+    "r1": "PODER-RENOVADOR",
+    "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
   },
   {
@@ -10732,6 +10774,13 @@
   },
   {
     "campeon": "MAESTRO_YI",
+    "r1": "ORBE-DEL-GUARDIAN",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "MAESTRO_YI",
     "r1": "TECNICA-SECRETA",
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "ESPIRITU-RESONANTE",
@@ -10988,6 +11037,13 @@
     "r2": "APRENDIZ-DE-LAS-SOMBRAS",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r4": "SECRETOS-DE-LOS-ESPIRITUS-RUNA"
+  },
+  {
+    "campeon": "MEL",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
   },
   {
     "campeon": "MEL",
@@ -11694,6 +11750,20 @@
     "r1": "COSECHA-MALVADA",
     "r2": "ANGEL-GUARDIAN",
     "r3": "HIDRA-VORAZ",
+    "r4": ""
+  },
+  {
+    "campeon": "MORGANA",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "MORGANA",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "DADOS-TRUCADOS",
+    "r3": "TOMOS-OCULTOS",
     "r4": ""
   },
   {
@@ -13035,6 +13105,13 @@
   },
   {
     "campeon": "NIDALEE",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "NIDALEE",
     "r1": "ESPADA-DE-LA-TEMPESTAD",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "PROTOTIPO-DE-PULSAR-Z",
@@ -13885,6 +13962,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "HIMNO-DEL-VALOR",
     "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "PYKE",
+    "r1": "ARPON-MORTIFERO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "COSECHA-MALVADA",
     "r4": ""
   },
   {
@@ -16909,6 +16993,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
     "r3": "ARMOTAS",
+    "r4": ""
+  },
+  {
+    "campeon": "TWISTED_FATE",
+    "r1": "ARMOTAS",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ESPIRITU-RESONANTE",
     "r4": ""
   },
   {
@@ -20053,6 +20144,13 @@
     "r2": "BARATIJA-DEL-GUARDIAN",
     "r3": "ORBE-LUMINOSO",
     "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "YUUMI",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "ABRAZO-DE-LA-REINA",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
   },
   {
     "campeon": "YUUMI",
