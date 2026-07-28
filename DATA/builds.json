@@ -3354,6 +3354,13 @@
   },
   {
     "campeon": "DARIUS",
+    "r1": "AMIGUIS-DEL-PORTAL",
+    "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "RITMOS-DE-DESESPERANZA",
     "r3": "PODER-RENOVADOR",
