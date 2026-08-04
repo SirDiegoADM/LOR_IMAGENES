@@ -3767,6 +3767,13 @@
   },
   {
     "campeon": "DRAGON_ANCESTRAL",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "GARRAS-GRANDES",
+    "r4": ""
+  },
+  {
+    "campeon": "DRAGON_ANCESTRAL",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "FORTUNA-ENCONTRADA",
     "r3": "GUANTELETES-ESTELARES",
@@ -4463,6 +4470,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "LA-CORONA-DEL-REY-TROL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
+    "r1": "ABRAZO-DE-LA-REINA",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "FUERZA-DEL-VIENTO",
     "r4": ""
   },
   {
@@ -6850,6 +6864,13 @@
     "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
     "r2": "POLVORA-CARGADA",
     "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "ANGEL-GUARDIAN",
     "r4": ""
   },
   {
@@ -14001,6 +14022,13 @@
   },
   {
     "campeon": "PYKE",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "PYKE",
     "r1": "ARPON-MORTIFERO",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "COSECHA-MALVADA",
@@ -15614,6 +15642,13 @@
     "r1": "BATERIA-REVOLTOSA",
     "r2": "TEMPESTAD-DE-LUDEN",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "TAHM_KENCH",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "ORBE-DEL-GUARDIAN",
     "r4": ""
   },
   {
