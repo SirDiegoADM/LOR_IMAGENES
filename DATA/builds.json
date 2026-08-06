@@ -3354,6 +3354,13 @@
   },
   {
     "campeon": "DARIUS",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "DADOS-TRUCADOS",
+    "r4": ""
+  },
+  {
+    "campeon": "DARIUS",
     "r1": "AMIGUIS-DEL-PORTAL",
     "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
     "r3": "LA-BESTIA-INTERIOR",
@@ -16542,6 +16549,13 @@
   },
   {
     "campeon": "THRESH",
+    "r1": "LINTERNA-DE-ALMAS",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "THRESH",
     "r1": "JURAMENTO-DE-LOS-GUARDIANES",
     "r2": "GEMA-ESTELAR",
     "r3": "LA-BESTIA-INTERIOR",
@@ -17063,6 +17077,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
     "r3": "ARMOTAS",
+    "r4": ""
+  },
+  {
+    "campeon": "TWISTED_FATE",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "ARMOTAS",
+    "r3": "ESPIRITU-RESONANTE",
     "r4": ""
   },
   {
@@ -18204,6 +18225,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "VI",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "DADOS-TRUCADOS",
     "r4": ""
   },
   {
@@ -19590,6 +19618,13 @@
     "r1": "POLVORA-CARGADA",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "TUMBA-CONGELADA",
+    "r2": "ESPADA-DE-LA-TEMPESTAD",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
