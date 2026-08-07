@@ -11,7 +11,16 @@
         "desc": "La unidad del jugador tiene +2|+2. Fin de la ronda: Inflijo 2 de daño a todas las unidades del jugador."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "JINX",
+        "pct": 50
+      },
+      {
+        "nombre": "YUUMI",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 2,
@@ -30,7 +39,16 @@
         "desc": "Fin de la ronda: Otorgo +2|+0 a TODAS las unidades."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "NIDALEE",
+        "pct": 50
+      },
+      {
+        "nombre": "YUUMI",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 3,
@@ -44,7 +62,16 @@
         "desc": "Cuando el jugador roba una carta, hago que su costo sea 3."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "TRYNDAMERE",
+        "pct": 50
+      },
+      {
+        "nombre": "DRAGON_ANCESTRAL",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 4,
@@ -58,7 +85,16 @@
         "desc": "Cuando una unidad muere, otorgo +1|+1 a una unidad aleatoria en la mano de ese jugador."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 50
+      },
+      {
+        "nombre": "THRESH",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 5,
@@ -77,7 +113,16 @@
         "desc": "Cuando el Enemigo ataque, lanzo Aturdir sobre la unidad Más débil del jugador."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "MAESTRO_YI",
+        "pct": 50
+      },
+      {
+        "nombre": "VEIGAR",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 6,
@@ -96,7 +141,16 @@
         "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "VAYNE",
+        "pct": 50
+      },
+      {
+        "nombre": "DIANA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 7,
@@ -115,7 +169,16 @@
         "desc": "Inicio del juego: El Enemigo invoca 1 Mono Explosivo."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "JINX",
+        "pct": 50
+      },
+      {
+        "nombre": "HEIMERDINGER",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 8,
@@ -134,7 +197,16 @@
         "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "YASUO",
+        "pct": 50
+      },
+      {
+        "nombre": "YASUO_FLOR_ESPIRITUAL",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 9,
@@ -153,7 +225,16 @@
         "desc": "Inicio de la ronda: Lanzo Helar a la unidad Más fuerte del jugador."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "NEEKO",
+        "pct": 50
+      },
+      {
+        "nombre": "ORNN",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 10,
@@ -172,7 +253,16 @@
         "desc": "Inicio de la partida: El Enemigo invoca 1 Palacio del Señor de la Guerra. Cuando la cuenta regresiva de su Palacio del Señor de la Guerra llega a 0, robo una gema de maná del jugador e invoco1 Palacio del Señor de la Guerra."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "JAX",
+        "pct": 50
+      },
+      {
+        "nombre": "VAYNE",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 11,
@@ -201,7 +291,16 @@
         "desc": "Inicio de la partida: el Enemigo invoca 1 Siervo Congelado. Establezco su Cuenta Regresiva en 5."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "NORRA",
+        "pct": 50
+      },
+      {
+        "nombre": "LILLIA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 12,
@@ -220,7 +319,16 @@
         "desc": "Inicio de la partida: El Enemigo invoca 1 Estrado del Emperador."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "NILAH",
+        "pct": 50
+      },
+      {
+        "nombre": "SORAKA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 13,
@@ -239,7 +347,16 @@
         "desc": "Inicio de la ronda: El Enemigo tiene un 50% de probabilidad de crear 1 Hallazgo Fortuito en la mano. El jugador tiene un 25% de probabilidad."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "NIDALEE",
+        "pct": 50
+      },
+      {
+        "nombre": "MAESTRO_YI",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 14,
@@ -258,7 +375,16 @@
         "desc": "Inicio de la ronda: Si el Enemigo tiene la ficha de ataque, invoca 1 Niebla Invasiva."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "MAESTRO_YI",
+        "pct": 50
+      },
+      {
+        "nombre": "VEIGAR",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 15,
@@ -277,7 +403,16 @@
         "desc": "Inicio de la ronda: Creo 1 Denegar con Fugaz en la mano del Enemigo. Cuesto 2."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "VEX",
+        "pct": 50
+      },
+      {
+        "nombre": "Zoe",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 16,
@@ -296,7 +431,16 @@
         "desc": "Cuando las unidades del Enemigo ataquen, otorgo +2|+0 a la unidad atacante Más fuerte."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "DRAGON_ANCESTRAL",
+        "pct": 50
+      },
+      {
+        "nombre": "LEONA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 17,
@@ -315,7 +459,16 @@
         "desc": "Cuando el Enemigo obtiene la Ficha de ataque, invoca 1 Arenas Agitadas."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "VIEGO",
+        "pct": 50
+      },
+      {
+        "nombre": "MORDEKAISER",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 18,
@@ -334,7 +487,16 @@
         "desc": "Las unidades atacantes del Enemigo tienen +1|+0."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "ANIVIA",
+        "pct": 50
+      },
+      {
+        "nombre": "KAYLE",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 19,
@@ -353,7 +515,16 @@
         "desc": "Inicio de la partida: El Enemigo invoca 1 Rocoso en Hibernación."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "JAX",
+        "pct": 50
+      },
+      {
+        "nombre": "VARUS",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 20,
@@ -372,7 +543,16 @@
         "desc": "Cuando el Enemigo ataca, este invoca 1 Horror Aracnoide atacante con Endeble."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 50
+      },
+      {
+        "nombre": "TAHM_KENCH",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 21,
@@ -391,7 +571,16 @@
         "desc": "En cada ronda, la primera vez que el Enemigo invoque una unidad, le otorgo +2|+0."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "SAMIRA",
+        "pct": 50
+      },
+      {
+        "nombre": "MEL",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 22,
@@ -410,7 +599,16 @@
         "desc": "Inicio de la ronda: Lanzo Aturdir a la unidad Más fuerte del jugador."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "NIDALEE",
+        "pct": 50
+      },
+      {
+        "nombre": "AKSHAN",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 23,
@@ -429,7 +627,16 @@
         "desc": "Inicio de la ronda: El Enemigo otorga +0|+1 e Impacto a su unidad Más fuerte."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "WARWICK",
+        "pct": 50
+      },
+      {
+        "nombre": "DARIUS",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 24,
@@ -453,7 +660,16 @@
         "desc": "Inicio de la partida: El Enemigo invoca 1 Arena Noxkraya."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "HECARIM",
+        "pct": 50
+      },
+      {
+        "nombre": "THRESH",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 25,
@@ -472,7 +688,16 @@
         "desc": "Inicio de la ronda: Doy Vulnerable a la unidad Más fuerte del jugador en esta ronda."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "MORGANA",
+        "pct": 50
+      },
+      {
+        "nombre": "LUX_ILUMINADA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 26,
@@ -491,7 +716,16 @@
         "desc": "Cada vez que el Enemigo dañe el nexo del jugador, otorga +1|+1 a la unidad de arriba del mazo de dicho Enemigo."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "MAESTRO_YI",
+        "pct": 50
+      },
+      {
+        "nombre": "VEIGAR",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 27,
@@ -510,7 +744,16 @@
         "desc": "Cuando el Enemigo invoca una unidad, le otorgo +0|+3."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "YASUO_FLOR_ESPIRITUAL",
+        "pct": 50
+      },
+      {
+        "nombre": "VIEGO",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 28,
@@ -529,7 +772,16 @@
         "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "MORGANA",
+        "pct": 50
+      },
+      {
+        "nombre": "LUX",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 29,
@@ -548,7 +800,16 @@
         "desc": "Las unidades del jugador con 4+ de poder No bloquean."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "FIDDLESTICKS",
+        "pct": 50
+      },
+      {
+        "nombre": "LILLIA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 30,
@@ -567,7 +828,16 @@
         "desc": "Las unidades del Enemigo tienen Dureza."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "ILLAOI",
+        "pct": 50
+      },
+      {
+        "nombre": "VIEGO",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 31,
@@ -586,7 +856,16 @@
         "desc": "Al inicio de la ronda 7, el Enemigo invoca un campeón aleatorio de nivel 2."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "TEEMO",
+        "pct": 50
+      },
+      {
+        "nombre": "NEEKO",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 32,
@@ -605,7 +884,16 @@
         "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "HECARIM",
+        "pct": 50
+      },
+      {
+        "nombre": "MEL",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 33,
@@ -624,7 +912,12 @@
         "desc": "Inicio de la partida: El Enemigo obtiene una gema de maná."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "YASUO",
+        "pct": 100
+      }
+    ]
   },
   {
     "num": 34,
@@ -643,7 +936,16 @@
         "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "DIANA",
+        "pct": 50
+      },
+      {
+        "nombre": "YUUMI",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 35,
@@ -667,7 +969,16 @@
         "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "Zoe",
+        "pct": 50
+      },
+      {
+        "nombre": "SHYVANA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 36,
@@ -686,7 +997,16 @@
         "desc": "Fin de la ronda: Si el nexo del jugador recibió daño en esta ronda, la unidad Más fuerte del Enemigo lo Golpea."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "VOLIBEAR",
+        "pct": 50
+      },
+      {
+        "nombre": "AURELION_SOL",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 37,
@@ -705,7 +1025,16 @@
         "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "NEEKO",
+        "pct": 50
+      },
+      {
+        "nombre": "MORDEKAISER",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 38,
@@ -724,7 +1053,16 @@
         "desc": "Inicio de la ronda: El Enemigo revive una copia con Endeble del seguidor muerto Más fuerte."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "DIANA",
+        "pct": 50
+      },
+      {
+        "nombre": "MEL",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 39,
@@ -748,7 +1086,16 @@
         "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "NUNU_Y_WILLUMP",
+        "pct": 50
+      },
+      {
+        "nombre": "JAYCE",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 40,
@@ -767,7 +1114,16 @@
         "desc": "Inicio de la ronda: Otorgo +0|+1 a las unidades del Enemigo."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "WARWICK",
+        "pct": 50
+      },
+      {
+        "nombre": "CAITLYN",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 41,
@@ -786,7 +1142,16 @@
         "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "TEEMO",
+        "pct": 50
+      },
+      {
+        "nombre": "CAITLYN",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 42,
@@ -805,7 +1170,16 @@
         "desc": "Cuando el Enemigo obtiene la ficha de ataque, invoca 1 Retoño."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "SHYVANA",
+        "pct": 50
+      },
+      {
+        "nombre": "EVELYNN",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 43,
@@ -824,7 +1198,16 @@
         "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "FIDDLESTICKS",
+        "pct": 50
+      },
+      {
+        "nombre": "TRYNDAMERE",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 44,
@@ -843,7 +1226,16 @@
         "desc": "En cada ronda, la primera vez que la unidad del Enemigo muera, le otorgo Dureza, Arrollar y Temible en su lugar."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "LEBLANC",
+        "pct": 50
+      },
+      {
+        "nombre": "ANIVIA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 45,
@@ -862,7 +1254,16 @@
         "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "NORRA",
+        "pct": 50
+      },
+      {
+        "nombre": "ASHE",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 46,
@@ -881,7 +1282,16 @@
         "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "VEX",
+        "pct": 50
+      },
+      {
+        "nombre": "MORGANA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 47,
@@ -900,7 +1310,12 @@
         "desc": "Fin de la ronda: Si el nexo del jugador recibió daño en esta ronda, la unidad Más fuerte del Enemigo lo Golpea."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "DRAGON_ANCESTRAL",
+        "pct": 100
+      }
+    ]
   },
   {
     "num": 48,
@@ -929,7 +1344,16 @@
         "desc": "Inicio de la ronda: El Enemigo invoca 1 Mono Explosivo."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "LA_ARREBATADORA",
+        "pct": 50
+      },
+      {
+        "nombre": "GWEN",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 49,
@@ -948,7 +1372,16 @@
         "desc": "Fin de la ronda: Otorgo +1|+1 a las unidades del Enemigo en todas partes."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "AMBESSA",
+        "pct": 50
+      },
+      {
+        "nombre": "EL_REY_PORO",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 50,
@@ -967,7 +1400,12 @@
         "desc": "Cuando el Enemigo obtiene la ficha de ataque, invoca 1 Retoño."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "LA_ARREBATADORA",
+        "pct": 100
+      }
+    ]
   },
   {
     "num": 51,
@@ -996,7 +1434,16 @@
         "desc": "Inicio de la ronda: El Enemigo invoca 1 Ruta de Derrumbes si no la tiene."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "SHYVANA",
+        "pct": 50
+      },
+      {
+        "nombre": "SAMIRA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 52,
@@ -1015,7 +1462,16 @@
         "desc": "Inicio de la ronda: El Enemigo invoca un Poro aleagorio de costo 1."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "WARWICK",
+        "pct": 50
+      },
+      {
+        "nombre": "SAMIRA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 53,
@@ -1034,7 +1490,16 @@
         "desc": "Inicio de la ronda: Doy +2|+0 y Arrollar a la unidad Más fuerte del Enemigo en esta ronda."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "VIEGO",
+        "pct": 50
+      },
+      {
+        "nombre": "AURELION_SOL",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 54,
@@ -1058,7 +1523,16 @@
         "desc": "Inicio de la ronda: El Enemigo obtiene una gema de maná adicional en esta ronda por cada unidad que posea."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "DIANA",
+        "pct": 50
+      },
+      {
+        "nombre": "JHIN",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 55,
@@ -1077,7 +1551,16 @@
         "desc": "Fin de la ronda: Si el nexo del jugador recibió daño en esta ronda, la unidad Más fuerte del Enemigo lo Golpea."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "YASUO_FLOR_ESPIRITUAL",
+        "pct": 50
+      },
+      {
+        "nombre": "SETT",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 56,
@@ -1096,7 +1579,16 @@
         "desc": "Cuando el Enemigo obtiene la ficha de ataque, invoca 1 Retoño."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "Zoe",
+        "pct": 50
+      },
+      {
+        "nombre": "AURELION_SOL",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 57,
@@ -1125,7 +1617,16 @@
         "desc": "+10 de vida del nexo, +1 de maná inicial, +1 de tamaño de la mano inicial."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "NUNU_Y_WILLUMP",
+        "pct": 50
+      },
+      {
+        "nombre": "ASHE",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 58,
@@ -1144,7 +1645,16 @@
         "desc": "Inicio del juego: El Enemigo invoca La Gran Plaza."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "ILLAOI",
+        "pct": 50
+      },
+      {
+        "nombre": "NAUTILUS",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 59,
@@ -1163,7 +1673,16 @@
         "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "FIDDLESTICKS",
+        "pct": 50
+      },
+      {
+        "nombre": "VEX",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 60,
@@ -1192,7 +1711,16 @@
         "desc": "Cuando el Enemigo invoca una unidad, le otorgo +0|+3."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "pct": 50
+      },
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 61,
@@ -1211,7 +1739,16 @@
         "desc": "Inicio del juego: El Enemigo invoca 1 El Abismo de los Lamentos."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "HECARIM",
+        "pct": 50
+      },
+      {
+        "nombre": "ANIVIA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 62,
@@ -1235,7 +1772,16 @@
         "desc": "Fin de la ronda: Otorgo +1|+1 a las unidades del Enemigo en todas partes."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "TEEMO",
+        "pct": 50
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 63,
@@ -1259,7 +1805,16 @@
         "desc": "Cuando el Enemigo obtiene la ficha de ataque, invoca 1 Retoño."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "LEBLANC",
+        "pct": 50
+      },
+      {
+        "nombre": "VEX",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 64,
@@ -1283,7 +1838,16 @@
         "desc": "Cuando el Enemigo invoca una unidad lanzo Retirada sobre uno de los seguidores del jugador con menos Poder que dicha unidad."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "pct": 50
+      },
+      {
+        "nombre": "GWEN",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 65,
@@ -1307,7 +1871,16 @@
         "desc": "Cuando una de las unidades del Enemigo Golpea, le otorgo +2|+2."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "AMBESSA",
+        "pct": 50
+      },
+      {
+        "nombre": "MISS_FORTUNE",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 66,
@@ -1336,7 +1909,16 @@
         "desc": "Inicio de la ronda: Transformo al seguidor Más fuerte del jugador en 1 Ardilla con 1|1 y Silenciar en esta ronda."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "Zoe",
+        "pct": 50
+      },
+      {
+        "nombre": "MORGANA",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 67,
@@ -1360,7 +1942,16 @@
         "desc": "Cuando una de las unidades del Enemigo Golpea, le otorgo +2|+2."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "LEBLANC",
+        "pct": 50
+      },
+      {
+        "nombre": "JINX",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 68,
@@ -1384,7 +1975,16 @@
         "desc": "Cuando las unidades del Enemigo ataquen, lanzo Aturdir sobre la unidad Más debil del jugador y el Enemigo roba 1."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "AMBESSA",
+        "pct": 50
+      },
+      {
+        "nombre": "SWAIN",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 69,
@@ -1413,7 +2013,16 @@
         "desc": "Inicio de la ronda: Doy +2|+0 y Arrollar a la unidad Más fuerte del Enemigo en esta ronda."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "JAX",
+        "pct": 50
+      },
+      {
+        "nombre": "AZIR",
+        "pct": 50
+      }
+    ]
   },
   {
     "num": 70,
@@ -1442,6 +2051,15 @@
         "desc": "Cuando el jugador invoca una unidad, le fijo 1|1."
       }
     ],
-    "counters": []
+    "counters": [
+      {
+        "nombre": "TEEMO_FLOR_ESPIRITUAL",
+        "pct": 50
+      },
+      {
+        "nombre": "JINX",
+        "pct": 50
+      }
+    ]
   }
 ]
