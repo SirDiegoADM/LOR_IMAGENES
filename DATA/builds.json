@@ -7176,6 +7176,13 @@
   },
   {
     "campeon": "JACK",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "BACULO-CELESTIAL",
+    "r3": "PLACA-DEL-CENTINELA",
+    "r4": ""
+  },
+  {
+    "campeon": "JACK",
     "r1": "BACULO-CELESTIAL",
     "r2": "CAPARAZON-DEL-VACIO",
     "r3": "DERROTA-DE-LA-MUERTE",
@@ -14702,6 +14709,13 @@
   {
     "campeon": "SHYVANA",
     "r1": "ESPIRITU-RESONANTE",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "SHYVANA",
+    "r1": "ESPIRITU-RESONANTE",
     "r2": "DERROTA-DE-LA-MUERTE",
     "r3": "LA-BESTIA-INTERIOR",
     "r4": ""
@@ -18995,6 +19009,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
     "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "MAZO-ACUMULADO",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "LA-BESTIA-INTERIOR",
     "r4": ""
   },
   {
