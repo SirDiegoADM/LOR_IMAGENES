@@ -1051,6 +1051,13 @@
   },
   {
     "campeon": "AMBESSA",
+    "r1": "MONEDERO-DE-CAMPEON",
+    "r2": "ORDEN-DE-EXPLORACION",
+    "r3": "GUANTELETES-ESTELARES",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "ORDEN-DE-EXPLORACION",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -5923,6 +5930,13 @@
   },
   {
     "campeon": "GNAR",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ORBE-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "GNAR",
     "r1": "JURAMENTO-DE-LOS-GUARDIANES",
     "r2": "GEMA-ESTELAR",
     "r3": "GEMA-ESTELAR",
@@ -10376,6 +10390,13 @@
   {
     "campeon": "LUX",
     "r1": "BASTON-INCANDESCENTE-DE-LUX",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "LUX",
+    "r1": "BASTON-INCANDESCENTE-DE-LUX",
     "r2": "PODER-RENOVADOR",
     "r3": "COMETA-ARCANO",
     "r4": ""
@@ -13476,6 +13497,13 @@
   },
   {
     "campeon": "NORRA",
+    "r1": "CAOS-IMPROVISADO",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "SUJETAESPADAS-LAURENT",
+    "r4": ""
+  },
+  {
+    "campeon": "NORRA",
     "r1": "ACELERADOR-DE-PORTALES-DE-NORRA",
     "r2": "ESCUDO-NEGRO",
     "r3": "TOMOS-OCULTOS",
@@ -13870,6 +13898,13 @@
     "campeon": "NUNU_Y_WILLUMP",
     "r1": "TIJERAS-ESPECTRALES",
     "r2": "FORTUNA-ENCONTRADA",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "ORNN",
+    "r1": "CESE-Y-DESISTA",
+    "r2": "FUERZA-DEL-VIENTO",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r4": ""
   },
