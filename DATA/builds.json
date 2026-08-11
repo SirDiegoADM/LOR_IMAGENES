@@ -5755,6 +5755,13 @@
   },
   {
     "campeon": "GAREN",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
     "r1": "ESPADA-DEL-ACECHADOR",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
@@ -15873,6 +15880,13 @@
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "ARMADURA-DE-WARMOG",
+    "r4": ""
+  },
+  {
+    "campeon": "TALIYAH",
+    "r1": "MAZO-ACUMULADO",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ARMOTAS",
     "r4": ""
   },
   {
