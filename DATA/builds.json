@@ -7372,6 +7372,41 @@
   },
   {
     "campeon": "JANNA",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "ICONO-DE-VALHIR",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": ""
+  },
+  {
+    "campeon": "JANNA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r4": ""
+  },
+  {
+    "campeon": "JANNA",
+    "r1": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "TEMPESTAD-DE-LUDEN",
+    "r4": ""
+  },
+  {
+    "campeon": "JANNA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "GUANTELETE-DE-VENDAVAL",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "JANNA",
+    "r1": "GUANTELETE-DE-VENDAVAL",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "MAZO-DEL-DESTINO",
+    "r4": ""
+  },
+  {
+    "campeon": "JANNA",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -13735,6 +13770,13 @@
   },
   {
     "campeon": "NUNU_Y_WILLUMP",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
     "r1": "DERROTA-DE-LA-MUERTE",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
@@ -15880,6 +15922,13 @@
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "ARMADURA-DE-WARMOG",
+    "r4": ""
+  },
+  {
+    "campeon": "TALIYAH",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "SUJETAESPADAS-LAURENT",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
     "r4": ""
   },
   {
