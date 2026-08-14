@@ -6469,6 +6469,13 @@
   },
   {
     "campeon": "HECARIM",
+    "r1": "GUJA-DE-HECARIM",
+    "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
     "r1": "HIDRA-VORAZ",
     "r2": "CUCHILLA-GIRATORIA",
     "r3": "APRENDIZ-DE-LAS-SOMBRAS",
@@ -7368,6 +7375,13 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "JANNA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
@@ -12426,6 +12440,13 @@
   },
   {
     "campeon": "NASUS",
+    "r1": "ESPANTAPAJAROS-INOFENSIVO",
+    "r2": "RITMOS-DE-DESESPERANZA",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "NASUS",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -14130,6 +14151,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "HIMNO-DEL-VALOR",
     "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "PYKE",
+    "r1": "RITMOS-DE-DESESPERANZA",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "LADRONA-DE-ESENCIAS",
     "r4": ""
   },
   {
