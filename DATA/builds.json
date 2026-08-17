@@ -13798,6 +13798,13 @@
   },
   {
     "campeon": "NUNU_Y_WILLUMP",
+    "r1": "BACULO-CELESTIAL",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "TIJERAS-ESPECTRALES",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "FULGOR-ARDIENTE",
     "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
@@ -14690,6 +14697,13 @@
     "r1": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r2": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
     "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "SETT",
+    "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r2": "DADOS-TRUCADOS",
+    "r3": "DUPLICADOR-QUIMTECH",
     "r4": ""
   },
   {
