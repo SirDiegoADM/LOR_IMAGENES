@@ -4055,6 +4055,13 @@
   {
     "campeon": "EKKO",
     "r1": "ESPIRITU-RESONANTE",
+    "r2": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r3": "EL-ROMPEPUERTAS-DEL-CURADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "EKKO",
+    "r1": "ESPIRITU-RESONANTE",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
@@ -19163,6 +19170,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
     "r3": "POLVORA-CARGADA",
+    "r4": ""
+  },
+  {
+    "campeon": "VOLIBEAR",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "AMIGUIS-DEL-PORTAL",
+    "r3": "CAPARAZON-DEL-VACIO",
     "r4": ""
   },
   {
