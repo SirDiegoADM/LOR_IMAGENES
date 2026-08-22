@@ -4495,6 +4495,13 @@
   },
   {
     "campeon": "ELISE",
+    "r1": "HACHA-CORTAMIEDOS",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "FUERZA-DEL-VIENTO",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
     "r1": "ABRAZO-DE-LA-REINA",
     "r2": "ESCUDO-NEGRO",
     "r3": "FUERZA-DEL-VIENTO",
@@ -7998,6 +8005,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "BACULO-DEL-ARCANGEL",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "JHIN",
+    "r1": "ARMOTAS",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "BATERIA-REVOLTOSA",
     "r4": ""
   },
   {
@@ -20738,6 +20752,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "CACHORRITO-ESPACIAL",
+    "r2": "LA-ESPADA-DARKIN",
+    "r3": "BACULO-DEL-ARCANGEL",
     "r4": ""
   },
   {
