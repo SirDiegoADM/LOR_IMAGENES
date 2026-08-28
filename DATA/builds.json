@@ -3088,6 +3088,13 @@
   },
   {
     "campeon": "CAITLYN",
+    "r1": "FULGOR-ARDIENTE",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "ESPANTAPAJAROS-INOFENSIVO",
+    "r4": ""
+  },
+  {
+    "campeon": "CAITLYN",
     "r1": "RIFLE-HEXTECH",
     "r2": "ESCUDO-NEGRO",
     "r3": "ESPANTAPAJAROS-INOFENSIVO",
@@ -14540,6 +14547,13 @@
   },
   {
     "campeon": "SAMIRA",
+    "r1": "CUCHILLA-GIRATORIA",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "SAMIRA",
     "r1": "LADRONA-DE-ESENCIAS",
     "r2": "RITMOS-DE-DESESPERANZA",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -16504,6 +16518,13 @@
     "r2": "REVESTIMIENTO-DE-TORRETA",
     "r3": "VELO-DE-LA-BANSHEE",
     "r4": ""
+  },
+  {
+    "campeon": "TEEMO_FLOR_ESPIRITUAL",
+    "r1": "ANGEL-GUARDIAN",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": "PROLIFERACION-DE-HONGOS-RUNA"
   },
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
@@ -18491,6 +18512,13 @@
     "r1": "DUPLICADOR-QUIMTECH",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "VI",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "CESE-Y-DESISTA",
+    "r3": "NUCLEO-HEX-PERFECTO",
     "r4": ""
   },
   {
