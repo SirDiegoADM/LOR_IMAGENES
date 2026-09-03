@@ -12055,6 +12055,13 @@
   },
   {
     "campeon": "MORGANA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "DADOS-TRUCADOS",
+    "r3": "FULGOR-ARDIENTE",
+    "r4": ""
+  },
+  {
+    "campeon": "MORGANA",
     "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "ANGEL-GUARDIAN",
@@ -15388,6 +15395,13 @@
   {
     "campeon": "SORAKA",
     "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "SORAKA",
+    "r1": "EXPERIMENTOS-CRUELES",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "PLACA-DEL-CENTINELA",
     "r4": ""
@@ -17154,6 +17168,13 @@
     "r1": "MARCA-DEL-SUCUBO",
     "r2": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
     "r3": "ARMADURA-DE-WARMOG",
+    "r4": ""
+  },
+  {
+    "campeon": "TRYNDAMERE",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "AMIGUIS-DEL-PORTAL",
+    "r3": "EL-COLLAR-DEL-CAMALEON",
     "r4": ""
   },
   {
