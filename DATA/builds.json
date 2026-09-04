@@ -1,6 +1,13 @@
 [
   {
     "campeon": "AATROX",
+    "r1": "LA-ESPADA-DARKIN",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "AATROX",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "ORDEN-DE-EXPLORACION",
     "r3": "TOMOS-OCULTOS",
@@ -10868,6 +10875,13 @@
     "r1": "COMETA-ARCANO",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "LUX_ILUMINADA",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "SUJETAESPADAS-LAURENT",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r4": ""
   },
   {
