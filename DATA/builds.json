@@ -309,6 +309,20 @@
   },
   {
     "campeon": "AHRI",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "PLACA-DEL-CENTINELA",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "CESE-Y-DESISTA",
     "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
@@ -628,6 +642,13 @@
     "r2": "HIMNO-DEL-VALOR",
     "r3": "CAPITULO-PERDIDO",
     "r4": ""
+  },
+  {
+    "campeon": "AHRI_FLOR_ESPIRITUAL",
+    "r1": "TIJERAS-ESPECTRALES",
+    "r2": "ESPIRITU-DE-LOS-BUHRU",
+    "r3": "ESCUDO-NEGRO",
+    "r4": "DESPERTAR-ESPIRITUAL-RUNA"
   },
   {
     "campeon": "AHRI_FLOR_ESPIRITUAL",
@@ -1052,6 +1073,20 @@
   {
     "campeon": "AKSHAN",
     "r1": "CAZADOR-DE-RUFIANES",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "DERROTA-DE-LA-MUERTE",
+    "r2": "ORDEN-DE-EXPLORACION",
+    "r3": "DRAGARTOS-GEMELOS",
+    "r4": ""
+  },
+  {
+    "campeon": "AMBESSA",
+    "r1": "TOMOS-OCULTOS",
     "r2": "NUCLEO-HEX-PERFECTO",
     "r3": "LA-BESTIA-INTERIOR",
     "r4": ""
@@ -1709,6 +1744,13 @@
   },
   {
     "campeon": "ANNIE",
+    "r1": "MAZO-DEL-DESTINO",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "ANNIE",
     "r1": "CANON-DE-PROA-DEL-HERALDO-DE-LA-MUERTE",
     "r2": "ANGEL-GUARDIAN",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -2284,6 +2326,13 @@
   {
     "campeon": "AURELION_SOL",
     "r1": "GUANTELETES-ESTELARES",
+    "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
+    "r1": "GUANTELETES-ESTELARES",
     "r2": "LLAMADO-DE-SIRENA",
     "r3": "PROTECTORES-DE-DEMACIA",
     "r4": ""
@@ -2601,6 +2650,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
+    "r1": "TIJERAS-ESPECTRALES",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "GEMA-ESTELAR",
     "r4": ""
   },
   {
@@ -5496,6 +5552,13 @@
   },
   {
     "campeon": "FIDDLESTICKS",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "RITMOS-DE-DESESPERANZA",
+    "r3": "DUPLICADOR-QUIMTECH",
+    "r4": ""
+  },
+  {
+    "campeon": "FIDDLESTICKS",
     "r1": "ESPANTAPAJAROS-INOFENSIVO",
     "r2": "RITMOS-DE-DESESPERANZA",
     "r3": "ESPIRITU-RESONANTE",
@@ -5828,6 +5891,48 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "ORDEN-DE-EXPLORACION",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "MAZO-ACUMULADO",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "MAZO-ACUMULADO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ORDEN-DE-EXPLORACION",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r2": "BACULO-DEL-ARCANGEL",
+    "r3": "LA-VOLUNTAD-DE-DEMACIA",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "MAZO-ACUMULADO",
+    "r3": "LA-VOLUNTAD-DE-DEMACIA",
     "r4": ""
   },
   {
@@ -6542,6 +6647,13 @@
     "r1": "TEMPESTAD-DE-LUDEN",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
+    "r1": "GUJA-DE-HECARIM",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "ESPADA-DE-LA-TEMPESTAD",
     "r4": ""
   },
   {
@@ -7277,6 +7389,13 @@
     "r1": "HOJASOMBRA-DE-VALLECLARO",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "JACK",
+    "r1": "EXPERIMENTOS-CRUELES",
+    "r2": "BACULO-CELESTIAL",
+    "r3": "PLACA-DEL-CENTINELA",
     "r4": ""
   },
   {
@@ -8681,6 +8800,13 @@
   },
   {
     "campeon": "KAISA",
+    "r1": "COSECHA-MALVADA",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "KAISA",
     "r1": "EXPERIMENTOS-CRUELES",
     "r2": "ESCUDO-NEGRO",
     "r3": "NUCLEO-HEX-PERFECTO",
@@ -9518,6 +9644,13 @@
     "r2": "PERMAHIELO",
     "r3": "PERMAHIELO",
     "r4": ""
+  },
+  {
+    "campeon": "LA_ARREBATADORA",
+    "r1": "EL-ARCO-DE-LA-ARREBATADORA",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "PLACA-DEL-CENTINELA",
+    "r4": "SALON-INQUIETANTE-RUNA"
   },
   {
     "campeon": "LA_ARREBATADORA",
@@ -12608,6 +12741,13 @@
   },
   {
     "campeon": "NASUS",
+    "r1": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "NASUS",
     "r1": "ESPANTAPAJAROS-INOFENSIVO",
     "r2": "RITMOS-DE-DESESPERANZA",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -13441,6 +13581,13 @@
   },
   {
     "campeon": "NIDALEE",
+    "r1": "PAQUETE-COMPLETO",
+    "r2": "ANGEL-GUARDIAN",
+    "r3": "CAPITULO-PERDIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "NIDALEE",
     "r1": "ANGEL-GUARDIAN",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -13962,6 +14109,13 @@
     "r1": "ORBE-DEL-GUARDIAN",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "NUNU_Y_WILLUMP",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "LAMENTO-DRENADO",
+    "r3": "FUERZA-PETREA",
     "r4": ""
   },
   {
@@ -17186,6 +17340,13 @@
   },
   {
     "campeon": "TRYNDAMERE",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "DADOS-TRUCADOS",
+    "r4": ""
+  },
+  {
+    "campeon": "TRYNDAMERE",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "AMIGUIS-DEL-PORTAL",
     "r3": "EL-COLLAR-DEL-CAMALEON",
@@ -17917,6 +18078,13 @@
     "r1": "ESCUDO-NEGRO",
     "r2": "PLACA-DEL-CENTINELA",
     "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "VARUS",
+    "r1": "TECNICA-SECRETA",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "HIMNO-DEL-VALOR",
     "r4": ""
   },
   {
@@ -18894,6 +19062,13 @@
   },
   {
     "campeon": "VIEGO",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "VIEGO",
     "r1": "FULGOR-ARDIENTE",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "APRENDIZ-DE-LAS-SOMBRAS",
@@ -19170,6 +19345,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "SUJETAESPADAS-LAURENT",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "VIKTOR",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "DADOS-TRUCADOS",
     "r4": ""
   },
   {
@@ -20038,6 +20220,13 @@
     "r1": "POLVORA-CARGADA",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "YASUO",
+    "r1": "ESPADA-DE-VIENTO-DE-YASUO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "LA-MANO-DE-NOXUS",
     "r4": ""
   },
   {
