@@ -5895,6 +5895,34 @@
   },
   {
     "campeon": "GAREN",
+    "r1": "LA-VOLUNTAD-DE-DEMACIA",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "LA-VOLUNTAD-DE-DEMACIA",
+    "r2": "FULGOR-ARDIENTE",
+    "r3": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "BACULO-CELESTIAL",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "FRAGMENTO-DE-ESTRELLA-CORROMPIDO",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
     "r1": "ORDEN-DE-EXPLORACION",
     "r2": "PLACA-DEL-CENTINELA",
     "r3": "LA-BESTIA-INTERIOR",
@@ -17630,6 +17658,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
     "r3": "ARMOTAS",
+    "r4": ""
+  },
+  {
+    "campeon": "TWISTED_FATE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "TEMPESTAD-DE-LUDEN",
+    "r3": "DADOS-TRUCADOS",
     "r4": ""
   },
   {
