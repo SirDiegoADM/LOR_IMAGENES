@@ -2654,6 +2654,13 @@
   },
   {
     "campeon": "AZIR",
+    "r1": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r2": "VARA-IMPERIAL-DE-AZIR",
+    "r3": "GEMA-ESTELAR",
+    "r4": ""
+  },
+  {
+    "campeon": "AZIR",
     "r1": "TIJERAS-ESPECTRALES",
     "r2": "DERROTA-DE-LA-MUERTE",
     "r3": "GEMA-ESTELAR",
@@ -5896,6 +5903,76 @@
   {
     "campeon": "GAREN",
     "r1": "LA-VOLUNTAD-DE-DEMACIA",
+    "r2": "PROTECTORES-DE-DEMACIA",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "LA-VOLUNTAD-DE-DEMACIA",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "PODER-RENOVADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "LA-VOLUNTAD-DE-DEMACIA",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "HIMNO-DEL-VALOR",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "ESPADA-DEL-ACECHADOR",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "JURAMENTO-DE-LOS-GUARDIANES",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "PAQUETE-COMPLETO",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "FLAUTA-DE-ALBOROTADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "ESPANTAPAJAROS-INOFENSIVO",
+    "r2": "LA-MANO-DEL-DESTINO",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r2": "POLVORA-CARGADA",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "ORDEN-DE-EXPLORACION",
+    "r2": "RITMOS-DE-DESESPERANZA",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "LA-VOLUNTAD-DE-DEMACIA",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "TOMOS-OCULTOS",
     "r4": ""
@@ -6143,6 +6220,13 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "GNAR",
+    "r1": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r2": "ORBE-DEL-GUARDIAN",
+    "r3": "ESPIRITU-RESONANTE",
     "r4": ""
   },
   {
@@ -6679,6 +6763,13 @@
   },
   {
     "campeon": "HECARIM",
+    "r1": "LA-BESTIA-INTERIOR",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
     "r1": "GUJA-DE-HECARIM",
     "r2": "LA-BESTIA-INTERIOR",
     "r3": "ESPADA-DE-LA-TEMPESTAD",
@@ -7123,6 +7214,13 @@
     "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
     "r2": "POLVORA-CARGADA",
     "r3": "EL-ESCONDITE-DEL-AZOTE",
+    "r4": ""
+  },
+  {
+    "campeon": "ILLAOI",
+    "r1": "ESPIRITU-DE-LOS-BUHRU",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r4": ""
   },
   {
@@ -7599,6 +7697,13 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "JANNA",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r4": ""
   },
   {
@@ -16199,6 +16304,13 @@
   },
   {
     "campeon": "TAHM_KENCH",
+    "r1": "PAQUETE-COMPLETO",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "ESCUDO-NEGRO",
+    "r4": ""
+  },
+  {
+    "campeon": "TAHM_KENCH",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "ANGEL-GUARDIAN",
     "r3": "ORBE-DEL-GUARDIAN",
@@ -16805,6 +16917,13 @@
     "r2": "REVESTIMIENTO-DE-TORRETA",
     "r3": "VELO-DE-LA-BANSHEE",
     "r4": ""
+  },
+  {
+    "campeon": "TEEMO_FLOR_ESPIRITUAL",
+    "r1": "FLAUTA-DE-ALBOROTADOR",
+    "r2": "COSECHA-MALVADA",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": "PROLIFERACION-DE-HONGOS-RUNA"
   },
   {
     "campeon": "TEEMO_FLOR_ESPIRITUAL",
@@ -17658,6 +17777,13 @@
     "r1": "NUCLEO-HEX-PERFECTO",
     "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
     "r3": "ARMOTAS",
+    "r4": ""
+  },
+  {
+    "campeon": "TWISTED_FATE",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "ARMOTAS",
+    "r3": "LA-BESTIA-INTERIOR",
     "r4": ""
   },
   {
@@ -21193,6 +21319,13 @@
     "r1": "FUERZA-DEL-VIENTO",
     "r2": "LA-HOJA-DE-LA-GRAN-DUELISTA",
     "r3": "FILO-DE-LA-TORMENTA",
+    "r4": ""
+  },
+  {
+    "campeon": "ZOE",
+    "r1": "SUJETAESPADAS-LAURENT",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "CAOS-IMPROVISADO",
     "r4": ""
   },
   {
