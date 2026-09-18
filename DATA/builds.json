@@ -5902,6 +5902,13 @@
   },
   {
     "campeon": "GAREN",
+    "r1": "PLACA-DEL-CENTINELA",
+    "r2": "LA-BALANZA-DE-LA-JUSTICIA",
+    "r3": "LA-BESTIA-INTERIOR",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
     "r1": "LA-VOLUNTAD-DE-DEMACIA",
     "r2": "PROTECTORES-DE-DEMACIA",
     "r3": "LA-BESTIA-INTERIOR",
@@ -7697,6 +7704,13 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "JANNA",
+    "r1": "RITMOS-DE-DESESPERANZA",
+    "r2": "DUPLICADOR-QUIMTECH",
+    "r3": "FORTUNA-ENCONTRADA",
     "r4": ""
   },
   {
