@@ -5559,6 +5559,13 @@
   },
   {
     "campeon": "FIDDLESTICKS",
+    "r1": "ESPADA-DE-LA-TEMPESTAD",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "FIDDLESTICKS",
     "r1": "ESPIRITU-RESONANTE",
     "r2": "RITMOS-DE-DESESPERANZA",
     "r3": "DUPLICADOR-QUIMTECH",
@@ -6766,6 +6773,13 @@
     "r1": "TEMPESTAD-DE-LUDEN",
     "r2": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "HECARIM",
+    "r1": "GUANTELETES-ESTELARES",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ANGEL-GUARDIAN",
     "r4": ""
   },
   {
@@ -13245,6 +13259,13 @@
   },
   {
     "campeon": "NAUTILUS",
+    "r1": "MAZO-ACUMULADO",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "RITMOS-DE-DESESPERANZA",
+    "r4": ""
+  },
+  {
+    "campeon": "NAUTILUS",
     "r1": "TUMBA-CONGELADA",
     "r2": "RITMOS-DE-DESESPERANZA",
     "r3": "FULGOR-ARDIENTE",
@@ -16489,6 +16510,13 @@
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "ARMADURA-DE-WARMOG",
+    "r4": ""
+  },
+  {
+    "campeon": "TALIYAH",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "ARMOTAS",
     "r4": ""
   },
   {
