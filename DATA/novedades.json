@@ -1,9 +1,15 @@
 [
   {
-    "nombre": "GAREN",
-    "descripcion": "El Poder de Demancia",
-    "imagen": "GAREN1.webp",
-    "enlace": "https://sites.google.com/view/runeterrapoclatam/garen"
+    "nombre": "KINDED",
+    "descripcion": "Kindred recibe una nueva constelación en la versión 7.10.",
+    "imagen": "KINDRED.webp",
+    "enlace": "https://sites.google.com/view/runeterrapoclatam/kindred"
+  },
+  {
+    "nombre": "SHEN",
+    "descripcion": "¡Shen se une a El camino de los Campeones en la versión 7.10!",
+    "imagen": "SHEN.webp",
+    "enlace": "https://sites.google.com/view/runeterrapoclatam/shen"
   },
   {
     "nombre": "CON AMIGOS COMO ESTOS...",
