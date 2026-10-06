@@ -636,6 +636,12 @@
     "recomendados": ""
   },
   {
+    "id": "MARCA-DE-LOS-KINDRED",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Marca_de_los_Kindred.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
     "id": "MARCA-DE-SANGRE",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Marca_de_Sangre.webp",
     "rareza": "rara",
@@ -850,6 +856,12 @@
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tomos_Ocultos.webp",
     "rareza": "epica",
     "recomendados": "AATROX, AHRI, AHRI_FLOR_ESPIRITUAL, AKSHAN, AMBESSA, ANNIE, AURELION_SOL, BARDO, CAITLYN, DARIUS, DIANA, EKKO, EL_REY_PORO, EVELYNN_FLOR_ESPIRITUAL, FIDDLESTICKS, GAREN, HEIMERDINGER, JACK, JAYCE, JHIN, KAYLE, LA_ARREBATADORA, LEE_SIN, LEONA, LILLIA, LUX, LUX_ILUMINADA, MAESTRO_YI, MAESTRO_YI_FLOR_ESPIRITUAL, MEL, MISS_FORTUNE, MORGANA, NEEKO, NILAH, NORRA, SAMIRA, SETT, SHYVANA, SORAKA, TEEMO_FLOR_ESPIRITUAL, TWISTED_FATE, UDYR, VARUS, VAYNE, VEX, VI, VIKTOR, WARWICK, YASUO_FLOR_ESPIRITUAL, ZOE"
+  },
+  {
+    "id": "TRAICION-KINKOU",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Tradición_Kinkou.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
     "id": "TRANSMODULADOR",
