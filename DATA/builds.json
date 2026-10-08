@@ -9710,6 +9710,20 @@
   },
   {
     "campeon": "KINDRED",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "MARCA-DE-LOS-KINDRED",
+    "r3": "CUCHILLA-GIRATORIA",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
     "r1": "ANGEL-GUARDIAN",
     "r2": "CAPARAZON-DEL-VACIO",
     "r3": "ORBE-DEL-GUARDIAN",
@@ -15425,6 +15439,13 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "LA-CORONA-DEL-REY-TROL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "SHEN",
+    "r1": "TRAICION-KINKOU",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "MAZO-ACUMULADO",
     "r4": ""
   },
   {
