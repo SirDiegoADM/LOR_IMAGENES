@@ -9724,6 +9724,13 @@
   },
   {
     "campeon": "KINDRED",
+    "r1": "ESPADA-DEL-ACECHADOR",
+    "r2": "MARCA-DE-LOS-KINDRED",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
     "r1": "CUCHILLA-GIRATORIA",
     "r2": "ANGEL-GUARDIAN",
     "r3": "APRENDIZ-DE-LAS-SOMBRAS",
@@ -10169,6 +10176,13 @@
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
     "r4": "INSPIRACION-ALOCADA-RUNA"
+  },
+  {
+    "campeon": "LEBLANC",
+    "r1": "MARCA-DE-LOS-KINDRED",
+    "r2": "CUCHILLA-GIRATORIA",
+    "r3": "ORBE-DEL-GUARDIAN",
+    "r4": ""
   },
   {
     "campeon": "LEBLANC",
@@ -15493,6 +15507,20 @@
   {
     "campeon": "SHEN",
     "r1": "TRAICION-KINKOU",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r4": ""
+  },
+  {
+    "campeon": "SHEN",
+    "r1": "TRAICION-KINKOU",
+    "r2": "NUCLEO-HEX-PERFECTO",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "SHEN",
+    "r1": "TRAICION-KINKOU",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "FULGOR-ARDIENTE",
     "r4": ""
@@ -16167,6 +16195,13 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "LA-HEBILLA-DEL-BERSERKER",
     "r3": "HERENCIA-GUARDIA-DE-LA-CORONA",
+    "r4": ""
+  },
+  {
+    "campeon": "SWAIN",
+    "r1": "POLVORA-CARGADA",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "BATERIA-REVOLTOSA",
     "r4": ""
   },
   {
@@ -18869,6 +18904,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "VEX",
+    "r1": "TOMOS-OCULTOS",
+    "r2": "DERROTA-DE-LA-MUERTE",
+    "r3": "FULGOR-ARDIENTE",
     "r4": ""
   },
   {
