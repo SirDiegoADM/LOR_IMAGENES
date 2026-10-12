@@ -316,6 +316,13 @@
   },
   {
     "campeon": "AHRI",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "CUCHILLA-GIRATORIA",
+    "r4": ""
+  },
+  {
+    "campeon": "AHRI",
     "r1": "ELEGIDO-POR-LAS-ESTRELLAS",
     "r2": "JURAMENTO-DE-LOS-GUARDIANES",
     "r3": "GEMA-ESTELAR",
@@ -4621,6 +4628,13 @@
   },
   {
     "campeon": "ELISE",
+    "r1": "TRAICION-KINKOU",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "ABRAZO-DE-LA-REINA",
+    "r4": ""
+  },
+  {
+    "campeon": "ELISE",
     "r1": "HACHA-CORTAMIEDOS",
     "r2": "ANGEL-GUARDIAN",
     "r3": "FUERZA-DEL-VIENTO",
@@ -5919,6 +5933,20 @@
     "r1": "LA-CORONA-DEL-REY-TROL",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "EL-COLLAR-DEL-CAMALEON",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "PLACA-DEL-CENTINELA",
+    "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "GAREN",
+    "r1": "MAZO-ACUMULADO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "LA-BALANZA-DE-LA-JUSTICIA",
     "r4": ""
   },
   {
@@ -7746,6 +7774,13 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "LA-HOJA-DE-LA-GRAN-DUELISTA",
+    "r4": ""
+  },
+  {
+    "campeon": "JANNA",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r3": "GUANTELETE-DE-VENDAVAL",
     "r4": ""
   },
   {
@@ -9720,6 +9755,27 @@
     "r1": "ESPADA-DEL-ACECHADOR",
     "r2": "ESPADA-DEL-ACECHADOR",
     "r3": "PERMAHIELO",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
+    "r1": "MARCA-DE-LOS-KINDRED",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
+    "r1": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r2": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
+    "r1": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "ESPIRITU-RESONANTE",
     "r4": ""
   },
   {
@@ -13630,6 +13686,13 @@
   },
   {
     "campeon": "NEEKO",
+    "r1": "ESPIRITU-RESONANTE",
+    "r2": "EL-PRECIO-DE-LA-RETRIBUCION",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "NEEKO",
     "r1": "ARMOTAS",
     "r2": "ICONO-DE-VALHIR",
     "r3": "LA-BESTIA-INTERIOR",
@@ -15502,6 +15565,27 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "LA-CORONA-DEL-REY-TROL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "SHEN",
+    "r1": "TRAICION-KINKOU",
+    "r2": "ESCUDO-NEGRO",
+    "r3": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r4": ""
+  },
+  {
+    "campeon": "SHEN",
+    "r1": "TRAICION-KINKOU",
+    "r2": "PLACA-DEL-CENTINELA",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "SHEN",
+    "r1": "ORBE-LUMINOSO",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "FORTUNA-ENCONTRADA",
     "r4": ""
   },
   {
