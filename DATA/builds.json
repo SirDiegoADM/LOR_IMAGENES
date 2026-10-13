@@ -3760,6 +3760,13 @@
   },
   {
     "campeon": "DIANA",
+    "r1": "MARCA-DE-LOS-KINDRED",
+    "r2": "CUCHILLA-GIRATORIA",
+    "r3": "CAPARAZON-DEL-VACIO",
+    "r4": ""
+  },
+  {
+    "campeon": "DIANA",
     "r1": "ANGEL-GUARDIAN",
     "r2": "ORBE-DEL-GUARDIAN",
     "r3": "CAPARAZON-DEL-VACIO",
@@ -9759,6 +9766,13 @@
   },
   {
     "campeon": "KINDRED",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
     "r1": "MARCA-DE-LOS-KINDRED",
     "r2": "ESPIRITU-RESONANTE",
     "r3": "APRENDIZ-DE-LAS-SOMBRAS",
@@ -15565,6 +15579,27 @@
     "r1": "LA-HEBILLA-DEL-BERSERKER",
     "r2": "LA-CORONA-DEL-REY-TROL",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "SHEN",
+    "r1": "TRAICION-KINKOU",
+    "r2": "GUANTELETES-ESTELARES",
+    "r3": "LA-ESPADA-DARKIN",
+    "r4": ""
+  },
+  {
+    "campeon": "SHEN",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "NUCLEO-HEX-PERFECTO",
+    "r4": ""
+  },
+  {
+    "campeon": "SHEN",
+    "r1": "TRAICION-KINKOU",
+    "r2": "LA-BESTIA-INTERIOR",
+    "r3": "MAZO-ACUMULADO",
     "r4": ""
   },
   {
