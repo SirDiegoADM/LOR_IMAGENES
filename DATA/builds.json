@@ -9766,6 +9766,13 @@
   },
   {
     "campeon": "KINDRED",
+    "r1": "MARCA-DE-LOS-KINDRED",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
     "r1": "APRENDIZ-DE-LAS-SOMBRAS",
     "r2": "CAPARAZON-DEL-VACIO",
     "r3": "ESPADA-DEL-ACECHADOR",
