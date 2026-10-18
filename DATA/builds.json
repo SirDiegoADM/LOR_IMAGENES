@@ -9767,6 +9767,13 @@
   {
     "campeon": "KINDRED",
     "r1": "MARCA-DE-LOS-KINDRED",
+    "r2": "CUCHILLA-GIRATORIA",
+    "r3": "ESPADA-DEL-ACECHADOR",
+    "r4": ""
+  },
+  {
+    "campeon": "KINDRED",
+    "r1": "MARCA-DE-LOS-KINDRED",
     "r2": "CAPARAZON-DEL-VACIO",
     "r3": "ESPADA-DEL-ACECHADOR",
     "r4": ""
@@ -10602,6 +10609,13 @@
     "r1": "BACULO-DEL-ARCANGEL",
     "r2": "EL-PLAN-DE-CONTINGENCIA-DEL-GRAN-GENERAL",
     "r3": "EL-APLASTADOR-DEL-REY-TROL",
+    "r4": ""
+  },
+  {
+    "campeon": "LEONA",
+    "r1": "EJERCITO-DE-CUERVOS-DE-SWAIN",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "EL-ESCONDITE-DEL-AZOTE",
     "r4": ""
   },
   {
