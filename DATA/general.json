@@ -664,6 +664,14 @@
     "consejos": "<h3> Identidad de Hechicero y Sostenibilidad</h3>\n<p>Warwick es un campeón muy divertido con un estilo de juego de \"lanzador de hechizos\" disfrazado de luchador cuerpo a cuerpo. Warwick se vuelve más poderoso cada vez que cualquier unidad recibe daño, así que sus mejores puntos de sinergia son los poderes que hacen pings. Por un lado necesitas poderes que hagan pings para obtener más ataque; por otro lado necesitas poderes que se beneficien de tener un ataque alto para terminar las partidas.</p>\n\n<h3> Cacería de Sangre con Objetivo Propio</h3>\n<p>El hechizo de campeón de Warwick, Cacería de sangre, puede marcar como objetivo a cualquier unidad o Nexo, incluido el tuyo. Esto es estratégicamente útil para activar efectos de \"Daño recibido\" y para aprovechar la reliquia <b>La Hebilla del Berserker</b> para aumentar las estadísticas de tus unidades.</p>\n\n<h3> Identidad de Lanzador de Hechizos</h3>\n<p>A pesar de su apariencia de luchador, Warwick funciona mejor como un hechicero. Su pasiva potencia a toda la mesa cada vez que inflige daño mediante hechizos o habilidades. Prioriza el uso de los hechizos generados de Cacería de sangre para dañar a los enemigos o al Nexo. Las builds de \"Hechizo de Campeón\" son una forma muy poderosa de jugar: conseguir Cacería de sangre a menudo a través del <b>El Plan de Contingencia del Gran General</b> o <b>Espíritu Resonante</b> permite un poderoso estilo de juego de control. Actualmente Warwick tiene un bug donde su efecto de jugar le permite golpear a sus propios aliados, lo que tiene algunos usos de nicho como activar un efecto de rally o activar <b>bromas espectrales</b>.</p>"
   },
   {
+    "id": "XERATH",
+    "nombre": "XERATH",
+    "titulo": "",
+    "estilo": "COMBO.webp",
+    "dificultad": "MEDIO.webp",
+    "consejos": ""
+  },
+  {
     "id": "YASUO",
     "nombre": "YASUO",
     "titulo": "El Imperdonable",
