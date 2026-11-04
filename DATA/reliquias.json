@@ -390,6 +390,12 @@
     "recomendados": "AHRI_FLOR_ESPIRITUAL, LA_ARREBATADORA"
   },
   {
+    "id": "ESQUIRLA-RESONANTE",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Esquirla_Resonante.webp",
+    "rareza": "epica",
+    "recomendados": ""
+  },
+  {
     "id": "EXPERIMENTOS-CRUELES",
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Experimentos_Crueles.webp",
     "rareza": "epica",
@@ -826,6 +832,12 @@
     "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Sujetaespadas_Laurent.webp",
     "rareza": "rara",
     "recomendados": "AATROX, ANNIE, ASHE, CAITLYN, EKKO, EL_REY_PORO, GAREN, GNAR, GWEN, HEIMERDINGER, JAX, KAISA, LUX_ILUMINADA, MISS_FORTUNE, NEEKO, NORRA, PYKE, SAMIRA, SORAKA, TALIYAH, VAYNE, VEIGAR, VEX, VIEGO, ZOE"
+  },
+  {
+    "id": "SUBDITO-DEL-SOBERANO",
+    "url": "https://cdn.jsdelivr.net/gh/SirDiegoADM/LOR_IMAGENES@main/RELIQUIAS/Súbdito_del_Soberano.webp",
+    "rareza": "epica",
+    "recomendados": ""
   },
   {
     "id": "TECNICA-SECRETA",
