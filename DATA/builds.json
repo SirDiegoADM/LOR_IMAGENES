@@ -2374,6 +2374,13 @@
   },
   {
     "campeon": "AURELION_SOL",
+    "r1": "AMIGUIS-DEL-PORTAL",
+    "r2": "LA-MANO-DEL-DESTINO",
+    "r3": "BARATIJA-DEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "AURELION_SOL",
     "r1": "GUANTELETES-ESTELARES",
     "r2": "SINFONIA-DE-LA-TEJEHECHIZOS",
     "r3": "LA-BESTIA-INTERIOR",
@@ -21074,6 +21081,34 @@
     "r1": "POLVORA-CARGADA",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "XERATH",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": ""
+  },
+  {
+    "campeon": "XERATH",
+    "r1": "DADOS-TRUCADOS",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "FORTUNA-ENCONTRADA",
+    "r4": ""
+  },
+  {
+    "campeon": "XERATH",
+    "r1": "FORTUNA-ENCONTRADA",
+    "r2": "TOMOS-OCULTOS",
+    "r3": "PROTECTORES-DE-DEMACIA",
+    "r4": ""
+  },
+  {
+    "campeon": "XERATH",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
+    "r2": "FORTUNA-ENCONTRADA",
+    "r3": "TOMOS-OCULTOS",
     "r4": ""
   },
   {
