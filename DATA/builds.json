@@ -14190,6 +14190,13 @@
   },
   {
     "campeon": "NIDALEE",
+    "r1": "CAPARAZON-DEL-VACIO",
+    "r2": "ESPADA-DEL-ACECHADOR",
+    "r3": "ANGEL-GUARDIAN",
+    "r4": ""
+  },
+  {
+    "campeon": "NIDALEE",
     "r1": "PAQUETE-COMPLETO",
     "r2": "ANGEL-GUARDIAN",
     "r3": "CAPITULO-PERDIDO",
@@ -17893,6 +17900,13 @@
   },
   {
     "campeon": "THRESH",
+    "r1": "APRENDIZ-DE-LAS-SOMBRAS",
+    "r2": "ORDEN-DE-EXPLORACION",
+    "r3": "MARCA-DEL-SUCUBO",
+    "r4": ""
+  },
+  {
+    "campeon": "THRESH",
     "r1": "LINTERNA-DE-ALMAS",
     "r2": "ANGEL-GUARDIAN",
     "r3": "GEMA-ESTELAR",
@@ -19188,6 +19202,13 @@
   },
   {
     "campeon": "VEIGAR",
+    "r1": "DUPLICADOR-QUIMTECH",
+    "r2": "MARCA-DE-LOS-KINDRED",
+    "r3": "TUMBA-CONGELADA",
+    "r4": ""
+  },
+  {
+    "campeon": "VEIGAR",
     "r1": "LA-BESTIA-INTERIOR",
     "r2": "ARMOTAS",
     "r3": "MAZO-ACUMULADO",
@@ -19310,6 +19331,13 @@
     "r1": "SUJETAESPADAS-LAURENT",
     "r2": "DUPLICADOR-QUIMTECH",
     "r3": "VELO-DE-LA-BANSHEE",
+    "r4": ""
+  },
+  {
+    "campeon": "VEX",
+    "r1": "TOMOS-OCULTOS",
+    "r2": "HACHA-CORTAMIEDOS",
+    "r3": "DESESPERACION-ABSOLUTA",
     "r4": ""
   },
   {
@@ -21081,6 +21109,27 @@
     "r1": "POLVORA-CARGADA",
     "r2": "FUERZA-DEL-VIENTO",
     "r3": "ESPIRITU-RESONANTE",
+    "r4": ""
+  },
+  {
+    "campeon": "XERATH",
+    "r1": "ESCUDO-NEGRO",
+    "r2": "ESPIRITU-RESONANTE",
+    "r3": "TUMBA-CONGELADA",
+    "r4": ""
+  },
+  {
+    "campeon": "XERATH",
+    "r1": "VARA-IMPERIAL-DE-AZIR",
+    "r2": "ELEGIDO-POR-LAS-ESTRELLAS",
+    "r3": "TOMOS-OCULTOS",
+    "r4": ""
+  },
+  {
+    "campeon": "XERATH",
+    "r1": "TOMOS-OCULTOS",
+    "r2": "CAPARAZON-DEL-VACIO",
+    "r3": "FORTUNA-ENCONTRADA",
     "r4": ""
   },
   {
